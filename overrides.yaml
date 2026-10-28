@@ -1,0 +1,17 @@
+# 手动修正，优先级高于 AI 和评分。可以直接在 GitHub 网页或手机上编辑。
+#
+# 可用字段：
+#   category: 一级/二级       覆盖 AI 分类，必须在 config/taxonomy.yaml 里
+#   form: CLI工具             覆盖形态
+#   summary: "..."            覆盖一句话简介
+#   status: 待看|关注中|已试用|推荐|弃用
+#   note: "..."               你的笔记
+#   pin: true                 不管分数多少都收录
+#   hide: true                不收录
+#   similar: [owner/repo]     相似项目
+#
+# 示例：
+# astral-sh/uv:
+#   status: 推荐
+#   note: "替代 pip + venv，快很多"
+#   similar: [pypa/pip]

@@ -1,0 +1,34 @@
+collect:
+  # GitHub Trending 页面，没有官方 API，失败时会跳过
+  trending_periods: [daily, weekly]
+  # Search API：最近 N 天新建、star 超过阈值的项目
+  search_new_days: 30
+  search_new_min_stars: 300
+  search_new_limit: 50
+  # 已收录项目在最后一次上榜后继续追踪 star 的天数
+  keep_tracking_days: 45
+
+ai:
+  # 默认用 Opus 5.5；想省钱可改成 claude-haiku-5-5
+  model: claude-opus-5-5
+  effort: low
+  # 单次运行最多分类多少个新项目，控制成本
+  max_per_run: 60
+  # 发给模型的 README 最大字符数
+  readme_chars: 12000
+
+score:
+  weights:
+    velocity: 0.35
+    persistence: 0.20
+    health: 0.25
+    practical: 0.20
+  # 7 天增长达到这个数视为满分
+  velocity_full: 20000
+  # 收录门槛
+  min_score: 55
+
+filter:
+  min_readme_chars: 200
+  # 名字/描述命中这些词的项目强制归到「学习资源」
+  resource_keywords: [awesome, interview, tutorial, roadmap, cheatsheet, 面试, 教程, 学习路线]

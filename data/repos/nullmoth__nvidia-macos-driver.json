@@ -1,0 +1,47 @@
+{
+  "archived": false,
+  "contributors": 38,
+  "created_at": "2026-10-07",
+  "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 378,
+  "full_name": "nullmoth/nvidia-macos-driver",
+  "homepage": "https://nullmothsystems.com",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-10-29",
+  "latest_release": "v2.6.4",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 10051,
+  "readme_hash": "acd8ea4fe436",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1232,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 69.2,
+    "trending_days_30": 0,
+    "velocity": 0.72
+  },
+  "stars": {
+    "2026-10-29": 3872
+  },
+  "topics": [
+    "kext",
+    "macos",
+    "metal",
+    "nvidia",
+    "opencore",
+    "vulkan"
+  ],
+  "trending": {},
+  "url": "https://github.com/nullmoth/nvidia-macos-driver"
+}

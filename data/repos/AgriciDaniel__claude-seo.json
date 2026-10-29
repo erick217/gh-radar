@@ -1,0 +1,52 @@
+{
+  "archived": false,
+  "contributors": 30,
+  "created_at": "2026-02-07",
+  "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 3188,
+  "full_name": "AgriciDaniel/claude-seo",
+  "homepage": "skool.com/ai-marketing-hub-pro",
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-10-29",
+  "latest_release": "v2.5.0",
+  "license": "MIT",
+  "pushed_at": "2026-10-22",
+  "readme_chars": 22858,
+  "readme_hash": "6491e137c428",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3516,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 74.3,
+    "trending_days_30": 1,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-10-29": 23747
+  },
+  "topics": [
+    "ai",
+    "ai-seo",
+    "claude-code",
+    "claude-code-skill",
+    "marketing-automation",
+    "open-source",
+    "seo"
+  ],
+  "trending": {
+    "2026-10-29": {
+      "weekly": 3516
+    }
+  },
+  "url": "https://github.com/AgriciDaniel/claude-seo"
+}

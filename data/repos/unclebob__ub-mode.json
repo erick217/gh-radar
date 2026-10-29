@@ -1,0 +1,42 @@
+{
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-25",
+  "description": "",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 238,
+  "full_name": "unclebob/ub-mode",
+  "homepage": null,
+  "install_hint": false,
+  "language": null,
+  "last_seen": "2026-10-29",
+  "latest_release": null,
+  "license": null,
+  "pushed_at": "2026-10-25",
+  "readme_chars": 2181,
+  "readme_hash": "5822b5793250",
+  "score": {
+    "excluded": null,
+    "flags": [
+      "新建且仅 1 名贡献者"
+    ],
+    "gain7": 4295,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 35.6,
+    "trending_days_30": 0,
+    "velocity": 0.84
+  },
+  "stars": {
+    "2026-10-29": 4295
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/unclebob/ub-mode"
+}

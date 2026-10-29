@@ -1,0 +1,57 @@
+{
+  "archived": false,
+  "contributors": 177,
+  "created_at": "2026-08-11",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 1080,
+  "full_name": "milind-soni/OpenMausBot",
+  "homepage": "https://www.openmausbot.com/",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.1.132",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 32241,
+  "readme_hash": "6cfb019b67ae",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3570,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 74.3,
+    "trending_days_30": 1,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-10-29": 7103
+  },
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron",
+    "expo",
+    "grok",
+    "grok-bot",
+    "grok-bot-alternative",
+    "self-hosted",
+    "typescript"
+  ],
+  "trending": {
+    "2026-10-29": {
+      "daily": 1190
+    }
+  },
+  "url": "https://github.com/milind-soni/OpenMausBot"
+}

@@ -1,0 +1,45 @@
+{
+  "archived": false,
+  "contributors": 4,
+  "created_at": "2026-10-07",
+  "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 402,
+  "full_name": "Fei2411/DS-Bot",
+  "homepage": null,
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.2.3",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 9107,
+  "readme_hash": "441f75753b57",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1427,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 69.7,
+    "trending_days_30": 0,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-10-29": 4485
+  },
+  "topics": [
+    "bot",
+    "deepseek-harness",
+    "dsh-plugin",
+    "multi-agent"
+  ],
+  "trending": {},
+  "url": "https://github.com/Fei2411/DS-Bot"
+}

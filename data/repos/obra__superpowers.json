@@ -1,0 +1,54 @@
+{
+  "archived": false,
+  "contributors": 44,
+  "created_at": "2025-10-09",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 27391,
+  "full_name": "obra/superpowers",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Shell",
+  "last_seen": "2026-10-29",
+  "latest_release": "v7.0.1",
+  "license": "MIT",
+  "pushed_at": "2026-10-23",
+  "readme_chars": 14835,
+  "readme_hash": "31271a91514f",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 4655,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.6,
+    "total": 71.2,
+    "trending_days_30": 1,
+    "velocity": 0.85
+  },
+  "stars": {
+    "2026-10-29": 308007
+  },
+  "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "subagent-driven-development",
+    "superpowers"
+  ],
+  "trending": {
+    "2026-10-29": {
+      "daily": 1037,
+      "weekly": 4655
+    }
+  },
+  "url": "https://github.com/obra/superpowers"
+}

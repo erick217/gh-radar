@@ -1,0 +1,44 @@
+{
+  "archived": false,
+  "contributors": 2,
+  "created_at": "2026-07-10",
+  "description": "A collection of agent skills that help you build great interfaces.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 347,
+  "full_name": "jakubkrehel/skills",
+  "homepage": "https://jakub.kr/skills",
+  "install_hint": true,
+  "language": "Markdown",
+  "last_seen": "2026-10-29",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-25",
+  "readme_chars": 3633,
+  "readme_hash": "bad343c9484d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 776,
+    "gain7_source": "trending-weekly",
+    "health": 0.55,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 57.7,
+    "trending_days_30": 1,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-10-29": 9108
+  },
+  "topics": [],
+  "trending": {
+    "2026-10-29": {
+      "weekly": 776
+    }
+  },
+  "url": "https://github.com/jakubkrehel/skills"
+}

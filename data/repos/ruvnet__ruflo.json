@@ -1,0 +1,65 @@
+{
+  "archived": false,
+  "contributors": 82,
+  "created_at": "2025-06-02",
+  "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 9395,
+  "full_name": "ruvnet/ruflo",
+  "homepage": "https://Cognitum.One",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-10-29",
+  "latest_release": "v3.63.8",
+  "license": "MIT",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 34949,
+  "readme_hash": "3fc68c9e9150",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1930,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 72.1,
+    "trending_days_30": 1,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-10-29": 80070
+  },
+  "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agents",
+    "ai-agents",
+    "ai-assistant",
+    "ai-skills",
+    "autonomous-agents",
+    "claude",
+    "codex",
+    "dsh-plugin",
+    "harness",
+    "mcp-server",
+    "multi-agent",
+    "multi-agent-systems",
+    "npm",
+    "skills",
+    "swarm",
+    "swarm-intelligence",
+    "typescript"
+  ],
+  "trending": {
+    "2026-10-29": {
+      "weekly": 1930
+    }
+  },
+  "url": "https://github.com/ruvnet/ruflo"
+}

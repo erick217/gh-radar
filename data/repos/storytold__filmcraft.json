@@ -1,0 +1,47 @@
+{
+  "archived": false,
+  "contributors": 136,
+  "created_at": "2026-09-30",
+  "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 6966,
+  "full_name": "storytold/filmcraft",
+  "homepage": "https://getartcraft.com/apps/filmcraft",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.14.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 36741,
+  "readme_hash": "6331ddcbfd94",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 4055,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 73.4,
+    "trending_days_30": 0,
+    "velocity": 0.84
+  },
+  "stars": {
+    "2026-10-29": 16799
+  },
+  "topics": [
+    "art",
+    "rust",
+    "video",
+    "video-editing",
+    "video-editor",
+    "video-processing"
+  ],
+  "trending": {},
+  "url": "https://github.com/storytold/filmcraft"
+}

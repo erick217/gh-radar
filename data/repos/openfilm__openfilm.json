@@ -1,0 +1,49 @@
+{
+  "archived": false,
+  "contributors": 25,
+  "created_at": "2026-10-04",
+  "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 329,
+  "full_name": "openfilm/openfilm",
+  "homepage": "https://openfilm.dev",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.2.6",
+  "license": "MIT",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 8055,
+  "readme_hash": "cebf1542e399",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 984,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 68.4,
+    "trending_days_30": 0,
+    "velocity": 0.7
+  },
+  "stars": {
+    "2026-10-29": 3514
+  },
+  "topics": [
+    "ai-video",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "html",
+    "motion-graphics",
+    "video-agent",
+    "video-editor"
+  ],
+  "trending": {},
+  "url": "https://github.com/openfilm/openfilm"
+}

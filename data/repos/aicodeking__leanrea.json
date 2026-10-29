@@ -1,0 +1,40 @@
+{
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-17",
+  "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 541,
+  "full_name": "aicodeking/leanrea",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-10-29",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-19",
+  "readme_chars": 6089,
+  "readme_hash": "b3f047841e85",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2058,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 56.0,
+    "trending_days_30": 0,
+    "velocity": 0.77
+  },
+  "stars": {
+    "2026-10-29": 3528
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/aicodeking/leanrea"
+}

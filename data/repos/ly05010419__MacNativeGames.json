@@ -1,0 +1,53 @@
+{
+  "archived": false,
+  "contributors": 93,
+  "created_at": "2026-10-17",
+  "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 935,
+  "full_name": "ly05010419/MacNativeGames",
+  "homepage": null,
+  "install_hint": false,
+  "language": "C",
+  "last_seen": "2026-10-29",
+  "latest_release": "v2026.10.25",
+  "license": "MIT",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 17076,
+  "readme_hash": "4ab1eb3d7dd7",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3730,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 69.1,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-10-29": 6394
+  },
+  "topics": [
+    "apple-silicon",
+    "arm64",
+    "breath-of-the-wild",
+    "game-port",
+    "ios",
+    "ipados",
+    "macos",
+    "metal",
+    "native-port",
+    "tears-of-the-kingdom",
+    "ultrawide",
+    "zelda"
+  ],
+  "trending": {},
+  "url": "https://github.com/ly05010419/MacNativeGames"
+}

@@ -1,0 +1,40 @@
+{
+  "archived": false,
+  "contributors": 9,
+  "created_at": "2026-10-18",
+  "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 1251,
+  "full_name": "Zagitta/gpu-unlock",
+  "homepage": null,
+  "install_hint": true,
+  "language": "C",
+  "last_seen": "2026-10-29",
+  "latest_release": "unraid",
+  "license": null,
+  "pushed_at": "2026-10-29",
+  "readme_chars": 13041,
+  "readme_hash": "30b2d94eea33",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 8146,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 71.8,
+    "trending_days_30": 0,
+    "velocity": 0.91
+  },
+  "stars": {
+    "2026-10-29": 12801
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Zagitta/gpu-unlock"
+}

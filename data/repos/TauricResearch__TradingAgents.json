@@ -1,0 +1,50 @@
+{
+  "archived": false,
+  "contributors": 24,
+  "created_at": "2024-12-28",
+  "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 22597,
+  "full_name": "TauricResearch/TradingAgents",
+  "homepage": "https://arxiv.org/pdf/2412.20138",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.7.1",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-27",
+  "readme_chars": 27558,
+  "readme_hash": "fcb379a289f1",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 5322,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 75.7,
+    "trending_days_30": 1,
+    "velocity": 0.87
+  },
+  "stars": {
+    "2026-10-29": 118147
+  },
+  "topics": [
+    "agent",
+    "finance",
+    "llm",
+    "multiagent",
+    "trading"
+  ],
+  "trending": {
+    "2026-10-29": {
+      "weekly": 5322
+    }
+  },
+  "url": "https://github.com/TauricResearch/TradingAgents"
+}

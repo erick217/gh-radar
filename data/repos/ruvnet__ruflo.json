@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包并支持 npx 初始化，提供 MCP 服务、插件和文档，普通开发者可直接安装使用。",
+    "summary": "面向 Claude Code/Codex 的多智能体编排与记忆框架",
+    "tags": [
+      "多智能体",
+      "Agent Harness",
+      "MCP",
+      "Claude Code",
+      "工作流编排"
+    ]
+  },
   "archived": false,
   "contributors": 82,
   "created_at": "2025-06-02",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 72.1,
+    "practical": 1.0,
+    "total": 76.1,
     "trending_days_30": 1,
     "velocity": 0.76
   },

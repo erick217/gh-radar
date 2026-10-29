@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "多媒体/图像",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.18.0 发布版本，提供下载与清晰的构建运行说明，可实际用于矢量绘图。",
+    "summary": "纯 Rust 编写的开源矢量绘图软件，支持桌面与浏览器。",
+    "tags": [
+      "矢量图形",
+      "SVG编辑器",
+      "Rust",
+      "桌面应用",
+      "开源"
+    ]
+  },
   "archived": false,
   "contributors": 203,
   "created_at": "2026-09-30",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 71.9,
+    "practical": 1.0,
+    "total": 75.9,
     "trending_days_30": 0,
     "velocity": 0.8
   },

@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "框架",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "属于论文研究代码，完整使用依赖 Vertex AI 凭据及 JobBench、LAB、WorkBuddy 等基准环境，主要面向实验复现。",
+    "summary": "递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置",
+    "tags": [
+      "智能体",
+      "harness",
+      "递归优化",
+      "基准测试",
+      "Python"
+    ]
+  },
   "archived": false,
   "contributors": 2,
   "created_at": "2026-10-06",
@@ -20,19 +37,19 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6459,
+    "gain7": 6460,
     "gain7_source": "age",
     "health": 0.55,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 63.8,
+    "practical": 0.6,
+    "total": 59.8,
     "trending_days_30": 0,
     "velocity": 0.89
   },
   "stars": {
-    "2026-10-29": 21224
+    "2026-10-29": 21225
   },
   "topics": [],
   "trending": {},

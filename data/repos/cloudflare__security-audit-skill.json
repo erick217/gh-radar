@@ -1,4 +1,20 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "安全/安全工具",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Skills CLI 安装方式、完整六阶段工作流及零依赖校验脚本，具备支持工具调用的编码代理即可上手。",
+    "summary": "将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。",
+    "tags": [
+      "安全审计",
+      "漏洞挖掘",
+      "AI Agent",
+      "代码审计"
+    ]
+  },
   "archived": false,
   "contributors": 4,
   "created_at": "2026-06-18",
@@ -26,13 +42,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 67.1,
+    "practical": 1.0,
+    "total": 71.1,
     "trending_days_30": 1,
     "velocity": 0.98
   },
   "stars": {
-    "2026-10-29": 52384
+    "2026-10-29": 52390
   },
   "topics": [],
   "trending": {

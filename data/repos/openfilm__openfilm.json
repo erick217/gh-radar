@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.2.6 发布版，提供 npx 安装命令、桌面应用和完整使用文档，可直接上手制作与编辑视频。",
+    "summary": "把编码代理变成视频代理，并用浏览器编辑器修改成片。",
+    "tags": [
+      "AI视频",
+      "视频编辑",
+      "编码代理",
+      "CLI",
+      "开源"
+    ]
+  },
   "archived": false,
   "contributors": 25,
   "created_at": "2026-10-04",
@@ -20,19 +37,19 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 986,
+    "gain7": 987,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 68.4,
+    "practical": 1.0,
+    "total": 72.4,
     "trending_days_30": 0,
     "velocity": 0.7
   },
   "stars": {
-    "2026-10-29": 3523
+    "2026-10-29": 3525
   },
   "topics": [
     "ai-video",

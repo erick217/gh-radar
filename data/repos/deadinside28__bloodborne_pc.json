@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "其他/其他",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 0.7 版本并提供 Linux AppImage 与 Windows 启动器，文档说明可启动、读档和游玩，但需自备游戏 dump。",
+    "summary": "让《血源诅咒》1.09 在 Linux/Windows 原生运行的移植项目",
+    "tags": [
+      "游戏移植",
+      "Vulkan",
+      "血源诅咒",
+      "Linux",
+      "Windows"
+    ]
+  },
   "archived": false,
   "contributors": 1,
   "created_at": "2026-10-01",
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 56.7,
+    "practical": 0.8,
+    "total": 60.7,
     "trending_days_30": 0,
     "velocity": 0.69
   },
   "stars": {
-    "2026-10-29": 3737
+    "2026-10-29": 3736
   },
   "topics": [],
   "trending": {},

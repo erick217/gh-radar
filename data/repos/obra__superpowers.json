@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供多款编码智能体的插件安装命令和正式发布版本，文档完整，可直接安装使用。",
+    "summary": "为编码智能体提供可组合技能与开发流程的框架",
+    "tags": [
+      "AI编程",
+      "Agent技能",
+      "软件开发方法论",
+      "TDD",
+      "子代理"
+    ]
+  },
   "archived": false,
   "contributors": 44,
   "created_at": "2025-10-09",
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.6,
-    "total": 71.2,
+    "practical": 0.8,
+    "total": 75.2,
     "trending_days_30": 1,
     "velocity": 0.85
   },
   "stars": {
-    "2026-10-29": 308040
+    "2026-10-29": 308042
   },
   "topics": [
     "ai",

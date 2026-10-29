@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "可通过 npx skills 或 Claude Code/Codex 插件安装，依赖 Node 22 与本地浏览器，文档完整且无需 API Key。",
+    "summary": "为编码 Agent 提供网页设计品味、配图和浏览器自检的技能",
+    "tags": [
+      "Agent Skill",
+      "网页设计",
+      "前端",
+      "浏览器检查",
+      "AI编程"
+    ]
+  },
   "archived": false,
   "contributors": 24,
   "created_at": "2026-02-19",
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 74.7,
+    "practical": 1.0,
+    "total": 78.7,
     "trending_days_30": 1,
     "velocity": 0.84
   },
   "stars": {
-    "2026-10-29": 105149
+    "2026-10-29": 105155
   },
   "topics": [
     "agent-skills",

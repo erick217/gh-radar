@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 macOS、Windows、Linux 安装包及 Docker/Nix 部署方式和上手文档，虽为开发预览但可直接安装运行。",
+    "summary": "本地优先的桌面 AI 代理工作区，管理多代理任务队列与协作",
+    "tags": [
+      "AI代理",
+      "桌面应用",
+      "本地优先",
+      "多代理协作",
+      "Electron"
+    ]
+  },
   "archived": false,
   "contributors": 38,
   "created_at": "2026-08-12",
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 72.5,
+    "practical": 1.0,
+    "total": 76.5,
     "trending_days_30": 1,
     "velocity": 0.77
   },
   "stars": {
-    "2026-10-29": 3634
+    "2026-10-29": 3636
   },
   "topics": [
     "ai-agents",

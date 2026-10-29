@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供发布版本、构建脚本和完整安装文档，可按说明用自有游戏文件构建并运行，但需正版游戏与密钥且构建耗时。",
+    "summary": "将Switch游戏原生移植到Apple芯片的技术项目",
+    "tags": [
+      "Switch移植",
+      "Apple Silicon",
+      "Metal",
+      "ARM64",
+      "原生移植"
+    ]
+  },
   "archived": false,
   "contributors": 93,
   "created_at": "2026-10-17",
@@ -20,19 +37,19 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3732,
+    "gain7": 3733,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 69.1,
+    "practical": 0.8,
+    "total": 73.1,
     "trending_days_30": 0,
     "velocity": 0.83
   },
   "stars": {
-    "2026-10-29": 6398
+    "2026-10-29": 6399
   },
   "topics": [
     "apple-silicon",

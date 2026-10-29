@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "其他/其他",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "多数应用提供在线 Demo 和源码，可按应用目录安装依赖并在本地运行。",
+    "summary": "开源重建 Office、Photoshop、Slack 等商业软件的多应用合集",
+    "tags": [
+      "开源替代",
+      "Web应用",
+      "办公套件",
+      "多应用合集",
+      "JavaScript"
+    ]
+  },
   "archived": false,
   "contributors": 3,
   "created_at": "2026-10-13",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 63.8,
+    "practical": 1.0,
+    "total": 67.8,
     "trending_days_30": 0,
     "velocity": 0.78
   },

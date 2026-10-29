@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 6078,
+  "forks": 6080,
   "full_name": "HKUDS/DeepTutor",
   "homepage": "http://arxiv.org/abs/2604.26962",
   "install_hint": true,
@@ -49,7 +49,7 @@
     "velocity": 0.87
   },
   "stars": {
-    "2026-10-29": 49244
+    "2026-10-29": 49253
   },
   "topics": [
     "ai-agents",

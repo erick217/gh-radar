@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.15.0，提供桌面应用和 CLI，支持多平台且有完整上手文档。",
+    "summary": "纯 Rust 编写的开源跨平台 PDF 阅读与编辑器",
+    "tags": [
+      "PDF",
+      "Rust",
+      "阅读器",
+      "编辑器",
+      "跨平台"
+    ]
+  },
   "archived": false,
   "contributors": 323,
   "created_at": "2026-09-30",
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 73.7,
+    "practical": 1.0,
+    "total": 77.7,
     "trending_days_30": 0,
     "velocity": 0.85
   },
   "stars": {
-    "2026-10-29": 18569
+    "2026-10-29": 18570
   },
   "topics": [
     "document-processing",

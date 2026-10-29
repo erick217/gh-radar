@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.13.0 发布版和明确的构建运行方式，支持 XLSX 读写及桌面、Web 运行，普通开发者可直接试用。",
+    "summary": "纯 Rust 实现的开源电子表格应用，支持 XLSX 与桌面/网页运行。",
+    "tags": [
+      "电子表格",
+      "Rust",
+      "XLSX",
+      "桌面应用",
+      "MCP"
+    ]
+  },
   "archived": false,
   "contributors": 126,
   "created_at": "2026-10-07",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 67.1,
+    "practical": 0.8,
+    "total": 71.1,
     "trending_days_30": 0,
     "velocity": 0.78
   },

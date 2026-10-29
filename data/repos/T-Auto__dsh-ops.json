@@ -1,4 +1,20 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npm 安装、插件市场安装与明确版本兼容说明，已有 v0.4.4 发布，可直接在 DSH 中使用。",
+    "summary": "DSH 底层操作插件，降低 Token 消耗与任务耗时。",
+    "tags": [
+      "DSH插件",
+      "Token优化",
+      "AI Agent",
+      "工具集成"
+    ]
+  },
   "archived": false,
   "contributors": 28,
   "created_at": "2026-10-08",
@@ -26,8 +42,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 70.0,
+    "practical": 1.0,
+    "total": 74.0,
     "trending_days_30": 0,
     "velocity": 0.74
   },

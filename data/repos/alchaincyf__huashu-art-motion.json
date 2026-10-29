@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装方式、可运行渲染脚本和多个示范片，开发者可按文档直接试用。",
+    "summary": "面向编码 Agent 的艺术动画 Skill，用代码生成多风格动画。",
+    "tags": [
+      "艺术动画",
+      "Agent Skill",
+      "代码动画",
+      "视频生成",
+      "风格配方"
+    ]
+  },
   "archived": false,
   "contributors": 1,
   "created_at": "2026-10-06",
@@ -20,19 +37,19 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1747,
+    "gain7": 1748,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 62.9,
+    "practical": 1.0,
+    "total": 66.9,
     "trending_days_30": 0,
     "velocity": 0.75
   },
   "stars": {
-    "2026-10-29": 5741
+    "2026-10-29": 5742
   },
   "topics": [],
   "trending": {},

@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供正式 Release 包、install.sh 安装脚本和 1401 图形安装应用，文档覆盖安装、配置与卸载，目标用户可直接部署使用。",
+    "summary": "为 macOS 提供 NVIDIA GeForce 显卡的 Metal 驱动",
+    "tags": [
+      "macOS",
+      "NVIDIA",
+      "Metal驱动",
+      "OpenCore",
+      "Rust"
+    ]
+  },
   "archived": false,
   "contributors": 38,
   "created_at": "2026-10-07",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 69.2,
+    "practical": 1.0,
+    "total": 73.2,
     "trending_days_30": 0,
     "velocity": 0.72
   },

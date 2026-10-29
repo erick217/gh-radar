@@ -12,16 +12,16 @@
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 未分类/待 AI 处理 |  | Python | 44.8k | +26.1k | 79 |  |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。 | 安全/安全工具 | CLI工具 | Python | 44.8k | +26.1k | 83 |  |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | 用纯 Rust 编写的开源照片编辑器，支持图层、蒙版与 PSD。 | 多媒体/图像 | 桌面应用 | Rust | 74.7k | +18.0k | 83 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | 未分类/待 AI 处理 |  | JavaScript | 52.4k | +16.0k | 67 |  |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepInfer: High-performance, large-scale inference framework for DeepSeek models | 未分类/待 AI 处理 |  | Python | 24.2k | +13.0k | 66 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 52.4k | +16.0k | 71 |  |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | AI/模型推理与部署 | 框架 | Python | 24.2k | +13.0k | 62 |  |
 | [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput | 未分类/待 AI 处理 |  | C | 12.8k | +8.2k | 72 |  |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | 未分类/待 AI 处理 |  | JavaScript | 22.5k | +7.5k | 76 |  |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | AI/Agent | 其他 | JavaScript | 22.5k | +7.5k | 80 |  |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 94.5k | +7.3k | 81 |  |
-| [google-research/harness2](https://github.com/google-research/harness2) |  | 未分类/待 AI 处理 |  | Python | 21.2k | +6.5k | 64 |  |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. | 未分类/待 AI 处理 |  | Kotlin | 7.7k | +6.0k | 75 |  |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 49.2k | +5.8k | 80 |  |
+| [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | AI/Agent | 框架 | Python | 21.2k | +6.5k | 60 |  |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 参照 tvOS 设计的无广告 Android TV 桌面，可接管国产电视主页。 | 移动与桌面/桌面应用 | 桌面应用 | Kotlin | 7.7k | +6.0k | 79 |  |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 49.3k | +5.8k | 80 |  |
 
 <!-- radar:end -->
 

@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 APK、webOS/Tizen 构建与安装脚本，并有详细部署说明，开发者可按步骤直接安装使用。",
+    "summary": "为 Google TV、LG 和三星电视提供无广告的快速主屏幕启动器。",
+    "tags": [
+      "Google TV",
+      "启动器",
+      "无广告",
+      "智能电视",
+      "开源"
+    ]
+  },
   "archived": false,
   "contributors": 87,
   "created_at": "2026-10-19",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 73.1,
+    "practical": 1.0,
+    "total": 77.1,
     "trending_days_30": 0,
     "velocity": 0.83
   },

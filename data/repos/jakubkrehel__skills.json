@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装命令和 Claude Code 插件安装方式，技能文档完整，可直接用于界面审查与构建。",
+    "summary": "面向 UI 设计的 AI 智能体技能合集，覆盖排版、配色、无障碍与布局。",
+    "tags": [
+      "Agent Skills",
+      "UI设计",
+      "无障碍",
+      "排版",
+      "Claude Code"
+    ]
+  },
   "archived": false,
   "contributors": 2,
   "created_at": "2026-07-10",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 57.7,
+    "practical": 1.0,
+    "total": 61.7,
     "trending_days_30": 1,
     "velocity": 0.67
   },

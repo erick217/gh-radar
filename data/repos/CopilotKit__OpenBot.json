@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供Docker镜像与完整快速启动脚本，普通开发者可克隆部署运行，虽为Beta模板但已有可运行产物和上手文档。",
+    "summary": "可自托管的开源AI同事平台，为每个智能体分配独立电脑并审计其操作。",
+    "tags": [
+      "AI Agent",
+      "AG-UI",
+      "浏览器自动化",
+      "自托管",
+      "操作审计"
+    ]
+  },
   "archived": false,
   "contributors": 46,
   "created_at": "2026-08-17",
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 68.7,
+    "practical": 1.0,
+    "total": 72.7,
     "trending_days_30": 1,
     "velocity": 0.66
   },
   "stars": {
-    "2026-10-29": 7826
+    "2026-10-29": 7829
   },
   "topics": [
     "ag-ui",

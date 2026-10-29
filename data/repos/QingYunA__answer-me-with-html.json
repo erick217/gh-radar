@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 Agent 技能与插件，内置 CLI，有发布版本和完整安装使用文档，普通开发者可直接上手。",
+    "summary": "让 AI Agent 用一页可读 HTML 回答复杂问题，自带 CLI 渲染。",
+    "tags": [
+      "Agent Skill",
+      "HTML",
+      "文档生成",
+      "Claude Code",
+      "可视化"
+    ]
+  },
   "archived": false,
   "contributors": 19,
   "created_at": "2026-10-02",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 69.1,
+    "practical": 1.0,
+    "total": 73.1,
     "trending_days_30": 0,
     "velocity": 0.72
   },

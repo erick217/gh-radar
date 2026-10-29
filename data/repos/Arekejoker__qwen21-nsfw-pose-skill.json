@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "多媒体/图像",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供安装指南、自检脚本、CLI 出图脚本与 ComfyUI 工作流，配好模型后可直接本地运行。",
+    "summary": "Qwen-Image 本地出图技能包，含提示词配方与 136 姿势控制",
+    "tags": [
+      "Qwen-Image",
+      "ComfyUI",
+      "姿势控制",
+      "LoRA",
+      "AI出图"
+    ]
+  },
   "archived": false,
   "contributors": 3,
   "created_at": "2026-10-13",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 66.2,
+    "practical": 0.8,
+    "total": 70.2,
     "trending_days_30": 0,
     "velocity": 0.75
   },

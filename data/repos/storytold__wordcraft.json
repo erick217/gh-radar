@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.12.0 发布版本，提供桌面端和 Web 端运行方式，并支持安装包下载与完整文档编辑功能。",
+    "summary": "用 Rust 编写的开源文字处理器，支持读写 .docx，可跨平台使用",
+    "tags": [
+      "Rust",
+      "文字处理",
+      "docx",
+      "办公软件",
+      "跨平台"
+    ]
+  },
   "archived": false,
   "contributors": 224,
   "created_at": "2026-10-07",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 74.3,
+    "practical": 1.0,
+    "total": 78.3,
     "trending_days_30": 0,
     "velocity": 0.87
   },

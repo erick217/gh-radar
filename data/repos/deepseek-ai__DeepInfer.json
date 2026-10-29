@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/模型推理与部署",
+    "form": "框架",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "仅提供源码构建，依赖 SM100 GPU 或昇腾 950 等专用硬件，且完整服务所需的 KV 缓存与PD分离等组件未包含，普通开发者难以直接上手使用。",
+    "summary": "DeepSeek 大模型高性能离线推理框架",
+    "tags": [
+      "DeepSeek",
+      "推理框架",
+      "大模型推理",
+      "离线推理",
+      "高性能"
+    ]
+  },
   "archived": false,
   "contributors": 4,
   "created_at": "2026-10-16",
@@ -20,19 +37,19 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 13012,
+    "gain7": 13013,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 66.0,
+    "practical": 0.4,
+    "total": 62.0,
     "trending_days_30": 0,
     "velocity": 0.96
   },
   "stars": {
-    "2026-10-29": 24165
+    "2026-10-29": 24167
   },
   "topics": [],
   "trending": {},

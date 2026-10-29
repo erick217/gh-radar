@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "多媒体/音视频",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布多平台签名安装包并提供 Web 构建，README 包含下载、源码运行和快捷键等上手文档，可直接试用。",
+    "summary": "纯 Rust 编写的开源数字音频工作站，支持录音、编辑、混音与插件。",
+    "tags": [
+      "DAW",
+      "数字音频工作站",
+      "音频编辑",
+      "Rust",
+      "混音"
+    ]
+  },
   "archived": false,
   "contributors": 69,
   "created_at": "2026-10-07",
@@ -6,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2406,
+  "forks": 2405,
   "full_name": "storytold/soundcraft",
   "homepage": "https://getartcraft.com/apps/soundcraft",
   "install_hint": false,
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 69.2,
+    "practical": 1.0,
+    "total": 73.2,
     "trending_days_30": 0,
     "velocity": 0.72
   },

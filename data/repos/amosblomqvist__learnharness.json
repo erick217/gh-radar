@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 595,
+  "forks": 596,
   "full_name": "amosblomqvist/learnharness",
   "homepage": "learnharness.ai",
   "install_hint": true,
@@ -20,7 +20,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2058,
+    "gain7": 2062,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -32,7 +32,7 @@
     "velocity": 0.77
   },
   "stars": {
-    "2026-10-29": 3822
+    "2026-10-29": 3830
   },
   "topics": [],
   "trending": {},

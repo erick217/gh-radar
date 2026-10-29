@@ -14,13 +14,13 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.5.10",
   "license": "MIT",
-  "pushed_at": "2026-10-28",
+  "pushed_at": "2026-10-29",
   "readme_chars": 20158,
   "readme_hash": "8671375dec7a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1201,
+    "gain7": 1202,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -32,7 +32,7 @@
     "velocity": 0.72
   },
   "stars": {
-    "2026-10-29": 4632
+    "2026-10-29": 4635
   },
   "topics": [
     "agent-skill",

@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1474,
+  "forks": 1476,
   "full_name": "storytold/figcraft",
   "homepage": "https://getartcraft.com/apps/figcraft",
   "install_hint": false,
@@ -32,7 +32,7 @@
     "velocity": 0.73
   },
   "stars": {
-    "2026-10-29": 3782
+    "2026-10-29": 3784
   },
   "topics": [
     "design",

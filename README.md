@@ -13,15 +13,15 @@
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | 未分类/待 AI 处理 |  | Python | 44.8k | +26.1k | 79 |  |
-| [storytold/photocraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written by scratch in pure Rust | 未分类/待 AI 处理 |  | Rust | 74.7k | +18.0k | 79 |  |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | 用纯 Rust 编写的开源照片编辑器，支持图层、蒙版与 PSD。 | 多媒体/图像 | 桌面应用 | Rust | 74.7k | +18.0k | 83 |  |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | 未分类/待 AI 处理 |  | JavaScript | 52.4k | +16.0k | 67 |  |
 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepInfer: High-performance, large-scale inference framework for DeepSeek models | 未分类/待 AI 处理 |  | Python | 24.2k | +13.0k | 66 |  |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput | 未分类/待 AI 处理 |  | C | 12.8k | +8.1k | 72 |  |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | 未分类/待 AI 处理 |  | JavaScript | 22.4k | +7.5k | 76 |  |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. | 未分类/待 AI 处理 |  | Rust | 94.4k | +7.3k | 77 |  |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput | 未分类/待 AI 处理 |  | C | 12.8k | +8.2k | 72 |  |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | 未分类/待 AI 处理 |  | JavaScript | 22.5k | +7.5k | 76 |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 94.5k | +7.3k | 81 |  |
 | [google-research/harness2](https://github.com/google-research/harness2) |  | 未分类/待 AI 处理 |  | Python | 21.2k | +6.5k | 64 |  |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. | 未分类/待 AI 处理 |  | Kotlin | 7.7k | +6.0k | 75 |  |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 未分类/待 AI 处理 |  | Python | 49.2k | +5.8k | 76 |  |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 49.2k | +5.8k | 80 |  |
 
 <!-- radar:end -->
 

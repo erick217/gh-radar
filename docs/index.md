@@ -7,4 +7,6 @@
 
 ## 分类
 
-- [未分类](categories/unclassified.md)（68）：待 AI 处理 68
+- [AI](categories/ai.md)（3）：AI应用 1、Agent 2
+- [多媒体](categories/media.md)（1）：图像 1
+- [未分类](categories/unclassified.md)（64）：待 AI 处理 64

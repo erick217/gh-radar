@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5315,
+  "forks": 5316,
   "full_name": "storytold/vectorcraft",
   "homepage": "https://getartcraft.com/apps/vectorcraft",
   "install_hint": false,
@@ -32,7 +32,7 @@
     "velocity": 0.8
   },
   "stars": {
-    "2026-10-29": 10974
+    "2026-10-29": 10975
   },
   "topics": [
     "art",

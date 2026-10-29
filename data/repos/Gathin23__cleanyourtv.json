@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5467,
+  "forks": 5473,
   "full_name": "Gathin23/cleanyourtv",
   "homepage": "https://cleanyour.tv",
   "install_hint": true,
@@ -20,7 +20,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 26108,
+    "gain7": 26129,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -32,7 +32,7 @@
     "velocity": 1.0
   },
   "stars": {
-    "2026-10-29": 44757
+    "2026-10-29": 44792
   },
   "topics": [
     "adb",

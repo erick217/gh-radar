@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3137,
+  "forks": 3136,
   "full_name": "storytold/gridcraft",
   "homepage": null,
   "install_hint": false,
@@ -20,7 +20,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2153,
+    "gain7": 2154,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -29,10 +29,10 @@
     "practical": 0.6,
     "total": 67.1,
     "trending_days_30": 0,
-    "velocity": 0.77
+    "velocity": 0.78
   },
   "stars": {
-    "2026-10-29": 6768
+    "2026-10-29": 6771
   },
   "topics": [],
   "trending": {},

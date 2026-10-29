@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 238,
+  "forks": 240,
   "full_name": "unclebob/ub-mode",
   "homepage": null,
   "install_hint": false,
@@ -22,7 +22,7 @@
     "flags": [
       "新建且仅 1 名贡献者"
     ],
-    "gain7": 4300,
+    "gain7": 4322,
     "gain7_source": "age",
     "health": 0.4,
     "included": false,
@@ -31,10 +31,10 @@
     "practical": 0.4,
     "total": 35.6,
     "trending_days_30": 0,
-    "velocity": 0.84
+    "velocity": 0.85
   },
   "stars": {
-    "2026-10-29": 4300
+    "2026-10-29": 4322
   },
   "topics": [],
   "trending": {},

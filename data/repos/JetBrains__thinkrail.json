@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 298,
+  "forks": 300,
   "full_name": "JetBrains/thinkrail",
   "homepage": "https://thinkrail.ai/",
   "install_hint": true,
@@ -32,7 +32,7 @@
     "velocity": 0.82
   },
   "stars": {
-    "2026-10-29": 5698
+    "2026-10-29": 5727
   },
   "topics": [
     "agent",

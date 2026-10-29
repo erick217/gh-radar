@@ -20,7 +20,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 13009,
+    "gain7": 13012,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
@@ -32,7 +32,7 @@
     "velocity": 0.96
   },
   "stars": {
-    "2026-10-29": 24160
+    "2026-10-29": 24165
   },
   "topics": [],
   "trending": {},

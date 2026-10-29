@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3348,
+  "forks": 3351,
   "full_name": "cloudflare/security-audit-skill",
   "homepage": null,
   "install_hint": true,
@@ -32,7 +32,7 @@
     "velocity": 0.98
   },
   "stars": {
-    "2026-10-29": 52354
+    "2026-10-29": 52384
   },
   "topics": [],
   "trending": {

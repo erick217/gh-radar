@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装、可运行的检测 CLI、浏览器扩展和多代理集成文档，已有正式 Release，普通开发者可直接上手使用。",
+    "summary": "为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI",
+    "tags": [
+      "设计审查",
+      "AI slop",
+      "编码代理",
+      "CLI",
+      "前端设计"
+    ]
+  },
   "archived": false,
   "contributors": 61,
   "created_at": "2025-11-16",
@@ -6,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5571,
+  "forks": 5579,
   "full_name": "pbakaus/impeccable",
   "homepage": "https://impeccable.style",
   "install_hint": true,
@@ -26,13 +43,13 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 76.8,
+    "practical": 1.0,
+    "total": 80.8,
     "trending_days_30": 1,
     "velocity": 0.9
   },
   "stars": {
-    "2026-10-29": 94378
+    "2026-10-29": 94453
   },
   "topics": [
     "agent-skills",

@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 329,
+  "forks": 331,
   "full_name": "openfilm/openfilm",
   "homepage": "https://openfilm.dev",
   "install_hint": true,
@@ -20,7 +20,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 984,
+    "gain7": 986,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -32,7 +32,7 @@
     "velocity": 0.7
   },
   "stars": {
-    "2026-10-29": 3515
+    "2026-10-29": 3523
   },
   "topics": [
     "ai-video",

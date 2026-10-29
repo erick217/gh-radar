@@ -6,7 +6,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9199,
+  "forks": 9204,
   "full_name": "thedotmack/claude-mem",
   "homepage": "https://claude-mem.ai",
   "install_hint": true,
@@ -32,7 +32,7 @@
     "velocity": 0.69
   },
   "stars": {
-    "2026-10-29": 104269
+    "2026-10-29": 104297
   },
   "topics": [
     "ai",

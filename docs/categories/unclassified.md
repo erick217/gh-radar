@@ -1,33 +1,29 @@
 # 未分类
 
-[← 返回目录](../index.md) · 共 68 个项目，按分数排序
+[← 返回目录](../index.md) · 共 64 个项目，按分数排序
 
-## 待 AI 处理（68）
+## 待 AI 处理（64）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |  | Python | 44.8k | +26.1k | 79 |  |
-| [storytold/photocraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written by scratch in pure Rust |  | Rust | 74.7k | +18.0k | 79 |  |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |  | Rust | 94.4k | +7.3k | 77 |  |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |  | Python | 49.2k | +5.8k | 76 |  |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework |  | Python | 118.2k | +5.3k | 76 |  |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |  | JavaScript | 22.4k | +7.5k | 76 |  |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. |  | JavaScript | 22.5k | +7.5k | 76 |  |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |  | JavaScript | 105.1k | +3.9k | 75 |  |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. |  | Kotlin | 7.7k | +6.0k | 75 |  |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. |  | Python | 23.7k | +3.5k | 74 |  |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. |  | Python | 23.8k | +3.5k | 74 |  |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | Open-source Grok Bot alternative with a virtual machine that bots can use |  | TypeScript | 7.1k | +3.6k | 74 |  |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |  | Rust | 16.5k | +5.3k | 74 |  |
 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |  | TypeScript | 5.7k | +3.3k | 74 |  |
 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally |  | C | 4.5k | +4.5k | 74 |  |
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |  | Rust | 18.6k | +4.5k | 74 |  |
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust |  | Rust | 16.8k | +4.1k | 73 |  |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |  | Rust | 11.9k | +3.8k | 73 |  |
 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. |  | Java | 5.3k | +3.7k | 73 |  |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |  | Rust | 11.9k | +3.8k | 73 |  |
 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust |  | Rust | 15.0k | +3.6k | 73 |  |
 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |  | TypeScript | 3.6k | +2.1k | 72 |  |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |  | TypeScript | 80.1k | +1.9k | 72 |  |
 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | VectorCraft: An open-source, vector art tool written by scratch in pure Rust |  | Rust | 11.0k | +2.6k | 72 |  |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput |  | C | 12.8k | +8.1k | 72 |  |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput |  | C | 12.8k | +8.2k | 72 |  |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. |  | Shell | 308.0k | +4.7k | 71 |  |
 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Agent harness for learning difficult things. |  | TypeScript | 3.8k | +2.1k | 71 |  |
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2. |  | Swift | 6.0k | +2.0k | 71 |  |
@@ -48,11 +44,11 @@
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 |  | JavaScript | 4.6k | +1.2k | 69 |  |
 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game. |  | C | 6.4k | +3.7k | 69 |  |
 | [storytold/designcraft](https://github.com/storytold/designcraft) | DesignCraft: An open-source page and layout design editor written by scratch in pure Rust |  | Rust | 4.9k | +1.2k | 69 |  |
-| [obsidianmd/pele](https://github.com/obsidianmd/pele) | Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 |  | TypeScript | 3.8k | +1.1k | 69 |  |
+| [obsidianmd/pele](https://github.com/obsidianmd/pele) | Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 |  | TypeScript | 3.9k | +1.1k | 69 |  |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |  | TypeScript | 7.8k | +720 | 69 |  |
 | [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher. |  | Rust | 4.1k | +1.1k | 69 |  |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex |  | Rust | 3.9k | +1.0k | 68 |  |
-| [openfilm/openfilm](https://github.com/openfilm/openfilm) | The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes. |  | TypeScript | 3.5k | +984 | 68 |  |
+| [openfilm/openfilm](https://github.com/openfilm/openfilm) | The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes. |  | TypeScript | 3.5k | +986 | 68 |  |
 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust |  | Rust | 7.2k | +2.3k | 67 |  |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |  | JavaScript | 52.4k | +16.0k | 67 |  |
 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. |  | Rust | 6.8k | +2.2k | 67 |  |

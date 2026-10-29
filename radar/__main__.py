@@ -33,11 +33,16 @@ def _prune(repos: dict, overrides: dict) -> int:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="GitHub 热门项目雷达")
-    ap.add_argument("--no-ai", action="store_true", help="跳过 Claude 分类")
-    ap.add_argument("--no-collect", action="store_true", help="不访问 GitHub，只用已有数据重新评分和生成页面")
+    ap.add_argument("--no-ai", action="store_true", help="跳过 AI 分类")
+    ap.add_argument("--no-collect", action="store_true", help="跳过采集；AI 分类仍可能读取 GitHub README")
+    ap.add_argument("--ai-limit", type=int, help="本次最多分类多少个项目，覆盖配置值")
     args = ap.parse_args()
+    if args.ai_limit is not None and args.ai_limit < 0:
+        ap.error("--ai-limit 不能小于 0")
 
     settings = load_settings()
+    if args.ai_limit is not None:
+        settings["ai"]["max_per_run"] = args.ai_limit
     overrides = load_overrides()
     categories, forms = load_taxonomy()
     repos = load_repos()

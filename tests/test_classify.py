@@ -12,7 +12,7 @@ from unittest.mock import Mock, patch
 
 import requests
 
-from radar.classify import API_URL, classify, classify_one
+from radar.classify import API_URL, InvalidClassification, classify, classify_one
 
 
 CATEGORIES = ["开发工具/CLI工具", "其他/其他"]
@@ -146,6 +146,17 @@ class ClassifierTests(unittest.TestCase):
             main.main()
         self.assertEqual(result.exception.code, 2)
         load.assert_not_called()
+
+    @patch.dict(os.environ, {"DEEPSEEK_API_KEY": "test-credential"}, clear=True)
+    def test_validation_diagnostic_contains_only_local_check_message(self):
+        output = io.StringIO()
+        with patch("radar.classify.requests.Session"), \
+                patch("radar.classify.classify_one", side_effect=InvalidClassification("中文简介超过 40 字")), \
+                redirect_stdout(output):
+            stats = classify(records(), {"ai": dict(CFG, max_per_run=1)}, {}, CATEGORIES, FORMS, Mock())
+        self.assertEqual(stats["failed"], 1)
+        self.assertIn("中文简介超过 40 字", output.getvalue())
+        self.assertNotIn("test-credential", output.getvalue())
 
 
 if __name__ == "__main__":

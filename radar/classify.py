@@ -11,6 +11,11 @@ from .store import today
 
 API_URL = "https://api.deepseek.com/chat/completions"
 
+
+class InvalidClassification(ValueError):
+    """只包含本地固定校验信息，可安全记录，不包含服务端原文。"""
+
+
 SYSTEM = """你是一名开源项目编辑，负责为 GitHub 热门项目建立中文索引。
 根据给出的仓库信息和 README，输出：
 - summary：一句话中文简介（40 字以内），说清楚它是什么、解决什么问题，不要营销腔。
@@ -56,20 +61,20 @@ def _user_prompt(rec: dict, readme: str, limit: int) -> str:
 def _validate_result(data: dict, categories: list[str], forms: list[str]) -> None:
     required = set(_schema(categories, forms)["required"])
     if not isinstance(data, dict) or set(data) != required:
-        raise ValueError("分类结果字段不完整或包含未知字段")
+        raise InvalidClassification("分类结果字段不完整或包含未知字段")
     for field in ("summary", "category", "form", "reason"):
         if not isinstance(data[field], str) or not data[field].strip():
-            raise ValueError(f"分类结果的 {field} 必须是非空字符串")
+            raise InvalidClassification(f"分类结果的 {field} 必须是非空字符串")
     if len(data["summary"]) > 40:
-        raise ValueError("中文简介超过 40 字")
+        raise InvalidClassification("中文简介超过 40 字")
     if data["category"] not in categories or data["form"] not in forms:
-        raise ValueError("分类或形态不在固定清单中")
+        raise InvalidClassification("分类或形态不在固定清单中")
     if type(data["is_practical"]) is not bool:
-        raise ValueError("is_practical 必须是布尔值")
+        raise InvalidClassification("is_practical 必须是布尔值")
     tags = data["tags"]
     if (not isinstance(tags, list) or not 3 <= len(tags) <= 5
             or any(not isinstance(t, str) or not t.strip() for t in tags)):
-        raise ValueError("tags 必须包含 3~5 个非空字符串")
+        raise InvalidClassification("tags 必须包含 3~5 个非空字符串")
 
 
 def classify_one(client: requests.Session, rec: dict, readme: str, cfg: dict,
@@ -103,12 +108,12 @@ def classify_one(client: requests.Session, rec: dict, readme: str, cfg: dict,
         finish_reason = choice["finish_reason"]
         content = choice["message"]["content"]
     except (KeyError, IndexError, TypeError, ValueError):
-        raise ValueError("DeepSeek 返回格式无效") from None
+        raise InvalidClassification("DeepSeek 返回格式无效") from None
     if finish_reason != "stop":
         print(f"[classify] {rec['full_name']} 未完成：finish_reason={finish_reason}")
         return None
     if not isinstance(content, str) or not content.strip():
-        raise ValueError("DeepSeek 返回空内容")
+        raise InvalidClassification("DeepSeek 返回空内容")
     data = json.loads(content)
     _validate_result(data, categories, forms)
     data["provider"] = "deepseek"
@@ -154,6 +159,10 @@ def classify(repos: dict[str, dict], settings: dict, readme_cache: dict[str, str
                 print(f"[classify] {name} 连接失败：{type(error).__name__}，剩余项目留到下次")
                 stats["failed"] += 1
                 break
+            except InvalidClassification as error:
+                print(f"[classify] {name} 返回内容无效：{error}")
+                stats["failed"] += 1
+                continue
             except ValueError as error:
                 print(f"[classify] {name} 返回内容无效：{type(error).__name__}")
                 stats["failed"] += 1

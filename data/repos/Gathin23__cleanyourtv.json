@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-29",
+    "category": "安全/安全工具",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可执行脚本、详细上手文档和发布版本，普通开发者可通过 ADB 直接操作电视。",
+    "summary": "通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。",
+    "tags": [
+      "Android TV",
+      "去臃肿",
+      "ADB",
+      "隐私",
+      "启动器"
+    ]
+  },
   "archived": false,
   "contributors": 780,
   "created_at": "2026-10-17",

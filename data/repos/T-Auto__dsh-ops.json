@@ -1,0 +1,44 @@
+{
+  "archived": false,
+  "contributors": 28,
+  "created_at": "2026-10-08",
+  "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 148,
+  "full_name": "T-Auto/dsh-ops",
+  "homepage": null,
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.4.4",
+  "license": "MIT",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 9250,
+  "readme_hash": "65eac8629790",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1584,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 70.0,
+    "trending_days_30": 0,
+    "velocity": 0.74
+  },
+  "stars": {
+    "2026-10-29": 4752
+  },
+  "topics": [
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins"
+  ],
+  "trending": {},
+  "url": "https://github.com/T-Auto/dsh-ops"
+}

@@ -8,7 +8,7 @@
 
 <!-- radar:start -->
 
-**本周增速 Top 10**（2026-10-29 更新，共收录 55 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-10-29 更新，共收录 68 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
@@ -19,9 +19,9 @@
 | [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput | 未分类/待 AI 处理 |  | C | 12.8k | +8.1k | 72 |  |
 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | 未分类/待 AI 处理 |  | JavaScript | 22.4k | +7.5k | 76 |  |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. | 未分类/待 AI 处理 |  | Rust | 94.4k | +7.3k | 77 |  |
+| [google-research/harness2](https://github.com/google-research/harness2) |  | 未分类/待 AI 处理 |  | Python | 21.2k | +6.5k | 64 |  |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs. | 未分类/待 AI 处理 |  | Kotlin | 7.7k | +6.0k | 75 |  |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | 未分类/待 AI 处理 |  | Python | 49.2k | +5.8k | 76 |  |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | 未分类/待 AI 处理 |  | Python | 118.1k | +5.3k | 76 |  |
 
 <!-- radar:end -->
 

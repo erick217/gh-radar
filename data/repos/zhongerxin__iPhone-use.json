@@ -1,0 +1,40 @@
+{
+  "archived": false,
+  "contributors": 6,
+  "created_at": "2026-10-06",
+  "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 477,
+  "full_name": "zhongerxin/iPhone-use",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.3.16",
+  "license": "MIT",
+  "pushed_at": "2026-10-22",
+  "readme_chars": 9045,
+  "readme_hash": "5ebb1b311bf4",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1448,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 65.7,
+    "trending_days_30": 0,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-10-29": 4759
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/zhongerxin/iPhone-use"
+}

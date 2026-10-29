@@ -20,7 +20,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3252,
+    "gain7": 3253,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
@@ -32,7 +32,7 @@
     "velocity": 0.82
   },
   "stars": {
-    "2026-10-29": 5111
+    "2026-10-29": 5112
   },
   "topics": [
     "chinese",

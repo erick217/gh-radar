@@ -1,0 +1,40 @@
+{
+  "archived": false,
+  "contributors": 4,
+  "created_at": "2026-10-06",
+  "description": "",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 1916,
+  "full_name": "openai/math",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Lean",
+  "last_seen": "2026-10-29",
+  "latest_release": null,
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-26",
+  "readme_chars": 4411,
+  "readme_hash": "2d5ad51eba63",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 5181,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 62.7,
+    "trending_days_30": 0,
+    "velocity": 0.86
+  },
+  "stars": {
+    "2026-10-29": 17024
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/openai/math"
+}

@@ -1,0 +1,47 @@
+{
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2026-10-13",
+  "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 673,
+  "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-10-29",
+  "latest_release": "v1.1.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-26",
+  "readme_chars": 6193,
+  "readme_hash": "7edec8f59115",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1671,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 66.2,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-10-29": 3819
+  },
+  "topics": [
+    "agent-skill",
+    "comfyui",
+    "image-generation",
+    "openclaw",
+    "pose-control",
+    "qwen-image"
+  ],
+  "trending": {},
+  "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+}

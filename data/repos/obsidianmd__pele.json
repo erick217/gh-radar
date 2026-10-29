@@ -1,0 +1,47 @@
+{
+  "archived": false,
+  "contributors": 13,
+  "created_at": "2026-10-05",
+  "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 117,
+  "full_name": "obsidianmd/pele",
+  "homepage": "https://pele.run",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-10-29",
+  "latest_release": "1.12.0",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-10-28",
+  "readme_chars": 3209,
+  "readme_hash": "deb5aa700975",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1122,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 68.8,
+    "trending_days_30": 0,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-10-29": 3848
+  },
+  "topics": [
+    "charts",
+    "diagramming",
+    "diagrams",
+    "mermaid",
+    "mermaid-diagrams",
+    "mermaidjs"
+  ],
+  "trending": {},
+  "url": "https://github.com/obsidianmd/pele"
+}

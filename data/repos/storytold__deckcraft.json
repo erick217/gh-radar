@@ -1,0 +1,40 @@
+{
+  "archived": false,
+  "contributors": 69,
+  "created_at": "2026-10-07",
+  "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+  "details_at": "2026-10-29",
+  "first_seen": "2026-10-29",
+  "fork": false,
+  "forks": 2521,
+  "full_name": "storytold/deckcraft",
+  "homepage": "https://getartcraft.com/apps/slidecraft",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-10-29",
+  "latest_release": "v0.12.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 20221,
+  "readme_hash": "29d574b55862",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1400,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 69.6,
+    "trending_days_30": 0,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-10-29": 4400
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/storytold/deckcraft"
+}

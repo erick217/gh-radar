@@ -2,6 +2,8 @@
 
 每天自动追踪 GitHub 热门项目，过滤噪音、评分，用 Claude 生成中文简介并分门别类整理。
 
+🌐 [在线浏览](https://erick217.github.io/gh-radar/) · [运行记录](https://github.com/erick217/gh-radar/actions/workflows/daily.yml)
+
 👉 [按分类浏览全部项目](docs/index.md) · [最近 7 天新收录](docs/new.md) · [本周增速榜](docs/rising.md)
 
 <!-- radar:start -->
@@ -31,7 +33,7 @@ GitHub Actions 每天运行一次 `python -m radar`：
 2. **过滤**：丢弃 fork、已归档、README 过短的项目；awesome、教程类归入「学习资源」
 3. **评分**：增速 35% + 持续性 20% + 健康度 25% + 实用性 20%，单日暴涨、新建且只有 1 名贡献者的项目会降分
 4. **AI 分类**：新项目的 README 发给 Claude，生成中文简介、分类、形态、标签，并判断是否实用；每个项目只处理一次
-5. **生成页面**：分数达到门槛的项目写入 `docs/`，提交回仓库
+5. **生成页面**：分数达到门槛的项目写入 `docs/`，提交回仓库，再构建并发布到 GitHub Pages
 
 ## 手动整理
 
@@ -44,10 +46,10 @@ GitHub Actions 每天运行一次 `python -m radar`：
 
 ## 部署
 
-1. 仓库 Settings → Secrets and variables → Actions，添加 `ANTHROPIC_API_KEY`
-2. Settings → Actions → General → Workflow permissions，选 **Read and write permissions**
-3. Actions 页面手动运行一次 `daily-radar`
-4. 可选：Settings → Pages，Source 选 `main` 分支的 `/docs` 目录
+1. 仓库 Settings → Pages → Source，选择 **GitHub Actions**
+2. 仓库 Settings → Secrets and variables → Actions，添加 `ANTHROPIC_API_KEY`。未配置时跳过 AI 分类，仍会采集、评分并发布页面，项目暂列为「未分类/待 AI 处理」
+3. Actions 页面手动运行一次 `daily-radar`，确认 `run` 和 `deploy` 均成功
+4. 此后每天北京时间 09:17 定时运行（实际启动可能延迟），数据提交及页面发布均由该工作流完成；所需权限已在工作流中声明
 
 ## 本地运行
 

@@ -23,33 +23,34 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 339,
+  "forks": 363,
   "full_name": "nightly-labs/openbot",
   "homepage": "https://openbot.run/",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "v0.53.2",
   "license": "NOASSERTION",
-  "pushed_at": "2026-10-29",
+  "pushed_at": "2026-10-30",
   "readme_chars": 55691,
   "readme_hash": "a651fc847807",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2115,
+    "gain7": 2127,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 76.5,
-    "trending_days_30": 1,
+    "total": 77.9,
+    "trending_days_30": 2,
     "velocity": 0.77
   },
   "stars": {
-    "2026-10-29": 3636
+    "2026-10-29": 3636,
+    "2026-10-30": 3918
   },
   "topics": [
     "ai-agents",
@@ -64,6 +65,9 @@
   "trending": {
     "2026-10-29": {
       "daily": 705
+    },
+    "2026-10-30": {
+      "daily": 709
     }
   },
   "url": "https://github.com/nightly-labs/openbot"

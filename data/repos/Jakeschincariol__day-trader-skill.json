@@ -1,0 +1,46 @@
+{
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-20",
+  "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+  "details_at": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "fork": false,
+  "forks": 744,
+  "full_name": "Jakeschincariol/day-trader-skill",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-10-30",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-20",
+  "readme_chars": 11216,
+  "readme_hash": "a6ea89f1e9eb",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2280,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 56.3,
+    "trending_days_30": 0,
+    "velocity": 0.78
+  },
+  "stars": {
+    "2026-10-30": 3257
+  },
+  "topics": [
+    "backtesting",
+    "claude",
+    "claude-skills",
+    "day-trading",
+    "stock-market"
+  ],
+  "trending": {},
+  "url": "https://github.com/Jakeschincariol/day-trader-skill"
+}

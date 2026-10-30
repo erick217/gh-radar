@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/模型推理与部署",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 make install 安装方式与完整文档，RTX 30 系列稳定可用，可直接提升受支持显卡的 AI 计算吞吐。",
+    "summary": "解锁 GeForce 显卡被限制的 Tensor Core 算力，提升 AI 训练与推理速度",
+    "tags": [
+      "NVIDIA",
+      "GPU",
+      "Tensor Core",
+      "内核模块",
+      "性能优化"
+    ]
+  },
   "archived": false,
   "contributors": 9,
   "created_at": "2026-10-18",
@@ -6,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1252,
+  "forks": 1281,
   "full_name": "Zagitta/gpu-unlock",
   "homepage": null,
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "unraid",
   "license": null,
   "pushed_at": "2026-10-29",
@@ -20,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 8158,
+    "gain7": 7655,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 71.8,
+    "practical": 0.8,
+    "total": 75.6,
     "trending_days_30": 0,
-    "velocity": 0.91
+    "velocity": 0.9
   },
   "stars": {
-    "2026-10-29": 12820
+    "2026-10-29": 12820,
+    "2026-10-30": 13122
   },
   "topics": [],
   "trending": {},

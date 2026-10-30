@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v1.6.60 发行包、官方与社区安装方式，以及自检、诊断和回滚文档，DSH 用户可按文档直接安装使用。",
+    "summary": "DeepSeek Harness 社区插件，提供提示词管理、状态诊断与备份回滚。",
+    "tags": [
+      "DeepSeek Harness",
+      "提示词管理",
+      "状态自检",
+      "备份回滚",
+      "Agent 插件"
+    ]
+  },
   "archived": false,
   "contributors": 25,
   "created_at": "2026-10-16",
@@ -6,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1763,
+  "forks": 1789,
   "full_name": "kingcharleslzy-ai/dsh-purge",
   "homepage": "https://github.com/kingcharleslzy-ai/dsh-purge/releases",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "v1.6.60",
   "license": "MIT",
   "pushed_at": "2026-10-25",
@@ -20,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1802,
+    "gain7": 1698,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 70.5,
+    "practical": 1.0,
+    "total": 74.3,
     "trending_days_30": 0,
-    "velocity": 0.76
+    "velocity": 0.75
   },
   "stars": {
-    "2026-10-29": 3346
+    "2026-10-29": 3346,
+    "2026-10-30": 3397
   },
   "topics": [
     "agent-tools",

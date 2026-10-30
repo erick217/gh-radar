@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可直接复制或克隆的 SKILL.md 规则文件，并附 Claude Code、Cursor 等安装步骤，可立即用于生成落地页。",
+    "summary": "为 AI 编码工具提供可安装的落地页设计技能规则",
+    "tags": [
+      "AI设计",
+      "编码助手",
+      "Claude Code",
+      "Cursor",
+      "技能规则"
+    ]
+  },
   "archived": false,
   "contributors": 1,
   "created_at": "2026-07-29",
@@ -6,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 852,
+  "forks": 887,
   "full_name": "elayadesign/ai-design-skills",
   "homepage": null,
   "install_hint": false,
   "language": null,
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-27",
@@ -20,24 +37,28 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3534,
+    "gain7": 3561,
     "gain7_source": "trending-daily",
     "health": 0.4,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
-    "practical": 0.6,
-    "total": 55.3,
-    "trending_days_30": 1,
+    "persistence": 0.29,
+    "practical": 0.8,
+    "total": 60.7,
+    "trending_days_30": 2,
     "velocity": 0.83
   },
   "stars": {
-    "2026-10-29": 11792
+    "2026-10-29": 11792,
+    "2026-10-30": 12224
   },
   "topics": [],
   "trending": {
     "2026-10-29": {
       "daily": 1178
+    },
+    "2026-10-30": {
+      "daily": 1187
     }
   },
   "url": "https://github.com/elayadesign/ai-design-skills"

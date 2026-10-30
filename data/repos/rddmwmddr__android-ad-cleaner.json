@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 419,
+  "forks": 429,
   "full_name": "rddmwmddr/android-ad-cleaner",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "v0.2.7",
   "license": "MIT",
   "pushed_at": "2026-10-29",
@@ -37,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4643,
+    "gain7": 4757,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 0.8,
-    "total": 73.8,
+    "total": 73.9,
     "trending_days_30": 0,
-    "velocity": 0.85
+    "velocity": 0.86
   },
   "stars": {
-    "2026-10-29": 4643
+    "2026-10-29": 4643,
+    "2026-10-30": 4757
   },
   "topics": [
     "adb",

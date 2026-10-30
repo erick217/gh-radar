@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.1.0，含固件刷写脚本、XcodeGen 工程与四步配网引导，按 README 备齐 ESP32-S3 与 iPhone 即可自行编译运行。",
+    "summary": "用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击",
+    "tags": [
+      "ESP32",
+      "iPhone自动化",
+      "AI Agent",
+      "AirPlay",
+      "USB HID"
+    ]
+  },
   "archived": false,
   "contributors": 5,
   "created_at": "2026-10-11",
@@ -6,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 540,
+  "forks": 542,
   "full_name": "onehumanbeing/esp32-iphone-agent",
   "homepage": "https://handsy.tech?ref=github",
   "install_hint": false,
   "language": "C",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "v0.1.0",
   "license": "MIT",
   "pushed_at": "2026-10-28",
@@ -20,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1588,
+    "gain7": 1510,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 70.0,
+    "practical": 1.0,
+    "total": 73.9,
     "trending_days_30": 0,
     "velocity": 0.74
   },
   "stars": {
-    "2026-10-29": 4084
+    "2026-10-29": 4084,
+    "2026-10-30": 4099
   },
   "topics": [
     "ai-agent",

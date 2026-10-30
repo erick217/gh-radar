@@ -8,20 +8,20 @@
 
 <!-- radar:start -->
 
-**本周增速 Top 10**（2026-10-29 更新，共收录 68 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-10-30 更新，共收录 73 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。 | 安全/安全工具 | CLI工具 | Python | 44.8k | +26.1k | 83 |  |
-| [storytold/photocraft](https://github.com/storytold/photocraft) | 用纯 Rust 编写的开源照片编辑器，支持图层、蒙版与 PSD。 | 多媒体/图像 | 桌面应用 | Rust | 74.7k | +18.0k | 83 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 52.4k | +16.0k | 71 |  |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | AI/模型推理与部署 | 框架 | Python | 24.2k | +13.0k | 62 |  |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput | 未分类/待 AI 处理 |  | C | 12.8k | +8.2k | 72 |  |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | AI/Agent | 其他 | JavaScript | 22.5k | +7.5k | 80 |  |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 94.5k | +7.3k | 81 |  |
-| [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | AI/Agent | 框架 | Python | 21.2k | +6.5k | 60 |  |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 参照 tvOS 设计的无广告 Android TV 桌面，可接管国产电视主页。 | 移动与桌面/桌面应用 | 桌面应用 | Kotlin | 7.7k | +6.0k | 79 |  |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 49.3k | +5.8k | 80 |  |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。 | 安全/安全工具 | CLI工具 | Python | 45.6k | +24.5k | 83 |  |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | 用纯 Rust 编写的开源照片编辑器，支持图层、蒙版与 PSD。 | 多媒体/图像 | 桌面应用 | Rust | 74.9k | +17.5k | 82 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 52.9k | +16.0k | 72 |  |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | AI/模型推理与部署 | 框架 | Python | 24.3k | +12.1k | 62 |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 95.5k | +9.7k | 83 |  |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 解锁 GeForce 显卡被限制的 Tensor Core 算力，提升 AI 训练与推理速度 | AI/模型推理与部署 | 其他 | C | 13.1k | +7.7k | 76 |  |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | AI/Agent | 其他 | JavaScript | 22.6k | +7.2k | 79 |  |
+| [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | AI/Agent | 框架 | Python | 21.3k | +6.2k | 60 |  |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 50.2k | +5.8k | 81 |  |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 基于多智能体LLM协作的金融交易分析框架，模拟投研团队分工决策。 | AI/Agent | 框架 | Python | 118.4k | +5.6k | 81 |  |
 
 <!-- radar:end -->
 

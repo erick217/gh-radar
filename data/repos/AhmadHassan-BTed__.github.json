@@ -1,0 +1,40 @@
+{
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-09",
+  "description": "",
+  "details_at": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "fork": false,
+  "forks": 0,
+  "full_name": "AhmadHassan-BTed/.github",
+  "homepage": null,
+  "install_hint": false,
+  "language": null,
+  "last_seen": "2026-10-30",
+  "latest_release": null,
+  "license": null,
+  "pushed_at": "2026-10-09",
+  "readme_chars": 15,
+  "readme_hash": "e532f554dd96",
+  "score": {
+    "excluded": "README 过短",
+    "flags": [],
+    "gain7": 1115,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.2,
+    "total": 41.8,
+    "trending_days_30": 0,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-10-30": 3345
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/AhmadHassan-BTed/.github"
+}

@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 598,
+  "forks": 613,
   "full_name": "HeyPuter/everything",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-29",
@@ -37,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2257,
+    "gain7": 2204,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 67.8,
+    "total": 67.7,
     "trending_days_30": 0,
     "velocity": 0.78
   },
   "stars": {
-    "2026-10-29": 5159
+    "2026-10-29": 5159,
+    "2026-10-30": 5353
   },
   "topics": [
     "adobe",

@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-10-30",
+    "category": "安全/安全工具",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可下载运行的 Python CLI 和分平台操作指南，已发布 v0.1.13，普通用户可按文档直接扫描 Windows、macOS、Linux 及手机备份。",
+    "summary": "开源离线检测工具，用于排查设备中已知雇佣间谍软件的痕迹",
+    "tags": [
+      "间谍软件检测",
+      "离线扫描",
+      "隐私安全",
+      "数字取证",
+      "Python"
+    ]
+  },
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2026-10-25",
+  "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+  "details_at": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "fork": false,
+  "forks": 388,
+  "full_name": "interplains/Zero-Breach-Toolkit",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-10-30",
+  "latest_release": "v0.1.13",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 37699,
+  "readme_hash": "aa8494eac49e",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3627,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 77.0,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-10-30": 3627
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/interplains/Zero-Breach-Toolkit"
+}

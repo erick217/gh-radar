@@ -1,0 +1,55 @@
+{
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-25",
+  "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+  "details_at": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "fork": false,
+  "forks": 712,
+  "full_name": "designfuchen/word-atlas",
+  "homepage": "https://0xlei.tech/words/",
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-10-30",
+  "latest_release": null,
+  "license": "NOASSERTION",
+  "pushed_at": "2026-10-27",
+  "readme_chars": 6083,
+  "readme_hash": "a5dc0849d938",
+  "score": {
+    "excluded": null,
+    "flags": [
+      "新建且仅 1 名贡献者"
+    ],
+    "gain7": 3247,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 42.6,
+    "trending_days_30": 0,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-10-30": 3247
+  },
+  "topics": [
+    "chinese",
+    "dataset",
+    "english-learning",
+    "flashcards",
+    "fsrs",
+    "ielts",
+    "language-learning",
+    "pwa",
+    "react",
+    "spaced-repetition",
+    "vocabulary",
+    "webgl"
+  ],
+  "trending": {},
+  "url": "https://github.com/designfuchen/word-atlas"
+}

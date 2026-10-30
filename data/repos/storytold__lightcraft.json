@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5761,
+  "forks": 5772,
   "full_name": "storytold/lightcraft",
   "homepage": "https://getartcraft.com/apps/lightcraft",
   "install_hint": false,
@@ -37,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3628,
+    "gain7": 3513,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 77.0,
+    "total": 76.9,
     "trending_days_30": 0,
-    "velocity": 0.83
+    "velocity": 0.82
   },
   "stars": {
-    "2026-10-29": 15032
+    "2026-10-29": 15032,
+    "2026-10-30": 15057
   },
   "topics": [
     "art",

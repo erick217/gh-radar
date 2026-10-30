@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/MCP与工具集成",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 v0.3.16 发布、安装脚本、MCP 工具和完整上手文档，满足 macOS、Xcode 与真机条件的用户可直接部署使用。",
+    "summary": "让 Codex 等 AI 助手通过 USB 操作真实 iPhone 的本地 MCP 工具。",
+    "tags": [
+      "MCP",
+      "iPhone自动化",
+      "WebDriverAgent",
+      "Codex插件",
+      "USB调试"
+    ]
+  },
   "archived": false,
   "contributors": 6,
   "created_at": "2026-10-06",
@@ -11,7 +28,7 @@
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "v0.3.16",
   "license": "MIT",
   "pushed_at": "2026-10-22",
@@ -20,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1449,
+    "gain7": 1390,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.6,
-    "total": 65.7,
+    "practical": 0.8,
+    "total": 69.6,
     "trending_days_30": 0,
-    "velocity": 0.74
+    "velocity": 0.73
   },
   "stars": {
-    "2026-10-29": 4760
+    "2026-10-29": 4760,
+    "2026-10-30": 4765
   },
   "topics": [],
   "trending": {},

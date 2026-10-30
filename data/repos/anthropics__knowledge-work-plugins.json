@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3714,
+  "forks": 3725,
   "full_name": "anthropics/knowledge-work-plugins",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": null,
   "license": "Apache-2.0",
   "pushed_at": "2026-10-29",
@@ -42,19 +42,23 @@
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 0.8,
-    "total": 65.7,
-    "trending_days_30": 1,
+    "total": 67.1,
+    "trending_days_30": 2,
     "velocity": 0.79
   },
   "stars": {
-    "2026-10-29": 33774
+    "2026-10-29": 33774,
+    "2026-10-30": 33863
   },
   "topics": [],
   "trending": {
     "2026-10-29": {
       "weekly": 2612
+    },
+    "2026-10-30": {
+      "weekly": 2504
     }
   },
   "url": "https://github.com/anthropics/knowledge-work-plugins"

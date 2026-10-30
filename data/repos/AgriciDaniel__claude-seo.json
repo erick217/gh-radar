@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v2.5.0 发布、安装说明和 30 条 /seo 命令，可在 Claude Code 中直接运行审计。",
+    "summary": "Claude Code 的开源 SEO 审计插件，内置多智能体和 30 条命令。",
+    "tags": [
+      "SEO",
+      "Claude Code",
+      "多智能体",
+      "网站审计",
+      "插件"
+    ]
+  },
   "archived": false,
   "contributors": 30,
   "created_at": "2026-02-07",
@@ -6,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3193,
+  "forks": 3224,
   "full_name": "AgriciDaniel/claude-seo",
   "homepage": "skool.com/ai-marketing-hub-pro",
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-29",
+  "last_seen": "2026-10-30",
   "latest_release": "v2.5.0",
   "license": "MIT",
   "pushed_at": "2026-10-22",
@@ -20,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3516,
+    "gain7": 4110,
     "gain7_source": "trending-weekly",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
-    "practical": 0.8,
-    "total": 74.3,
-    "trending_days_30": 1,
-    "velocity": 0.82
+    "persistence": 0.29,
+    "practical": 1.0,
+    "total": 80.2,
+    "trending_days_30": 2,
+    "velocity": 0.84
   },
   "stars": {
-    "2026-10-29": 23767
+    "2026-10-29": 23767,
+    "2026-10-30": 24026
   },
   "topics": [
     "ai",
@@ -46,6 +64,9 @@
   "trending": {
     "2026-10-29": {
       "weekly": 3516
+    },
+    "2026-10-30": {
+      "weekly": 4110
     }
   },
   "url": "https://github.com/AgriciDaniel/claude-seo"

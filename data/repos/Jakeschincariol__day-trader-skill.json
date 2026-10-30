@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 Claude 技能/插件和标准库 Python 脚本，文档与离线测试齐全，默认纸交易，可直接上手。",
+    "summary": "11 个 Claude 日交易技能，覆盖选股、新闻、出入场、回放与风控。",
+    "tags": [
+      "Claude Skills",
+      "日交易",
+      "回测",
+      "风险管理",
+      "Python"
+    ]
+  },
   "archived": false,
   "contributors": 1,
   "created_at": "2026-10-20",
@@ -26,8 +43,8 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.8,
-    "total": 56.3,
+    "practical": 1.0,
+    "total": 60.3,
     "trending_days_30": 0,
     "velocity": 0.78
   },

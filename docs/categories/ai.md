@@ -1,8 +1,8 @@
 # AI
 
-[← 返回目录](../index.md) · 共 34 个项目，按分数排序
+[← 返回目录](../index.md) · 共 37 个项目，按分数排序
 
-## Agent（26）
+## Agent（29）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -31,7 +31,10 @@
 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 面向编码 Agent 的艺术动画 Skill，用代码生成多风格动画。 | 其他 | JavaScript | 5.8k | +1.7k | 67 |  |
 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | 面向 UI 设计的 AI 智能体技能合集，覆盖排版、配色、无障碍与布局。 | 资源列表 | Markdown | 9.2k | +980 | 64 |  |
 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 为 AI 编码工具提供可安装的落地页设计技能规则 | 资源列表 |  | 12.2k | +3.6k | 61 |  |
+| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 11 个 Claude 日交易技能，覆盖选股、新闻、出入场、回放与风控。 | 其他 | Python | 3.3k | +2.3k | 60 |  |
+| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 8KB 技能文件，让 AI 代理用普通 CLI 工具完成逆向工程 | 其他 | Python | 3.6k | +2.0k | 60 |  |
 | [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | 框架 | Python | 21.3k | +6.2k | 60 |  |
+| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 一套 Claude 技能，用于逆向分析应用并重建功能与流程。 | 其他 | Python | 6.5k | +1.7k | 59 |  |
 
 ## AI应用（4）
 
@@ -42,16 +45,16 @@
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 本地多模态文件语义搜索桌面应用，用自然语言查找照片、音频、视频和文档。 | 桌面应用 | Swift | 6.0k | +1.9k | 75 |  |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 评测 AI API 中转站并一键切换 Claude Code 等工具配置的桌面客户端 | 桌面应用 | Rust | 3.9k | +985 | 72 |  |
 
-## 模型推理与部署（2）
-
-| 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
-|---|---|---|---|---|---|---|---|
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 解锁 GeForce 显卡被限制的 Tensor Core 算力，提升 AI 训练与推理速度 | 其他 | C | 13.1k | +7.7k | 76 |  |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | 框架 | Python | 24.3k | +12.1k | 62 |  |
-
 ## MCP与工具集成（2）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 让 Codex 等 AI 助手通过 USB 操作真实 iPhone 的本地 MCP 工具。 | 自托管服务 | Python | 4.8k | +1.4k | 70 |  |
 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 让编程 AI 智能体听得懂声音：音频描述、匹配、评测与代码合成音效 | CLI工具 | Python | 3.2k | +1.5k | 66 |  |
+
+## 模型推理与部署（2）
+
+| 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
+|---|---|---|---|---|---|---|---|
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 解锁 GeForce 显卡被限制的 Tensor Core 算力，提升 AI 训练与推理速度 | 其他 | C | 13.1k | +7.7k | 76 |  |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | 框架 | Python | 24.3k | +12.1k | 62 |  |

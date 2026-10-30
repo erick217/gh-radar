@@ -7,7 +7,7 @@
 
 ## 分类
 
-- [AI](categories/ai.md)（34）：AI应用 4、Agent 26、MCP与工具集成 2、模型推理与部署 2
+- [AI](categories/ai.md)（37）：AI应用 4、Agent 29、MCP与工具集成 2、模型推理与部署 2
 - [前端](categories/frontend.md)（1）：UI组件 1
 - [后端](categories/backend.md)（1）：Web框架 1
 - [安全](categories/security.md)（3）：安全工具 3
@@ -16,4 +16,3 @@
 - [移动与桌面](categories/apps.md)（11）：桌面应用 11
 - [学习资源](categories/learning.md)（2）：资源合集 2
 - [其他](categories/other.md)（9）：其他 9
-- [未分类](categories/unclassified.md)（3）：待 AI 处理 3

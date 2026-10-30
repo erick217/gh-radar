@@ -31,13 +31,13 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.14.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-10-29",
+  "pushed_at": "2026-10-30",
   "readme_chars": 36741,
   "readme_hash": "6331ddcbfd94",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3936,
+    "gain7": 3937,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 16807,
-    "2026-10-30": 16870
+    "2026-10-30": 16871
   },
   "topics": [
     "art",

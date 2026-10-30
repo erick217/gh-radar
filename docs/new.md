@@ -22,8 +22,8 @@
 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 纯 Rust 编写的开源跨平台 PDF 阅读与编辑器 | 移动与桌面/桌面应用 | 桌面应用 | Rust | 18.6k | +4.3k | 78 |  |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 面向 Claude Code/Codex 的多智能体编排与记忆框架 | AI/Agent | 框架 | TypeScript | 80.2k | +1.9k | 78 |  |
 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 纯 Rust 编写的开源非线性视频编辑器，支持剪辑、调色与音频处理。 | 多媒体/音视频 | 桌面应用 | Rust | 16.9k | +3.9k | 77 |  |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 纯 Rust 开源参数化 3D CAD，支持桌面、浏览器和 MCP 自动化。 | 移动与桌面/桌面应用 | 桌面应用 | Rust | 12.1k | +3.7k | 77 |  |
 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 开源离线检测工具，用于排查设备中已知雇佣间谍软件的痕迹 | 安全/安全工具 | CLI工具 | Python | 3.6k | +3.6k | 77 |  |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 纯 Rust 开源参数化 3D CAD，支持桌面、浏览器和 MCP 自动化。 | 移动与桌面/桌面应用 | 桌面应用 | Rust | 12.1k | +3.7k | 77 |  |
 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | 纯 Rust 编写的开源非破坏性照片库与 RAW 修图工具 | 多媒体/图像 | 桌面应用 | Rust | 15.1k | +3.5k | 77 |  |
 | [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 308.6k | +4.9k | 77 |  |
 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 为 Google TV、LG 和三星电视提供无广告的快速主屏幕启动器。 | 移动与桌面/桌面应用 | 桌面应用 | Java | 5.4k | +3.4k | 77 |  |
@@ -50,7 +50,7 @@
 | [storytold/designcraft](https://github.com/storytold/designcraft) | 用纯 Rust 编写的开源桌面排版与页面布局编辑器，支持多平台和 Web。 | 多媒体/图像 | 桌面应用 | Rust | 4.9k | +1.2k | 73 |  |
 | [storytold/soundcraft](https://github.com/storytold/soundcraft) | 纯 Rust 编写的开源数字音频工作站，支持录音、编辑、混音与插件。 | 多媒体/音视频 | 桌面应用 | Rust | 3.9k | +1.2k | 73 |  |
 | [horizon-rust/horizon](https://github.com/horizon-rust/horizon) | 用 Rust 重写 Minecraft Java 版，可通过启动器安装游玩 | 其他/其他 | 桌面应用 | Rust | 4.4k | +1.1k | 73 |  |
-| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 将Switch游戏原生移植到Apple芯片的技术项目 | 其他/其他 | 其他 | C | 6.4k | +3.5k | 73 |  |
+| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 将Switch游戏原生移植到Apple芯片的技术项目 | 其他/其他 | 其他 | C | 6.5k | +3.5k | 73 |  |
 | [obsidianmd/pele](https://github.com/obsidianmd/pele) | 同步将 Mermaid 文本渲染为 SVG 的轻量无依赖库 | 前端/UI组件 | 库 | TypeScript | 3.9k | +1.1k | 73 |  |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 52.9k | +16.0k | 72 |  |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 评测 AI API 中转站并一键切换 Claude Code 等工具配置的桌面客户端 | AI/AI应用 | 桌面应用 | Rust | 3.9k | +985 | 72 |  |
@@ -72,8 +72,8 @@
 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | AI/模型推理与部署 | 框架 | Python | 24.3k | +12.1k | 62 |  |
 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 为 AI 编码工具提供可安装的落地页设计技能规则 | AI/Agent | 资源列表 |  | 12.2k | +3.6k | 61 |  |
 | [deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc) | 让《血源诅咒》1.09 在 Linux/Windows 原生运行的移植项目 | 其他/其他 | 桌面应用 | C++ | 3.8k | +907 | 61 |  |
+| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 11 个 Claude 日交易技能，覆盖选股、新闻、出入场、回放与风控。 | AI/Agent | 其他 | Python | 3.3k | +2.3k | 60 |  |
+| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 8KB 技能文件，让 AI 代理用普通 CLI 工具完成逆向工程 | AI/Agent | 其他 | Python | 3.6k | +2.0k | 60 |  |
 | [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | AI/Agent | 框架 | Python | 21.3k | +6.2k | 60 |  |
+| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 一套 Claude 技能，用于逆向分析应用并重建功能与流程。 | AI/Agent | 其他 | Python | 6.5k | +1.7k | 59 |  |
 | [openai/math](https://github.com/openai/math) | OpenAI 模型生成的数学手稿与 Lean 形式化证明合集 | 其他/其他 | 资源列表 | Lean | 17.1k | +5.0k | 59 |  |
-| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. | 未分类/待 AI 处理 |  | Python | 3.3k | +2.3k | 56 |  |
-| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper. | 未分类/待 AI 处理 |  | Python | 3.6k | +2.0k | 56 |  |
-| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. | 未分类/待 AI 处理 |  | Python | 6.5k | +1.7k | 55 |  |

@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可直接下载或通过 Claude Code 插件安装的 CLAUDE.md 文件，并附有使用说明，普通开发者可立即应用。",
+    "summary": "一份 CLAUDE.md 规则，约束 Claude Code 写代码时少假设、少过度设计。",
+    "tags": [
+      "Claude Code",
+      "编码规范",
+      "提示词",
+      "AI编程",
+      "代码质量"
+    ]
+  },
   "archived": false,
   "contributors": 7,
   "created_at": "2026-01-27",
@@ -26,8 +43,8 @@
     "included": false,
     "is_resource": false,
     "persistence": 0.29,
-    "practical": 0.4,
-    "total": 50.9,
+    "practical": 0.6,
+    "total": 54.9,
     "trending_days_30": 2,
     "velocity": 0.84
   },

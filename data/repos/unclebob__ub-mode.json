@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-10-30",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可复制的 SKILL.md 安装方式，开发者可放入代理技能目录并直接调用；配套工具虽为外部依赖，但核心规范技能已可上手使用。",
+    "summary": "面向 AI 编程代理的软件工程规范技能，结合质量门禁约束代码质量",
+    "tags": [
+      "AI Agent",
+      "代码质量",
+      "软件工程",
+      "TDD",
+      "技能"
+    ]
+  },
   "archived": false,
   "contributors": 1,
   "created_at": "2026-10-25",
@@ -22,20 +39,20 @@
     "flags": [
       "新建且仅 1 名贡献者"
     ],
-    "gain7": 4755,
+    "gain7": 4756,
     "gain7_source": "age",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.15,
-    "practical": 0.4,
-    "total": 35.9,
+    "practical": 0.6,
+    "total": 39.9,
     "trending_days_30": 0,
     "velocity": 0.85
   },
   "stars": {
     "2026-10-29": 4324,
-    "2026-10-30": 4755
+    "2026-10-30": 4756
   },
   "topics": [],
   "trending": {},

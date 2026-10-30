@@ -13,7 +13,7 @@
    "前端设计"
   ],
   "language": "Rust",
-  "stars": 95475,
+  "stars": 95482,
   "gain7": 9713,
   "score": 83.2,
   "flags": [],
@@ -37,8 +37,8 @@
    "启动器"
   ],
   "language": "Python",
-  "stars": 45567,
-  "gain7": 24536,
+  "stars": 45572,
+  "gain7": 24539,
   "score": 83.0,
   "flags": [],
   "status": "",
@@ -60,8 +60,8 @@
    "图层蒙版"
   ],
   "language": "Rust",
-  "stars": 74860,
-  "gain7": 17467,
+  "stars": 74861,
+  "gain7": 17468,
   "score": 82.5,
   "flags": [],
   "status": "",
@@ -84,7 +84,7 @@
    "学习平台"
   ],
   "language": "Python",
-  "stars": 50234,
+  "stars": 50241,
   "gain7": 5790,
   "score": 81.4,
   "flags": [],
@@ -156,7 +156,7 @@
    "插件"
   ],
   "language": "Python",
-  "stars": 24026,
+  "stars": 24028,
   "gain7": 4110,
   "score": 80.2,
   "flags": [],
@@ -180,7 +180,7 @@
    "Electron"
   ],
   "language": "TypeScript",
-  "stars": 7535,
+  "stars": 7537,
   "gain7": 3597,
   "score": 79.7,
   "flags": [],
@@ -204,7 +204,7 @@
    "pi"
   ],
   "language": "TypeScript",
-  "stars": 6056,
+  "stars": 6059,
   "gain7": 3351,
   "score": 79.5,
   "flags": [],
@@ -228,7 +228,7 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 70874,
+  "stars": 70878,
   "gain7": 4980,
   "score": 79.5,
   "flags": [],
@@ -252,8 +252,8 @@
    "AI 绘图"
   ],
   "language": "JavaScript",
-  "stars": 22645,
-  "gain7": 7205,
+  "stars": 22646,
+  "gain7": 7206,
   "score": 79.4,
   "flags": [],
   "status": "",
@@ -276,7 +276,7 @@
    "Kotlin"
   ],
   "language": "Kotlin",
-  "stars": 7768,
+  "stars": 7769,
   "gain7": 5438,
   "score": 78.4,
   "flags": [],
@@ -348,8 +348,8 @@
    "固件生成"
   ],
   "language": "C",
-  "stars": 4524,
-  "gain7": 4524,
+  "stars": 4525,
+  "gain7": 4525,
   "score": 77.7,
   "flags": [],
   "status": "",
@@ -420,14 +420,38 @@
    "开源"
   ],
   "language": "Rust",
-  "stars": 16870,
-  "gain7": 3936,
+  "stars": 16871,
+  "gain7": 3937,
   "score": 77.3,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
+  "pushed_at": "2026-10-30"
+ },
+ {
+  "full_name": "interplains/Zero-Breach-Toolkit",
+  "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+  "summary": "开源离线检测工具，用于排查设备中已知雇佣间谍软件的痕迹",
+  "category": "安全/安全工具",
+  "form": "CLI工具",
+  "tags": [
+   "间谍软件检测",
+   "离线扫描",
+   "隐私安全",
+   "数字取证",
+   "Python"
+  ],
+  "language": "Python",
+  "stars": 3628,
+  "gain7": 3628,
+  "score": 77.0,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-30",
   "pushed_at": "2026-10-29"
  },
  {
@@ -453,30 +477,6 @@
   "similar": [],
   "first_seen": "2026-10-29",
   "pushed_at": "2026-10-30"
- },
- {
-  "full_name": "interplains/Zero-Breach-Toolkit",
-  "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-  "summary": "开源离线检测工具，用于排查设备中已知雇佣间谍软件的痕迹",
-  "category": "安全/安全工具",
-  "form": "CLI工具",
-  "tags": [
-   "间谍软件检测",
-   "离线扫描",
-   "隐私安全",
-   "数字取证",
-   "Python"
-  ],
-  "language": "Python",
-  "stars": 3627,
-  "gain7": 3627,
-  "score": 77.0,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-30",
-  "pushed_at": "2026-10-29"
  },
  {
   "full_name": "storytold/lightcraft",
@@ -516,7 +516,7 @@
    "子代理"
   ],
   "language": "Shell",
-  "stars": 308625,
+  "stars": 308627,
   "gain7": 4894,
   "score": 76.8,
   "flags": [],
@@ -612,7 +612,7 @@
    "性能优化"
   ],
   "language": "C",
-  "stars": 13122,
+  "stars": 13123,
   "gain7": 7655,
   "score": 75.6,
   "flags": [],
@@ -636,7 +636,7 @@
    "Agent插件"
   ],
   "language": "TypeScript",
-  "stars": 104858,
+  "stars": 104860,
   "gain7": 1008,
   "score": 75.2,
   "flags": [],
@@ -755,8 +755,8 @@
    "Agent 插件"
   ],
   "language": "JavaScript",
-  "stars": 3397,
-  "gain7": 1698,
+  "stars": 3398,
+  "gain7": 1699,
   "score": 74.3,
   "flags": [],
   "status": "",
@@ -779,7 +779,7 @@
    "操作审计"
   ],
   "language": "TypeScript",
-  "stars": 8194,
+  "stars": 8195,
   "gain7": 741,
   "score": 74.2,
   "flags": [],
@@ -1090,8 +1090,8 @@
    "Vulkan"
   ],
   "language": "Rust",
-  "stars": 4364,
-  "gain7": 1131,
+  "stars": 4365,
+  "gain7": 1132,
   "score": 72.9,
   "flags": [],
   "status": "",
@@ -1114,7 +1114,7 @@
    "原生移植"
   ],
   "language": "C",
-  "stars": 6449,
+  "stars": 6450,
   "gain7": 3473,
   "score": 72.8,
   "flags": [],
@@ -1161,7 +1161,7 @@
    "代码审计"
   ],
   "language": "JavaScript",
-  "stars": 52919,
+  "stars": 52922,
   "gain7": 16002,
   "score": 72.5,
   "flags": [],
@@ -1209,7 +1209,7 @@
    "开源"
   ],
   "language": "TypeScript",
-  "stars": 3610,
+  "stars": 3611,
   "gain7": 972,
   "score": 72.3,
   "flags": [],
@@ -1257,8 +1257,8 @@
    "MCP"
   ],
   "language": "Rust",
-  "stars": 6821,
-  "gain7": 2076,
+  "stars": 6823,
+  "gain7": 2077,
   "score": 71.0,
   "flags": [],
   "status": "",
@@ -1305,8 +1305,8 @@
    "游戏移植"
   ],
   "language": "Python",
-  "stars": 9761,
-  "gain7": 4019,
+  "stars": 9765,
+  "gain7": 4021,
   "score": 69.8,
   "flags": [],
   "status": "",
@@ -1353,7 +1353,7 @@
    "模板"
   ],
   "language": "Shell",
-  "stars": 29291,
+  "stars": 29293,
   "gain7": 1614,
   "score": 69.4,
   "flags": [],
@@ -1377,7 +1377,7 @@
    "开放数据"
   ],
   "language": "Python",
-  "stars": 5230,
+  "stars": 5231,
   "gain7": 3051,
   "score": 68.9,
   "flags": [],
@@ -1401,8 +1401,8 @@
    "JavaScript"
   ],
   "language": "JavaScript",
-  "stars": 5353,
-  "gain7": 2204,
+  "stars": 5358,
+  "gain7": 2206,
   "score": 67.7,
   "flags": [],
   "status": "",
@@ -1449,7 +1449,7 @@
    "知识工作"
   ],
   "language": "Python",
-  "stars": 33863,
+  "stars": 33864,
   "gain7": 2612,
   "score": 67.1,
   "flags": [],
@@ -1520,7 +1520,7 @@
    "提示注入"
   ],
   "language": "",
-  "stars": 9137,
+  "stars": 9141,
   "gain7": 4830,
   "score": 65.3,
   "flags": [],
@@ -1627,6 +1627,54 @@
   "pushed_at": "2026-10-28"
  },
  {
+  "full_name": "Jakeschincariol/day-trader-skill",
+  "url": "https://github.com/Jakeschincariol/day-trader-skill",
+  "summary": "11 个 Claude 日交易技能，覆盖选股、新闻、出入场、回放与风控。",
+  "category": "AI/Agent",
+  "form": "其他",
+  "tags": [
+   "Claude Skills",
+   "日交易",
+   "回测",
+   "风险管理",
+   "Python"
+  ],
+  "language": "Python",
+  "stars": 3257,
+  "gain7": 2280,
+  "score": 60.3,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-30",
+  "pushed_at": "2026-10-20"
+ },
+ {
+  "full_name": "aicodeking/leanrea",
+  "url": "https://github.com/aicodeking/leanrea",
+  "summary": "8KB 技能文件，让 AI 代理用普通 CLI 工具完成逆向工程",
+  "category": "AI/Agent",
+  "form": "其他",
+  "tags": [
+   "逆向工程",
+   "AI Agent",
+   "Skill",
+   "CLI",
+   "效率"
+  ],
+  "language": "Python",
+  "stars": 3627,
+  "gain7": 1953,
+  "score": 59.8,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-29",
+  "pushed_at": "2026-10-19"
+ },
+ {
   "full_name": "google-research/harness2",
   "url": "https://github.com/google-research/harness2",
   "summary": "递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置",
@@ -1640,7 +1688,7 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 21324,
+  "stars": 21325,
   "gain7": 6220,
   "score": 59.6,
   "flags": [],
@@ -1649,6 +1697,30 @@
   "similar": [],
   "first_seen": "2026-10-29",
   "pushed_at": "2026-10-14"
+ },
+ {
+  "full_name": "Jakeschincariol/replica-skill",
+  "url": "https://github.com/Jakeschincariol/replica-skill",
+  "summary": "一套 Claude 技能，用于逆向分析应用并重建功能与流程。",
+  "category": "AI/Agent",
+  "form": "其他",
+  "tags": [
+   "Claude Skills",
+   "逆向工程",
+   "应用克隆",
+   "Agent",
+   "Python"
+  ],
+  "language": "Python",
+  "stars": 6496,
+  "gain7": 1684,
+  "score": 59.3,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-29",
+  "pushed_at": "2026-10-03"
  },
  {
   "full_name": "openai/math",
@@ -1664,7 +1736,7 @@
    "OpenAI"
   ],
   "language": "Lean",
-  "stars": 17073,
+  "stars": 17074,
   "gain7": 4980,
   "score": 58.6,
   "flags": [],
@@ -1673,59 +1745,5 @@
   "similar": [],
   "first_seen": "2026-10-29",
   "pushed_at": "2026-10-30"
- },
- {
-  "full_name": "Jakeschincariol/day-trader-skill",
-  "url": "https://github.com/Jakeschincariol/day-trader-skill",
-  "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-  "category": "未分类/待 AI 处理",
-  "form": "",
-  "tags": [],
-  "language": "Python",
-  "stars": 3257,
-  "gain7": 2280,
-  "score": 56.3,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-30",
-  "pushed_at": "2026-10-20"
- },
- {
-  "full_name": "aicodeking/leanrea",
-  "url": "https://github.com/aicodeking/leanrea",
-  "summary": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-  "category": "未分类/待 AI 处理",
-  "form": "",
-  "tags": [],
-  "language": "Python",
-  "stars": 3627,
-  "gain7": 1953,
-  "score": 55.8,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-19"
- },
- {
-  "full_name": "Jakeschincariol/replica-skill",
-  "url": "https://github.com/Jakeschincariol/replica-skill",
-  "summary": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-  "category": "未分类/待 AI 处理",
-  "form": "",
-  "tags": [],
-  "language": "Python",
-  "stars": 6496,
-  "gain7": 1684,
-  "score": 55.3,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-03"
  }
 ]

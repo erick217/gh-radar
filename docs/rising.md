@@ -16,8 +16,8 @@
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 基于多智能体LLM协作的金融交易分析框架，模拟投研团队分工决策。 | AI/Agent | 框架 | Python | 118.4k | +5.6k | 81 |  |
 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 参照 tvOS 设计的无广告 Android TV 桌面，可接管国产电视主页。 | 移动与桌面/桌面应用 | 桌面应用 | Kotlin | 7.8k | +5.4k | 78 |  |
 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 用 Rust 编写的开源文字处理器，支持读写 .docx，可跨平台使用 | 移动与桌面/桌面应用 | 桌面应用 | Rust | 16.6k | +5.1k | 78 |  |
-| [openai/math](https://github.com/openai/math) | OpenAI 模型生成的数学手稿与 Lean 形式化证明合集 | 其他/其他 | 资源列表 | Lean | 17.1k | +5.0k | 59 |  |
 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 用 AI 将文档或主题生成可原生编辑的 PowerPoint 演示文稿 | AI/AI应用 | CLI工具 | Python | 70.9k | +5.0k | 80 |  |
+| [openai/math](https://github.com/openai/math) | OpenAI 模型生成的数学手稿与 Lean 形式化证明合集 | 其他/其他 | 资源列表 | Lean | 17.1k | +5.0k | 59 |  |
 | [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 308.6k | +4.9k | 77 |  |
 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 学习资源/资源合集 | 资源列表 |  | 9.1k | +4.8k | 65 |  |
 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 通过 adb 关闭国产安卓系统广告和营销推送，无需 root。 | 效率与自托管/自动化 | 桌面应用 | Python | 4.8k | +4.8k | 74 |  |
@@ -32,5 +32,5 @@
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源Grok Bot替代品：聊天式多AI智能体桌面应用，可操作电脑 | AI/Agent | 桌面应用 | TypeScript | 7.5k | +3.6k | 80 |  |
 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 为 AI 编码工具提供可安装的落地页设计技能规则 | AI/Agent | 资源列表 |  | 12.2k | +3.6k | 61 |  |
 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | 纯 Rust 编写的开源非破坏性照片库与 RAW 修图工具 | 多媒体/图像 | 桌面应用 | Rust | 15.1k | +3.5k | 77 |  |
-| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 将Switch游戏原生移植到Apple芯片的技术项目 | 其他/其他 | 其他 | C | 6.4k | +3.5k | 73 |  |
+| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 将Switch游戏原生移植到Apple芯片的技术项目 | 其他/其他 | 其他 | C | 6.5k | +3.5k | 73 |  |
 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 为 Google TV、LG 和三星电视提供无广告的快速主屏幕启动器。 | 移动与桌面/桌面应用 | 桌面应用 | Java | 5.4k | +3.4k | 77 |  |

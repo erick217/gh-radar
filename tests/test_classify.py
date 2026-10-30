@@ -63,7 +63,7 @@ class ClassifierTests(unittest.TestCase):
         bad_results = [[], None, {}, dict(RESULT, category="未知/分类"),
                        dict(RESULT, form="未知形态"), dict(RESULT, is_practical="false"),
                        dict(RESULT, tags="不是数组"), dict(RESULT, tags=["只有一个"]),
-                       dict(RESULT, tags=["标签", "标签", 42]), dict(RESULT, summary="字" * 41),
+                       dict(RESULT, tags=["标签", "标签", 42]),
                        dict(RESULT, reason=""), dict(RESULT, unexpected="字段")]
         contents = ["", "not json"] + [json.dumps(item) for item in bad_results]
         for content in contents:
@@ -79,6 +79,14 @@ class ClassifierTests(unittest.TestCase):
         with redirect_stdout(io.StringIO()):
             result = classify_one(client, {"full_name": "demo/tool"}, "README", CFG, CATEGORIES, FORMS)
         self.assertIsNone(result)
+
+    def test_summary_length_target_does_not_discard_an_otherwise_valid_result(self):
+        summary = "为 Android TV 和 Google TV 提供去除预装应用和替换启动器的工具。"
+        self.assertGreater(len(summary), 40)
+        client = Mock()
+        client.post.return_value = response(json.dumps(dict(RESULT, summary=summary)))
+        result = classify_one(client, {"full_name": "demo/tool"}, "README", CFG, CATEGORIES, FORMS)
+        self.assertEqual(result["summary"], summary)
 
     def test_missing_or_empty_choices_are_rejected(self):
         for envelope in ({}, {"choices": []}, {"choices": [{}]}, None):
@@ -151,11 +159,11 @@ class ClassifierTests(unittest.TestCase):
     def test_validation_diagnostic_contains_only_local_check_message(self):
         output = io.StringIO()
         with patch("radar.classify.requests.Session"), \
-                patch("radar.classify.classify_one", side_effect=InvalidClassification("中文简介超过 40 字")), \
+                patch("radar.classify.classify_one", side_effect=InvalidClassification("分类或形态不在固定清单中")), \
                 redirect_stdout(output):
             stats = classify(records(), {"ai": dict(CFG, max_per_run=1)}, {}, CATEGORIES, FORMS, Mock())
         self.assertEqual(stats["failed"], 1)
-        self.assertIn("中文简介超过 40 字", output.getvalue())
+        self.assertIn("分类或形态不在固定清单中", output.getvalue())
         self.assertNotIn("test-credential", output.getvalue())
 
 

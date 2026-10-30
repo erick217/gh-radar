@@ -32,7 +32,8 @@ def _schema(categories: list[str], forms: list[str]) -> dict:
     return {
         "type": "object",
         "properties": {
-            "summary": {"type": "string", "minLength": 1, "maxLength": 40},
+            "summary": {"type": "string", "minLength": 1,
+                        "description": "尽量控制在 40 字以内的一句话中文简介"},
             "category": {"type": "string", "enum": categories},
             "form": {"type": "string", "enum": forms},
             "tags": {"type": "array", "minItems": 3, "maxItems": 5,
@@ -65,8 +66,6 @@ def _validate_result(data: dict, categories: list[str], forms: list[str]) -> Non
     for field in ("summary", "category", "form", "reason"):
         if not isinstance(data[field], str) or not data[field].strip():
             raise InvalidClassification(f"分类结果的 {field} 必须是非空字符串")
-    if len(data["summary"]) > 40:
-        raise InvalidClassification("中文简介超过 40 字")
     if data["category"] not in categories or data["form"] not in forms:
         raise InvalidClassification("分类或形态不在固定清单中")
     if type(data["is_practical"]) is not bool:

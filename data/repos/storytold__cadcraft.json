@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3100,
+  "forks": 3107,
   "full_name": "storytold/cadcraft",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2191,
+    "gain7": 2194,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 7159,
-    "2026-10-30": 7198
+    "2026-10-30": 7209
   },
   "topics": [],
   "trending": {},

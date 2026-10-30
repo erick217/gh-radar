@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 8490,
+  "forks": 8495,
   "full_name": "php/php-src",
   "homepage": "https://www.php.net",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 41710,
-    "2026-10-30": 41724
+    "2026-10-30": 41728
   },
   "topics": [],
   "trending": {

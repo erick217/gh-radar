@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 6985,
+  "forks": 6992,
   "full_name": "storytold/filmcraft",
   "homepage": "https://getartcraft.com/apps/filmcraft",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3937,
+    "gain7": 3941,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 16807,
-    "2026-10-30": 16871
+    "2026-10-30": 16892
   },
   "topics": [
     "art",

@@ -13,7 +13,7 @@
    "前端设计"
   ],
   "language": "Rust",
-  "stars": 95482,
+  "stars": 95933,
   "gain7": 9713,
   "score": 83.2,
   "flags": [],
@@ -37,15 +37,15 @@
    "启动器"
   ],
   "language": "Python",
-  "stars": 45572,
-  "gain7": 24539,
+  "stars": 45799,
+  "gain7": 24661,
   "score": 83.0,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "storytold/photocraft",
@@ -60,8 +60,8 @@
    "图层蒙版"
   ],
   "language": "Rust",
-  "stars": 74861,
-  "gain7": 17468,
+  "stars": 74937,
+  "gain7": 17485,
   "score": 82.5,
   "flags": [],
   "status": "",
@@ -84,7 +84,7 @@
    "学习平台"
   ],
   "language": "Python",
-  "stars": 50241,
+  "stars": 50841,
   "gain7": 5790,
   "score": 81.4,
   "flags": [],
@@ -108,7 +108,7 @@
    "TradingAgents"
   ],
   "language": "Python",
-  "stars": 118357,
+  "stars": 118442,
   "gain7": 5557,
   "score": 81.3,
   "flags": [],
@@ -132,7 +132,7 @@
    "AI编程"
   ],
   "language": "JavaScript",
-  "stars": 105600,
+  "stars": 105782,
   "gain7": 4359,
   "score": 80.4,
   "flags": [],
@@ -140,7 +140,7 @@
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "AgriciDaniel/claude-seo",
@@ -156,7 +156,7 @@
    "插件"
   ],
   "language": "Python",
-  "stars": 24028,
+  "stars": 24134,
   "gain7": 4110,
   "score": 80.2,
   "flags": [],
@@ -180,7 +180,7 @@
    "Electron"
   ],
   "language": "TypeScript",
-  "stars": 7537,
+  "stars": 7715,
   "gain7": 3597,
   "score": 79.7,
   "flags": [],
@@ -204,7 +204,7 @@
    "pi"
   ],
   "language": "TypeScript",
-  "stars": 6059,
+  "stars": 6203,
   "gain7": 3351,
   "score": 79.5,
   "flags": [],
@@ -228,7 +228,7 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 70878,
+  "stars": 71033,
   "gain7": 4980,
   "score": 79.5,
   "flags": [],
@@ -236,7 +236,7 @@
   "note": "",
   "similar": [],
   "first_seen": "2026-10-30",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "wheresryan22/anatomy",
@@ -252,8 +252,8 @@
    "AI 绘图"
   ],
   "language": "JavaScript",
-  "stars": 22646,
-  "gain7": 7206,
+  "stars": 22747,
+  "gain7": 7238,
   "score": 79.4,
   "flags": [],
   "status": "",
@@ -276,8 +276,8 @@
    "Kotlin"
   ],
   "language": "Kotlin",
-  "stars": 7769,
-  "gain7": 5438,
+  "stars": 7875,
+  "gain7": 5512,
   "score": 78.4,
   "flags": [],
   "status": "",
@@ -300,8 +300,8 @@
    "跨平台"
   ],
   "language": "Rust",
-  "stars": 16624,
-  "gain7": 5059,
+  "stars": 16653,
+  "gain7": 5068,
   "score": 78.1,
   "flags": [],
   "status": "",
@@ -324,7 +324,7 @@
    "Electron"
   ],
   "language": "TypeScript",
-  "stars": 3918,
+  "stars": 4045,
   "gain7": 2127,
   "score": 77.9,
   "flags": [],
@@ -348,9 +348,9 @@
    "固件生成"
   ],
   "language": "C",
-  "stars": 4525,
-  "gain7": 4525,
-  "score": 77.7,
+  "stars": 4541,
+  "gain7": 4541,
+  "score": 77.8,
   "flags": [],
   "status": "",
   "note": "",
@@ -372,8 +372,8 @@
    "跨平台"
   ],
   "language": "Rust",
-  "stars": 18645,
-  "gain7": 4350,
+  "stars": 18680,
+  "gain7": 4359,
   "score": 77.6,
   "flags": [],
   "status": "",
@@ -396,7 +396,7 @@
    "工作流编排"
   ],
   "language": "TypeScript",
-  "stars": 80153,
+  "stars": 80190,
   "gain7": 1930,
   "score": 77.5,
   "flags": [],
@@ -420,8 +420,8 @@
    "开源"
   ],
   "language": "Rust",
-  "stars": 16871,
-  "gain7": 3937,
+  "stars": 16892,
+  "gain7": 3941,
   "score": 77.3,
   "flags": [],
   "status": "",
@@ -444,8 +444,8 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 3628,
-  "gain7": 3628,
+  "stars": 3683,
+  "gain7": 3683,
   "score": 77.0,
   "flags": [],
   "status": "",
@@ -468,8 +468,8 @@
    "桌面应用"
   ],
   "language": "Rust",
-  "stars": 12083,
-  "gain7": 3677,
+  "stars": 12127,
+  "gain7": 3691,
   "score": 77.0,
   "flags": [],
   "status": "",
@@ -492,15 +492,15 @@
    "MCP"
   ],
   "language": "Rust",
-  "stars": 15057,
-  "gain7": 3513,
+  "stars": 15065,
+  "gain7": 3515,
   "score": 76.9,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "obra/superpowers",
@@ -516,7 +516,7 @@
    "子代理"
   ],
   "language": "Shell",
-  "stars": 308627,
+  "stars": 308869,
   "gain7": 4894,
   "score": 76.8,
   "flags": [],
@@ -540,8 +540,8 @@
    "开源"
   ],
   "language": "Java",
-  "stars": 5398,
-  "gain7": 3435,
+  "stars": 5414,
+  "gain7": 3445,
   "score": 76.8,
   "flags": [],
   "status": "",
@@ -564,7 +564,7 @@
    "C语言"
   ],
   "language": "C",
-  "stars": 41724,
+  "stars": 41728,
   "gain7": 1201,
   "score": 75.9,
   "flags": [],
@@ -588,8 +588,8 @@
    "开源"
   ],
   "language": "Rust",
-  "stars": 11010,
-  "gain7": 2569,
+  "stars": 11015,
+  "gain7": 2570,
   "score": 75.7,
   "flags": [],
   "status": "",
@@ -612,8 +612,8 @@
    "性能优化"
   ],
   "language": "C",
-  "stars": 13123,
-  "gain7": 7655,
+  "stars": 13209,
+  "gain7": 7705,
   "score": 75.6,
   "flags": [],
   "status": "",
@@ -636,7 +636,7 @@
    "Agent插件"
   ],
   "language": "TypeScript",
-  "stars": 104860,
+  "stars": 105076,
   "gain7": 1008,
   "score": 75.2,
   "flags": [],
@@ -644,7 +644,7 @@
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "amosblomqvist/learnharness",
@@ -659,8 +659,8 @@
    "桌面应用"
   ],
   "language": "TypeScript",
-  "stars": 4032,
-  "gain7": 2016,
+  "stars": 4095,
+  "gain7": 2048,
   "score": 74.9,
   "flags": [],
   "status": "",
@@ -683,8 +683,8 @@
    "关键帧动画"
   ],
   "language": "Rust",
-  "stars": 8168,
-  "gain7": 1972,
+  "stars": 8177,
+  "gain7": 1974,
   "score": 74.8,
   "flags": [],
   "status": "",
@@ -707,8 +707,8 @@
    "桌面应用"
   ],
   "language": "Swift",
-  "stars": 6015,
-  "gain7": 1914,
+  "stars": 6022,
+  "gain7": 1916,
   "score": 74.7,
   "flags": [],
   "status": "",
@@ -731,8 +731,8 @@
    "Android"
   ],
   "language": "C",
-  "stars": 4878,
-  "gain7": 1897,
+  "stars": 4885,
+  "gain7": 1900,
   "score": 74.7,
   "flags": [],
   "status": "",
@@ -755,8 +755,8 @@
    "Agent 插件"
   ],
   "language": "JavaScript",
-  "stars": 3398,
-  "gain7": 1699,
+  "stars": 3436,
+  "gain7": 1718,
   "score": 74.3,
   "flags": [],
   "status": "",
@@ -779,7 +779,7 @@
    "操作审计"
   ],
   "language": "TypeScript",
-  "stars": 8195,
+  "stars": 8339,
   "gain7": 741,
   "score": 74.2,
   "flags": [],
@@ -788,53 +788,6 @@
   "similar": [],
   "first_seen": "2026-10-29",
   "pushed_at": "2026-10-29"
- },
- {
-  "full_name": "T-Auto/dsh-ops",
-  "url": "https://github.com/T-Auto/dsh-ops",
-  "summary": "DSH 底层操作插件，降低 Token 消耗与任务耗时。",
-  "category": "AI/Agent",
-  "form": "其他",
-  "tags": [
-   "DSH插件",
-   "Token优化",
-   "AI Agent",
-   "工具集成"
-  ],
-  "language": "JavaScript",
-  "stars": 4785,
-  "gain7": 1522,
-  "score": 73.9,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
- },
- {
-  "full_name": "onehumanbeing/esp32-iphone-agent",
-  "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-  "summary": "用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击",
-  "category": "AI/Agent",
-  "form": "其他",
-  "tags": [
-   "ESP32",
-   "iPhone自动化",
-   "AI Agent",
-   "AirPlay",
-   "USB HID"
-  ],
-  "language": "C",
-  "stars": 4099,
-  "gain7": 1510,
-  "score": 73.9,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-28"
  },
  {
   "full_name": "rddmwmddr/android-ad-cleaner",
@@ -850,15 +803,62 @@
    "桌面客户端"
   ],
   "language": "Python",
-  "stars": 4757,
-  "gain7": 4757,
+  "stars": 4855,
+  "gain7": 4855,
+  "score": 74.0,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-29",
+  "pushed_at": "2026-10-30"
+ },
+ {
+  "full_name": "T-Auto/dsh-ops",
+  "url": "https://github.com/T-Auto/dsh-ops",
+  "summary": "DSH 底层操作插件，降低 Token 消耗与任务耗时。",
+  "category": "AI/Agent",
+  "form": "其他",
+  "tags": [
+   "DSH插件",
+   "Token优化",
+   "AI Agent",
+   "工具集成"
+  ],
+  "language": "JavaScript",
+  "stars": 4807,
+  "gain7": 1530,
   "score": 73.9,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
+ },
+ {
+  "full_name": "onehumanbeing/esp32-iphone-agent",
+  "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+  "summary": "用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击",
+  "category": "AI/Agent",
+  "form": "其他",
+  "tags": [
+   "ESP32",
+   "iPhone自动化",
+   "AI Agent",
+   "AirPlay",
+   "USB HID"
+  ],
+  "language": "C",
+  "stars": 4109,
+  "gain7": 1514,
+  "score": 73.9,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-29",
+  "pushed_at": "2026-10-28"
  },
  {
   "full_name": "storytold/craft-launcher",
@@ -874,15 +874,15 @@
    "安装更新"
   ],
   "language": "Rust",
-  "stars": 4321,
-  "gain7": 1440,
+  "stars": 4329,
+  "gain7": 1443,
   "score": 73.7,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "Fei2411/DS-Bot",
@@ -898,8 +898,8 @@
    "记忆"
   ],
   "language": "JavaScript",
-  "stars": 4534,
-  "gain7": 1380,
+  "stars": 4565,
+  "gain7": 1389,
   "score": 73.6,
   "flags": [],
   "status": "",
@@ -922,8 +922,8 @@
    "开源办公"
   ],
   "language": "Rust",
-  "stars": 4419,
-  "gain7": 1345,
+  "stars": 4426,
+  "gain7": 1347,
   "score": 73.5,
   "flags": [],
   "status": "",
@@ -946,9 +946,33 @@
    "协作"
   ],
   "language": "Rust",
-  "stars": 3839,
-  "gain7": 1280,
+  "stars": 3852,
+  "gain7": 1284,
   "score": 73.3,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-29",
+  "pushed_at": "2026-10-30"
+ },
+ {
+  "full_name": "QingYunA/answer-me-with-html",
+  "url": "https://github.com/QingYunA/answer-me-with-html",
+  "summary": "让 AI Agent 用一页可读 HTML 回答复杂问题，自带 CLI 渲染。",
+  "category": "AI/Agent",
+  "form": "CLI工具",
+  "tags": [
+   "Agent Skill",
+   "HTML",
+   "文档生成",
+   "Claude Code",
+   "可视化"
+  ],
+  "language": "JavaScript",
+  "stars": 4811,
+  "gain7": 1203,
+  "score": 73.1,
   "flags": [],
   "status": "",
   "note": "",
@@ -970,8 +994,8 @@
    "环境检测"
   ],
   "language": "Rust",
-  "stars": 3279,
-  "gain7": 1208,
+  "stars": 3288,
+  "gain7": 1211,
   "score": 73.1,
   "flags": [],
   "status": "",
@@ -979,30 +1003,6 @@
   "similar": [],
   "first_seen": "2026-10-30",
   "pushed_at": "2026-10-28"
- },
- {
-  "full_name": "QingYunA/answer-me-with-html",
-  "url": "https://github.com/QingYunA/answer-me-with-html",
-  "summary": "让 AI Agent 用一页可读 HTML 回答复杂问题，自带 CLI 渲染。",
-  "category": "AI/Agent",
-  "form": "CLI工具",
-  "tags": [
-   "Agent Skill",
-   "HTML",
-   "文档生成",
-   "Claude Code",
-   "可视化"
-  ],
-  "language": "JavaScript",
-  "stars": 4758,
-  "gain7": 1190,
-  "score": 73.0,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "nullmoth/nvidia-macos-driver",
@@ -1018,8 +1018,8 @@
    "Rust"
   ],
   "language": "Rust",
-  "stars": 3884,
-  "gain7": 1182,
+  "stars": 3889,
+  "gain7": 1184,
   "score": 73.0,
   "flags": [],
   "status": "",
@@ -1042,8 +1042,8 @@
    "开源"
   ],
   "language": "Rust",
-  "stars": 4933,
-  "gain7": 1191,
+  "stars": 4937,
+  "gain7": 1192,
   "score": 73.0,
   "flags": [],
   "status": "",
@@ -1066,8 +1066,8 @@
    "混音"
   ],
   "language": "Rust",
-  "stars": 3898,
-  "gain7": 1186,
+  "stars": 3900,
+  "gain7": 1187,
   "score": 73.0,
   "flags": [],
   "status": "",
@@ -1090,8 +1090,8 @@
    "Vulkan"
   ],
   "language": "Rust",
-  "stars": 4365,
-  "gain7": 1132,
+  "stars": 4438,
+  "gain7": 1151,
   "score": 72.9,
   "flags": [],
   "status": "",
@@ -1114,8 +1114,8 @@
    "原生移植"
   ],
   "language": "C",
-  "stars": 6450,
-  "gain7": 3473,
+  "stars": 6493,
+  "gain7": 3496,
   "score": 72.8,
   "flags": [],
   "status": "",
@@ -1138,8 +1138,8 @@
    "轻量"
   ],
   "language": "TypeScript",
-  "stars": 3887,
-  "gain7": 1088,
+  "stars": 3900,
+  "gain7": 1092,
   "score": 72.7,
   "flags": [],
   "status": "",
@@ -1161,7 +1161,7 @@
    "代码审计"
   ],
   "language": "JavaScript",
-  "stars": 52922,
+  "stars": 53154,
   "gain7": 16002,
   "score": 72.5,
   "flags": [],
@@ -1185,8 +1185,8 @@
    "桌面客户端"
   ],
   "language": "Rust",
-  "stars": 3939,
-  "gain7": 985,
+  "stars": 3961,
+  "gain7": 990,
   "score": 72.4,
   "flags": [],
   "status": "",
@@ -1209,15 +1209,15 @@
    "开源"
   ],
   "language": "TypeScript",
-  "stars": 3611,
-  "gain7": 972,
-  "score": 72.3,
+  "stars": 3649,
+  "gain7": 982,
+  "score": 72.4,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "storytold/cadcraft",
@@ -1233,8 +1233,8 @@
    "开源"
   ],
   "language": "Rust",
-  "stars": 7198,
-  "gain7": 2191,
+  "stars": 7209,
+  "gain7": 2194,
   "score": 71.2,
   "flags": [],
   "status": "",
@@ -1257,8 +1257,8 @@
    "MCP"
   ],
   "language": "Rust",
-  "stars": 6823,
-  "gain7": 2077,
+  "stars": 6835,
+  "gain7": 2080,
   "score": 71.0,
   "flags": [],
   "status": "",
@@ -1281,7 +1281,7 @@
    "AI出图"
   ],
   "language": "Python",
-  "stars": 3829,
+  "stars": 3831,
   "gain7": 1577,
   "score": 70.0,
   "flags": [],
@@ -1305,9 +1305,9 @@
    "游戏移植"
   ],
   "language": "Python",
-  "stars": 9765,
-  "gain7": 4021,
-  "score": 69.8,
+  "stars": 9889,
+  "gain7": 4072,
+  "score": 69.9,
   "flags": [],
   "status": "",
   "note": "",
@@ -1329,8 +1329,8 @@
    "USB调试"
   ],
   "language": "Python",
-  "stars": 4765,
-  "gain7": 1390,
+  "stars": 4776,
+  "gain7": 1393,
   "score": 69.6,
   "flags": [],
   "status": "",
@@ -1353,7 +1353,7 @@
    "模板"
   ],
   "language": "Shell",
-  "stars": 29293,
+  "stars": 29622,
   "gain7": 1614,
   "score": 69.4,
   "flags": [],
@@ -1377,8 +1377,8 @@
    "开放数据"
   ],
   "language": "Python",
-  "stars": 5231,
-  "gain7": 3051,
+  "stars": 5345,
+  "gain7": 3118,
   "score": 68.9,
   "flags": [],
   "status": "",
@@ -1401,15 +1401,15 @@
    "JavaScript"
   ],
   "language": "JavaScript",
-  "stars": 5358,
-  "gain7": 2206,
-  "score": 67.7,
+  "stars": 5659,
+  "gain7": 2330,
+  "score": 67.9,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "rehan-remade/universal-modder",
@@ -1425,15 +1425,15 @@
    "AI Agent"
   ],
   "language": "Python",
-  "stars": 9199,
-  "gain7": 2146,
+  "stars": 9210,
+  "gain7": 2149,
   "score": 67.6,
   "flags": [],
   "status": "",
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-10-29"
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "anthropics/knowledge-work-plugins",
@@ -1449,7 +1449,7 @@
    "知识工作"
   ],
   "language": "Python",
-  "stars": 33864,
+  "stars": 33902,
   "gain7": 2612,
   "score": 67.1,
   "flags": [],
@@ -1473,8 +1473,8 @@
    "风格配方"
   ],
   "language": "JavaScript",
-  "stars": 5765,
-  "gain7": 1681,
+  "stars": 5787,
+  "gain7": 1688,
   "score": 66.8,
   "flags": [],
   "status": "",
@@ -1497,8 +1497,8 @@
    "声音评测"
   ],
   "language": "Python",
-  "stars": 3242,
-  "gain7": 1513,
+  "stars": 3265,
+  "gain7": 1524,
   "score": 66.4,
   "flags": [],
   "status": "",
@@ -1506,6 +1506,30 @@
   "similar": [],
   "first_seen": "2026-10-30",
   "pushed_at": "2026-10-22"
+ },
+ {
+  "full_name": "anhao/ai-pose-gallery-zh",
+  "url": "https://github.com/anhao/ai-pose-gallery-zh",
+  "summary": "中文汉化的 AI 姿势参考图库，含 1439 组图片与静态画廊。",
+  "category": "多媒体/图像",
+  "form": "Web应用",
+  "tags": [
+   "AI绘画",
+   "姿势参考",
+   "图库",
+   "静态站点",
+   "汉化"
+  ],
+  "language": "HTML",
+  "stars": 3483,
+  "gain7": 3483,
+  "score": 65.6,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-30",
+  "pushed_at": "2026-10-30"
  },
  {
   "full_name": "togg53192-cmd/jailbreaks",
@@ -1520,7 +1544,7 @@
    "提示注入"
   ],
   "language": "",
-  "stars": 9141,
+  "stars": 9586,
   "gain7": 4830,
   "score": 65.3,
   "flags": [],
@@ -1544,7 +1568,7 @@
    "Claude Code"
   ],
   "language": "Markdown",
-  "stars": 9186,
+  "stars": 9239,
   "gain7": 980,
   "score": 63.9,
   "flags": [],
@@ -1568,8 +1592,8 @@
    "高性能"
   ],
   "language": "Python",
-  "stars": 24263,
-  "gain7": 12132,
+  "stars": 24354,
+  "gain7": 12177,
   "score": 61.7,
   "flags": [],
   "status": "",
@@ -1592,7 +1616,7 @@
    "技能规则"
   ],
   "language": "",
-  "stars": 12224,
+  "stars": 12499,
   "gain7": 3561,
   "score": 60.7,
   "flags": [],
@@ -1616,8 +1640,8 @@
    "Windows"
   ],
   "language": "C++",
-  "stars": 3757,
-  "gain7": 907,
+  "stars": 3760,
+  "gain7": 908,
   "score": 60.6,
   "flags": [],
   "status": "",
@@ -1640,9 +1664,9 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 3257,
-  "gain7": 2280,
-  "score": 60.3,
+  "stars": 3346,
+  "gain7": 2342,
+  "score": 60.4,
   "flags": [],
   "status": "",
   "note": "",
@@ -1664,8 +1688,8 @@
    "效率"
   ],
   "language": "Python",
-  "stars": 3627,
-  "gain7": 1953,
+  "stars": 3675,
+  "gain7": 1979,
   "score": 59.8,
   "flags": [],
   "status": "",
@@ -1688,8 +1712,8 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 21325,
-  "gain7": 6220,
+  "stars": 21378,
+  "gain7": 6235,
   "score": 59.6,
   "flags": [],
   "status": "",
@@ -1712,8 +1736,8 @@
    "Python"
   ],
   "language": "Python",
-  "stars": 6496,
-  "gain7": 1684,
+  "stars": 6524,
+  "gain7": 1691,
   "score": 59.3,
   "flags": [],
   "status": "",
@@ -1736,8 +1760,8 @@
    "OpenAI"
   ],
   "language": "Lean",
-  "stars": 17074,
-  "gain7": 4980,
+  "stars": 17084,
+  "gain7": 4983,
   "score": 58.6,
   "flags": [],
   "status": "",

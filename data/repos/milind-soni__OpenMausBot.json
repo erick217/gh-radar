@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1121,
+  "forks": 1134,
   "full_name": "milind-soni/OpenMausBot",
   "homepage": "https://www.openmausbot.com/",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 7120,
-    "2026-10-30": 7537
+    "2026-10-30": 7715
   },
   "topics": [
     "ai-agents",

@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1789,
+  "forks": 1805,
   "full_name": "kingcharleslzy-ai/dsh-purge",
   "homepage": "https://github.com/kingcharleslzy-ai/dsh-purge/releases",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1699,
+    "gain7": 1718,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 3346,
-    "2026-10-30": 3398
+    "2026-10-30": 3436
   },
   "topics": [
     "agent-tools",

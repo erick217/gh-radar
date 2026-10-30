@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2411,
+  "forks": 2414,
   "full_name": "storytold/soundcraft",
   "homepage": "https://getartcraft.com/apps/soundcraft",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1186,
+    "gain7": 1187,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 3882,
-    "2026-10-30": 3898
+    "2026-10-30": 3900
   },
   "topics": [],
   "trending": {},

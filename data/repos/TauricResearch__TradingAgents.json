@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 22635,
+  "forks": 22653,
   "full_name": "TauricResearch/TradingAgents",
   "homepage": "https://arxiv.org/pdf/2412.20138",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 118157,
-    "2026-10-30": 118357
+    "2026-10-30": 118442
   },
   "topics": [
     "agent",

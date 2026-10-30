@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1284,
+  "forks": 1286,
   "full_name": "jhaizhou-ops/d2r-mobile",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1897,
+    "gain7": 1900,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 4855,
-    "2026-10-30": 4878
+    "2026-10-30": 4885
   },
   "topics": [
     "android",

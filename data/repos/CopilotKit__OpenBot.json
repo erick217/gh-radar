@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1049,
+  "forks": 1058,
   "full_name": "CopilotKit/OpenBot",
   "homepage": "https://www.copilotkit.ai/openbot",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 7829,
-    "2026-10-30": 8195
+    "2026-10-30": 8339
   },
   "topics": [
     "ag-ui",

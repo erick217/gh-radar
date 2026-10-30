@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 363,
+  "forks": 372,
   "full_name": "nightly-labs/openbot",
   "homepage": "https://openbot.run/",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 3636,
-    "2026-10-30": 3918
+    "2026-10-30": 4045
   },
   "topics": [
     "ai-agents",

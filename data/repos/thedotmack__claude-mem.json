@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9248,
+  "forks": 9262,
   "full_name": "thedotmack/claude-mem",
   "homepage": "https://claude-mem.ai",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-10-30",
   "latest_release": "v15.5.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-10-29",
+  "pushed_at": "2026-10-30",
   "readme_chars": 20031,
   "readme_hash": "11bd1257ca1b",
   "score": {
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 104302,
-    "2026-10-30": 104860
+    "2026-10-30": 105076
   },
   "topics": [
     "ai",

@@ -30,13 +30,13 @@
   "last_seen": "2026-10-30",
   "latest_release": "v0.4.4",
   "license": "MIT",
-  "pushed_at": "2026-10-29",
+  "pushed_at": "2026-10-30",
   "readme_chars": 9250,
   "readme_hash": "65eac8629790",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1522,
+    "gain7": 1530,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -49,7 +49,7 @@
   },
   "stars": {
     "2026-10-29": 4753,
-    "2026-10-30": 4785
+    "2026-10-30": 4807
   },
   "topics": [
     "dsh",

@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-10-30",
+    "category": "多媒体/图像",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "仓库已包含完整图片数据、零依赖前端和部署脚本，可直接本地预览或部署到 Cloudflare Pages 使用。",
+    "summary": "中文汉化的 AI 姿势参考图库，含 1439 组图片与静态画廊。",
+    "tags": [
+      "AI绘画",
+      "姿势参考",
+      "图库",
+      "静态站点",
+      "汉化"
+    ]
+  },
+  "archived": false,
+  "contributors": 2,
+  "created_at": "2026-10-27",
+  "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+  "details_at": "2026-10-30",
+  "first_seen": "2026-10-30",
+  "fork": false,
+  "forks": 902,
+  "full_name": "anhao/ai-pose-gallery-zh",
+  "homepage": "https://ai-pose-gallery.anhao.app",
+  "install_hint": true,
+  "language": "HTML",
+  "last_seen": "2026-10-30",
+  "latest_release": null,
+  "license": "NOASSERTION",
+  "pushed_at": "2026-10-30",
+  "readme_chars": 6474,
+  "readme_hash": "354b56dcaffd",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3483,
+    "gain7_source": "age",
+    "health": 0.55,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 65.6,
+    "trending_days_30": 0,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-10-30": 3483
+  },
+  "topics": [
+    "ai-art",
+    "chinese",
+    "cloudflare-pages",
+    "gallery",
+    "i18n",
+    "pose",
+    "reference-images",
+    "static-site"
+  ],
+  "trending": {},
+  "url": "https://github.com/anhao/ai-pose-gallery-zh"
+}

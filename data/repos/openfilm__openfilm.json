@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 338,
+  "forks": 343,
   "full_name": "openfilm/openfilm",
   "homepage": "https://openfilm.dev",
   "install_hint": true,
@@ -31,26 +31,26 @@
   "last_seen": "2026-10-30",
   "latest_release": "v0.2.6",
   "license": "MIT",
-  "pushed_at": "2026-10-29",
+  "pushed_at": "2026-10-30",
   "readme_chars": 8055,
   "readme_hash": "cebf1542e399",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 972,
+    "gain7": 982,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 72.3,
+    "total": 72.4,
     "trending_days_30": 0,
-    "velocity": 0.69
+    "velocity": 0.7
   },
   "stars": {
     "2026-10-29": 3525,
-    "2026-10-30": 3611
+    "2026-10-30": 3649
   },
   "topics": [
     "ai-video",

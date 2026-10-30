@@ -23,7 +23,7 @@
   "details_at": "2026-10-30",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 203,
+  "forks": 206,
   "full_name": "Leonxlnx/earshot",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1513,
+    "gain7": 1524,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
@@ -49,7 +49,7 @@
     "velocity": 0.74
   },
   "stars": {
-    "2026-10-30": 3242
+    "2026-10-30": 3265
   },
   "topics": [
     "ai-agents",

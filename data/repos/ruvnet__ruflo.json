@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9401,
+  "forks": 9402,
   "full_name": "ruvnet/ruflo",
   "homepage": "https://Cognitum.One",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 80076,
-    "2026-10-30": 80153
+    "2026-10-30": 80190
   },
   "topics": [
     "agentic-ai",

@@ -23,7 +23,7 @@
   "details_at": "2026-10-30",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 340,
+  "forks": 342,
   "full_name": "liseami/CCBaga",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1208,
+    "gain7": 1211,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -49,7 +49,7 @@
     "velocity": 0.72
   },
   "stars": {
-    "2026-10-30": 3279
+    "2026-10-30": 3288
   },
   "topics": [],
   "trending": {},

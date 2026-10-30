@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2532,
+  "forks": 2535,
   "full_name": "storytold/deckcraft",
   "homepage": "https://getartcraft.com/apps/slidecraft",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1345,
+    "gain7": 1347,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 4401,
-    "2026-10-30": 4419
+    "2026-10-30": 4426
   },
   "topics": [],
   "trending": {},

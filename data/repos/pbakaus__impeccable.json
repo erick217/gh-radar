@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5629,
+  "forks": 5650,
   "full_name": "pbakaus/impeccable",
   "homepage": "https://impeccable.style",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-10-29": 94463,
-    "2026-10-30": 95482
+    "2026-10-30": 95933
   },
   "topics": [
     "agent-skills",

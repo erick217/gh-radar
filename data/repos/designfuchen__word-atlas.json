@@ -23,7 +23,7 @@
   "details_at": "2026-10-30",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 712,
+  "forks": 720,
   "full_name": "designfuchen/word-atlas",
   "homepage": "https://0xlei.tech/words/",
   "install_hint": false,
@@ -39,7 +39,7 @@
     "flags": [
       "新建且仅 1 名贡献者"
     ],
-    "gain7": 3248,
+    "gain7": 3282,
     "gain7_source": "age",
     "health": 0.4,
     "included": false,
@@ -51,7 +51,7 @@
     "velocity": 0.82
   },
   "stars": {
-    "2026-10-30": 3248
+    "2026-10-30": 3282
   },
   "topics": [
     "chinese",

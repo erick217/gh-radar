@@ -1,8 +1,8 @@
 # 多媒体
 
-[← 返回目录](../index.md) · 共 8 个项目，按分数排序
+[← 返回目录](../index.md) · 共 9 个项目，按分数排序
 
-## 图像（5）
+## 图像（6）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -11,6 +11,7 @@
 | [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | 纯 Rust 编写的开源矢量绘图软件，支持桌面与浏览器。 | 桌面应用 | Rust | 11.0k | +2.6k | 76 |  |
 | [storytold/designcraft](https://github.com/storytold/designcraft) | 用纯 Rust 编写的开源桌面排版与页面布局编辑器，支持多平台和 Web。 | 桌面应用 | Rust | 4.9k | +1.2k | 73 |  |
 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Qwen-Image 本地出图技能包，含提示词配方与 136 姿势控制 | 其他 | Python | 3.8k | +1.6k | 70 |  |
+| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 中文汉化的 AI 姿势参考图库，含 1439 组图片与静态画廊。 | Web应用 | HTML | 3.5k | +3.5k | 66 |  |
 
 ## 音视频（3）
 

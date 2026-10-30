@@ -20,7 +20,7 @@
   "score": {
     "excluded": "README 过短",
     "flags": [],
-    "gain7": 1115,
+    "gain7": 1129,
     "gain7_source": "age",
     "health": 0.4,
     "included": false,
@@ -32,7 +32,7 @@
     "velocity": 0.71
   },
   "stars": {
-    "2026-10-30": 3346
+    "2026-10-30": 3386
   },
   "topics": [],
   "trending": {},

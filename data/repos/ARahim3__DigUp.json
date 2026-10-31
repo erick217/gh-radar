@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 465,
+  "forks": 471,
   "full_name": "ARahim3/DigUp",
   "homepage": "https://digup.arahim.dev",
   "install_hint": true,
   "language": "Swift",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v0.7.0-beta.3",
   "license": "MIT",
   "pushed_at": "2026-10-26",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1916,
+    "gain7": 1842,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 74.7,
+    "total": 74.6,
     "trending_days_30": 0,
     "velocity": 0.76
   },
   "stars": {
     "2026-10-29": 6002,
-    "2026-10-30": 6022
+    "2026-10-30": 6022,
+    "2026-10-31": 6052
   },
   "topics": [
     "embeddinggemma",

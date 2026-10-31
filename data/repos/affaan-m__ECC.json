@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-10-31",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npm 安装包与引导式 setup，并有正式版本发布，普通开发者可直接安装使用。",
+    "summary": "为 Claude Code 等编码智能体提供技能、记忆与安全优化的工具系统",
+    "tags": [
+      "智能体",
+      "Claude Code",
+      "技能",
+      "记忆",
+      "安全"
+    ]
+  },
+  "archived": false,
+  "contributors": 480,
+  "created_at": "2026-01-18",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "details_at": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "fork": false,
+  "forks": 43437,
+  "full_name": "affaan-m/ECC",
+  "homepage": "https://ecc.tools",
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-10-31",
+  "latest_release": "v2.2.3",
+  "license": "MIT",
+  "pushed_at": "2026-10-30",
+  "readme_chars": 116553,
+  "readme_hash": "cadefd328831",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 6506,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 80.4,
+    "trending_days_30": 1,
+    "velocity": 0.89
+  },
+  "stars": {
+    "2026-10-31": 293540
+  },
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "trending": {
+    "2026-10-31": {
+      "weekly": 6506
+    }
+  },
+  "url": "https://github.com/affaan-m/ECC"
+}

@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 22653,
+  "forks": 22706,
   "full_name": "TauricResearch/TradingAgents",
   "homepage": "https://arxiv.org/pdf/2412.20138",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v0.7.1",
   "license": "Apache-2.0",
   "pushed_at": "2026-10-27",
@@ -42,15 +42,16 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 81.3,
-    "trending_days_30": 2,
+    "total": 82.7,
+    "trending_days_30": 3,
     "velocity": 0.87
   },
   "stars": {
     "2026-10-29": 118157,
-    "2026-10-30": 118442
+    "2026-10-30": 118442,
+    "2026-10-31": 118786
   },
   "topics": [
     "agent",
@@ -65,6 +66,9 @@
     },
     "2026-10-30": {
       "weekly": 5557
+    },
+    "2026-10-31": {
+      "weekly": 5490
     }
   },
   "url": "https://github.com/TauricResearch/TradingAgents"

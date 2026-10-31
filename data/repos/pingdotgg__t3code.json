@@ -1,0 +1,62 @@
+{
+  "ai": {
+    "at": "2026-10-31",
+    "category": "AI/Agent",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 CLI、桌面端、网页和移动端安装包及文档，普通开发者可安装并连接已认证的代理使用。",
+    "summary": "远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具",
+    "tags": [
+      "AI Agent",
+      "编程助手",
+      "远程控制",
+      "Claude Code",
+      "Codex"
+    ]
+  },
+  "archived": false,
+  "contributors": 794,
+  "created_at": "2026-02-08",
+  "description": "",
+  "details_at": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "fork": false,
+  "forks": 8685,
+  "full_name": "pingdotgg/t3code",
+  "homepage": "https://t3.codes",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-10-31",
+  "latest_release": "v0.1.6-nightly.20261031.3956",
+  "license": "MIT",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 5105,
+  "readme_hash": "38aaa2b56d53",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2775,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 77.4,
+    "trending_days_30": 1,
+    "velocity": 0.8
+  },
+  "stars": {
+    "2026-10-31": 33069
+  },
+  "topics": [],
+  "trending": {
+    "2026-10-31": {
+      "daily": 930,
+      "weekly": 2775
+    }
+  },
+  "url": "https://github.com/pingdotgg/t3code"
+}

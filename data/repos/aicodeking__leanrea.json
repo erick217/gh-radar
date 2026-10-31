@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 559,
+  "forks": 565,
   "full_name": "aicodeking/leanrea",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-19",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1979,
+    "gain7": 1880,
     "gain7_source": "age",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 59.8,
+    "total": 59.6,
     "trending_days_30": 0,
-    "velocity": 0.77
+    "velocity": 0.76
   },
   "stars": {
     "2026-10-29": 3535,
-    "2026-10-30": 3675
+    "2026-10-30": 3675,
+    "2026-10-31": 3761
   },
   "topics": [],
   "trending": {},

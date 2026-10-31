@@ -23,21 +23,21 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1573,
+  "forks": 1618,
   "full_name": "tangency-labs/solidcraft",
   "homepage": "https://solidcraft.io",
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v0.26.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-10-30",
+  "pushed_at": "2026-10-31",
   "readme_chars": 10625,
   "readme_hash": "7b7ed0a19477",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3691,
+    "gain7": 3626,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-10-29": 11863,
-    "2026-10-30": 12127
+    "2026-10-30": 12127,
+    "2026-10-31": 12433
   },
   "topics": [
     "3d-modeling",

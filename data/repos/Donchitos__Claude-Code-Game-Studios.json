@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4071,
+  "forks": 4182,
   "full_name": "Donchitos/Claude-Code-Game-Studios",
   "homepage": null,
   "install_hint": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-10-29": 28732,
-    "2026-10-30": 29622
+    "2026-10-30": 29622,
+    "2026-10-31": 30544
   },
   "topics": [
     "ai-agents",

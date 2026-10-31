@@ -11,7 +11,7 @@
   "homepage": null,
   "install_hint": false,
   "language": null,
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": null,
   "license": null,
   "pushed_at": "2026-10-09",
@@ -20,7 +20,7 @@
   "score": {
     "excluded": "README 过短",
     "flags": [],
-    "gain7": 1129,
+    "gain7": 1126,
     "gain7_source": "age",
     "health": 0.4,
     "included": false,
@@ -32,7 +32,8 @@
     "velocity": 0.71
   },
   "stars": {
-    "2026-10-30": 3386
+    "2026-10-30": 3386,
+    "2026-10-31": 3539
   },
   "topics": [],
   "trending": {},

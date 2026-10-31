@@ -23,15 +23,15 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 337,
+  "forks": 360,
   "full_name": "JetBrains/thinkrail",
   "homepage": "https://thinkrail.ai/",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v0.3.0-nightly.9",
   "license": "Apache-2.0",
-  "pushed_at": "2026-10-29",
+  "pushed_at": "2026-10-31",
   "readme_chars": 17620,
   "readme_hash": "387dd169f6fe",
   "score": {
@@ -42,15 +42,16 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 79.5,
-    "trending_days_30": 2,
+    "total": 80.9,
+    "trending_days_30": 3,
     "velocity": 0.82
   },
   "stars": {
     "2026-10-29": 5731,
-    "2026-10-30": 6203
+    "2026-10-30": 6203,
+    "2026-10-31": 6675
   },
   "topics": [
     "agent",
@@ -73,6 +74,9 @@
     },
     "2026-10-30": {
       "daily": 1117
+    },
+    "2026-10-31": {
+      "daily": 722
     }
   },
   "url": "https://github.com/JetBrains/thinkrail"

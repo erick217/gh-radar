@@ -1,0 +1,82 @@
+{
+  "ai": {
+    "at": "2026-10-31",
+    "category": "效率与自托管/笔记与知识管理",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "有在线产品、文档和移动客户端可直接注册使用，但仓库本身主要面向产品开发而非自托管部署。",
+    "summary": "集成邮件、聊天、文档、任务、CRM 与 AI 代理的团队统一工作空间。",
+    "tags": [
+      "团队协作",
+      "工作空间",
+      "邮件",
+      "聊天",
+      "CRM"
+    ]
+  },
+  "archived": false,
+  "contributors": 26,
+  "created_at": "2025-11-08",
+  "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+  "details_at": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "fork": false,
+  "forks": 545,
+  "full_name": "macro-inc/macro",
+  "homepage": "https://macro.com",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-10-31",
+  "latest_release": "cef-codecs-151.3.24-g2384915",
+  "license": "AGPL-3.0",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 20074,
+  "readme_hash": "d9598ba21c48",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 171,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 67.6,
+    "trending_days_30": 1,
+    "velocity": 0.52
+  },
+  "stars": {
+    "2026-10-31": 5947
+  },
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "all-in-one",
+    "crm",
+    "crm-system",
+    "email",
+    "linear",
+    "mcp",
+    "messaging",
+    "notes",
+    "notion",
+    "office",
+    "rust",
+    "slack",
+    "slack-alternative",
+    "startup",
+    "startup-tools",
+    "typescript",
+    "workspace"
+  ],
+  "trending": {
+    "2026-10-31": {
+      "daily": 57
+    }
+  },
+  "url": "https://github.com/macro-inc/macro"
+}

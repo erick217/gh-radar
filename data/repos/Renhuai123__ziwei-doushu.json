@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-10-31",
+    "category": "其他/其他",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "排盘内核 lib/ziwei 完整开源，附 Next.js 演示界面与 npm test 回归测试，克隆后即可本地起盘，仅 AI 解读接口需自行实现。",
+    "summary": "基于倪海厦《天纪》体系的紫微斗数开源排盘引擎，含排盘算法、四化、格局知识库与命盘解读数据集",
+    "tags": [
+      "紫微斗数",
+      "排盘引擎",
+      "命理",
+      "TypeScript",
+      "数据集"
+    ]
+  },
+  "archived": false,
+  "contributors": 4,
+  "created_at": "2026-05-01",
+  "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+  "details_at": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "fork": false,
+  "forks": 2287,
+  "full_name": "Renhuai123/ziwei-doushu",
+  "homepage": "https://ouranic.cn/?from=gh-about",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-10-31",
+  "latest_release": "v4.0-13d",
+  "license": "MIT",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 15733,
+  "readme_hash": "de1c4ac6d9dc",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3378,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 78.1,
+    "trending_days_30": 1,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-10-31": 11577
+  },
+  "topics": [
+    "bazi",
+    "chinese-astrology",
+    "divination",
+    "fortune-telling",
+    "nextjs",
+    "open-source",
+    "purple-star-astrology",
+    "typescript",
+    "zi-wei-dou-shu",
+    "ziwei-doushu"
+  ],
+  "trending": {
+    "2026-10-31": {
+      "daily": 1126
+    }
+  },
+  "url": "https://github.com/Renhuai123/ziwei-doushu"
+}

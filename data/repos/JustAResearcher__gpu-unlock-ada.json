@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 580,
+  "forks": 589,
   "full_name": "JustAResearcher/gpu-unlock-ada",
   "homepage": null,
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v1.1.1",
   "license": "GPL-2.0",
   "pushed_at": "2026-10-26",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4541,
+    "gain7": 4020,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 77.8,
+    "total": 77.3,
     "trending_days_30": 0,
-    "velocity": 0.85
+    "velocity": 0.84
   },
   "stars": {
     "2026-10-29": 4478,
-    "2026-10-30": 4541
+    "2026-10-30": 4541,
+    "2026-10-31": 4594
   },
   "topics": [],
   "trending": {},

@@ -1,9 +1,15 @@
 # 效率与自托管
 
-[← 返回目录](../index.md) · 共 1 个项目，按分数排序
+[← 返回目录](../index.md) · 共 2 个项目，按分数排序
 
 ## 自动化（1）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 通过 adb 关闭国产安卓系统广告和营销推送，无需 root。 | 桌面应用 | Python | 4.9k | +4.9k | 74 |  |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 通过 adb 关闭国产安卓系统广告和营销推送，无需 root。 | 桌面应用 | Python | 5.2k | +5.2k | 74 |  |
+
+## 笔记与知识管理（1）
+
+| 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
+|---|---|---|---|---|---|---|---|
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 集成邮件、聊天、文档、任务、CRM 与 AI 代理的团队统一工作空间。 | Web应用 | Rust | 5.9k | +171 | 68 |  |

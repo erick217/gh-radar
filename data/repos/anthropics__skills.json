@@ -1,0 +1,64 @@
+{
+  "ai": {
+    "at": "2026-10-31",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 Claude Code 插件、完整 SKILL.md 模板与使用文档，开发者可直接上手。",
+    "summary": "Claude 的 Agent Skills 示例与规范集合，可安装为插件扩展专项能力。",
+    "tags": [
+      "Claude",
+      "Agent Skills",
+      "插件",
+      "SKILL.md",
+      "AI 代理"
+    ]
+  },
+  "archived": false,
+  "contributors": 17,
+  "created_at": "2025-09-22",
+  "description": "Public repository for Agent Skills",
+  "details_at": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "fork": false,
+  "forks": 21909,
+  "full_name": "anthropics/skills",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-10-31",
+  "latest_release": null,
+  "license": null,
+  "pushed_at": "2026-10-28",
+  "readme_chars": 5552,
+  "readme_hash": "3dd6bd741102",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1888,
+    "gain7_source": "trending-weekly",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.6,
+    "total": 60.6,
+    "trending_days_30": 1,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-10-31": 185521
+  },
+  "topics": [
+    "agent-skills"
+  ],
+  "trending": {
+    "2026-10-31": {
+      "daily": 295,
+      "weekly": 1888
+    }
+  },
+  "url": "https://github.com/anthropics/skills"
+}

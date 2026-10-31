@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3232,
+  "forks": 3279,
   "full_name": "AgriciDaniel/claude-seo",
   "homepage": "skool.com/ai-marketing-hub-pro",
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v2.5.0",
   "license": "MIT",
   "pushed_at": "2026-10-22",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4110,
+    "gain7": 4478,
     "gain7_source": "trending-weekly",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 80.2,
-    "trending_days_30": 2,
-    "velocity": 0.84
+    "total": 81.9,
+    "trending_days_30": 3,
+    "velocity": 0.85
   },
   "stars": {
     "2026-10-29": 23767,
-    "2026-10-30": 24134
+    "2026-10-30": 24134,
+    "2026-10-31": 24640
   },
   "topics": [
     "ai",
@@ -67,6 +68,9 @@
     },
     "2026-10-30": {
       "weekly": 4110
+    },
+    "2026-10-31": {
+      "weekly": 4478
     }
   },
   "url": "https://github.com/AgriciDaniel/claude-seo"

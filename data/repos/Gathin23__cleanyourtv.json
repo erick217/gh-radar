@@ -23,21 +23,21 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5624,
+  "forks": 5813,
   "full_name": "Gathin23/cleanyourtv",
   "homepage": "https://cleanyour.tv",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-10-30",
+  "last_seen": "2026-10-31",
   "latest_release": "v3.2.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-10-30",
+  "pushed_at": "2026-10-31",
   "readme_chars": 35263,
   "readme_hash": "00d726995361",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 24661,
+    "gain7": 23524,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-10-29": 44801,
-    "2026-10-30": 45799
+    "2026-10-30": 45799,
+    "2026-10-31": 47047
   },
   "topics": [
     "adb",

@@ -1,0 +1,60 @@
+{
+  "ai": {
+    "at": "2026-10-31",
+    "category": "学习资源/资源合集",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 setup 脚本和可直接粘贴的提示词，安装后配合 REA 即可上手，文档完整。",
+    "summary": "面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。",
+    "tags": [
+      "提示词工程",
+      "逆向工程",
+      "AI Agent",
+      "技能包"
+    ]
+  },
+  "archived": false,
+  "contributors": 2,
+  "created_at": "2026-10-19",
+  "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+  "details_at": "2026-10-31",
+  "first_seen": "2026-10-31",
+  "fork": false,
+  "forks": 597,
+  "full_name": "JoasASantos/REA-Prompts",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Batchfile",
+  "last_seen": "2026-10-31",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-26",
+  "readme_chars": 56439,
+  "readme_hash": "9695164cd857",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1933,
+    "gain7_source": "age",
+    "health": 0.55,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 63.5,
+    "trending_days_30": 0,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-10-31": 3314
+  },
+  "topics": [
+    "prompt-engineering",
+    "rea",
+    "reverse-enginnering"
+  ],
+  "trending": {},
+  "url": "https://github.com/JoasASantos/REA-Prompts"
+}

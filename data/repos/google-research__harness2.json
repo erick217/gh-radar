@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2139,
+  "forks": 2162,
   "full_name": "google-research/harness2",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-01",
   "latest_release": null,
   "license": "Apache-2.0",
   "pushed_at": "2026-10-14",
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6029,
-    "gain7_source": "age",
+    "gain7": 1176,
+    "gain7_source": "snapshot-partial",
     "health": 0.55,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 0.6,
-    "total": 59.5,
+    "total": 56.7,
     "trending_days_30": 0,
-    "velocity": 0.88
+    "velocity": 0.71
   },
   "stars": {
     "2026-10-29": 21225,
     "2026-10-30": 21378,
-    "2026-10-31": 21531
+    "2026-10-31": 21531,
+    "2026-11-01": 21729
   },
   "topics": [],
   "trending": {},

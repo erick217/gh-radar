@@ -23,12 +23,12 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 43437,
+  "forks": 43564,
   "full_name": "affaan-m/ECC",
   "homepage": "https://ecc.tools",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-01",
   "latest_release": "v2.2.3",
   "license": "MIT",
   "pushed_at": "2026-10-30",
@@ -42,14 +42,15 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 80.4,
-    "trending_days_30": 1,
+    "total": 81.8,
+    "trending_days_30": 2,
     "velocity": 0.89
   },
   "stars": {
-    "2026-10-31": 293540
+    "2026-10-31": 293540,
+    "2026-11-01": 294220
   },
   "topics": [
     "ai-agents",
@@ -64,6 +65,9 @@
   "trending": {
     "2026-10-31": {
       "weekly": 6506
+    },
+    "2026-11-01": {
+      "weekly": 6380
     }
   },
   "url": "https://github.com/affaan-m/ECC"

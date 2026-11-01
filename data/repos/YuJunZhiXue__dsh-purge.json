@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-01",
+    "category": "安全/安全工具",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Release 与安装/恢复流程，但仅适配特定 DSH 版本，且需本地已安装 Harness。",
+    "summary": "DeepSeek Harness 本地提示词替换插件，可按模型切换提示词。",
+    "tags": [
+      "DeepSeek",
+      "越狱提示词",
+      "红队",
+      "插件"
+    ]
+  },
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2026-08-19",
+  "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+  "details_at": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "fork": false,
+  "forks": 3417,
+  "full_name": "YuJunZhiXue/dsh-purge",
+  "homepage": null,
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-01",
+  "latest_release": "v1.1.86",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 34066,
+  "readme_hash": "7d0a2fb56a61",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 6641,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 80.5,
+    "trending_days_30": 1,
+    "velocity": 0.89
+  },
+  "stars": {
+    "2026-11-01": 14773
+  },
+  "topics": [
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "dsh-plugins",
+    "harness-jailbreak",
+    "jailbreak",
+    "llm-jailbreak"
+  ],
+  "trending": {
+    "2026-11-01": {
+      "weekly": 6641
+    }
+  },
+  "url": "https://github.com/YuJunZhiXue/dsh-purge"
+}

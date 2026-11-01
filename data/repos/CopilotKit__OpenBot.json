@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1119,
+  "forks": 1149,
   "full_name": "CopilotKit/OpenBot",
   "homepage": "https://www.copilotkit.ai/openbot",
   "install_hint": true,
@@ -31,27 +31,28 @@
   "last_seen": "2026-10-31",
   "latest_release": "v0.2.0",
   "license": "MIT",
-  "pushed_at": "2026-10-30",
+  "pushed_at": "2026-10-31",
   "readme_chars": 33554,
   "readme_hash": "702ceaa7dec5",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2118,
-    "gain7_source": "trending-daily",
+    "gain7": 3127,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.51,
     "practical": 1.0,
-    "total": 79.3,
+    "total": 83.6,
     "trending_days_30": 3,
-    "velocity": 0.77
+    "velocity": 0.81
   },
   "stars": {
     "2026-10-29": 7829,
     "2026-10-30": 8339,
-    "2026-10-31": 8940
+    "2026-10-31": 8940,
+    "2026-11-01": 9169
   },
   "topics": [
     "ag-ui",

@@ -23,7 +23,7 @@
   "details_at": "2026-10-30",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 5571,
+  "forks": 5608,
   "full_name": "hugohe3/ppt-master",
   "homepage": "https://hugohe3.github.io/ppt-master-examples/",
   "install_hint": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-10-30": 71033,
-    "2026-10-31": 71423
+    "2026-10-31": 71423,
+    "2026-11-01": 71772
   },
   "topics": [
     "ai-agent",

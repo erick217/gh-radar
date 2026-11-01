@@ -1,0 +1,82 @@
+{
+  "ai": {
+    "at": "2026-11-01",
+    "category": "AI/Agent",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v2026.10.27，提供 macOS/Windows 安装包、内置模型和上手文档，可直接使用。",
+    "summary": "本地优先的多智能体桌面应用，将目标拆解为任务并协调专家代理协作完成。",
+    "tags": [
+      "多智能体",
+      "AI团队",
+      "桌面应用",
+      "本地优先",
+      "任务自动化"
+    ]
+  },
+  "archived": false,
+  "contributors": 12,
+  "created_at": "2026-04-29",
+  "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+  "details_at": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "fork": false,
+  "forks": 417,
+  "full_name": "Orkas-AI/Orkas",
+  "homepage": "https://orkas.ai?source=gh-orkas",
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-01",
+  "latest_release": "v2026.10.27",
+  "license": "MIT",
+  "pushed_at": "2026-11-01",
+  "readme_chars": 25467,
+  "readme_hash": "bdd9b1c5ba8b",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3132,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 77.8,
+    "trending_days_30": 1,
+    "velocity": 0.81
+  },
+  "stars": {
+    "2026-11-01": 6838
+  },
+  "topics": [
+    "agent-collaboration",
+    "agent-harness",
+    "agent-orchestration",
+    "agent-team",
+    "agent-workflow",
+    "ai-assistant",
+    "ai-automation",
+    "ai-employee",
+    "ai-productivity",
+    "ai-team",
+    "ai-workflow",
+    "autonomous-agents",
+    "claude-code-gui",
+    "claude-cowork",
+    "desktop-agent",
+    "local-first",
+    "multi-agent",
+    "multi-agent-system",
+    "self-evolving-agents",
+    "task-automation"
+  ],
+  "trending": {
+    "2026-11-01": {
+      "daily": 1044
+    }
+  },
+  "url": "https://github.com/Orkas-AI/Orkas"
+}

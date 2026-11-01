@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 545,
+  "forks": 555,
   "full_name": "macro-inc/macro",
   "homepage": "https://macro.com",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-10-31",
   "latest_release": "cef-codecs-151.3.24-g2384915",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-10-31",
+  "pushed_at": "2026-11-01",
   "readme_chars": 20074,
   "readme_hash": "d9598ba21c48",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.52
   },
   "stars": {
-    "2026-10-31": 5947
+    "2026-10-31": 5947,
+    "2026-11-01": 6036
   },
   "topics": [
     "agent",

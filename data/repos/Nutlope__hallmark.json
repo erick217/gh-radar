@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-01",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装命令、50 个主题和 sloplint 检查脚本，可直接在 Claude Code、Cursor、Codex 等工具中使用。",
+    "summary": "面向编码智能体的网页设计技能，避免生成千篇一律的 AI 风格页面。",
+    "tags": [
+      "AI设计",
+      "编码智能体",
+      "前端设计",
+      "设计检查",
+      "Claude Code"
+    ]
+  },
+  "archived": false,
+  "contributors": 7,
+  "created_at": "2026-04-27",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "details_at": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "fork": false,
+  "forks": 2329,
+  "full_name": "Nutlope/hallmark",
+  "homepage": "https://www.usehallmark.com/",
+  "install_hint": true,
+  "language": "CSS",
+  "last_seen": "2026-11-01",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-29",
+  "readme_chars": 8731,
+  "readme_hash": "8033f5aa3056",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 12062,
+    "gain7_source": "trending-weekly",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 75.1,
+    "trending_days_30": 1,
+    "velocity": 0.95
+  },
+  "stars": {
+    "2026-11-01": 44121
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-01": {
+      "weekly": 12062
+    }
+  },
+  "url": "https://github.com/Nutlope/hallmark"
+}

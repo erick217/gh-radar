@@ -1,0 +1,60 @@
+{
+  "ai": {
+    "at": "2026-11-01",
+    "category": "AI/AI应用",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供在线 Live Demo、v1.3.0 正式发布、完整部署与配置文档及 npm SDK，可自行部署上手使用。",
+    "summary": "把任意主题或文档一键生成多智能体互动课堂的开源 AI 教学平台",
+    "tags": [
+      "多智能体",
+      "AI教育",
+      "课件生成",
+      "自托管"
+    ]
+  },
+  "archived": false,
+  "contributors": 121,
+  "created_at": "2026-03-11",
+  "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "details_at": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "fork": false,
+  "forks": 6521,
+  "full_name": "THU-MAIC/OpenMAIC",
+  "homepage": null,
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-01",
+  "latest_release": "v1.3.0",
+  "license": "MIT",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 54126,
+  "readme_hash": "dcc85c2680bc",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 348,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.1,
+    "trending_days_30": 1,
+    "velocity": 0.59
+  },
+  "stars": {
+    "2026-11-01": 42275
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-01": {
+      "daily": 116
+    }
+  },
+  "url": "https://github.com/THU-MAIC/OpenMAIC"
+}

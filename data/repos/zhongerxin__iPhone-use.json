@@ -28,7 +28,7 @@
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-01",
   "latest_release": "v0.3.16",
   "license": "MIT",
   "pushed_at": "2026-10-22",
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1343,
-    "gain7_source": "age",
+    "gain7": 121,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 0.8,
-    "total": 69.5,
+    "total": 64.0,
     "trending_days_30": 0,
-    "velocity": 0.73
+    "velocity": 0.49
   },
   "stars": {
     "2026-10-29": 4760,
     "2026-10-30": 4776,
-    "2026-10-31": 4797
+    "2026-10-31": 4797,
+    "2026-11-01": 4812
   },
   "topics": [],
   "trending": {},

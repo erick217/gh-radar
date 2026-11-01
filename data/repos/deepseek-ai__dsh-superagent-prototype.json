@@ -1,0 +1,59 @@
+{
+  "ai": {
+    "at": "2026-11-01",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "README 明确说明这是仅供参考的研究原型，并非生产可用软件，且无发布版本，需按文档自行适配配置。",
+    "summary": "面向单个 GitHub 仓库的主动式编码代理原型，需配合 DeepSeek Harness 使用",
+    "tags": [
+      "编码代理",
+      "GitHub",
+      "自动化",
+      "研究原型",
+      "TypeScript"
+    ]
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-31",
+  "description": "Towards a More Autonomous Agent System",
+  "details_at": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "fork": false,
+  "forks": 366,
+  "full_name": "deepseek-ai/dsh-superagent-prototype",
+  "homepage": null,
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-11-01",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 2571,
+  "readme_hash": "a98ec95e2159",
+  "score": {
+    "excluded": null,
+    "flags": [
+      "新建且仅 1 名贡献者"
+    ],
+    "gain7": 3887,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 35.2,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-01": 3887
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+}

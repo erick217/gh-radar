@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2966,
+  "forks": 2994,
   "full_name": "deepseek-ai/DeepInfer",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-10-31",
+  "last_seen": "2026-11-01",
   "latest_release": null,
   "license": "Apache-2.0",
   "pushed_at": "2026-10-26",
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 11455,
-    "gain7_source": "age",
+    "gain7": 1237,
+    "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 0.4,
-    "total": 61.5,
+    "total": 56.7,
     "trending_days_30": 0,
-    "velocity": 0.94
+    "velocity": 0.72
   },
   "stars": {
     "2026-10-29": 24167,
     "2026-10-30": 24354,
-    "2026-10-31": 24546
+    "2026-10-31": 24546,
+    "2026-11-01": 24697
   },
   "topics": [],
   "trending": {},

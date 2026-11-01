@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-01",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "技能文件可直接复制到 Claude Code/Codex 的 skills 目录使用，安装与调用方式文档齐全，但依赖对应 Agent 环境。",
+    "summary": "把 AI 味浓重的界面逐步改造成有设计感 UI 的 Claude/Codex 技能",
+    "tags": [
+      "Claude Skill",
+      "UI 设计",
+      "界面美化",
+      "前端",
+      "Codex"
+    ]
+  },
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2026-10-29",
+  "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "details_at": "2026-11-01",
+  "first_seen": "2026-11-01",
+  "fork": false,
+  "forks": 188,
+  "full_name": "heydamir/unslop",
+  "homepage": null,
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-01",
+  "latest_release": null,
+  "license": "CC-BY-4.0",
+  "pushed_at": "2026-11-01",
+  "readme_chars": 3572,
+  "readme_hash": "05ce540b47e7",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3782,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 69.6,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-01": 3782
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/heydamir/unslop"
+}

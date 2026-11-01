@@ -2,7 +2,8 @@ name: daily-radar
 
 on:
   schedule:
-    - cron: "17 1 * * *"   # 每天 UTC 01:17（北京时间 09:17）
+    # 北京时间 09:17 起每小时检查，直到 23:17；当天成功发布后跳过。
+    - cron: "17 1-15 * * *"
   workflow_dispatch:
     inputs:
       ai_limit:
@@ -18,7 +19,21 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      refresh: ${{ steps.freshness.outputs.refresh }}
+      data_date: ${{ steps.freshness.outputs.data_date }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check daily publication
+        id: freshness
+        run: python3 -m radar.freshness
+
   run:
+    needs: check
+    if: needs.check.outputs.refresh == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
@@ -76,16 +91,31 @@ jobs:
           path: ./_site
 
   deploy:
-    needs: run
+    needs: [check, run]
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
+      contents: write
       pages: write
       id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Record successful publication
+        env:
+          DATA_DATE: ${{ needs.check.outputs.data_date }}
+        run: |
+          python3 -m radar.freshness --mark-published --data-date "$DATA_DATE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/last-publish.json
+          git commit -m "radar: record successful publication $DATA_DATE"
+          git push

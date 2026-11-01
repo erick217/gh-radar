@@ -4,7 +4,9 @@ from __future__ import annotations
 import json
 import re
 from collections import defaultdict
+from datetime import datetime
 
+from .freshness import BEIJING
 from .store import DOCS_DIR, ROOT, days_ago, today
 
 SLUGS = {
@@ -107,7 +109,7 @@ def render(repos: dict[str, dict], overrides: dict) -> dict:
 
     index = [
         "# GitHub 热门项目雷达\n",
-        f"更新于 {today()} · 已收录 {len(items)} 个项目 · 共追踪 {len(repos)} 个\n",
+        f"更新于 {datetime.now(BEIJING):%Y-%m-%d %H:%M}（北京时间） · 已收录 {len(items)} 个项目 · 共追踪 {len(repos)} 个\n",
         "- [最近 7 天新收录](new.md)",
         "- [本周增速榜](rising.md)\n",
         "## 分类\n", *toc, "",

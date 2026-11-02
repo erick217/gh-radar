@@ -23,36 +23,37 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 372,
+  "forks": 394,
   "full_name": "jakubkrehel/skills",
   "homepage": "https://jakub.kr/skills",
   "install_hint": true,
   "language": "Markdown",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-10-25",
+  "pushed_at": "2026-11-02",
   "readme_chars": 3633,
   "readme_hash": "bad343c9484d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1281,
+    "gain7": 1881,
     "gain7_source": "snapshot-partial",
     "health": 0.55,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 70.6,
-    "trending_days_30": 4,
-    "velocity": 0.72
+    "total": 73.4,
+    "trending_days_30": 5,
+    "velocity": 0.76
   },
   "stars": {
     "2026-10-29": 9114,
     "2026-10-30": 9239,
     "2026-10-31": 9419,
-    "2026-11-01": 9663
+    "2026-11-01": 9663,
+    "2026-11-02": 10189
   },
   "topics": [],
   "trending": {
@@ -67,6 +68,9 @@
     },
     "2026-11-01": {
       "weekly": 1272
+    },
+    "2026-11-02": {
+      "weekly": 1607
     }
   },
   "url": "https://github.com/jakubkrehel/skills"

@@ -6,4 +6,4 @@
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [obsidianmd/pele](https://github.com/obsidianmd/pele) | 同步将 Mermaid 文本渲染为 SVG 的轻量无依赖库 | 库 | TypeScript | 4.0k | +294 | 71 |  |
+| [obsidianmd/pele](https://github.com/obsidianmd/pele) | 同步将 Mermaid 文本渲染为 SVG 的轻量无依赖库 | 库 | TypeScript | 4.0k | +315 | 71 |  |

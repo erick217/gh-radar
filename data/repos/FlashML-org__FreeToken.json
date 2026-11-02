@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-02",
+    "category": "AI/模型推理与部署",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 pip 安装包、CLI 与桌面端应用，并有安装、快速上手和模型支持文档，可直接在 RTX 显卡上运行。",
+    "summary": "在个人电脑上本地高效运行大规模 MoE 模型的边缘推理引擎",
+    "tags": [
+      "MoE",
+      "本地推理",
+      "边缘推理",
+      "模型部署",
+      "量化"
+    ]
+  },
+  "archived": false,
+  "contributors": 22,
+  "created_at": "2026-07-20",
+  "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+  "details_at": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "fork": false,
+  "forks": 1560,
+  "full_name": "FlashML-org/FreeToken",
+  "homepage": "flashml.ai",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-02",
+  "latest_release": "nightly",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-02",
+  "readme_chars": 5023,
+  "readme_hash": "b692004a7a05",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 726,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.7,
+    "trending_days_30": 1,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-11-02": 15615
+  },
+  "topics": [
+    "deepseek-v4",
+    "edge",
+    "glm",
+    "inference",
+    "minimax",
+    "moe",
+    "qwen",
+    "transformer"
+  ],
+  "trending": {
+    "2026-11-02": {
+      "daily": 242
+    }
+  },
+  "url": "https://github.com/FlashML-org/FreeToken"
+}

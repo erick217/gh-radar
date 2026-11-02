@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 25978,
+  "forks": 26042,
   "full_name": "mattpocock/skills",
   "homepage": "https://aihero.dev/skills",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-01",
   "latest_release": "v1.3.2",
   "license": "MIT",
-  "pushed_at": "2026-10-31",
+  "pushed_at": "2026-11-01",
   "readme_chars": 16449,
   "readme_hash": "ba8ea03cfd91",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-10-31": 307680,
-    "2026-11-01": 308618
+    "2026-11-01": 308618,
+    "2026-11-02": 309482
   },
   "topics": [],
   "trending": {

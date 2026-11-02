@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 22710,
+  "forks": 22754,
   "full_name": "multica-ai/andrej-karpathy-skills",
   "homepage": null,
   "install_hint": false,
   "language": null,
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "latest_release": null,
   "license": null,
   "pushed_at": "2026-04-20",
@@ -37,22 +37,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3192,
+    "gain7": 3376,
     "gain7_source": "snapshot-partial",
     "health": 0.3,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 0.6,
-    "total": 59.6,
-    "trending_days_30": 4,
-    "velocity": 0.81
+    "total": 61.2,
+    "trending_days_30": 5,
+    "velocity": 0.82
   },
   "stars": {
     "2026-10-29": 226249,
     "2026-10-30": 226563,
     "2026-10-31": 227017,
-    "2026-11-01": 227617
+    "2026-11-01": 227617,
+    "2026-11-02": 228178
   },
   "topics": [],
   "trending": {
@@ -67,6 +68,9 @@
     },
     "2026-11-01": {
       "weekly": 4277
+    },
+    "2026-11-02": {
+      "weekly": 4459
     }
   },
   "url": "https://github.com/multica-ai/andrej-karpathy-skills"

@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-02",
+    "category": "AI/模型训练与微调",
+    "form": "模型或数据集",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已开源Hugging Face预训练权重，并提供安装依赖、预测示例和微调脚本，普通开发者可直接上手。",
+    "summary": "面向金融K线序列的开源基础模型，支持预测与微调。",
+    "tags": [
+      "金融时序",
+      "K线预测",
+      "基础模型",
+      "量化交易",
+      "PyTorch"
+    ]
+  },
+  "archived": false,
+  "contributors": 19,
+  "created_at": "2025-07-01",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "details_at": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "fork": false,
+  "forks": 7528,
+  "full_name": "shiyu-coder/Kronos",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-02",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-04-13",
+  "readme_chars": 16571,
+  "readme_hash": "88a2a517bb36",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1890,
+    "gain7_source": "trending-daily",
+    "health": 0.3,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 58.6,
+    "trending_days_30": 1,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-11-02": 45620
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-02": {
+      "daily": 630
+    }
+  },
+  "url": "https://github.com/shiyu-coder/Kronos"
+}

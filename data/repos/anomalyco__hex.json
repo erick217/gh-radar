@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-02",
+    "category": "效率与自托管/自动化",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布多平台安装包，支持 Homebrew、AUR、Nix 等安装方式，下载后即可使用。",
+    "summary": "本地离线语音听写工具，按住快捷键说话即可转写并粘贴。",
+    "tags": [
+      "语音听写",
+      "语音转文字",
+      "本地优先",
+      "跨平台",
+      "Rust"
+    ]
+  },
+  "archived": false,
+  "contributors": 23,
+  "created_at": "2026-07-17",
+  "description": "Local voice dictation for mac, windows and linux",
+  "details_at": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "fork": false,
+  "forks": 209,
+  "full_name": "anomalyco/hex",
+  "homepage": "https://anoma.ly/hex",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-02",
+  "latest_release": "v3.2.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-02",
+  "readme_chars": 2309,
+  "readme_hash": "fa69fa6c2645",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3537,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 78.3,
+    "trending_days_30": 1,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-02": 3624
+  },
+  "topics": [
+    "dictation",
+    "linux",
+    "local-first",
+    "macos",
+    "rust",
+    "speech-recognition",
+    "speech-to-text",
+    "voice-control"
+  ],
+  "trending": {
+    "2026-11-02": {
+      "daily": 1179
+    }
+  },
+  "url": "https://github.com/anomalyco/hex"
+}

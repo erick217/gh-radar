@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-02",
+    "category": "移动与桌面/桌面应用",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有正式 Release 和完整安装、配置文档，Linux 用户可直接安装使用。",
+    "summary": "高度可定制、带动态平铺与炫丽特效的独立 Wayland 合成器。",
+    "tags": [
+      "Wayland",
+      "平铺窗口管理器",
+      "桌面环境",
+      "C++",
+      "合成器"
+    ]
+  },
+  "archived": false,
+  "contributors": 780,
+  "created_at": "2022-03-16",
+  "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+  "details_at": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "fork": false,
+  "forks": 2134,
+  "full_name": "hyprwm/Hyprland",
+  "homepage": "https://hypr.land",
+  "install_hint": false,
+  "language": "C++",
+  "last_seen": "2026-11-02",
+  "latest_release": "v0.57.0",
+  "license": "BSD-3-Clause",
+  "pushed_at": "2026-11-01",
+  "readme_chars": 4197,
+  "readme_hash": "b396cf29e479",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 114,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 66.2,
+    "trending_days_30": 1,
+    "velocity": 0.48
+  },
+  "stars": {
+    "2026-11-02": 39530
+  },
+  "topics": [
+    "compositor",
+    "cpp26",
+    "wayland",
+    "wayland-compositor"
+  ],
+  "trending": {
+    "2026-11-02": {
+      "daily": 38
+    }
+  },
+  "url": "https://github.com/hyprwm/Hyprland"
+}

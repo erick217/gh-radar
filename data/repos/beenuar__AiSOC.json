@@ -1,0 +1,82 @@
+{
+  "ai": {
+    "at": "2026-11-02",
+    "category": "安全/安全工具",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 v21.0.0 发布、Docker Compose 一键部署、真实数据连接器和完整文档，普通开发者可直接上手运行。",
+    "summary": "开源可自托管的 AI 安全运营中心，聚合告警、AI 分诊并审计调查过程。",
+    "tags": [
+      "AI安全",
+      "SOC",
+      "告警研判",
+      "MITRE ATT&CK",
+      "自托管"
+    ]
+  },
+  "archived": false,
+  "contributors": 29,
+  "created_at": "2026-05-02",
+  "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+  "details_at": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "fork": false,
+  "forks": 660,
+  "full_name": "beenuar/AiSOC",
+  "homepage": "https://beenuar.github.io/AiSOC/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-02",
+  "latest_release": "v21.0.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-02",
+  "readme_chars": 22600,
+  "readme_hash": "1faa2f4ca1fd",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1338,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 74.8,
+    "trending_days_30": 1,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-11-02": 6440
+  },
+  "topics": [
+    "agentic-ai",
+    "ai-security",
+    "alert-triage",
+    "blue-team",
+    "cybersecurity",
+    "detection-engineering",
+    "incident-response",
+    "langgraph",
+    "llm-agents",
+    "mcp",
+    "mitre-attack",
+    "model-context-protocol",
+    "purple-team",
+    "security-operations",
+    "self-hosted",
+    "siem",
+    "soar",
+    "soc",
+    "threat-detection",
+    "threat-intelligence"
+  ],
+  "trending": {
+    "2026-11-02": {
+      "daily": 446
+    }
+  },
+  "url": "https://github.com/beenuar/AiSOC"
+}

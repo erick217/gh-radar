@@ -23,36 +23,37 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9491,
+  "forks": 9590,
   "full_name": "thedotmack/claude-mem",
   "homepage": "https://claude-mem.ai",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "latest_release": "v15.5.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-01",
+  "pushed_at": "2026-11-02",
   "readme_chars": 20031,
   "readme_hash": "11bd1257ca1b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9009,
+    "gain7": 9758,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 88.8,
-    "trending_days_30": 4,
-    "velocity": 0.92
+    "total": 90.5,
+    "trending_days_30": 5,
+    "velocity": 0.93
   },
   "stars": {
     "2026-10-29": 104302,
     "2026-10-30": 105076,
     "2026-10-31": 106688,
-    "2026-11-01": 108163
+    "2026-11-01": 108163,
+    "2026-11-02": 109878
   },
   "topics": [
     "ai",
@@ -89,6 +90,10 @@
     "2026-11-01": {
       "daily": 1723,
       "weekly": 4575
+    },
+    "2026-11-02": {
+      "daily": 1526,
+      "weekly": 5852
     }
   },
   "url": "https://github.com/thedotmack/claude-mem"

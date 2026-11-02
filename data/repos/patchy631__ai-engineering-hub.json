@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-02",
+    "category": "学习资源/资源合集",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "每个项目都配有可直接运行的 Jupyter Notebook 和依赖说明，按难度分级，开发者能照着跑通并改造成自己的应用。",
+    "summary": "汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集",
+    "tags": [
+      "LLM",
+      "RAG",
+      "AI Agent",
+      "教程",
+      "Jupyter Notebook"
+    ]
+  },
+  "archived": false,
+  "contributors": 17,
+  "created_at": "2024-10-21",
+  "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+  "details_at": "2026-11-02",
+  "first_seen": "2026-11-02",
+  "fork": false,
+  "forks": 6516,
+  "full_name": "patchy631/ai-engineering-hub",
+  "homepage": "https://join.dailydoseofds.com",
+  "install_hint": false,
+  "language": "Jupyter Notebook",
+  "last_seen": "2026-11-02",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-01",
+  "readme_chars": 11907,
+  "readme_hash": "5b085164e734",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3573,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": true,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.8,
+    "trending_days_30": 1,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-02": 40623
+  },
+  "topics": [
+    "agents",
+    "ai",
+    "llms",
+    "machine-learning",
+    "mcp",
+    "rag"
+  ],
+  "trending": {
+    "2026-11-02": {
+      "daily": 1191
+    }
+  },
+  "url": "https://github.com/patchy631/ai-engineering-hub"
+}

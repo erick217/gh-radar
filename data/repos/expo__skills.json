@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 254,
+  "forks": 256,
   "full_name": "expo/skills",
   "homepage": null,
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-10-31",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-10-31",
+  "pushed_at": "2026-11-01",
   "readme_chars": 8318,
   "readme_hash": "6bbd0f578cc9",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-10-31": 3940,
-    "2026-11-01": 3986
+    "2026-11-01": 3986,
+    "2026-11-02": 4015
   },
   "topics": [],
   "trending": {

@@ -23,12 +23,12 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1372,
+  "forks": 1384,
   "full_name": "storytold/craft-launcher",
   "homepage": null,
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "latest_release": "v0.9.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-01",
@@ -37,22 +37,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 469,
+    "gain7": 782,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.7,
+    "total": 74.5,
     "trending_days_30": 0,
-    "velocity": 0.62
+    "velocity": 0.67
   },
   "stars": {
     "2026-10-29": 4284,
     "2026-10-30": 4329,
     "2026-10-31": 4383,
-    "2026-11-01": 4485
+    "2026-11-01": 4485,
+    "2026-11-02": 4731
   },
   "topics": [],
   "trending": {},

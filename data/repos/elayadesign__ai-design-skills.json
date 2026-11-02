@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 971,
+  "forks": 1000,
   "full_name": "elayadesign/ai-design-skills",
   "homepage": null,
   "install_hint": false,
@@ -31,28 +31,29 @@
   "last_seen": "2026-10-30",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-10-30",
+  "pushed_at": "2026-11-01",
   "readme_chars": 2458,
   "readme_hash": "6f05fb60c900",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3192,
+    "gain7": 2795,
     "gain7_source": "snapshot-partial",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 0.8,
-    "total": 63.3,
+    "total": 62.8,
     "trending_days_30": 2,
-    "velocity": 0.81
+    "velocity": 0.8
   },
   "stars": {
     "2026-10-29": 11792,
     "2026-10-30": 12499,
     "2026-10-31": 12935,
-    "2026-11-01": 13160
+    "2026-11-01": 13160,
+    "2026-11-02": 13389
   },
   "topics": [],
   "trending": {

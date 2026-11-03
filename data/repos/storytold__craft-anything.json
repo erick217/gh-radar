@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "AI/Agent",
+    "form": "桌面应用",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "项目处于早期 alpha，尚未发布正式安装包，需自行编译并依赖本机已登录的 Claude Code 等代理才能使用。",
+    "summary": "纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目",
+    "tags": [
+      "逆向工程",
+      "Rust",
+      "AI代理",
+      "MCP",
+      "网站重建"
+    ]
+  },
+  "archived": false,
+  "contributors": 31,
+  "created_at": "2026-10-31",
+  "description": "Craft Anything: understand how any software works, and craft your own.",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 919,
+  "full_name": "storytold/craft-anything",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-03",
+  "latest_release": "v0.3.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 23523,
+  "readme_hash": "6cd375d6b06e",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 5391,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 70.4,
+    "trending_days_30": 0,
+    "velocity": 0.87
+  },
+  "stars": {
+    "2026-11-03": 5391
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/storytold/craft-anything"
+}

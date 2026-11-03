@@ -22,7 +22,7 @@
   "details_at": "2026-11-01",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 3606,
+  "forks": 3812,
   "full_name": "YuJunZhiXue/dsh-purge",
   "homepage": null,
   "install_hint": true,
@@ -49,7 +49,8 @@
   },
   "stars": {
     "2026-11-01": 14773,
-    "2026-11-02": 15717
+    "2026-11-02": 15717,
+    "2026-11-03": 16537
   },
   "topics": [
     "deepseek",

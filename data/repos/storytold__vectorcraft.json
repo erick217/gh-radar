@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5426,
+  "forks": 5449,
   "full_name": "storytold/vectorcraft",
   "homepage": "https://getartcraft.com/apps/vectorcraft",
   "install_hint": false,
@@ -31,29 +31,30 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.18.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-02",
+  "pushed_at": "2026-11-03",
   "readme_chars": 25101,
   "readme_hash": "4d27fb628552",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 394,
+    "gain7": 409,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.1,
+    "total": 72.3,
     "trending_days_30": 0,
-    "velocity": 0.6
+    "velocity": 0.61
   },
   "stars": {
     "2026-10-29": 10975,
     "2026-10-30": 11015,
     "2026-10-31": 11084,
     "2026-11-01": 11139,
-    "2026-11-02": 11200
+    "2026-11-02": 11200,
+    "2026-11-03": 11267
   },
   "topics": [
     "art",

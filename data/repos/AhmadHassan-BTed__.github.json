@@ -11,7 +11,7 @@
   "homepage": null,
   "install_hint": false,
   "language": "HTML",
-  "last_seen": "2026-11-02",
+  "last_seen": "2026-11-03",
   "latest_release": null,
   "license": null,
   "pushed_at": "2026-11-02",
@@ -20,22 +20,23 @@
   "score": {
     "excluded": "README 过短",
     "flags": [],
-    "gain7": 1213,
+    "gain7": 1101,
     "gain7_source": "snapshot-partial",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.2,
-    "total": 45.1,
+    "total": 44.8,
     "trending_days_30": 0,
-    "velocity": 0.72
+    "velocity": 0.71
   },
   "stars": {
     "2026-10-30": 3386,
     "2026-10-31": 3539,
     "2026-11-01": 3693,
-    "2026-11-02": 3906
+    "2026-11-02": 3906,
+    "2026-11-03": 4015
   },
   "topics": [],
   "trending": {},

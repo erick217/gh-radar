@@ -8,20 +8,20 @@
 
 <!-- radar:start -->
 
-**本周增速 Top 10**（2026-11-02 更新，共收录 108 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-03 更新，共收录 118 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 面向编码智能体的网页设计技能，避免生成千篇一律的 AI 风格页面。 | AI/Agent | 其他 | CSS | 45.2k | +12.1k | 76 |  |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 为AI编程代理提供跨会话持久记忆压缩与检索 | AI/Agent | CLI工具 | TypeScript | 109.9k | +9.8k | 90 |  |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 99.7k | +9.2k | 90 |  |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 学习资源/资源合集 | 资源列表 |  | 13.2k | +8.9k | 73 |  |
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。 | 安全/安全工具 | CLI工具 | Python | 49.5k | +8.3k | 83 |  |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 53.9k | +8.2k | 88 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 56.7k | +7.5k | 77 |  |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 将 Claude Code 配置成游戏开发工作室的多智能体工作流模板 | AI/Agent | 其他 | Shell | 32.7k | +7.0k | 80 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 38.9k | +6.9k | 84 |  |
-| [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | DeepSeek Harness 本地提示词替换插件，可按模型切换提示词。 | 安全/安全工具 | 其他 | JavaScript | 15.7k | +6.6k | 82 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 42.6k | +22.3k | 92 |  |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 面向编码智能体的网页设计技能，避免生成千篇一律的 AI 风格页面。 | AI/Agent | 其他 | CSS | 46.3k | +12.1k | 78 |  |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 为AI编程代理提供跨会话持久记忆压缩与检索 | AI/Agent | CLI工具 | TypeScript | 111.1k | +9.5k | 92 |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 100.8k | +8.9k | 92 |  |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。 | 安全/安全工具 | CLI工具 | Python | 50.7k | +8.2k | 83 |  |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 学习资源/资源合集 | 资源列表 |  | 13.8k | +7.9k | 73 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 57.6k | +7.4k | 78 |  |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | AI/AI应用 | Web应用 | Python | 54.5k | +7.3k | 88 |  |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 将 Claude Code 配置成游戏开发工作室的多智能体工作流模板 | AI/Agent | 其他 | Shell | 33.9k | +7.3k | 82 |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 10.9k | +6.8k | 81 |  |
 
 <!-- radar:end -->
 

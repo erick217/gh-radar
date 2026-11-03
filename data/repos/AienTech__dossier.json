@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 817,
+  "forks": 877,
   "full_name": "AienTech/dossier",
   "homepage": "https://dossier.aien.me",
   "install_hint": true,
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 905,
-    "gain7_source": "age",
+    "gain7": 1598,
+    "gain7_source": "snapshot-partial",
     "health": 0.85,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.3,
+    "total": 73.3,
     "trending_days_30": 0,
-    "velocity": 0.69
+    "velocity": 0.74
   },
   "stars": {
     "2026-10-31": 3429,
     "2026-11-01": 3575,
-    "2026-11-02": 3879
+    "2026-11-02": 3879,
+    "2026-11-03": 4114
   },
   "topics": [
     "caprover",

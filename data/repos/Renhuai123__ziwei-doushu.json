@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 2632,
+  "forks": 2788,
   "full_name": "Renhuai123/ziwei-doushu",
   "homepage": "https://ouranic.cn/?from=gh-about",
   "install_hint": true,
@@ -31,27 +31,28 @@
   "last_seen": "2026-11-02",
   "latest_release": "v4.0-13d",
   "license": "MIT",
-  "pushed_at": "2026-11-02",
+  "pushed_at": "2026-11-03",
   "readme_chars": 15733,
   "readme_hash": "de1c4ac6d9dc",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3378,
-    "gain7_source": "trending-daily",
+    "gain7": 6505,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.51,
     "practical": 1.0,
-    "total": 80.9,
+    "total": 86.2,
     "trending_days_30": 3,
-    "velocity": 0.82
+    "velocity": 0.89
   },
   "stars": {
     "2026-10-31": 11577,
     "2026-11-01": 12502,
-    "2026-11-02": 13604
+    "2026-11-02": 13604,
+    "2026-11-03": 14365
   },
   "topics": [
     "bazi",

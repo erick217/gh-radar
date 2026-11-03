@@ -23,7 +23,7 @@
   "details_at": "2026-11-01",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 3340,
+  "forks": 3361,
   "full_name": "AstrBotDevs/AstrBot",
   "homepage": "https://astrbot.app",
   "install_hint": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-01": 45389,
-    "2026-11-02": 45570
+    "2026-11-02": 45570,
+    "2026-11-03": 45746
   },
   "topics": [
     "agent",

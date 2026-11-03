@@ -1,0 +1,69 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "AI/模型训练与微调",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 pip 安装的 CLI 工具，支持多数可本地运行的模型，文档完整且有 v2.0.0 正式发布。",
+    "summary": "无需训练即可修改语言模型行为，如去除审查、减少谄媚。",
+    "tags": [
+      "模型修改",
+      "去审查",
+      "abliteration",
+      "LLM",
+      "CLI"
+    ]
+  },
+  "archived": false,
+  "contributors": 43,
+  "created_at": "2025-09-21",
+  "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 4339,
+  "full_name": "p-e-w/heretic",
+  "homepage": "https://heretic-project.org",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-03",
+  "latest_release": "v2.0.0",
+  "license": "AGPL-3.0",
+  "pushed_at": "2026-11-01",
+  "readme_chars": 14921,
+  "readme_hash": "a62d62b024fc",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1260,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 74.6,
+    "trending_days_30": 1,
+    "velocity": 0.72
+  },
+  "stars": {
+    "2026-11-03": 38305
+  },
+  "topics": [
+    "abliteration",
+    "anti-censorship",
+    "anticensorship",
+    "censorship",
+    "censorship-resistance",
+    "llm",
+    "transformer"
+  ],
+  "trending": {
+    "2026-11-03": {
+      "daily": 420
+    }
+  },
+  "url": "https://github.com/p-e-w/heretic"
+}

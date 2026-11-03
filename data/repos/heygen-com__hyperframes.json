@@ -1,0 +1,77 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "多媒体/音视频",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包和桌面应用，提供 init/preview/render 等 CLI 命令，文档与上手流程完整，可直接使用。",
+    "summary": "用 HTML/CSS 和可定位动画确定性渲染 MP4 视频的框架。",
+    "tags": [
+      "HTML转视频",
+      "视频渲染",
+      "动画",
+      "AI Agent",
+      "FFmpeg"
+    ]
+  },
+  "archived": false,
+  "contributors": 125,
+  "created_at": "2026-03-10",
+  "description": "Write HTML. Render video. Built for agents.",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 7172,
+  "full_name": "heygen-com/hyperframes",
+  "homepage": "https://hyperframes.heygen.com",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-03",
+  "latest_release": "v0.9.7",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 23674,
+  "readme_hash": "85573a16564a",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 4924,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 79.4,
+    "trending_days_30": 1,
+    "velocity": 0.86
+  },
+  "stars": {
+    "2026-11-03": 77925
+  },
+  "topics": [
+    "ai",
+    "ai-agents",
+    "animation",
+    "claude-code",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html",
+    "html-to-video",
+    "mcp",
+    "motion-graphics",
+    "puppeteer",
+    "rendering",
+    "typescript",
+    "video-editor"
+  ],
+  "trending": {
+    "2026-11-03": {
+      "weekly": 4924
+    }
+  },
+  "url": "https://github.com/heygen-com/hyperframes"
+}

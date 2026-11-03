@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "开发工具/Git与协作",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.81.0，支持 Homebrew、Cargo 等安装方式，并有完整文档和核心命令可直接上手。",
+    "summary": "管理 Git worktree 的命令行工具，便于并行运行多个 AI 编码代理。",
+    "tags": [
+      "git worktree",
+      "AI 代理",
+      "并行开发",
+      "命令行工具",
+      "Rust"
+    ]
+  },
+  "archived": false,
+  "contributors": 82,
+  "created_at": "2025-10-17",
+  "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 368,
+  "full_name": "max-sixty/worktrunk",
+  "homepage": "https://worktrunk.dev",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-03",
+  "latest_release": "v0.81.0",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 14938,
+  "readme_hash": "71305e978c45",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 231,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 68.6,
+    "trending_days_30": 1,
+    "velocity": 0.55
+  },
+  "stars": {
+    "2026-11-03": 10170
+  },
+  "topics": [
+    "agents",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "git",
+    "worktrees"
+  ],
+  "trending": {
+    "2026-11-03": {
+      "daily": 77
+    }
+  },
+  "url": "https://github.com/max-sixty/worktrunk"
+}

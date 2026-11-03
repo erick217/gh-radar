@@ -23,7 +23,7 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 3471,
+  "forks": 3498,
   "full_name": "cjpais/Handy",
   "homepage": "https://handy.computer",
   "install_hint": true,
@@ -49,7 +49,8 @@
     "velocity": 0.7
   },
   "stars": {
-    "2026-11-02": 36856
+    "2026-11-02": 36856,
+    "2026-11-03": 37220
   },
   "topics": [
     "accessibility",

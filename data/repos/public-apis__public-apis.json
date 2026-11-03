@@ -23,7 +23,7 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 55242,
+  "forks": 55334,
   "full_name": "public-apis/public-apis",
   "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
   "install_hint": false,
@@ -49,7 +49,8 @@
     "velocity": 0.69
   },
   "stars": {
-    "2026-11-02": 495052
+    "2026-11-02": 495052,
+    "2026-11-03": 495651
   },
   "topics": [
     "api",

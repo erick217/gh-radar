@@ -1,0 +1,82 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "数据/数据处理",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 PyPI 包和 v0.5 版本，文档覆盖安装、抓取、爬虫与 CLI，可直接上手使用。",
+    "summary": "Python 网页抓取框架，集请求、解析与并发爬虫于一体。",
+    "tags": [
+      "网页抓取",
+      "Python",
+      "爬虫",
+      "数据提取",
+      "Playwright"
+    ]
+  },
+  "archived": false,
+  "contributors": 42,
+  "created_at": "2024-10-13",
+  "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 9824,
+  "full_name": "D4Vinci/Scrapling",
+  "homepage": "https://scrapling.readthedocs.io/en/latest/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-03",
+  "latest_release": "v0.5",
+  "license": "BSD-3-Clause",
+  "pushed_at": "2026-11-02",
+  "readme_chars": 37265,
+  "readme_hash": "a5c773ad0fbd",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2118,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 76.5,
+    "trending_days_30": 1,
+    "velocity": 0.77
+  },
+  "stars": {
+    "2026-11-03": 93440
+  },
+  "topics": [
+    "ai",
+    "ai-scraping",
+    "automation",
+    "crawler",
+    "crawling",
+    "crawling-python",
+    "data",
+    "data-extraction",
+    "mcp",
+    "mcp-server",
+    "playwright",
+    "python",
+    "scraping",
+    "selectors",
+    "stealth",
+    "web-scraper",
+    "web-scraping",
+    "web-scraping-python",
+    "webscraping",
+    "xpath"
+  ],
+  "trending": {
+    "2026-11-03": {
+      "daily": 706
+    }
+  },
+  "url": "https://github.com/D4Vinci/Scrapling"
+}

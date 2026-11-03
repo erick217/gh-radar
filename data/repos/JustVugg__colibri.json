@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "AI/模型推理与部署",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供正式发布版和一键安装脚本，支持多平台构建，文档含快速上手、模型选型与故障排查，可直接安装运行。",
+    "summary": "纯 C 编写的 MoE 推理引擎，专家权重从磁盘流式加载，让普通硬件也能跑超大模型",
+    "tags": [
+      "MoE",
+      "本地推理",
+      "C",
+      "磁盘流式加载",
+      "CPU推理"
+    ]
+  },
+  "archived": false,
+  "contributors": 221,
+  "created_at": "2026-07-01",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 5402,
+  "full_name": "JustVugg/colibri",
+  "homepage": "https://justvugg.github.io/colibri",
+  "install_hint": true,
+  "language": "C",
+  "last_seen": "2026-11-03",
+  "latest_release": "v2.1.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 53551,
+  "readme_hash": "2bf33e560ad9",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2025,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 76.3,
+    "trending_days_30": 1,
+    "velocity": 0.77
+  },
+  "stars": {
+    "2026-11-03": 46796
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-03": {
+      "daily": 675
+    }
+  },
+  "url": "https://github.com/JustVugg/colibri"
+}

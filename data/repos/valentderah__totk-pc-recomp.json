@@ -1,0 +1,63 @@
+{
+  "ai": {
+    "at": "2026-11-03",
+    "category": "其他/其他",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布带安装器的 Windows 与 Linux 构建，有完整安装、控制与 mods 文档，游戏可实际运行（虽仍属早期开发）。",
+    "summary": "将《王国之泪》静态重编译为 Windows/Linux 原生版，需自备游戏文件",
+    "tags": [
+      "游戏移植",
+      "静态重编译",
+      "Vulkan",
+      "塞尔达传说",
+      "C"
+    ]
+  },
+  "archived": false,
+  "contributors": 32,
+  "created_at": "2026-10-29",
+  "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+  "details_at": "2026-11-03",
+  "first_seen": "2026-11-03",
+  "fork": false,
+  "forks": 336,
+  "full_name": "valentderah/totk-pc-recomp",
+  "homepage": null,
+  "install_hint": false,
+  "language": "C",
+  "last_seen": "2026-11-03",
+  "latest_release": "v0.3.4",
+  "license": "MIT",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 5514,
+  "readme_hash": "7c8a5e310686",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 4179,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 73.5,
+    "trending_days_30": 0,
+    "velocity": 0.84
+  },
+  "stars": {
+    "2026-11-03": 4179
+  },
+  "topics": [
+    "game",
+    "linux",
+    "port",
+    "recompilation",
+    "windows"
+  ],
+  "trending": {},
+  "url": "https://github.com/valentderah/totk-pc-recomp"
+}

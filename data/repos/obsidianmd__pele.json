@@ -23,7 +23,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 121,
+  "forks": 127,
   "full_name": "obsidianmd/pele",
   "homepage": "https://pele.run",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 381,
+    "gain7": 422,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.0,
+    "total": 72.4,
     "trending_days_30": 0,
-    "velocity": 0.6
+    "velocity": 0.61
   },
   "stars": {
     "2026-10-29": 3853,
@@ -54,7 +54,8 @@
     "2026-10-31": 3954,
     "2026-11-01": 3979,
     "2026-11-02": 4033,
-    "2026-11-03": 4125
+    "2026-11-03": 4125,
+    "2026-11-04": 4215
   },
   "topics": [
     "charts",

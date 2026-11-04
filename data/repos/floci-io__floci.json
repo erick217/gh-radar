@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-11-04",
+    "category": "开发工具/测试与调试",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 2.4.0 版本，提供 Docker 镜像、CLI 和原生二进制，文档覆盖快速启动与 SDK 接入，可直接用于本地开发和测试。",
+    "summary": "本地模拟 AWS 服务的开源工具，用于开发、测试和 CI",
+    "tags": [
+      "AWS模拟",
+      "本地开发",
+      "测试",
+      "Docker",
+      "LocalStack替代"
+    ]
+  },
+  "archived": false,
+  "contributors": 378,
+  "created_at": "2026-02-18",
+  "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+  "details_at": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "fork": false,
+  "forks": 3230,
+  "full_name": "floci-io/floci",
+  "homepage": "https://floci.io/floci/",
+  "install_hint": true,
+  "language": "Java",
+  "last_seen": "2026-11-04",
+  "latest_release": "2.4.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-04",
+  "readme_chars": 45051,
+  "readme_hash": "0f477c8e6a7d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1446,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 75.1,
+    "trending_days_30": 1,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-11-04": 29068
+  },
+  "topics": [
+    "aws",
+    "aws-emulation",
+    "devops",
+    "docker",
+    "ec2",
+    "ecs",
+    "localstack",
+    "s3",
+    "sqs",
+    "testcontainers"
+  ],
+  "trending": {
+    "2026-11-04": {
+      "daily": 482
+    }
+  },
+  "url": "https://github.com/floci-io/floci"
+}

@@ -22,7 +22,7 @@
   "details_at": "2026-10-29",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2082,
+  "forks": 2147,
   "full_name": "togg53192-cmd/jailbreaks",
   "homepage": null,
   "install_hint": false,
@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 7868,
+    "gain7": 6903,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.58,
     "practical": 0.6,
-    "total": 72.8,
+    "total": 72.3,
     "trending_days_30": 4,
-    "velocity": 0.91
+    "velocity": 0.89
   },
   "stars": {
     "2026-10-29": 8141,
@@ -53,7 +53,8 @@
     "2026-10-31": 11541,
     "2026-11-01": 12392,
     "2026-11-02": 13239,
-    "2026-11-03": 13761
+    "2026-11-03": 13761,
+    "2026-11-04": 14058
   },
   "topics": [],
   "trending": {

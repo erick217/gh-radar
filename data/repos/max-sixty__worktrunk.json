@@ -23,33 +23,34 @@
   "details_at": "2026-11-03",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 368,
+  "forks": 388,
   "full_name": "max-sixty/worktrunk",
   "homepage": "https://worktrunk.dev",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-03",
+  "last_seen": "2026-11-04",
   "latest_release": "v0.81.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-04",
   "readme_chars": 14938,
   "readme_hash": "71305e978c45",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 231,
-    "gain7_source": "trending-daily",
+    "gain7": 749,
+    "gain7_source": "trending-weekly",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 68.6,
-    "trending_days_30": 1,
-    "velocity": 0.55
+    "total": 74.2,
+    "trending_days_30": 2,
+    "velocity": 0.67
   },
   "stars": {
-    "2026-11-03": 10170
+    "2026-11-03": 10170,
+    "2026-11-04": 10670
   },
   "topics": [
     "agents",
@@ -62,6 +63,10 @@
   "trending": {
     "2026-11-03": {
       "daily": 77
+    },
+    "2026-11-04": {
+      "daily": 438,
+      "weekly": 749
     }
   },
   "url": "https://github.com/max-sixty/worktrunk"

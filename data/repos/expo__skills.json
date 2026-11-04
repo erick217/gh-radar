@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 258,
+  "forks": 259,
   "full_name": "expo/skills",
   "homepage": null,
   "install_hint": true,
@@ -37,22 +37,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 217,
+    "gain7": 177,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 63.9,
+    "total": 63.2,
     "trending_days_30": 1,
-    "velocity": 0.54
+    "velocity": 0.52
   },
   "stars": {
     "2026-10-31": 3940,
     "2026-11-01": 3986,
     "2026-11-02": 4015,
-    "2026-11-03": 4033
+    "2026-11-03": 4033,
+    "2026-11-04": 4041
   },
   "topics": [],
   "trending": {

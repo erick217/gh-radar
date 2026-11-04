@@ -1,0 +1,75 @@
+{
+  "ai": {
+    "at": "2026-11-04",
+    "category": "效率与自托管/自动化",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Docker 一键部署、Web 管理界面和完整配置文档，Release 2.5 可直接上手。",
+    "summary": "基于 Playwright 和 AI 的闲鱼商品多任务监控与通知系统。",
+    "tags": [
+      "闲鱼监控",
+      "Playwright",
+      "AI分析",
+      "自动化",
+      "Web管理"
+    ]
+  },
+  "archived": false,
+  "contributors": 27,
+  "created_at": "2025-07-16",
+  "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+  "details_at": "2026-11-04",
+  "first_seen": "2026-11-04",
+  "fork": false,
+  "forks": 2879,
+  "full_name": "Usagi-org/ai-goofish-monitor",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-04",
+  "latest_release": "2.5",
+  "license": "MIT",
+  "pushed_at": "2026-10-10",
+  "readme_chars": 7352,
+  "readme_hash": "b439ea8f69c9",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 684,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.5,
+    "trending_days_30": 1,
+    "velocity": 0.66
+  },
+  "stars": {
+    "2026-11-04": 16830
+  },
+  "topics": [
+    "ai",
+    "ai-assistant",
+    "ai-tools",
+    "automation",
+    "gemini",
+    "goofish",
+    "open-source",
+    "openai",
+    "playwright",
+    "tool",
+    "xian-yu",
+    "xianyu",
+    "xianyu-bot"
+  ],
+  "trending": {
+    "2026-11-04": {
+      "daily": 228
+    }
+  },
+  "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+}

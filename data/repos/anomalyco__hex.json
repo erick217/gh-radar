@@ -23,15 +23,15 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 245,
+  "forks": 268,
   "full_name": "anomalyco/hex",
   "homepage": "https://anoma.ly/hex",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-02",
+  "last_seen": "2026-11-04",
   "latest_release": "v3.2.0",
   "license": "MIT",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-04",
   "readme_chars": 2309,
   "readme_hash": "fa69fa6c2645",
   "score": {
@@ -42,15 +42,16 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 78.3,
-    "trending_days_30": 1,
+    "total": 79.7,
+    "trending_days_30": 2,
     "velocity": 0.83
   },
   "stars": {
     "2026-11-02": 3624,
-    "2026-11-03": 4157
+    "2026-11-03": 4157,
+    "2026-11-04": 4771
   },
   "topics": [
     "dictation",
@@ -65,6 +66,9 @@
   "trending": {
     "2026-11-02": {
       "daily": 1179
+    },
+    "2026-11-04": {
+      "daily": 410
     }
   },
   "url": "https://github.com/anomalyco/hex"

@@ -22,35 +22,36 @@
   "details_at": "2026-11-01",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 3812,
-  "full_name": "YuJunZhiXue/dsh-purge",
+  "forks": 4042,
+  "full_name": "HunYiSage/dsh-purge",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
   "last_seen": "2026-11-02",
   "latest_release": "v1.1.86",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-02",
+  "pushed_at": "2026-11-03",
   "readme_chars": 34066,
   "readme_hash": "7d0a2fb56a61",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6644,
-    "gain7_source": "trending-weekly",
+    "gain7": 6146,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.44,
     "practical": 1.0,
-    "total": 81.9,
+    "total": 84.6,
     "trending_days_30": 2,
-    "velocity": 0.89
+    "velocity": 0.88
   },
   "stars": {
     "2026-11-01": 14773,
     "2026-11-02": 15717,
-    "2026-11-03": 16537
+    "2026-11-03": 16537,
+    "2026-11-04": 17407
   },
   "topics": [
     "deepseek",
@@ -69,5 +70,5 @@
       "weekly": 6644
     }
   },
-  "url": "https://github.com/YuJunZhiXue/dsh-purge"
+  "url": "https://github.com/HunYiSage/dsh-purge"
 }

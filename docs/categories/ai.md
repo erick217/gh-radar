@@ -1,91 +1,92 @@
 # AI
 
-[← 返回目录](../index.md) · 共 63 个项目，按分数排序
+[← 返回目录](../index.md) · 共 64 个项目，按分数排序
 
 ## Agent（47）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 为AI编程代理提供跨会话持久记忆压缩与检索 | CLI工具 | TypeScript | 111.1k | +9.5k | 92 |  |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | CLI工具 | Rust | 100.8k | +8.9k | 92 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | 桌面应用 | TypeScript | 42.6k | +22.3k | 92 |  |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 为编码 Agent 提供网页设计品味、配图和浏览器自检的技能 | 其他 | JavaScript | 109.0k | +5.4k | 90 |  |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源Grok Bot替代品：聊天式多AI智能体桌面应用，可操作电脑 | 桌面应用 | TypeScript | 11.4k | +6.1k | 89 |  |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Claude Code 的开源 SEO 审计插件，内置多智能体和 30 条命令。 | 其他 | Python | 26.1k | +3.3k | 88 |  |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 基于多智能体LLM协作的金融交易分析框架，模拟投研团队分工决策。 | 框架 | Python | 120.1k | +2.7k | 87 |  |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 为 Claude Code 等编码智能体提供技能、记忆与安全优化的工具系统 | CLI工具 | JavaScript | 295.9k | +5.6k | 87 |  |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | 其他 | Shell | 310.6k | +6.8k | 86 |  |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 用 Zig 编写的轻量无头浏览器，为 AI 代理与自动化提供 CDP 服务 | CLI工具 | Zig | 41.1k | +5.7k | 86 |  |
-| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | 框架 | Shell | 311.4k | +4.7k | 85 |  |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 基于 pi 代理的 AI 编程 IDE，提供隔离工作区与规格驱动开发。 | 桌面应用 | TypeScript | 7.3k | +2.2k | 85 |  |
-| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 可自托管的开源AI同事平台，为每个智能体分配独立电脑并审计其操作。 | 自托管服务 | TypeScript | 9.9k | +3.0k | 85 |  |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 将 Claude Code 配置成游戏开发工作室的多智能体工作流模板 | 其他 | Shell | 33.9k | +7.3k | 82 |  |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | CLI工具 | Rust | 10.9k | +6.8k | 81 |  |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 本地优先的桌面 AI 代理工作区，管理多代理任务队列与协作 | 桌面应用 | TypeScript | 5.0k | +1.9k | 80 |  |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 面向 Claude Code/Codex 的多智能体编排与记忆框架 | 框架 | TypeScript | 80.7k | +874 | 79 |  |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | 其他 | JavaScript | 24.2k | +2.5k | 79 |  |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 面向编码智能体的网页设计技能，避免生成千篇一律的 AI 风格页面。 | 其他 | CSS | 46.3k | +12.1k | 78 |  |
-| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 本地优先的多智能体桌面应用，将目标拆解为任务并协调专家代理协作完成。 | 桌面应用 | JavaScript | 8.6k | +3.1k | 78 |  |
-| [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | 用AI智能体规划并教授课程，构建跨会话知识图谱。 | 桌面应用 | TypeScript | 5.0k | +1.7k | 77 |  |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 开源 AI Agent 聊天机器人平台，可接入 QQ、Telegram 等 IM 与多种大模型 | 自托管服务 | Python | 45.7k | +2.1k | 76 |  |
-| [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) | DeepSeek Harness 社区插件，提供提示词管理、状态诊断与备份回滚。 | 其他 | JavaScript | 4.2k | +1.3k | 76 |  |
-| [openfilm/openfilm](https://github.com/openfilm/openfilm) | 把编码代理变成视频代理，并用浏览器编辑器修改成片。 | CLI工具 | TypeScript | 4.3k | +1.1k | 76 |  |
-| [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | 为 DeepSeek Harness 提供多智能体机器人、群聊与记忆的插件。 | 桌面应用 | JavaScript | 5.2k | +965 | 75 |  |
-| [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | 面向 UI 设计的 AI 智能体技能合集，覆盖排版、配色、无障碍与布局。 | 资源列表 | Markdown | 10.4k | +1.8k | 75 |  |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 安卓端AI助手，通过无障碍控制手机应用和网页完成任务。 | 移动应用 | Kotlin | 5.7k | +5.7k | 75 |  |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 开源的多AI Agent团队编排与任务管理应用 | Web应用 | TypeScript | 110.6k | +1.2k | 75 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | 移动应用 | Dart | 6.3k | +4.9k | 74 |  |
-| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 让 AI Agent 用一页可读 HTML 回答复杂问题，自带 CLI 渲染。 | CLI工具 | JavaScript | 5.1k | +645 | 74 |  |
-| [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | 面向编码智能体的跨会话 token 成本优化插件 | 其他 | Python | 4.6k | +1.5k | 74 |  |
-| [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | DSH 底层操作插件，降低 Token 消耗与任务耗时。 | 其他 | JavaScript | 5.1k | +473 | 73 |  |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 把 AI 味浓重的界面逐步改造成有设计感 UI 的 Claude/Codex 技能 | 其他 | JavaScript | 6.7k | +6.7k | 72 |  |
-| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击 | 其他 | C | 4.3k | +249 | 70 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | 桌面应用 | Rust | 5.4k | +5.4k | 70 |  |
-| [anthropics/skills](https://github.com/anthropics/skills) | Claude 的 Agent Skills 示例与规范集合，可安装为插件扩展专项能力。 | 其他 | Python | 186.9k | +3.2k | 70 |  |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 为 Claude Cowork/Code 提供按岗位定制的技能与工具连接插件集。 | 其他 | Python | 34.5k | +1.1k | 68 |  |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 面向编码 Agent 的艺术动画 Skill，用代码生成多风格动画。 | 其他 | JavaScript | 6.1k | +441 | 65 |  |
-| [expo/skills](https://github.com/expo/skills) | Expo 官方 AI 编码代理技能集，覆盖 Expo 与 EAS 开发部署。 | 资源列表 | Shell | 4.0k | +217 | 64 |  |
-| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 11 个 Claude 日交易技能，覆盖选股、新闻、出入场、回放与风控。 | 其他 | Python | 4.7k | +2.3k | 63 |  |
-| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 让 AI 编码代理为任意 PC 游戏制作模组的技能与工具集 | 其他 | Python | 9.4k | +251 | 63 |  |
-| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 为 AI 编码工具提供可安装的落地页设计技能规则 | 资源列表 | Python | 13.8k | +2.8k | 63 |  |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 一份 CLAUDE.md 规则，约束 Claude Code 写代码时少假设、少过度设计。 | 其他 |  | 228.7k | +3.5k | 63 |  |
-| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 面向 AI 编程代理的软件工程规范技能，结合质量门禁约束代码质量 | 其他 |  | 6.6k | +3.2k | 61 |  |
-| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 8KB 技能文件，让 AI 代理用普通 CLI 工具完成逆向工程 | 其他 | Python | 3.9k | +571 | 58 |  |
-| [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | 框架 | Python | 22.2k | +1.4k | 57 |  |
-| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 一套 Claude 技能，用于逆向分析应用并重建功能与流程。 | 其他 | Python | 7.2k | +1.2k | 56 |  |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 为AI编程代理提供跨会话持久记忆压缩与检索 | CLI工具 | TypeScript | 112.2k | +9.2k | 93 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | 桌面应用 | TypeScript | 45.0k | +20.8k | 93 |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | CLI工具 | Rust | 101.8k | +8.6k | 93 |  |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 为编码 Agent 提供网页设计品味、配图和浏览器自检的技能 | 其他 | JavaScript | 109.7k | +5.3k | 90 |  |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Claude Code 的开源 SEO 审计插件，内置多智能体和 30 条命令。 | 其他 | Python | 26.4k | +3.1k | 89 |  |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 基于多智能体LLM协作的金融交易分析框架，模拟投研团队分工决策。 | 框架 | Python | 120.5k | +2.7k | 89 |  |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 为 Claude Code 等编码智能体提供技能、记忆与安全优化的工具系统 | CLI工具 | JavaScript | 296.7k | +5.6k | 88 |  |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源Grok Bot替代品：聊天式多AI智能体桌面应用，可操作电脑 | 桌面应用 | TypeScript | 11.8k | +5.5k | 88 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | 其他 | Shell | 311.8k | +7.3k | 88 |  |
+| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | 框架 | Shell | 312.0k | +4.6k | 87 |  |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 基于 pi 代理的 AI 编程 IDE，提供隔离工作区与规格驱动开发。 | 桌面应用 | TypeScript | 7.5k | +2.0k | 86 |  |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 用 Zig 编写的轻量无头浏览器，为 AI 代理与自动化提供 CDP 服务 | CLI工具 | Zig | 41.2k | +4.5k | 85 |  |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 可自托管的开源AI同事平台，为每个智能体分配独立电脑并审计其操作。 | 自托管服务 | TypeScript | 10.1k | +2.6k | 84 |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | CLI工具 | Rust | 13.5k | +11.4k | 84 |  |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 将 Claude Code 配置成游戏开发工作室的多智能体工作流模板 | 其他 | Shell | 34.9k | +7.2k | 83 |  |
+| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 本地优先的多智能体桌面应用，将目标拆解为任务并协调专家代理协作完成。 | 桌面应用 | JavaScript | 9.0k | +5.0k | 82 |  |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 本地优先的桌面 AI 代理工作区，管理多代理任务队列与协作 | 桌面应用 | TypeScript | 5.4k | +2.0k | 81 |  |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 面向编码智能体的网页设计技能，避免生成千篇一律的 AI 风格页面。 | 其他 | CSS | 47.3k | +7.3k | 80 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | 移动应用 | Dart | 8.3k | +10.5k | 80 |  |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 面向 Claude Code/Codex 的多智能体编排与记忆框架 | 框架 | TypeScript | 80.8k | +870 | 79 |  |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | 其他 | JavaScript | 24.6k | +2.5k | 79 |  |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 开源 AI Agent 聊天机器人平台，可接入 QQ、Telegram 等 IM 与多种大模型 | 自托管服务 | Python | 45.9k | +1.2k | 77 |  |
+| [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | 用AI智能体规划并教授课程，构建跨会话知识图谱。 | 桌面应用 | TypeScript | 5.2k | +1.6k | 77 |  |
+| [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | 面向 UI 设计的 AI 智能体技能合集，覆盖排版、配色、无障碍与布局。 | 资源列表 | Markdown | 10.7k | +1.8k | 76 |  |
+| [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) | DeepSeek Harness 社区插件，提供提示词管理、状态诊断与备份回滚。 | 其他 | JavaScript | 4.4k | +1.2k | 76 |  |
+| [openfilm/openfilm](https://github.com/openfilm/openfilm) | 把编码代理变成视频代理，并用浏览器编辑器修改成片。 | CLI工具 | TypeScript | 4.5k | +1.1k | 76 |  |
+| [heydamir/unslop](https://github.com/heydamir/unslop) | 把 AI 味浓重的界面逐步改造成有设计感 UI 的 Claude/Codex 技能 | 其他 | JavaScript | 7.8k | +9.3k | 76 |  |
+| [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | 为 DeepSeek Harness 提供多智能体机器人、群聊与记忆的插件。 | 桌面应用 | JavaScript | 5.4k | +1.1k | 76 |  |
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 安卓端AI助手，通过无障碍控制手机应用和网页完成任务。 | 移动应用 | Kotlin | 6.2k | +6.2k | 75 |  |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 开源的多AI Agent团队编排与任务管理应用 | Web应用 | TypeScript | 110.9k | +1.2k | 75 |  |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 让 AI Agent 用一页可读 HTML 回答复杂问题，自带 CLI 渲染。 | CLI工具 | JavaScript | 5.3k | +727 | 74 |  |
+| [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | 面向编码智能体的跨会话 token 成本优化插件 | 其他 | Python | 4.7k | +1.5k | 74 |  |
+| [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | DSH 底层操作插件，降低 Token 消耗与任务耗时。 | 其他 | JavaScript | 5.2k | +483 | 73 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | 桌面应用 | Rust | 9.3k | +9.3k | 72 |  |
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击 | 其他 | C | 4.3k | +285 | 71 |  |
+| [anthropics/skills](https://github.com/anthropics/skills) | Claude 的 Agent Skills 示例与规范集合，可安装为插件扩展专项能力。 | 其他 | Python | 187.2k | +2.9k | 71 |  |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 为 Claude Cowork/Code 提供按岗位定制的技能与工具连接插件集。 | 其他 | Python | 34.6k | +1.0k | 68 |  |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 面向编码 Agent 的艺术动画 Skill，用代码生成多风格动画。 | 其他 | JavaScript | 6.2k | +505 | 66 |  |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 一份 CLAUDE.md 规则，约束 Claude Code 写代码时少假设、少过度设计。 | 其他 |  | 229.2k | +3.5k | 64 |  |
+| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 11 个 Claude 日交易技能，覆盖选股、新闻、出入场、回放与风控。 | 其他 | Python | 5.0k | +2.4k | 64 |  |
+| [expo/skills](https://github.com/expo/skills) | Expo 官方 AI 编码代理技能集，覆盖 Expo 与 EAS 开发部署。 | 资源列表 | Shell | 4.0k | +177 | 63 |  |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 让 AI 编码代理为任意 PC 游戏制作模组的技能与工具集 | 其他 | Python | 9.4k | +259 | 63 |  |
+| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 为 AI 编码工具提供可安装的落地页设计技能规则 | 资源列表 | Python | 14.0k | +2.6k | 63 |  |
+| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 面向 AI 编程代理的软件工程规范技能，结合质量门禁约束代码质量 | 其他 |  | 6.8k | +2.9k | 60 |  |
+| [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 8KB 技能文件，让 AI 代理用普通 CLI 工具完成逆向工程 | 其他 | Python | 4.0k | +526 | 58 |  |
+| [google-research/harness2](https://github.com/google-research/harness2) | 递归优化智能体 harness 的框架，自动改进提示、工具与记忆配置 | 框架 | Python | 22.5k | +1.5k | 58 |  |
+| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 一套 Claude 技能，用于逆向分析应用并重建功能与流程。 | 其他 | Python | 7.5k | +1.3k | 56 |  |
 
 ## AI应用（6）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | Web应用 | Python | 54.5k | +7.3k | 88 |  |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 用 AI 将文档或主题生成可原生编辑的 PowerPoint 演示文稿 | CLI工具 | Python | 72.8k | +3.1k | 81 |  |
-| [AienTech/dossier](https://github.com/AienTech/dossier) | 自托管求职管理应用，用 LLM 根据个人档案为每份工作生成定制简历和求职信。 | 自托管服务 | TypeScript | 4.1k | +1.6k | 73 |  |
-| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 评测 AI API 中转站并一键切换 Claude Code 等工具配置的桌面客户端 | 桌面应用 | Rust | 4.3k | +505 | 73 |  |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 把任意主题或文档一键生成多智能体互动课堂的开源 AI 教学平台 | Web应用 | TypeScript | 42.5k | +348 | 70 |  |
-| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 本地多模态文件语义搜索桌面应用，用自然语言查找照片、音频、视频和文档。 | 桌面应用 | Swift | 6.1k | +199 | 70 |  |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 基于多智能体与RAG的个性化AI导师和学习工作台 | Web应用 | Python | 54.8k | +6.5k | 88 |  |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 用 AI 将文档或主题生成可原生编辑的 PowerPoint 演示文稿 | CLI工具 | Python | 73.2k | +3.1k | 81 |  |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 把任意主题或文档一键生成多智能体互动课堂的开源 AI 教学平台 | Web应用 | TypeScript | 42.6k | +835 | 76 |  |
+| [AienTech/dossier](https://github.com/AienTech/dossier) | 自托管求职管理应用，用 LLM 根据个人档案为每份工作生成定制简历和求职信。 | 自托管服务 | TypeScript | 4.2k | +1.4k | 73 |  |
+| [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 评测 AI API 中转站并一键切换 Claude Code 等工具配置的桌面客户端 | 桌面应用 | Rust | 4.3k | +482 | 73 |  |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 本地多模态文件语义搜索桌面应用，用自然语言查找照片、音频、视频和文档。 | 桌面应用 | Swift | 6.2k | +239 | 70 |  |
 
 ## 模型推理与部署（4）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 在个人电脑上本地高效运行大规模 MoE 模型的边缘推理引擎 | 框架 | Python | 16.3k | +2.0k | 78 |  |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 纯 C 编写的 MoE 推理引擎，专家权重从磁盘流式加载，让普通硬件也能跑超大模型 | CLI工具 | C | 46.8k | +2.0k | 76 |  |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 解锁 GeForce 显卡被限制的 Tensor Core 算力，提升 AI 训练与推理速度 | 其他 | C | 14.9k | +2.9k | 75 |  |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | 框架 | Python | 25.1k | +1.3k | 57 |  |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 纯 C 编写的 MoE 推理引擎，专家权重从磁盘流式加载，让普通硬件也能跑超大模型 | CLI工具 | C | 47.4k | +2.4k | 78 |  |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 在个人电脑上本地高效运行大规模 MoE 模型的边缘推理引擎 | 框架 | Python | 16.5k | +2.0k | 78 |  |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 解锁 GeForce 显卡被限制的 Tensor Core 算力，提升 AI 训练与推理速度 | 其他 | C | 15.9k | +3.6k | 76 |  |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | DeepSeek 大模型高性能离线推理框架 | 框架 | Python | 25.3k | +1.3k | 57 |  |
 
 ## 模型训练与微调（4）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [kornia/kornia](https://github.com/kornia/kornia) | 基于 PyTorch 的可微计算机视觉库，提供图像处理与几何算法 | 库 | Python | 12.2k | +1.2k | 76 |  |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 无需训练即可修改语言模型行为，如去除审查、减少谄媚。 | CLI工具 | Python | 38.3k | +1.3k | 75 |  |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 面向金融K线序列的开源基础模型，支持预测与微调。 | 模型或数据集 | Python | 46.1k | +2.6k | 61 |  |
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 极简 LLM 训练实验框架，覆盖分词、预训练、微调、评估和推理。 | 框架 | Python | 60.1k | +963 | 57 |  |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 无需训练即可修改语言模型行为，如去除审查、减少谄媚。 | CLI工具 | Python | 39.0k | +2.1k | 78 |  |
+| [kornia/kornia](https://github.com/kornia/kornia) | 基于 PyTorch 的可微计算机视觉库，提供图像处理与几何算法 | 库 | Python | 12.3k | +1.2k | 76 |  |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 面向金融K线序列的开源基础模型，支持预测与微调。 | 模型或数据集 | Python | 46.6k | +2.6k | 62 |  |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 极简 LLM 训练实验框架，覆盖分词、预训练、微调、评估和推理。 | 框架 | Python | 60.2k | +963 | 57 |  |
 
-## MCP与工具集成（2）
+## MCP与工具集成（3）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 让编程 AI 智能体听得懂声音：音频描述、匹配、评测与代码合成音效 | CLI工具 | Python | 3.6k | +562 | 66 |  |
-| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 让 Codex 等 AI 助手通过 USB 操作真实 iPhone 的本地 MCP 工具。 | 自托管服务 | Python | 4.9k | +141 | 64 |  |
+| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 让编程 AI 智能体听得懂声音：音频描述、匹配、评测与代码合成音效 | CLI工具 | Python | 3.8k | +762 | 67 |  |
+| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 让 Codex 等 AI 助手通过 USB 操作真实 iPhone 的本地 MCP 工具。 | 自托管服务 | Python | 4.9k | +148 | 65 |  |
+| [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 把 Spotify Portal 接入 Claude Code、Cursor 等 AI 编程工具的插件集。 | 其他 | TypeScript | 3.1k | +273 | 62 |  |

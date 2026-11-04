@@ -19,42 +19,46 @@
   "archived": false,
   "contributors": 221,
   "created_at": "2026-07-01",
-  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
   "details_at": "2026-11-03",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 5402,
+  "forks": 5478,
   "full_name": "JustVugg/colibri",
   "homepage": "https://justvugg.github.io/colibri",
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-11-03",
+  "last_seen": "2026-11-04",
   "latest_release": "v2.1.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-04",
   "readme_chars": 53551,
   "readme_hash": "2bf33e560ad9",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2025,
+    "gain7": 2406,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 76.3,
-    "trending_days_30": 1,
-    "velocity": 0.77
+    "total": 78.3,
+    "trending_days_30": 2,
+    "velocity": 0.79
   },
   "stars": {
-    "2026-11-03": 46796
+    "2026-11-03": 46796,
+    "2026-11-04": 47427
   },
   "topics": [],
   "trending": {
     "2026-11-03": {
       "daily": 675
+    },
+    "2026-11-04": {
+      "daily": 802
     }
   },
   "url": "https://github.com/JustVugg/colibri"

@@ -17,35 +17,35 @@
     ]
   },
   "archived": false,
-  "contributors": 312,
+  "contributors": 342,
   "created_at": "2025-08-31",
   "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9760,
+  "forks": 9820,
   "full_name": "thedotmack/claude-mem",
   "homepage": "https://claude-mem.ai",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-04",
-  "latest_release": "v15.5.0",
+  "last_seen": "2026-11-05",
+  "latest_release": "v15.9.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-04",
-  "readme_chars": 20031,
-  "readme_hash": "11bd1257ca1b",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 20835,
+  "readme_hash": "3d3a0f9b4d72",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9247,
-    "gain7_source": "snapshot-partial",
+    "gain7": 8824,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 93.1,
-    "trending_days_30": 7,
+    "total": 94.3,
+    "trending_days_30": 8,
     "velocity": 0.92
   },
   "stars": {
@@ -55,7 +55,8 @@
     "2026-11-01": 108163,
     "2026-11-02": 109878,
     "2026-11-03": 111094,
-    "2026-11-04": 112228
+    "2026-11-04": 112228,
+    "2026-11-05": 113126
   },
   "topics": [
     "ai",
@@ -104,6 +105,10 @@
     "2026-11-04": {
       "daily": 1139,
       "weekly": 7995
+    },
+    "2026-11-05": {
+      "daily": 1172,
+      "weekly": 8822
     }
   },
   "url": "https://github.com/thedotmack/claude-mem"

@@ -1,0 +1,82 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "AI/MCP与工具集成",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 Agent Skills、发布版本和完整上手文档，但使用 Scenario 生成功能需连接其 MCP 服务并登录账号。",
+    "summary": "让 AI 编程代理通过 Scenario MCP 生成图像、视频、音频和 3D 素材的技能集。",
+    "tags": [
+      "Agent Skills",
+      "MCP",
+      "AI生成",
+      "3D素材",
+      "游戏美术"
+    ]
+  },
+  "archived": false,
+  "contributors": 10,
+  "created_at": "2026-08-12",
+  "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 251,
+  "full_name": "scenario-labs/skills",
+  "homepage": "https://www.skills.sh/scenario-labs/skills",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-05",
+  "latest_release": "skills-v0.60.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 69335,
+  "readme_hash": "69e5ac1bb480",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 672,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.4,
+    "trending_days_30": 1,
+    "velocity": 0.66
+  },
+  "stars": {
+    "2026-11-05": 2635
+  },
+  "topics": [
+    "3d-models",
+    "agent-skills",
+    "ai-agents",
+    "ai-art",
+    "blender",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "game-assets",
+    "game-development",
+    "generative-ai",
+    "image-generation",
+    "maya",
+    "mcp",
+    "model-context-protocol",
+    "skills-sh",
+    "unity",
+    "unreal-engine",
+    "video-generation",
+    "zbrush"
+  ],
+  "trending": {
+    "2026-11-05": {
+      "daily": 224
+    }
+  },
+  "url": "https://github.com/scenario-labs/skills"
+}

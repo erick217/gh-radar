@@ -1,0 +1,82 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "AI/模型推理与部署",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可编译的 C99 CLI、正式 Release 和完整构建运行文档，具备可运行产物；但需自备约 1.56TB 模型权重。",
+    "summary": "纯 C99 实现的 CPU 推理引擎，可在 8GB 内存流式运行 Kimi K3",
+    "tags": [
+      "C99",
+      "CPU推理",
+      "MoE",
+      "量化",
+      "流式推理"
+    ]
+  },
+  "archived": false,
+  "contributors": 10,
+  "created_at": "2026-08-01",
+  "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 1649,
+  "full_name": "FareedKhan-dev/kimi-k3-in-c",
+  "homepage": "https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59",
+  "install_hint": false,
+  "language": "C",
+  "last_seen": "2026-11-05",
+  "latest_release": "v1.1.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-10-02",
+  "readme_chars": 158916,
+  "readme_hash": "4909b2900fa9",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1053,
+    "gain7_source": "trending-daily",
+    "health": 0.8,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 69.0,
+    "trending_days_30": 1,
+    "velocity": 0.7
+  },
+  "stars": {
+    "2026-11-05": 10538
+  },
+  "topics": [
+    "avx2",
+    "c99",
+    "cpu-inference",
+    "deep-learning",
+    "from-scratch",
+    "inference-engine",
+    "kimi-k3",
+    "linear-attention",
+    "llm",
+    "llm-inference",
+    "machine-learning",
+    "memory-efficient",
+    "mixture-of-experts",
+    "moe",
+    "mxfp4",
+    "quantization",
+    "simd",
+    "systems-programming",
+    "transformer",
+    "zero-dependencies"
+  ],
+  "trending": {
+    "2026-11-05": {
+      "daily": 351
+    }
+  },
+  "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+}

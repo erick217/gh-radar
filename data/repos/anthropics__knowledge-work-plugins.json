@@ -20,10 +20,10 @@
   "contributors": 32,
   "created_at": "2026-01-23",
   "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3831,
+  "forks": 3833,
   "full_name": "anthropics/knowledge-work-plugins",
   "homepage": null,
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1021,
-    "gain7_source": "snapshot-partial",
+    "gain7": 1005,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 0.8,
-    "total": 68.2,
+    "total": 68.1,
     "trending_days_30": 3,
     "velocity": 0.7
   },
@@ -55,7 +55,8 @@
     "2026-11-01": 34240,
     "2026-11-02": 34409,
     "2026-11-03": 34524,
-    "2026-11-04": 34649
+    "2026-11-04": 34649,
+    "2026-11-05": 34779
   },
   "topics": [],
   "trending": {

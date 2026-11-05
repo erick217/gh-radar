@@ -22,7 +22,7 @@
   "details_at": "2026-11-01",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 4042,
+  "forks": 4308,
   "full_name": "HunYiSage/dsh-purge",
   "homepage": null,
   "install_hint": true,
@@ -30,28 +30,29 @@
   "last_seen": "2026-11-02",
   "latest_release": "v1.1.86",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-05",
   "readme_chars": 34066,
   "readme_hash": "7d0a2fb56a61",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6146,
+    "gain7": 6498,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 84.6,
+    "total": 84.8,
     "trending_days_30": 2,
-    "velocity": 0.88
+    "velocity": 0.89
   },
   "stars": {
     "2026-11-01": 14773,
     "2026-11-02": 15717,
     "2026-11-03": 16537,
-    "2026-11-04": 17407
+    "2026-11-04": 17407,
+    "2026-11-05": 18486
   },
   "topics": [
     "deepseek",

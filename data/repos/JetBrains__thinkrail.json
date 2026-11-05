@@ -17,36 +17,36 @@
     ]
   },
   "archived": false,
-  "contributors": 30,
+  "contributors": 33,
   "created_at": "2026-07-08",
   "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 450,
+  "forks": 468,
   "full_name": "JetBrains/thinkrail",
   "homepage": "https://thinkrail.ai/",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-04",
-  "latest_release": "v0.3.0-nightly.9",
+  "last_seen": "2026-11-05",
+  "latest_release": "v0.4.0-nightly.5",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-04",
-  "readme_chars": 17620,
-  "readme_hash": "387dd169f6fe",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 19460,
+  "readme_hash": "7547623d19bc",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2050,
-    "gain7_source": "snapshot-partial",
+    "gain7": 1947,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 86.4,
-    "trending_days_30": 6,
-    "velocity": 0.77
+    "total": 87.6,
+    "trending_days_30": 7,
+    "velocity": 0.76
   },
   "stars": {
     "2026-10-29": 5731,
@@ -55,7 +55,8 @@
     "2026-11-01": 6845,
     "2026-11-02": 7062,
     "2026-11-03": 7278,
-    "2026-11-04": 7488
+    "2026-11-04": 7488,
+    "2026-11-05": 7678
   },
   "topics": [
     "agent",
@@ -90,6 +91,9 @@
     },
     "2026-11-04": {
       "weekly": 3898
+    },
+    "2026-11-05": {
+      "weekly": 3031
     }
   },
   "url": "https://github.com/JetBrains/thinkrail"

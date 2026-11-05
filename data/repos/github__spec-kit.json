@@ -1,0 +1,69 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "开发工具/CLI工具",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 specify-cli，并有完整的安装、命令与流程文档，可直接用于项目。",
+    "summary": "为 AI 编码代理提供规格驱动开发流程与模板的 CLI 工具包",
+    "tags": [
+      "规格驱动开发",
+      "AI编码代理",
+      "CLI",
+      "工作流",
+      "模板"
+    ]
+  },
+  "archived": false,
+  "contributors": 337,
+  "created_at": "2025-08-21",
+  "description": "💫 Toolkit to help you get started with SDD or any other process!",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 13234,
+  "full_name": "github/spec-kit",
+  "homepage": "https://github.github.com/spec-kit/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-05",
+  "latest_release": "v1.3.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-04",
+  "readme_chars": 14291,
+  "readme_hash": "92e41fbca385",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2424,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 76.9,
+    "trending_days_30": 1,
+    "velocity": 0.79
+  },
+  "stars": {
+    "2026-11-05": 147523
+  },
+  "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "trending": {
+    "2026-11-05": {
+      "daily": 808
+    }
+  },
+  "url": "https://github.com/github/spec-kit"
+}

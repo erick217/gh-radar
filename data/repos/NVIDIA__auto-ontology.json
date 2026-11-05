@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "AI/RAG与知识库",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Docker Compose 快速启动、Web UI 及 MCP/CLI/API，具备完整上手文档，可实际部署使用。",
+    "summary": "为 LLM 与 Agent 构建语义本体和图推理层的 Python 框架",
+    "tags": [
+      "本体",
+      "知识图谱",
+      "NL2SQL",
+      "MCP",
+      "上下文检索"
+    ]
+  },
+  "archived": false,
+  "contributors": 13,
+  "created_at": "2026-04-27",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 461,
+  "full_name": "NVIDIA/auto-ontology",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-05",
+  "latest_release": null,
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-04",
+  "readme_chars": 23955,
+  "readme_hash": "928835f7618d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 6150,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.7,
+    "trending_days_30": 1,
+    "velocity": 0.88
+  },
+  "stars": {
+    "2026-11-05": 5883
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-05": {
+      "daily": 2050
+    }
+  },
+  "url": "https://github.com/NVIDIA/auto-ontology"
+}

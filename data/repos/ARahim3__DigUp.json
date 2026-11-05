@@ -20,15 +20,15 @@
   "contributors": 13,
   "created_at": "2026-10-08",
   "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 491,
+  "forks": 494,
   "full_name": "ARahim3/DigUp",
   "homepage": "https://digup.arahim.dev",
   "install_hint": true,
   "language": "Swift",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-05",
   "latest_release": "v0.7.0-beta.3",
   "license": "MIT",
   "pushed_at": "2026-10-26",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 239,
-    "gain7_source": "snapshot-partial",
+    "gain7": 246,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.4,
+    "total": 70.5,
     "trending_days_30": 0,
-    "velocity": 0.55
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-29": 6002,
@@ -55,7 +55,8 @@
     "2026-11-01": 6070,
     "2026-11-02": 6105,
     "2026-11-03": 6144,
-    "2026-11-04": 6207
+    "2026-11-04": 6207,
+    "2026-11-05": 6248
   },
   "topics": [
     "embeddinggemma",

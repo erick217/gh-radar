@@ -20,10 +20,10 @@
   "contributors": 6,
   "created_at": "2026-10-06",
   "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 485,
+  "forks": 487,
   "full_name": "zhongerxin/iPhone-use",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 148,
-    "gain7_source": "snapshot-partial",
+    "gain7": 144,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 64.7,
+    "total": 64.6,
     "trending_days_30": 0,
-    "velocity": 0.51
+    "velocity": 0.5
   },
   "stars": {
     "2026-10-29": 4760,
@@ -55,7 +55,8 @@
     "2026-11-01": 4812,
     "2026-11-02": 4834,
     "2026-11-03": 4861,
-    "2026-11-04": 4887
+    "2026-11-04": 4887,
+    "2026-11-05": 4904
   },
   "topics": [],
   "trending": {},

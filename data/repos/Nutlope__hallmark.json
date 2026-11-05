@@ -23,36 +23,37 @@
   "details_at": "2026-11-01",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 2495,
+  "forks": 2557,
   "full_name": "Nutlope/hallmark",
   "homepage": "https://www.usehallmark.com/",
   "install_hint": true,
   "language": "CSS",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-05",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-04",
   "readme_chars": 8731,
   "readme_hash": "8033f5aa3056",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 7303,
+    "gain7": 7154,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 80.5,
-    "trending_days_30": 4,
+    "total": 81.9,
+    "trending_days_30": 5,
     "velocity": 0.9
   },
   "stars": {
     "2026-11-01": 44121,
     "2026-11-02": 45239,
     "2026-11-03": 46286,
-    "2026-11-04": 47251
+    "2026-11-04": 47251,
+    "2026-11-05": 48209
   },
   "topics": [],
   "trending": {
@@ -67,6 +68,9 @@
     },
     "2026-11-04": {
       "weekly": 8765
+    },
+    "2026-11-05": {
+      "weekly": 7622
     }
   },
   "url": "https://github.com/Nutlope/hallmark"

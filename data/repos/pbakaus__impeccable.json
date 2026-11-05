@@ -17,36 +17,36 @@
     ]
   },
   "archived": false,
-  "contributors": 61,
+  "contributors": 62,
   "created_at": "2025-11-16",
   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 6001,
+  "forks": 6106,
   "full_name": "pbakaus/impeccable",
   "homepage": "https://impeccable.style",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-05",
   "latest_release": "skill-v4.8.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-04",
-  "readme_chars": 15872,
-  "readme_hash": "4bf042a1c9be",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 16553,
+  "readme_hash": "0851ad3623f7",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 8586,
-    "gain7_source": "snapshot-partial",
+    "gain7": 8701,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 92.8,
-    "trending_days_30": 7,
-    "velocity": 0.91
+    "total": 94.3,
+    "trending_days_30": 8,
+    "velocity": 0.92
   },
   "stars": {
     "2026-10-29": 94463,
@@ -55,7 +55,8 @@
     "2026-11-01": 98521,
     "2026-11-02": 99725,
     "2026-11-03": 100841,
-    "2026-11-04": 101822
+    "2026-11-04": 101822,
+    "2026-11-05": 103164
   },
   "topics": [
     "agent-skills",
@@ -89,6 +90,9 @@
     },
     "2026-11-04": {
       "weekly": 11405
+    },
+    "2026-11-05": {
+      "weekly": 10921
     }
   },
   "url": "https://github.com/pbakaus/impeccable"

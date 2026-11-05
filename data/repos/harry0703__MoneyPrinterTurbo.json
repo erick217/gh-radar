@@ -1,0 +1,76 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "AI/AI应用",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "项目提供WebUI、API和CLI，并有正式Release与部署文档，普通开发者可直接部署使用。",
+    "summary": "输入主题即可自动生成脚本、素材、字幕和配乐的AI短视频工具",
+    "tags": [
+      "AI短视频",
+      "视频生成",
+      "自动化工作流",
+      "LLM",
+      "字幕配音"
+    ]
+  },
+  "archived": false,
+  "contributors": 164,
+  "created_at": "2024-03-11",
+  "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 22227,
+  "full_name": "harry0703/MoneyPrinterTurbo",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-05",
+  "latest_release": "v1.3.9",
+  "license": "MIT",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 29419,
+  "readme_hash": "721b06310a41",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1851,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 76.0,
+    "trending_days_30": 1,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-11-05": 139346
+  },
+  "topics": [
+    "ai-video-generator",
+    "content-creation",
+    "ffmpeg",
+    "instagram-reels",
+    "llm",
+    "python",
+    "short-video",
+    "subtitles",
+    "text-to-speech",
+    "tiktok",
+    "video-automation",
+    "video-workflow",
+    "workflow-automation",
+    "youtube-shorts"
+  ],
+  "trending": {
+    "2026-11-05": {
+      "daily": 617
+    }
+  },
+  "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+}

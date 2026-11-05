@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供安装脚本、稳定版本和完整文档，可直接在 Claude Code 中安装使用。",
+    "summary": "为 Claude Code 提供角色化开发流程的斜杠命令工具集",
+    "tags": [
+      "Claude Code",
+      "AI Agent",
+      "斜杠命令",
+      "开发流程",
+      "代码审查"
+    ]
+  },
+  "archived": false,
+  "contributors": 16,
+  "created_at": "2026-03-11",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 20650,
+  "full_name": "garrytan/gstack",
+  "homepage": null,
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-11-05",
+  "latest_release": "v1.92.55.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 38289,
+  "readme_hash": "00ed749a180b",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 870,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 69.3,
+    "trending_days_30": 1,
+    "velocity": 0.68
+  },
+  "stars": {
+    "2026-11-05": 139523
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-05": {
+      "daily": 290
+    }
+  },
+  "url": "https://github.com/garrytan/gstack"
+}

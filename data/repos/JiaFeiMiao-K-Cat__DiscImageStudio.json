@@ -1,0 +1,60 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "其他/其他",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Windows 桌面发布包和 CLI，文档覆盖创建、设计、导出及刻录流程，可直接上手使用",
+    "summary": "生成可在光盘盘面显示图像并刻录的 CD/DVD/BD 工具",
+    "tags": [
+      "光盘刻录",
+      "盘面图像",
+      "CD/DVD",
+      "C#"
+    ]
+  },
+  "archived": false,
+  "contributors": 5,
+  "created_at": "2026-08-23",
+  "description": "",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 242,
+  "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+  "homepage": null,
+  "install_hint": false,
+  "language": "C#",
+  "last_seen": "2026-11-05",
+  "latest_release": "v1.4.1",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 9335,
+  "readme_hash": "42a69ec6dba7",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 5334,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 75.7,
+    "trending_days_30": 1,
+    "velocity": 0.87
+  },
+  "stars": {
+    "2026-11-05": 6845
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-05": {
+      "daily": 1778
+    }
+  },
+  "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+}

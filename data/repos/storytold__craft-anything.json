@@ -23,12 +23,12 @@
   "details_at": "2026-11-03",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 1544,
+  "forks": 2215,
   "full_name": "storytold/craft-anything",
   "homepage": null,
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-05",
   "latest_release": "v0.3.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-04",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9323,
+    "gain7": 13156,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 0.6,
-    "total": 72.3,
+    "total": 73.5,
     "trending_days_30": 0,
-    "velocity": 0.92
+    "velocity": 0.96
   },
   "stars": {
     "2026-11-03": 5391,
-    "2026-11-04": 9323
+    "2026-11-04": 9323,
+    "2026-11-05": 13156
   },
   "topics": [],
   "trending": {},

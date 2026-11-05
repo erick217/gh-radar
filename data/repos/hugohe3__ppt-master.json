@@ -23,7 +23,7 @@
   "details_at": "2026-10-30",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 5743,
+  "forks": 5770,
   "full_name": "hugohe3/ppt-master",
   "homepage": "https://hugohe3.github.io/ppt-master-examples/",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-10-30",
   "latest_release": "v6.7.3",
   "license": "MIT",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-05",
   "readme_chars": 30915,
   "readme_hash": "28ab0cce0bce",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3104,
+    "gain7": 3093,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
@@ -54,7 +54,8 @@
     "2026-11-01": 71772,
     "2026-11-02": 72305,
     "2026-11-03": 72784,
-    "2026-11-04": 73250
+    "2026-11-04": 73250,
+    "2026-11-05": 73684
   },
   "topics": [
     "ai-agent",

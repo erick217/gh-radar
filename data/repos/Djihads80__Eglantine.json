@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.1.0-rc1 可下载发行版和用户手册，并能在 Windows/Linux/macOS 上构建运行，但兼容性仍非常有限。",
+    "summary": "实验性开源 Nintendo Switch 2 模拟器，支持多平台运行",
+    "tags": [
+      "Switch 2 模拟器",
+      "C++",
+      "开源",
+      "实验性",
+      "跨平台"
+    ]
+  },
+  "archived": false,
+  "contributors": 565,
+  "created_at": "2026-10-29",
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 447,
+  "full_name": "Djihads80/Eglantine",
+  "homepage": null,
+  "install_hint": false,
+  "language": "C++",
+  "last_seen": "2026-11-05",
+  "latest_release": "v0.1.0-rc1",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 3163,
+  "readme_hash": "83c544781013",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3929,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 73.2,
+    "trending_days_30": 0,
+    "velocity": 0.84
+  },
+  "stars": {
+    "2026-11-05": 3929
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Djihads80/Eglantine"
+}

@@ -20,7 +20,7 @@
   "contributors": 13,
   "created_at": "2026-10-05",
   "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋",
-  "details_at": "2026-10-29",
+  "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
   "forks": 127,
@@ -29,7 +29,7 @@
   "install_hint": true,
   "language": "TypeScript",
   "last_seen": "2026-11-03",
-  "latest_release": "1.12.0",
+  "latest_release": "1.13.0",
   "license": "NOASSERTION",
   "pushed_at": "2026-10-31",
   "readme_chars": 3209,
@@ -37,8 +37,8 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 422,
-    "gain7_source": "snapshot-partial",
+    "gain7": 430,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
@@ -55,7 +55,8 @@
     "2026-11-01": 3979,
     "2026-11-02": 4033,
     "2026-11-03": 4125,
-    "2026-11-04": 4215
+    "2026-11-04": 4215,
+    "2026-11-05": 4283
   },
   "topics": [
     "charts",

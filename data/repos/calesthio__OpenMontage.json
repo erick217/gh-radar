@@ -1,0 +1,81 @@
+{
+  "ai": {
+    "at": "2026-11-05",
+    "category": "AI/AI应用",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "README 提供完整依赖、安装步骤和可运行示例，克隆后可按文档启动管线，但实际生成通常需配置第三方模型或 API 密钥。",
+    "summary": "将 AI 编程助手变成视频制作工作室，自动完成脚本、素材、剪辑与渲染。",
+    "tags": [
+      "AI视频生成",
+      "智能体",
+      "视频剪辑",
+      "自动化生产",
+      "开源"
+    ]
+  },
+  "archived": false,
+  "contributors": 76,
+  "created_at": "2026-03-29",
+  "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+  "details_at": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "fork": false,
+  "forks": 10177,
+  "full_name": "calesthio/OpenMontage",
+  "homepage": "https://www.openmontage.video/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-05",
+  "latest_release": null,
+  "license": "AGPL-3.0",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 42827,
+  "readme_hash": "2cb7a23eaf95",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3743,
+    "gain7_source": "trending-weekly",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.0,
+    "trending_days_30": 1,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-05": 76750
+  },
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor",
+    "elevenlabs",
+    "ffmpeg",
+    "flux",
+    "image-generation",
+    "open-source",
+    "openai",
+    "python",
+    "remotion",
+    "stable-diffusion",
+    "text-to-speech",
+    "text-to-video",
+    "video-generation",
+    "video-production"
+  ],
+  "trending": {
+    "2026-11-05": {
+      "weekly": 3743
+    }
+  },
+  "url": "https://github.com/calesthio/OpenMontage"
+}

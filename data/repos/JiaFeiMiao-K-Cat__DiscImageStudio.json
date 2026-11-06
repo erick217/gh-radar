@@ -22,12 +22,12 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 242,
+  "forks": 268,
   "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
   "homepage": null,
   "install_hint": false,
   "language": "C#",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-06",
   "latest_release": "v1.4.1",
   "license": "GPL-3.0",
   "pushed_at": "2026-11-05",
@@ -41,19 +41,23 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 0.8,
-    "total": 75.7,
-    "trending_days_30": 1,
+    "total": 77.1,
+    "trending_days_30": 2,
     "velocity": 0.87
   },
   "stars": {
-    "2026-11-05": 6845
+    "2026-11-05": 6845,
+    "2026-11-06": 7492
   },
   "topics": [],
   "trending": {
     "2026-11-05": {
       "daily": 1778
+    },
+    "2026-11-06": {
+      "daily": 984
     }
   },
   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"

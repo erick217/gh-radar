@@ -23,12 +23,12 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 22121,
+  "forks": 22163,
   "full_name": "anthropics/skills",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-06",
   "latest_release": null,
   "license": null,
   "pushed_at": "2026-10-28",
@@ -37,15 +37,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2804,
+    "gain7": 2759,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 0.6,
-    "total": 72.0,
-    "trending_days_30": 6,
+    "total": 73.3,
+    "trending_days_30": 7,
     "velocity": 0.8
   },
   "stars": {
@@ -54,7 +54,8 @@
     "2026-11-02": 186491,
     "2026-11-03": 186892,
     "2026-11-04": 187199,
-    "2026-11-05": 187524
+    "2026-11-05": 187524,
+    "2026-11-06": 187886
   },
   "topics": [
     "agent-skills"
@@ -78,6 +79,9 @@
     },
     "2026-11-05": {
       "weekly": 3003
+    },
+    "2026-11-06": {
+      "weekly": 3072
     }
   },
   "url": "https://github.com/anthropics/skills"

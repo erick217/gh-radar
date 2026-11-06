@@ -23,12 +23,12 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2087,
+  "forks": 2122,
   "full_name": "wheresryan22/anatomy",
   "homepage": "https://skills.wheresryan.sh/anatomy",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-06",
   "latest_release": "v1.1.0",
   "license": "MIT",
   "pushed_at": "2026-10-18",
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2569,
+    "gain7": 2621,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 78.7,
+    "total": 78.8,
     "trending_days_30": 0,
     "velocity": 0.79
   },
@@ -56,7 +56,8 @@
     "2026-11-02": 23878,
     "2026-11-03": 24228,
     "2026-11-04": 24587,
-    "2026-11-05": 25023
+    "2026-11-05": 25023,
+    "2026-11-06": 25368
   },
   "topics": [
     "agent-skill",

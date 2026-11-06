@@ -1,0 +1,67 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "安全/安全工具",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npm 包及 Web/桌面端安装与 Apply 步骤，文档覆盖使用和恢复，当前版本可直接安装使用；虽已暂停维护但不影响现有功能。",
+    "summary": "针对 DeepSeek Harness 的越狱/红队插件，可切换模型提示词并修改本地策略。",
+    "tags": [
+      "DeepSeek",
+      "jailbreak",
+      "红队测试",
+      "Harness插件",
+      "镜像"
+    ]
+  },
+  "archived": false,
+  "contributors": 11,
+  "created_at": "2026-10-13",
+  "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 3661,
+  "full_name": "mmparko/dsh-purge",
+  "homepage": "https://github.com/YuJunZhiXue/dsh-purge",
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-06",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-13",
+  "readme_chars": 31779,
+  "readme_hash": "794ddb1ad824",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 928,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 64.7,
+    "trending_days_30": 0,
+    "velocity": 0.69
+  },
+  "stars": {
+    "2026-11-06": 3183
+  },
+  "topics": [
+    "archive",
+    "deepseek",
+    "deepseek-harness",
+    "dsh-plugin",
+    "dsh-plugins",
+    "harness-jailbreak",
+    "jailbreak",
+    "llm-jailbreak",
+    "mirror"
+  ],
+  "trending": {},
+  "url": "https://github.com/mmparko/dsh-purge"
+}

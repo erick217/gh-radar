@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "其他/其他",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Windows/Linux 发布包和完整配置文档，已有可运行版本并能游玩部分流程，但需要用户自备合法游戏文件。",
+    "summary": "将《塞尔达传说：旷野之息》静态重编译为 Windows/Linux 原生应用",
+    "tags": [
+      "静态重编译",
+      "塞尔达",
+      "游戏移植",
+      "原生应用",
+      "Vulkan"
+    ]
+  },
+  "archived": false,
+  "contributors": 4,
+  "created_at": "2026-10-16",
+  "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.9.0) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 196,
+  "full_name": "Revivedx/SavageWindRecomp",
+  "homepage": null,
+  "install_hint": false,
+  "language": "C",
+  "last_seen": "2026-11-06",
+  "latest_release": "v0.4.1-alpha.4",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 32504,
+  "readme_hash": "011ef0eda965",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1083,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 68.7,
+    "trending_days_30": 0,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-06": 3249
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Revivedx/SavageWindRecomp"
+}

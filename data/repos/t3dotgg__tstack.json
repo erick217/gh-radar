@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供明确的安装命令，技能可直接复制到 Claude Code 或 Codex 的 skills 目录使用，依赖 GitHub CLI 和 Python 即可运行。",
+    "summary": "面向 Claude Code 和 Codex 的日常开发 Agent 技能集合。",
+    "tags": [
+      "Agent Skills",
+      "Claude Code",
+      "Codex",
+      "代码审查",
+      "PR自动化"
+    ]
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-24",
+  "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 228,
+  "full_name": "t3dotgg/tstack",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-06",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-28",
+  "readme_chars": 2272,
+  "readme_hash": "fd7f0352877d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1679,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 55.2,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-06": 3119
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/t3dotgg/tstack"
+}

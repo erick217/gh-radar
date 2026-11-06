@@ -23,12 +23,12 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 7411,
+  "forks": 7446,
   "full_name": "Leonxlnx/taste-skill",
   "homepage": "https://tasteskill.dev",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-03",
+  "last_seen": "2026-11-06",
   "latest_release": "v2.5.0",
   "license": "MIT",
   "pushed_at": "2026-11-05",
@@ -37,15 +37,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5066,
+    "gain7": 5123,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 89.5,
-    "trending_days_30": 6,
+    "total": 91.0,
+    "trending_days_30": 7,
     "velocity": 0.86
   },
   "stars": {
@@ -56,7 +56,8 @@
     "2026-11-02": 108094,
     "2026-11-03": 109029,
     "2026-11-04": 109674,
-    "2026-11-05": 110221
+    "2026-11-05": 110221,
+    "2026-11-06": 110905
   },
   "topics": [
     "agent-skills",
@@ -89,6 +90,9 @@
     },
     "2026-11-03": {
       "weekly": 5729
+    },
+    "2026-11-06": {
+      "weekly": 5426
     }
   },
   "url": "https://github.com/Leonxlnx/taste-skill"

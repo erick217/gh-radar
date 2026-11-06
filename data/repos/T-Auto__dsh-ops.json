@@ -22,30 +22,30 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 183,
+  "forks": 190,
   "full_name": "T-Auto/dsh-ops",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-06",
   "latest_release": "v0.5.0-alpha4",
   "license": "MIT",
-  "pushed_at": "2026-11-05",
+  "pushed_at": "2026-11-06",
   "readme_chars": 9826,
   "readme_hash": "e00e969c7a05",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 497,
+    "gain7": 557,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.9,
+    "total": 73.4,
     "trending_days_30": 0,
-    "velocity": 0.63
+    "velocity": 0.64
   },
   "stars": {
     "2026-10-29": 4753,
@@ -55,7 +55,8 @@
     "2026-11-02": 5029,
     "2026-11-03": 5091,
     "2026-11-04": 5167,
-    "2026-11-05": 5250
+    "2026-11-05": 5250,
+    "2026-11-06": 5364
   },
   "topics": [
     "dsh",

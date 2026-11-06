@@ -28,7 +28,7 @@
   "homepage": null,
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-06",
   "latest_release": "v2.3.0",
   "license": "MIT",
   "pushed_at": "2026-11-04",
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 286,
+    "gain7": 272,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 71.0,
+    "total": 70.8,
     "trending_days_30": 0,
     "velocity": 0.57
   },
@@ -56,7 +56,8 @@
     "2026-11-02": 5003,
     "2026-11-03": 5035,
     "2026-11-04": 5096,
-    "2026-11-05": 5141
+    "2026-11-05": 5141,
+    "2026-11-06": 5157
   },
   "topics": [
     "android",

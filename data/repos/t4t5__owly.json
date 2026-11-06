@@ -1,0 +1,62 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "其他/其他",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Arch、NixOS、Debian/Ubuntu、Fedora 安装包及 CLI 使用文档，并列出硬件兼容性，可直接上手使用。",
+    "summary": "在 Linux 上通过 Wi-Fi 实现与 iPhone 的 AirDrop 文件互传。",
+    "tags": [
+      "AirDrop",
+      "Linux",
+      "Rust",
+      "文件传输",
+      "CLI"
+    ]
+  },
+  "archived": false,
+  "contributors": 23,
+  "created_at": "2026-10-08",
+  "description": "airdrop for non-apple devices",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 255,
+  "full_name": "t4t5/owly",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-06",
+  "latest_release": "v0.4.2",
+  "license": "MIT",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 12900,
+  "readme_hash": "d6271c707e04",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 795,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 71.6,
+    "trending_days_30": 0,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-11-06": 3292
+  },
+  "topics": [
+    "airdrop",
+    "awdl",
+    "omarchy",
+    "owl"
+  ],
+  "trending": {},
+  "url": "https://github.com/t4t5/owly"
+}

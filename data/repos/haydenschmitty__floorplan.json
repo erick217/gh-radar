@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "AI/AI应用",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.6.3 发布、Claude Code/Codex 插件安装命令和在线演示，可直接用于分析代码库。",
+    "summary": "用 Claude/Codex 把代码库画成可交互架构地图",
+    "tags": [
+      "代码库可视化",
+      "Claude Code",
+      "Codex",
+      "架构图",
+      "AI编程"
+    ]
+  },
+  "archived": false,
+  "contributors": 9,
+  "created_at": "2026-10-27",
+  "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 231,
+  "full_name": "haydenschmitty/floorplan",
+  "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-06",
+  "latest_release": "floorplan--v0.6.3",
+  "license": "MIT",
+  "pushed_at": "2026-11-02",
+  "readme_chars": 20688,
+  "readme_hash": "23a2a0eb27b4",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2113,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 75.1,
+    "trending_days_30": 0,
+    "velocity": 0.77
+  },
+  "stars": {
+    "2026-11-06": 3018
+  },
+  "topics": [
+    "ai-coding",
+    "architecture-diagram",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "codebase-visualization",
+    "codex",
+    "codex-plugin",
+    "developer-tools",
+    "onboarding",
+    "openai",
+    "vibe-coding"
+  ],
+  "trending": {},
+  "url": "https://github.com/haydenschmitty/floorplan"
+}

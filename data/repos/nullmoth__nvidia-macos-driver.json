@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 256,
+    "gain7": 278,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.6,
+    "total": 70.9,
     "trending_days_30": 0,
-    "velocity": 0.56
+    "velocity": 0.57
   },
   "stars": {
     "2026-10-29": 3875,
@@ -56,7 +56,8 @@
     "2026-11-02": 3994,
     "2026-11-03": 4036,
     "2026-11-04": 4079,
-    "2026-11-05": 4131
+    "2026-11-05": 4131,
+    "2026-11-06": 4167
   },
   "topics": [
     "kext",

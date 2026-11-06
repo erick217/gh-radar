@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 948,
+  "forks": 1041,
   "full_name": "horizon-rust/horizon",
   "homepage": "https://playhorizon.dev",
   "install_hint": false,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-01",
   "latest_release": "launcher@0.2.42",
   "license": "MIT",
-  "pushed_at": "2026-11-05",
+  "pushed_at": "2026-11-06",
   "readme_chars": 12580,
   "readme_hash": "569f0c355f22",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2557,
+    "gain7": 2571,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 78.7,
+    "total": 78.8,
     "trending_days_30": 0,
     "velocity": 0.79
   },
@@ -56,7 +56,8 @@
     "2026-11-02": 5753,
     "2026-11-03": 6078,
     "2026-11-04": 6332,
-    "2026-11-05": 6625
+    "2026-11-05": 6625,
+    "2026-11-06": 7009
   },
   "topics": [
     "differential-testing",

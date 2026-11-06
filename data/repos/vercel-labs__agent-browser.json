@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包和原生二进制，提供安装命令、完整命令文档及 MCP 集成，可直接使用。",
+    "summary": "为 AI 代理提供浏览器自动化操作的 Rust CLI",
+    "tags": [
+      "浏览器自动化",
+      "AI代理",
+      "CLI",
+      "Rust",
+      "MCP"
+    ]
+  },
+  "archived": false,
+  "contributors": 119,
+  "created_at": "2026-01-11",
+  "description": "Browser automation CLI for AI agents",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 3157,
+  "full_name": "vercel-labs/agent-browser",
+  "homepage": "https://agent-browser.dev",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-06",
+  "latest_release": "v0.41.2",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 8780,
+  "readme_hash": "c79a8bc8674b",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 450,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.0,
+    "trending_days_30": 1,
+    "velocity": 0.62
+  },
+  "stars": {
+    "2026-11-06": 46123
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-06": {
+      "daily": 150
+    }
+  },
+  "url": "https://github.com/vercel-labs/agent-browser"
+}

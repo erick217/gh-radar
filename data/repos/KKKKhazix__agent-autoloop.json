@@ -1,0 +1,69 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "AI/Agent",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v1.5.0 发行版、一键安装脚本、规则配置和场景模板，macOS/Linux 可直接部署使用。",
+    "summary": "让命令行 Agent 在后台自动接活并按规则跟进，需拍板时推送卡片。",
+    "tags": [
+      "Agent自动化",
+      "命令行Agent",
+      "事件驱动",
+      "工作流",
+      "自托管"
+    ]
+  },
+  "archived": false,
+  "contributors": 23,
+  "created_at": "2026-11-03",
+  "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 630,
+  "full_name": "KKKKhazix/agent-autoloop",
+  "homepage": null,
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-06",
+  "latest_release": "v1.5.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 10049,
+  "readme_hash": "822b02e8159b",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3415,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 76.8,
+    "trending_days_30": 0,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-11-06": 3415
+  },
+  "topics": [
+    "ai-agents",
+    "automation",
+    "claude-code",
+    "cli",
+    "codex",
+    "event-driven",
+    "mcp",
+    "nodejs",
+    "self-hosted",
+    "typescript",
+    "workflow"
+  ],
+  "trending": {},
+  "url": "https://github.com/KKKKhazix/agent-autoloop"
+}

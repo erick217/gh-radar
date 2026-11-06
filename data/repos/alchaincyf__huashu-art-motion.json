@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 628,
+  "forks": 638,
   "full_name": "alchaincyf/huashu-art-motion",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 536,
+    "gain7": 565,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 65.7,
+    "total": 65.9,
     "trending_days_30": 0,
-    "velocity": 0.63
+    "velocity": 0.64
   },
   "stars": {
     "2026-10-29": 5742,
@@ -56,7 +56,8 @@
     "2026-11-02": 5948,
     "2026-11-03": 6057,
     "2026-11-04": 6175,
-    "2026-11-05": 6278
+    "2026-11-05": 6278,
+    "2026-11-06": 6352
   },
   "topics": [],
   "trending": {},

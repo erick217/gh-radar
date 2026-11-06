@@ -23,7 +23,7 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 55411,
+  "forks": 55468,
   "full_name": "public-apis/public-apis",
   "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
   "install_hint": false,
@@ -31,28 +31,29 @@
   "last_seen": "2026-11-02",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-04",
+  "pushed_at": "2026-11-05",
   "readme_chars": 334985,
   "readme_hash": "79adee2d482c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2665,
+    "gain7": 2544,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 72.8,
+    "total": 72.6,
     "trending_days_30": 1,
-    "velocity": 0.8
+    "velocity": 0.79
   },
   "stars": {
     "2026-11-02": 495052,
     "2026-11-03": 495651,
     "2026-11-04": 495930,
-    "2026-11-05": 496194
+    "2026-11-05": 496194,
+    "2026-11-06": 496506
   },
   "topics": [
     "api",

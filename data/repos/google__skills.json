@@ -1,0 +1,65 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "AI/Agent",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx skills add 安装命令和完整技能目录，普通开发者可直接安装并用于配置 AI 代理。",
+    "summary": "面向 Google 产品的 Agent Skills 集合，可通过 npx 安装使用。",
+    "tags": [
+      "Agent Skills",
+      "Google Cloud",
+      "Gemini",
+      "AI Agent",
+      "npx"
+    ]
+  },
+  "archived": false,
+  "contributors": 8,
+  "created_at": "2026-03-31",
+  "description": "Agent Skills for Google products and technologies",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 1898,
+  "full_name": "google/skills",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-06",
+  "latest_release": null,
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 20478,
+  "readme_hash": "9c1fd43835af",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 633,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 64.7,
+    "trending_days_30": 1,
+    "velocity": 0.65
+  },
+  "stars": {
+    "2026-11-06": 22534
+  },
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "trending": {
+    "2026-11-06": {
+      "daily": 211
+    }
+  },
+  "url": "https://github.com/google/skills"
+}

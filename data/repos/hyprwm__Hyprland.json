@@ -23,36 +23,37 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 2168,
+  "forks": 2169,
   "full_name": "hyprwm/Hyprland",
   "homepage": "https://hypr.land",
   "install_hint": false,
   "language": "C++",
-  "last_seen": "2026-11-05",
+  "last_seen": "2026-11-06",
   "latest_release": "v0.57.0",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-04",
+  "pushed_at": "2026-11-05",
   "readme_chars": 4197,
   "readme_hash": "b396cf29e479",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1841,
+    "gain7": 1507,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 83.2,
-    "trending_days_30": 4,
-    "velocity": 0.76
+    "total": 83.9,
+    "trending_days_30": 5,
+    "velocity": 0.74
   },
   "stars": {
     "2026-11-02": 39530,
     "2026-11-03": 40102,
     "2026-11-04": 40249,
-    "2026-11-05": 40319
+    "2026-11-05": 40319,
+    "2026-11-06": 40391
   },
   "topics": [
     "compositor",
@@ -72,6 +73,9 @@
     },
     "2026-11-05": {
       "weekly": 1325
+    },
+    "2026-11-06": {
+      "weekly": 1371
     }
   },
   "url": "https://github.com/hyprwm/Hyprland"

@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "AI/Agent",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx skills CLI、Claude Code 插件市场和版本化 zip 安装方式，技能附带 SKILL.md 与使用文档，可直接用于 Claude Code、Cursor 等代理。",
+    "summary": "面向 AI 编程代理的开源技能合集，覆盖网页设计、知识检索和图像生成。",
+    "tags": [
+      "Agent Skills",
+      "Claude Code",
+      "RAG",
+      "网页设计",
+      "图像生成"
+    ]
+  },
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2026-04-21",
+  "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 1659,
+  "full_name": "ConardLi/garden-skills",
+  "homepage": "https://github.com/ConardLi/garden-skills",
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-06",
+  "latest_release": "motion-showreel-v0.1.0",
+  "license": "MIT",
+  "pushed_at": "2026-10-25",
+  "readme_chars": 38953,
+  "readme_hash": "b470012da962",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 525,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.5,
+    "trending_days_30": 1,
+    "velocity": 0.63
+  },
+  "stars": {
+    "2026-11-06": 14351
+  },
+  "topics": [
+    "agent",
+    "claude",
+    "gpt-image-2",
+    "rag",
+    "skills",
+    "web-design"
+  ],
+  "trending": {
+    "2026-11-06": {
+      "daily": 175
+    }
+  },
+  "url": "https://github.com/ConardLi/garden-skills"
+}

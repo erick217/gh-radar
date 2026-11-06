@@ -8,20 +8,20 @@
 
 <!-- radar:start -->
 
-**本周增速 Top 10**（2026-11-05 更新，共收录 135 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-06 更新，共收录 148 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 47.1k | +19.6k | 94 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 13.2k | +13.2k | 74 |  |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 15.8k | +11.4k | 85 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 10.3k | +11.3k | 80 |  |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 把 AI 味浓重的界面逐步改造成有设计感 UI 的 Claude/Codex 技能 | AI/Agent | 其他 | JavaScript | 9.0k | +9.1k | 76 |  |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 为AI编程代理提供跨会话持久记忆压缩与检索 | AI/Agent | CLI工具 | TypeScript | 113.1k | +8.8k | 94 |  |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 103.2k | +8.7k | 94 |  |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 313.8k | +8.6k | 90 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 59.9k | +7.5k | 80 |  |
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 通过 Wi-Fi 去除 Android TV 臃肿应用并换用简洁启动器。 | 安全/安全工具 | CLI工具 | Python | 52.2k | +7.4k | 82 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 16.1k | +24.9k | 78 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 48.7k | +18.2k | 96 |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 17.4k | +15.1k | 91 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 12.1k | +11.5k | 80 |  |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 数据/数据处理 | 框架 | Python | 98.4k | +11.5k | 90 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 315.8k | +9.5k | 92 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 62.3k | +9.1k | 80 |  |
+| [heydamir/unslop](https://github.com/heydamir/unslop) | 把 AI 味浓重的界面逐步改造成有设计感 UI 的 Claude/Codex 技能 | AI/Agent | 其他 | JavaScript | 10.1k | +8.9k | 76 |  |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 为AI编程代理提供跨会话持久记忆压缩与检索 | AI/Agent | CLI工具 | TypeScript | 113.7k | +8.6k | 96 |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 为编码代理提供设计审查、打磨与 AI 感检测的 Agent 技能和 CLI | AI/Agent | CLI工具 | Rust | 104.2k | +8.3k | 96 |  |
 
 <!-- radar:end -->
 

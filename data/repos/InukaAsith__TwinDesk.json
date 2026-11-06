@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-11-06",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 macOS、Windows、Linux 和 Android 的正式安装包与版本发布，文档包含下载和上手说明，可直接使用。",
+    "summary": "跨平台键鼠与屏幕共享工具，让多台电脑和手机像同一台桌面协作。",
+    "tags": [
+      "键鼠共享",
+      "跨设备",
+      "剪贴板共享",
+      "开源",
+      "Android"
+    ]
+  },
+  "archived": false,
+  "contributors": 22,
+  "created_at": "2026-10-14",
+  "description": "All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux and Android. Free and open source. No account, no cloud, and now no shared network needed.",
+  "details_at": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "fork": false,
+  "forks": 275,
+  "full_name": "InukaAsith/TwinDesk",
+  "homepage": "https://twin-desk.vercel.app",
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-06",
+  "latest_release": "v2.5.3",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-05",
+  "readme_chars": 48909,
+  "readme_hash": "eb29d0e4f825",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1086,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 72.7,
+    "trending_days_30": 0,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-06": 3569
+  },
+  "topics": [
+    "android",
+    "connect",
+    "electron",
+    "kde-connect-alternative",
+    "kvm",
+    "linux",
+    "macbook",
+    "macos",
+    "mouse-sharing",
+    "phone-link-alternative",
+    "productivity",
+    "screen-sharing",
+    "synergy-alternative",
+    "windows"
+  ],
+  "trending": {},
+  "url": "https://github.com/InukaAsith/TwinDesk"
+}

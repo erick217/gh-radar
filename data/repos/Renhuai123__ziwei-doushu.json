@@ -23,7 +23,7 @@
   "details_at": "2026-10-31",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 3087,
+  "forks": 3181,
   "full_name": "Renhuai123/ziwei-doushu",
   "homepage": "https://ouranic.cn/?from=gh-about",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6129,
+    "gain7": 5588,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 86.0,
+    "total": 85.7,
     "trending_days_30": 3,
-    "velocity": 0.88
+    "velocity": 0.87
   },
   "stars": {
     "2026-10-31": 11577,
@@ -54,7 +54,8 @@
     "2026-11-02": 13604,
     "2026-11-03": 14365,
     "2026-11-04": 15357,
-    "2026-11-05": 15955
+    "2026-11-05": 15955,
+    "2026-11-06": 16367
   },
   "topics": [
     "bazi",

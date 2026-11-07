@@ -1,0 +1,51 @@
+{
+  "archived": false,
+  "contributors": 2027,
+  "created_at": "2013-05-24",
+  "description": "The library for web and native user interfaces.",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 51833,
+  "full_name": "react/react",
+  "homepage": "https://react.dev",
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-07",
+  "latest_release": "v19.3.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-07",
+  "readme_chars": 5296,
+  "readme_hash": "e4116b90bf73",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 744,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 68.8,
+    "trending_days_30": 1,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-11-07": 252309
+  },
+  "topics": [
+    "declarative",
+    "frontend",
+    "javascript",
+    "library",
+    "react",
+    "ui"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 248
+    }
+  },
+  "url": "https://github.com/react/react"
+}

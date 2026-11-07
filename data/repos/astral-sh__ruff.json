@@ -1,0 +1,56 @@
+{
+  "archived": false,
+  "contributors": 1011,
+  "created_at": "2022-08-09",
+  "description": "An extremely fast Python linter and code formatter, written in Rust.",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 2616,
+  "full_name": "astral-sh/ruff",
+  "homepage": "https://docs.astral.sh/ruff",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-07",
+  "latest_release": "0.17.4",
+  "license": "MIT",
+  "pushed_at": "2026-11-07",
+  "readme_chars": 19599,
+  "readme_hash": "67659426d825",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 507,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 67.4,
+    "trending_days_30": 1,
+    "velocity": 0.63
+  },
+  "stars": {
+    "2026-11-07": 50758
+  },
+  "topics": [
+    "linter",
+    "pep8",
+    "python",
+    "python3",
+    "ruff",
+    "rust",
+    "rustpython",
+    "static-analysis",
+    "static-code-analysis",
+    "style-guide",
+    "styleguide"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 169
+    }
+  },
+  "url": "https://github.com/astral-sh/ruff"
+}

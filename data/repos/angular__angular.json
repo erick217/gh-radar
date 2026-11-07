@@ -1,0 +1,69 @@
+{
+  "ai": {
+    "at": "2026-11-07",
+    "category": "前端/框架",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "有正式 npm 包与 Angular CLI，文档完善，可立即安装建项目",
+    "summary": "基于 TypeScript 的 Web 应用开发框架，用于构建移动端和桌面端应用",
+    "tags": [
+      "Angular",
+      "TypeScript",
+      "Web框架",
+      "前端",
+      "SPA"
+    ]
+  },
+  "archived": false,
+  "contributors": 2698,
+  "created_at": "2014-09-18",
+  "description": "Deliver web apps with confidence 🚀",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 28914,
+  "full_name": "angular/angular",
+  "homepage": "https://angular.dev",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-07",
+  "latest_release": "v22.2.5",
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 4678,
+  "readme_hash": "704e9d0111cb",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 405,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.6,
+    "trending_days_30": 1,
+    "velocity": 0.61
+  },
+  "stars": {
+    "2026-11-07": 101425
+  },
+  "topics": [
+    "angular",
+    "javascript",
+    "pwa",
+    "typescript",
+    "web",
+    "web-framework",
+    "web-performance"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 135
+    }
+  },
+  "url": "https://github.com/angular/angular"
+}

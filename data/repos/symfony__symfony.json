@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-07",
+    "category": "后端/Web框架",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "通过 Composer 安装即可使用，提供 LTS 版本与完整官方文档，被大量生产项目采用。",
+    "summary": "Symfony 是用于 Web 与控制台应用的 PHP 框架，并提供可复用组件集。",
+    "tags": [
+      "PHP",
+      "Web框架",
+      "组件库",
+      "企业级"
+    ]
+  },
+  "archived": false,
+  "contributors": 4984,
+  "created_at": "2010-01-04",
+  "description": "The Symfony PHP framework",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 9950,
+  "full_name": "symfony/symfony",
+  "homepage": "https://symfony.com",
+  "install_hint": false,
+  "language": "PHP",
+  "last_seen": "2026-11-07",
+  "latest_release": "v8.2.0-BETA1",
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 3182,
+  "readme_hash": "4d9fba60fca2",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 384,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.4,
+    "trending_days_30": 1,
+    "velocity": 0.6
+  },
+  "stars": {
+    "2026-11-07": 31479
+  },
+  "topics": [
+    "bundle",
+    "framework",
+    "hacktoberfest",
+    "php",
+    "php-framework",
+    "symfony",
+    "symfony-bundle"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 128
+    }
+  },
+  "url": "https://github.com/symfony/symfony"
+}

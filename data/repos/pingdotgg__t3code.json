@@ -17,36 +17,36 @@
     ]
   },
   "archived": false,
-  "contributors": 794,
+  "contributors": 920,
   "created_at": "2026-02-08",
   "description": "",
-  "details_at": "2026-10-31",
+  "details_at": "2026-11-07",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 9657,
+  "forks": 9780,
   "full_name": "pingdotgg/t3code",
   "homepage": "https://t3.codes",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-06",
-  "latest_release": "v0.1.6-nightly.20261031.3956",
+  "last_seen": "2026-11-07",
+  "latest_release": "v0.1.8-nightly.20261107.4301",
   "license": "MIT",
-  "pushed_at": "2026-11-06",
-  "readme_chars": 5105,
-  "readme_hash": "38aaa2b56d53",
+  "pushed_at": "2026-11-07",
+  "readme_chars": 5255,
+  "readme_hash": "2de8959c0dc5",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 18240,
-    "gain7_source": "snapshot-partial",
+    "gain7": 17093,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 95.5,
-    "trending_days_30": 7,
-    "velocity": 0.99
+    "total": 96.6,
+    "trending_days_30": 8,
+    "velocity": 0.98
   },
   "stars": {
     "2026-10-31": 33069,
@@ -55,7 +55,8 @@
     "2026-11-03": 42628,
     "2026-11-04": 44975,
     "2026-11-05": 47057,
-    "2026-11-06": 48703
+    "2026-11-06": 48703,
+    "2026-11-07": 50162
   },
   "topics": [],
   "trending": {
@@ -83,6 +84,9 @@
     },
     "2026-11-06": {
       "weekly": 16235
+    },
+    "2026-11-07": {
+      "weekly": 16782
     }
   },
   "url": "https://github.com/pingdotgg/t3code"

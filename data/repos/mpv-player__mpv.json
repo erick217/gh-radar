@@ -1,0 +1,52 @@
+{
+  "archived": false,
+  "contributors": 836,
+  "created_at": "2012-10-13",
+  "description": "🎥 Command line media player",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 3635,
+  "full_name": "mpv-player/mpv",
+  "homepage": "https://mpv.io",
+  "install_hint": false,
+  "language": "C",
+  "last_seen": "2026-11-07",
+  "latest_release": "v0.42.0",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-07",
+  "readme_chars": 8717,
+  "readme_hash": "3c8858028a4e",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 111,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 62.1,
+    "trending_days_30": 1,
+    "velocity": 0.48
+  },
+  "stars": {
+    "2026-11-07": 37936
+  },
+  "topics": [
+    "audio",
+    "c",
+    "ffmpeg",
+    "mplayer",
+    "mpv",
+    "multimedia",
+    "video"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 37
+    }
+  },
+  "url": "https://github.com/mpv-player/mpv"
+}

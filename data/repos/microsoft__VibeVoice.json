@@ -23,7 +23,7 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 6335,
+  "forks": 6370,
   "full_name": "microsoft/VibeVoice",
   "homepage": "https://microsoft.github.io/VibeVoice/",
   "install_hint": false,
@@ -49,7 +49,8 @@
     "velocity": 0.66
   },
   "stars": {
-    "2026-11-06": 56256
+    "2026-11-06": 56256,
+    "2026-11-07": 56535
   },
   "topics": [],
   "trending": {

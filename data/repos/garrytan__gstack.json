@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 20709,
+  "forks": 20743,
   "full_name": "garrytan/gstack",
   "homepage": null,
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-06",
   "latest_release": "v1.92.55.0",
   "license": "MIT",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-07",
   "readme_chars": 38289,
   "readme_hash": "00ed749a180b",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-05": 139523,
-    "2026-11-06": 140184
+    "2026-11-06": 140184,
+    "2026-11-07": 140527
   },
   "topics": [],
   "trending": {

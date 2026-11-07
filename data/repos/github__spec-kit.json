@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 13287,
+  "forks": 13319,
   "full_name": "github/spec-kit",
   "homepage": "https://github.github.com/spec-kit/",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-05",
   "latest_release": "v1.3.0",
   "license": "MIT",
-  "pushed_at": "2026-11-05",
+  "pushed_at": "2026-11-07",
   "readme_chars": 14291,
   "readme_hash": "92e41fbca385",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-05": 147523,
-    "2026-11-06": 148000
+    "2026-11-06": 148000,
+    "2026-11-07": 148256
   },
   "topics": [
     "ai",

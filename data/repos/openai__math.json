@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1962,
+  "forks": 1967,
   "full_name": "openai/math",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 272,
+    "gain7": 259,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.4,
-    "total": 51.3,
+    "total": 51.2,
     "trending_days_30": 0,
-    "velocity": 0.57
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-29": 17026,
@@ -57,7 +57,8 @@
     "2026-11-03": 17284,
     "2026-11-04": 17317,
     "2026-11-05": 17341,
-    "2026-11-06": 17356
+    "2026-11-06": 17356,
+    "2026-11-07": 17408
   },
   "topics": [],
   "trending": {},

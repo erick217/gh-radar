@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-11-07",
+    "category": "数据/数据库",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供预编译二进制、etcdctl 客户端和完整部署文档，可直接用于生产或本地集群。",
+    "summary": "分布式可靠键值存储，基于 Raft 提供高可用一致性数据存储",
+    "tags": [
+      "etcd",
+      "键值存储",
+      "分布式一致性",
+      "Raft",
+      "Kubernetes"
+    ]
+  },
+  "archived": false,
+  "contributors": 1212,
+  "created_at": "2013-07-06",
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 10590,
+  "full_name": "etcd-io/etcd",
+  "homepage": "https://etcd.io",
+  "install_hint": false,
+  "language": "Go",
+  "last_seen": "2026-11-07",
+  "latest_release": "v3.7.3",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 10197,
+  "readme_hash": "e778dbc85713",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 384,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.4,
+    "trending_days_30": 1,
+    "velocity": 0.6
+  },
+  "stars": {
+    "2026-11-07": 52643
+  },
+  "topics": [
+    "cncf",
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "etcd",
+    "go",
+    "key-value",
+    "kubernetes",
+    "raft"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 128
+    }
+  },
+  "url": "https://github.com/etcd-io/etcd"
+}

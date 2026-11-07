@@ -23,12 +23,12 @@
   "details_at": "2026-11-01",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 2286,
+  "forks": 2382,
   "full_name": "deepseek-ai/dsh-superagent-prototype",
   "homepage": null,
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-07",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-03",
@@ -36,17 +36,15 @@
   "readme_hash": "a98ec95e2159",
   "score": {
     "excluded": null,
-    "flags": [
-      "新建且仅 1 名贡献者"
-    ],
-    "gain7": 22329,
+    "flags": [],
+    "gain7": 19302,
     "gain7_source": "snapshot-partial",
     "health": 0.4,
-    "included": false,
+    "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.4,
-    "total": 44.0,
+    "total": 58.9,
     "trending_days_30": 0,
     "velocity": 1.0
   },
@@ -56,7 +54,8 @@
     "2026-11-03": 14730,
     "2026-11-04": 17647,
     "2026-11-05": 18973,
-    "2026-11-06": 19836
+    "2026-11-06": 19836,
+    "2026-11-07": 20432
   },
   "topics": [],
   "trending": {},

@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 6808,
+  "forks": 6810,
   "full_name": "MichaelCade/90DaysOfDevOps",
   "homepage": "https://www.90daysofdevops.com/",
   "install_hint": false,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-05": 30641,
-    "2026-11-06": 30799
+    "2026-11-06": 30799,
+    "2026-11-07": 30815
   },
   "topics": [
     "ansible",

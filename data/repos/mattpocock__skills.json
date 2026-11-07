@@ -20,15 +20,15 @@
   "contributors": 8,
   "created_at": "2026-02-03",
   "description": "Skills for Real Engineers. Straight from my .agents directory.",
-  "details_at": "2026-10-31",
+  "details_at": "2026-11-07",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 26432,
+  "forks": 26526,
   "full_name": "mattpocock/skills",
   "homepage": "https://aihero.dev/skills",
   "install_hint": true,
   "language": "Shell",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-07",
   "latest_release": "v1.3.2",
   "license": "MIT",
   "pushed_at": "2026-11-05",
@@ -37,15 +37,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9466,
-    "gain7_source": "snapshot-partial",
+    "gain7": 9271,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 91.8,
-    "trending_days_30": 6,
+    "total": 93.1,
+    "trending_days_30": 7,
     "velocity": 0.92
   },
   "stars": {
@@ -55,7 +55,8 @@
     "2026-11-03": 310580,
     "2026-11-04": 311833,
     "2026-11-05": 313804,
-    "2026-11-06": 315794
+    "2026-11-06": 315794,
+    "2026-11-07": 316951
   },
   "topics": [],
   "trending": {
@@ -76,6 +77,9 @@
     },
     "2026-11-06": {
       "daily": 2071
+    },
+    "2026-11-07": {
+      "daily": 2070
     }
   },
   "url": "https://github.com/mattpocock/skills"

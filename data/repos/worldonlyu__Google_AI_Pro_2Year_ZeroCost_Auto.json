@@ -1,0 +1,59 @@
+{
+  "ai": {
+    "at": "2026-11-07",
+    "category": "效率与自托管/自动化",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Windows 双击启动脚本和本地 Web 控制台，依赖与操作步骤完整，可直接运行，但涉及账号、支付卡及平台合规风险。",
+    "summary": "自动化批量订阅 Google AI Pro 免费试用并取消续订的脚本",
+    "tags": [
+      "Google AI Pro",
+      "浏览器自动化",
+      "订阅管理",
+      "Python",
+      "账号批量操作"
+    ]
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-04",
+  "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 1144,
+  "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-07",
+  "latest_release": null,
+  "license": null,
+  "pushed_at": "2026-11-06",
+  "readme_chars": 1460,
+  "readme_hash": "5e9b2caf9858",
+  "score": {
+    "excluded": null,
+    "flags": [
+      "新建且仅 1 名贡献者"
+    ],
+    "gain7": 2940,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 34.2,
+    "trending_days_30": 0,
+    "velocity": 0.81
+  },
+  "stars": {
+    "2026-11-07": 2940
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+}

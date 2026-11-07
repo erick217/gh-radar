@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3541,
+  "forks": 3551,
   "full_name": "storytold/designcraft",
   "homepage": "https://getartcraft.com/apps/designcraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-30",
   "latest_release": "v0.17.2",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-05",
+  "pushed_at": "2026-11-06",
   "readme_chars": 29158,
   "readme_hash": "6adb08c1700c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 184,
+    "gain7": 178,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.4,
+    "total": 69.3,
     "trending_days_30": 0,
-    "velocity": 0.53
+    "velocity": 0.52
   },
   "stars": {
     "2026-10-29": 4919,
@@ -57,7 +57,8 @@
     "2026-11-03": 5047,
     "2026-11-04": 5085,
     "2026-11-05": 5104,
-    "2026-11-06": 5121
+    "2026-11-06": 5121,
+    "2026-11-07": 5144
   },
   "topics": [
     "art",

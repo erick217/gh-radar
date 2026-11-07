@@ -23,12 +23,12 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 7765,
+  "forks": 7790,
   "full_name": "shiyu-coder/Kronos",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-04",
+  "last_seen": "2026-11-07",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-04-13",
@@ -37,23 +37,24 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2378,
+    "gain7": 2085,
     "gain7_source": "snapshot-partial",
     "health": 0.3,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 65.2,
-    "trending_days_30": 3,
-    "velocity": 0.79
+    "total": 66.1,
+    "trending_days_30": 4,
+    "velocity": 0.77
   },
   "stars": {
     "2026-11-02": 45620,
     "2026-11-03": 46139,
     "2026-11-04": 46632,
     "2026-11-05": 46874,
-    "2026-11-06": 46979
+    "2026-11-06": 46979,
+    "2026-11-07": 47109
   },
   "topics": [],
   "trending": {
@@ -65,6 +66,9 @@
     },
     "2026-11-04": {
       "daily": 503
+    },
+    "2026-11-07": {
+      "weekly": 2984
     }
   },
   "url": "https://github.com/shiyu-coder/Kronos"

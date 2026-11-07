@@ -1,0 +1,48 @@
+{
+  "archived": false,
+  "contributors": 983,
+  "created_at": "2019-05-10",
+  "description": "A new type of shell",
+  "details_at": "2026-11-07",
+  "first_seen": "2026-11-07",
+  "fork": false,
+  "forks": 2344,
+  "full_name": "nushell/nushell",
+  "homepage": "https://www.nushell.sh/",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-07",
+  "latest_release": "0.116.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 11374,
+  "readme_hash": "2a5785afb6bb",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 393,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 66.5,
+    "trending_days_30": 1,
+    "velocity": 0.6
+  },
+  "stars": {
+    "2026-11-07": 41023
+  },
+  "topics": [
+    "nushell",
+    "rust",
+    "shell"
+  ],
+  "trending": {
+    "2026-11-07": {
+      "daily": 131
+    }
+  },
+  "url": "https://github.com/nushell/nushell"
+}

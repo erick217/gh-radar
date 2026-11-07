@@ -23,7 +23,7 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 3157,
+  "forks": 3175,
   "full_name": "vercel-labs/agent-browser",
   "homepage": "https://agent-browser.dev",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-06",
   "latest_release": "v0.41.2",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-07",
   "readme_chars": 8780,
   "readme_hash": "c79a8bc8674b",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.62
   },
   "stars": {
-    "2026-11-06": 46123
+    "2026-11-06": 46123,
+    "2026-11-07": 46346
   },
   "topics": [],
   "trending": {

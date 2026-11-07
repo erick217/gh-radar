@@ -23,12 +23,12 @@
   "details_at": "2026-11-02",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 292,
+  "forks": 300,
   "full_name": "microsoft/TokenEconomizer",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-06",
+  "last_seen": "2026-11-07",
   "latest_release": "v0.1.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-06",
@@ -37,23 +37,24 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1164,
+    "gain7": 1009,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.0,
+    "total": 75.4,
     "trending_days_30": 0,
-    "velocity": 0.71
+    "velocity": 0.7
   },
   "stars": {
     "2026-11-02": 4190,
     "2026-11-03": 4551,
     "2026-11-04": 4712,
     "2026-11-05": 4800,
-    "2026-11-06": 4855
+    "2026-11-06": 4855,
+    "2026-11-07": 4911
   },
   "topics": [
     "agentic-ai",

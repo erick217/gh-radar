@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 236,
+  "contributors": 249,
   "created_at": "2026-06-12",
   "description": "Free and open-source macOS menu bar toolkit.",
-  "details_at": "2026-11-01",
+  "details_at": "2026-11-08",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 1638,
+  "forks": 1655,
   "full_name": "vorssaint/vorssaint-utils",
   "homepage": "https://vorssaint.com",
   "install_hint": true,
@@ -37,8 +37,8 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1458,
-    "gain7_source": "snapshot-partial",
+    "gain7": 1442,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 78.1,
     "trending_days_30": 1,
-    "velocity": 0.74
+    "velocity": 0.73
   },
   "stars": {
     "2026-11-01": 32046,
@@ -55,7 +55,8 @@
     "2026-11-04": 32828,
     "2026-11-05": 32992,
     "2026-11-06": 33176,
-    "2026-11-07": 33296
+    "2026-11-07": 33296,
+    "2026-11-08": 33488
   },
   "topics": [
     "alt-tab",

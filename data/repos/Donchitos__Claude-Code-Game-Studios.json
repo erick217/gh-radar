@@ -23,12 +23,12 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4768,
+  "forks": 4843,
   "full_name": "Donchitos/Claude-Code-Game-Studios",
   "homepage": null,
   "install_hint": true,
   "language": "Shell",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": "v1.2.0",
   "license": "MIT",
   "pushed_at": "2026-10-19",
@@ -37,15 +37,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5669,
+    "gain7": 5342,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 83.8,
-    "trending_days_30": 7,
+    "total": 85.0,
+    "trending_days_30": 8,
     "velocity": 0.87
   },
   "stars": {
@@ -58,7 +58,8 @@
     "2026-11-04": 34942,
     "2026-11-05": 35575,
     "2026-11-06": 35824,
-    "2026-11-07": 36213
+    "2026-11-07": 36213,
+    "2026-11-08": 36701
   },
   "topics": [
     "ai-agents",
@@ -95,6 +96,9 @@
     },
     "2026-11-07": {
       "weekly": 6018
+    },
+    "2026-11-08": {
+      "weekly": 5719
     }
   },
   "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"

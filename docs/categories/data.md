@@ -6,10 +6,10 @@
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 框架 | Python | 99.0k | +9.7k | 90 |  |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 框架 | Python | 99.4k | +8.4k | 91 |  |
 
 ## 数据库（1）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 分布式可靠键值存储，基于 Raft 提供高可用一致性数据存储 | 自托管服务 | Go | 52.6k | +384 | 70 |  |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | 分布式可靠键值存储，基于 Raft 提供高可用一致性数据存储 | 自托管服务 | Go | 52.7k | +384 | 70 |  |

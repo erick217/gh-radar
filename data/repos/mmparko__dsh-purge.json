@@ -23,12 +23,12 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 3689,
+  "forks": 3785,
   "full_name": "mmparko/dsh-purge",
   "homepage": "https://github.com/YuJunZhiXue/dsh-purge",
   "install_hint": false,
   "language": "JavaScript",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-13",
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 903,
+    "gain7": 916,
     "gain7_source": "age",
     "health": 0.7,
     "included": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-06": 3183,
-    "2026-11-07": 3224
+    "2026-11-07": 3224,
+    "2026-11-08": 3401
   },
   "topics": [
     "archive",

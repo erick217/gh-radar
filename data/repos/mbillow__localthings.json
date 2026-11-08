@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-11-08",
+    "category": "效率与自托管/自托管服务",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.37.0，可通过 HACS 直接安装，配置流程和文档完整，普通用户可上手使用。",
+    "summary": "通过局域网在 Home Assistant 中本地控制三星家电，无需云端账号。",
+    "tags": [
+      "Home Assistant",
+      "三星家电",
+      "本地控制",
+      "智能家居",
+      "CoAP"
+    ]
+  },
+  "archived": false,
+  "contributors": 53,
+  "created_at": "2026-06-30",
+  "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+  "details_at": "2026-11-08",
+  "first_seen": "2026-11-08",
+  "fork": false,
+  "forks": 114,
+  "full_name": "mbillow/localthings",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-08",
+  "latest_release": "v0.37.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-08",
+  "readme_chars": 15699,
+  "readme_hash": "88aa50ce1cfc",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 558,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 67.8,
+    "trending_days_30": 1,
+    "velocity": 0.64
+  },
+  "stars": {
+    "2026-11-08": 1103
+  },
+  "topics": [
+    "coap-protocol",
+    "coap-server",
+    "custom-component",
+    "dtls",
+    "hacs",
+    "hacs-integration",
+    "home-assistant",
+    "home-automation",
+    "samsung",
+    "smartthings"
+  ],
+  "trending": {
+    "2026-11-08": {
+      "daily": 186
+    }
+  },
+  "url": "https://github.com/mbillow/localthings"
+}

@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 384,
+  "forks": 399,
   "full_name": "QingYunA/answer-me-with-html",
   "homepage": "https://answer-me-with-html.com/",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 972,
+    "gain7": 1035,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 75.3,
+    "total": 75.5,
     "trending_days_30": 0,
-    "velocity": 0.69
+    "velocity": 0.7
   },
   "stars": {
     "2026-10-29": 4635,
@@ -58,7 +58,8 @@
     "2026-11-04": 5258,
     "2026-11-05": 5318,
     "2026-11-06": 5603,
-    "2026-11-07": 5905
+    "2026-11-07": 5905,
+    "2026-11-08": 6022
   },
   "topics": [
     "agent-skill",

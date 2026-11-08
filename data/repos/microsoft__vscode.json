@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 44434,
+  "forks": 44443,
   "full_name": "microsoft/vscode",
   "homepage": "https://code.visualstudio.com",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "1.145.2",
   "license": "MIT",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-08",
   "readme_chars": 6726,
   "readme_hash": "b9c8928ef5a6",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.69
   },
   "stars": {
-    "2026-11-07": 195084
+    "2026-11-07": 195084,
+    "2026-11-08": 195161
   },
   "topics": [
     "editor",

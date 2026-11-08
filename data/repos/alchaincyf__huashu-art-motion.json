@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 641,
+  "forks": 648,
   "full_name": "alchaincyf/huashu-art-motion",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 585,
+    "gain7": 610,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 66.0,
+    "total": 66.2,
     "trending_days_30": 0,
-    "velocity": 0.64
+    "velocity": 0.65
   },
   "stars": {
     "2026-10-29": 5742,
@@ -58,9 +58,23 @@
     "2026-11-04": 6175,
     "2026-11-05": 6278,
     "2026-11-06": 6352,
-    "2026-11-07": 6417
+    "2026-11-07": 6417,
+    "2026-11-08": 6484
   },
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "animation",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "explainer-video",
+    "generative-art",
+    "huashu-skills",
+    "motion-graphics",
+    "skills",
+    "video"
+  ],
   "trending": {},
   "url": "https://github.com/alchaincyf/huashu-art-motion"
 }

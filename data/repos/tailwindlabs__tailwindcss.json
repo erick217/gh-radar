@@ -1,0 +1,69 @@
+{
+  "ai": {
+    "at": "2026-11-08",
+    "category": "前端/构建与工程化",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v4.3.5，可通过 npm 安装，官方文档完整，大量项目已在生产环境使用。",
+    "summary": "实用类优先的 CSS 框架，用原子类快速构建自定义界面",
+    "tags": [
+      "tailwindcss",
+      "CSS框架",
+      "原子化CSS",
+      "PostCSS",
+      "响应式"
+    ]
+  },
+  "archived": false,
+  "contributors": 390,
+  "created_at": "2017-10-06",
+  "description": "A utility-first CSS framework for rapid UI development.",
+  "details_at": "2026-11-08",
+  "first_seen": "2026-11-08",
+  "fork": false,
+  "forks": 7119,
+  "full_name": "tailwindlabs/tailwindcss",
+  "homepage": "https://tailwindcss.com/",
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-11-08",
+  "latest_release": "v4.3.5",
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 1838,
+  "readme_hash": "a697d883cb81",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 366,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 66.3,
+    "trending_days_30": 1,
+    "velocity": 0.6
+  },
+  "stars": {
+    "2026-11-08": 98581
+  },
+  "topics": [
+    "css",
+    "css-framework",
+    "functional-css",
+    "postcss",
+    "responsive",
+    "tailwindcss",
+    "utility-classes"
+  ],
+  "trending": {
+    "2026-11-08": {
+      "daily": 122
+    }
+  },
+  "url": "https://github.com/tailwindlabs/tailwindcss"
+}

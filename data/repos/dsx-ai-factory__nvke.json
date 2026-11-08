@@ -1,0 +1,67 @@
+{
+  "ai": {
+    "at": "2026-11-08",
+    "category": "运维与云原生/容器与编排",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供发布二进制和本地快速上手文档，可在模拟环境评估；但项目处于 Preview，不建议生产使用。",
+    "summary": "在自有 GPU 裸金属上创建和管理 Kubernetes 集群的管理平面",
+    "tags": [
+      "Kubernetes",
+      "GPU",
+      "裸金属",
+      "集群管理",
+      "Cluster API"
+    ]
+  },
+  "archived": false,
+  "contributors": 68,
+  "created_at": "2026-08-04",
+  "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+  "details_at": "2026-11-08",
+  "first_seen": "2026-11-08",
+  "fork": false,
+  "forks": 95,
+  "full_name": "dsx-ai-factory/nvke",
+  "homepage": "https://docs.nvidia.com/nvke/",
+  "install_hint": false,
+  "language": "Go",
+  "last_seen": "2026-11-08",
+  "latest_release": "v0.23.1",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-07",
+  "readme_chars": 9039,
+  "readme_hash": "14692cb3de75",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 369,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.3,
+    "trending_days_30": 1,
+    "velocity": 0.6
+  },
+  "stars": {
+    "2026-11-08": 622
+  },
+  "topics": [
+    "bare-metal",
+    "cluster-api",
+    "gpu",
+    "kubernetes",
+    "nvidia"
+  ],
+  "trending": {
+    "2026-11-08": {
+      "daily": 123
+    }
+  },
+  "url": "https://github.com/dsx-ai-factory/nvke"
+}

@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-11-08",
+    "category": "运维与云原生/监控与日志",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供预编译二进制、官方 Docker 镜像和完整文档，可直接部署使用。",
+    "summary": "开源的指标监控与时序数据库系统，采集、查询并告警",
+    "tags": [
+      "Prometheus",
+      "监控",
+      "时序数据库",
+      "告警",
+      "指标采集"
+    ]
+  },
   "archived": false,
   "contributors": 1530,
   "created_at": "2012-11-24",
@@ -6,12 +23,12 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 10991,
+  "forks": 11011,
   "full_name": "prometheus/prometheus",
   "homepage": "https://prometheus.io/",
   "install_hint": true,
   "language": "Go",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": "v3.16.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-07",
@@ -20,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 444,
+    "gain7": 966,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
-    "practical": 0.8,
-    "total": 67.0,
-    "trending_days_30": 1,
-    "velocity": 0.62
+    "persistence": 0.29,
+    "practical": 1.0,
+    "total": 75.1,
+    "trending_days_30": 2,
+    "velocity": 0.69
   },
   "stars": {
-    "2026-11-07": 67243
+    "2026-11-07": 67243,
+    "2026-11-08": 67496
   },
   "topics": [
     "alerting",
@@ -46,6 +64,9 @@
   "trending": {
     "2026-11-07": {
       "daily": 148
+    },
+    "2026-11-08": {
+      "daily": 322
     }
   },
   "url": "https://github.com/prometheus/prometheus"

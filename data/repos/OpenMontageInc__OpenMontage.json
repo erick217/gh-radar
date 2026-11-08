@@ -23,35 +23,36 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 10365,
-  "full_name": "calesthio/OpenMontage",
+  "forks": 10437,
+  "full_name": "OpenMontageInc/OpenMontage",
   "homepage": "https://www.openmontage.video/",
   "install_hint": true,
   "language": "Python",
   "last_seen": "2026-11-07",
   "latest_release": null,
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-08",
   "readme_chars": 42827,
   "readme_hash": "2cb7a23eaf95",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4405,
-    "gain7_source": "trending-weekly",
+    "gain7": 3808,
+    "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.51,
     "practical": 1.0,
-    "total": 74.4,
+    "total": 76.8,
     "trending_days_30": 3,
-    "velocity": 0.85
+    "velocity": 0.83
   },
   "stars": {
     "2026-11-05": 76750,
     "2026-11-06": 77339,
-    "2026-11-07": 77853
+    "2026-11-07": 77853,
+    "2026-11-08": 78382
   },
   "topics": [
     "agent",
@@ -85,5 +86,5 @@
       "weekly": 4405
     }
   },
-  "url": "https://github.com/calesthio/OpenMontage"
+  "url": "https://github.com/OpenMontageInc/OpenMontage"
 }

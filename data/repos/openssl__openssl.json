@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-11-08",
+    "category": "安全/安全工具",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "成熟稳定的正式发行版，有完整构建安装文档、手册页和示例代码，可直接集成或使用其命令行工具",
+    "summary": "通用 TLS 与密码学库，提供 SSL/TLS 协议实现及命令行加密工具",
+    "tags": [
+      "TLS",
+      "密码学",
+      "加密库",
+      "证书",
+      "CLI"
+    ]
+  },
   "archived": false,
   "contributors": 1602,
   "created_at": "2013-01-15",
@@ -6,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11583,
+  "forks": 11586,
   "full_name": "openssl/openssl",
   "homepage": "https://openssl-library.org/",
   "install_hint": false,
@@ -14,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "openssl-4.1.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-07",
   "readme_chars": 8624,
   "readme_hash": "c45d9222844b",
   "score": {
@@ -26,13 +43,14 @@
     "included": true,
     "is_resource": false,
     "persistence": 0.22,
-    "practical": 0.8,
-    "total": 60.8,
+    "practical": 1.0,
+    "total": 64.8,
     "trending_days_30": 1,
     "velocity": 0.44
   },
   "stars": {
-    "2026-11-07": 31335
+    "2026-11-07": 31335,
+    "2026-11-08": 31366
   },
   "topics": [
     "cryptography",

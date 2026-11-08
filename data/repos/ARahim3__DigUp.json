@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 241,
+    "gain7": 243,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 70.4,
     "trending_days_30": 0,
-    "velocity": 0.55
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-29": 6002,
@@ -58,7 +58,8 @@
     "2026-11-04": 6207,
     "2026-11-05": 6248,
     "2026-11-06": 6275,
-    "2026-11-07": 6293
+    "2026-11-07": 6293,
+    "2026-11-08": 6313
   },
   "topics": [
     "embeddinggemma",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 1644,
+  "forks": 1648,
   "full_name": "lz4/lz4",
   "homepage": "http://www.lz4.org",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "v1.11.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-08",
   "readme_chars": 5343,
   "readme_hash": "940ce0df6cd4",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-06": 12479,
-    "2026-11-07": 12651
+    "2026-11-07": 12651,
+    "2026-11-08": 12707
   },
   "topics": [
     "c",

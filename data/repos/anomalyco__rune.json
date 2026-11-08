@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-08",
+    "category": "前端/框架",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "虽为 pre-release 且需通过 git rev 引入，但提供示例和文档，可直接构建运行并上手。",
+    "summary": "Rust 编写的原生 GPU UI 框架，支持多平台与无头渲染。",
+    "tags": [
+      "Rust",
+      "UI框架",
+      "GPU渲染",
+      "跨平台",
+      "无头测试"
+    ]
+  },
+  "archived": false,
+  "contributors": 11,
+  "created_at": "2026-10-22",
+  "description": "Rune: Native UI framework",
+  "details_at": "2026-11-08",
+  "first_seen": "2026-11-08",
+  "fork": false,
+  "forks": 120,
+  "full_name": "anomalyco/rune",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-08",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-08",
+  "readme_chars": 2501,
+  "readme_hash": "4fce436a875e",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1649,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 62.7,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-08": 4004
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/anomalyco/rune"
+}

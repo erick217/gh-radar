@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 770,
+    "gain7": 746,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 71.5,
+    "total": 71.4,
     "trending_days_30": 0,
     "velocity": 0.67
   },
   "stars": {
     "2026-11-06": 3292,
-    "2026-11-07": 3298
+    "2026-11-07": 3298,
+    "2026-11-08": 3304
   },
   "topics": [
     "airdrop",

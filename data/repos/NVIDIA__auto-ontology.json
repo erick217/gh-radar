@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 740,
+  "forks": 806,
   "full_name": "NVIDIA/auto-ontology",
   "homepage": null,
   "install_hint": true,
@@ -31,27 +31,28 @@
   "last_seen": "2026-11-07",
   "latest_release": null,
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-07",
   "readme_chars": 23955,
   "readme_hash": "928835f7618d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 8037,
-    "gain7_source": "trending-daily",
+    "gain7": 9308,
+    "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.51,
     "practical": 1.0,
-    "total": 76.5,
+    "total": 80.0,
     "trending_days_30": 3,
-    "velocity": 0.91
+    "velocity": 0.92
   },
   "stars": {
     "2026-11-05": 5883,
     "2026-11-06": 7952,
-    "2026-11-07": 9352
+    "2026-11-07": 9352,
+    "2026-11-08": 9872
   },
   "topics": [],
   "trending": {

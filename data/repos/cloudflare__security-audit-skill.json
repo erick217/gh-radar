@@ -22,12 +22,12 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4183,
+  "forks": 4298,
   "full_name": "cloudflare/security-audit-skill",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-09-14",
@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 10046,
+    "gain7": 10507,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
     "is_resource": false,
-    "persistence": 0.86,
+    "persistence": 0.93,
     "practical": 1.0,
-    "total": 82.3,
-    "trending_days_30": 8,
-    "velocity": 0.93
+    "total": 83.8,
+    "trending_days_30": 9,
+    "velocity": 0.94
   },
   "stars": {
     "2026-10-29": 52390,
@@ -57,7 +57,8 @@
     "2026-11-04": 58408,
     "2026-11-05": 59879,
     "2026-11-06": 62258,
-    "2026-11-07": 64461
+    "2026-11-07": 64461,
+    "2026-11-08": 66066
   },
   "topics": [],
   "trending": {
@@ -84,6 +85,9 @@
     },
     "2026-11-07": {
       "daily": 2548
+    },
+    "2026-11-08": {
+      "daily": 2085
     }
   },
   "url": "https://github.com/cloudflare/security-audit-skill"

@@ -1,4 +1,20 @@
 {
+  "ai": {
+    "at": "2026-11-08",
+    "category": "开发工具/编辑器与插件",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 macOS、Linux、Windows 官方安装包及包管理器安装方式，文档完整可直接使用。",
+    "summary": "Rust 编写的高性能多人协作代码编辑器，支持 macOS、Linux 和 Windows。",
+    "tags": [
+      "代码编辑器",
+      "Rust",
+      "协作编辑",
+      "GPUI"
+    ]
+  },
   "archived": false,
   "contributors": 2389,
   "created_at": "2021-02-20",
@@ -6,33 +22,34 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11513,
+  "forks": 11558,
   "full_name": "zed-industries/zed",
   "homepage": "https://zed.dev",
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": "v1.28.0-pre",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-08",
   "readme_chars": 2852,
   "readme_hash": "584d76645134",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 918,
+    "gain7": 3342,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
-    "practical": 0.8,
-    "total": 69.5,
-    "trending_days_30": 1,
-    "velocity": 0.69
+    "persistence": 0.29,
+    "practical": 1.0,
+    "total": 79.5,
+    "trending_days_30": 2,
+    "velocity": 0.82
   },
   "stars": {
-    "2026-11-07": 93850
+    "2026-11-07": 93850,
+    "2026-11-08": 94365
   },
   "topics": [
     "gpui",
@@ -43,6 +60,9 @@
   "trending": {
     "2026-11-07": {
       "daily": 306
+    },
+    "2026-11-08": {
+      "daily": 1114
     }
   },
   "url": "https://github.com/zed-industries/zed"

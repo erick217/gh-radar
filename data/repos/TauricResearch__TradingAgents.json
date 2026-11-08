@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 23148,
+  "forks": 23190,
   "full_name": "TauricResearch/TradingAgents",
   "homepage": "https://tauric.ai",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2277,
+    "gain7": 2095,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.79,
     "practical": 1.0,
-    "total": 88.1,
+    "total": 87.8,
     "trending_days_30": 7,
-    "velocity": 0.78
+    "velocity": 0.77
   },
   "stars": {
     "2026-10-29": 118157,
@@ -58,7 +58,8 @@
     "2026-11-04": 120463,
     "2026-11-05": 120705,
     "2026-11-06": 120883,
-    "2026-11-07": 121063
+    "2026-11-07": 121063,
+    "2026-11-08": 121234
   },
   "topics": [
     "agent",

@@ -23,12 +23,12 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 1144,
+  "forks": 1188,
   "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": null,
   "license": null,
   "pushed_at": "2026-11-06",
@@ -39,19 +39,20 @@
     "flags": [
       "新建且仅 1 名贡献者"
     ],
-    "gain7": 2940,
+    "gain7": 3129,
     "gain7_source": "age",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 0.4,
-    "total": 34.2,
+    "total": 34.4,
     "trending_days_30": 0,
     "velocity": 0.81
   },
   "stars": {
-    "2026-11-07": 2940
+    "2026-11-07": 2940,
+    "2026-11-08": 3129
   },
   "topics": [],
   "trending": {},

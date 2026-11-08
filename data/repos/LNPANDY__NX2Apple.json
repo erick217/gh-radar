@@ -23,12 +23,12 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 587,
+  "forks": 652,
   "full_name": "LNPANDY/NX2Apple",
   "homepage": "https://github.com/LNPANDY/NX2Apple#readme",
   "install_hint": false,
   "language": "Swift",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": "v1.1.1-rc1",
   "license": "MIT",
   "pushed_at": "2026-11-07",
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1743,
-    "gain7_source": "age",
+    "gain7": 3502,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 1.0,
-    "total": 74.4,
+    "total": 79.8,
     "trending_days_30": 0,
-    "velocity": 0.75
+    "velocity": 0.82
   },
   "stars": {
     "2026-11-05": 3564,
     "2026-11-06": 3838,
-    "2026-11-07": 4482
+    "2026-11-07": 4482,
+    "2026-11-08": 5065
   },
   "topics": [
     "apple-silicon",

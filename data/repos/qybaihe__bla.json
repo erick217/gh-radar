@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-08",
+    "category": "安全/安全工具",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包和 Release，提供 CLI/MCP 命令、快速上手文档与多格式支持，可直接安装使用。",
+    "summary": "通过投毒、资源耗尽等手段干扰 AI 逆向分析软件产物的防御工具。",
+    "tags": [
+      "LLM安全",
+      "逆向工程",
+      "代码混淆",
+      "MCP",
+      "软件保护"
+    ]
+  },
+  "archived": false,
+  "contributors": 5,
+  "created_at": "2026-10-25",
+  "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+  "details_at": "2026-11-08",
+  "first_seen": "2026-11-08",
+  "fork": false,
+  "forks": 385,
+  "full_name": "qybaihe/bla",
+  "homepage": "https://bla.tools",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-08",
+  "latest_release": "bla-agents-3.1.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-08",
+  "readme_chars": 16906,
+  "readme_hash": "5ea87e234ee6",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1520,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 73.9,
+    "trending_days_30": 0,
+    "velocity": 0.74
+  },
+  "stars": {
+    "2026-11-08": 3040
+  },
+  "topics": [
+    "adversarial-ai",
+    "claude-code",
+    "cursor",
+    "electron-security",
+    "llm-security",
+    "mcp",
+    "mcp-server",
+    "obfuscation",
+    "reverse-engineering",
+    "webassembly"
+  ],
+  "trending": {},
+  "url": "https://github.com/qybaihe/bla"
+}

@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9543,
+  "forks": 9552,
   "full_name": "ruvnet/ruflo",
   "homepage": "https://Cognitum.One",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 762,
+    "gain7": 757,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 78.7,
+    "total": 78.6,
     "trending_days_30": 3,
     "velocity": 0.67
   },
@@ -58,7 +58,8 @@
     "2026-11-04": 80822,
     "2026-11-05": 80915,
     "2026-11-06": 81017,
-    "2026-11-07": 81098
+    "2026-11-07": 81098,
+    "2026-11-08": 81201
   },
   "topics": [
     "agentic-ai",

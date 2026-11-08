@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 28914,
+  "forks": 28928,
   "full_name": "angular/angular",
   "homepage": "https://angular.dev",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "v22.2.5",
   "license": "MIT",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-07",
   "readme_chars": 4678,
   "readme_hash": "704e9d0111cb",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.61
   },
   "stars": {
-    "2026-11-07": 101425
+    "2026-11-07": 101425,
+    "2026-11-08": 101466
   },
   "topics": [
     "angular",

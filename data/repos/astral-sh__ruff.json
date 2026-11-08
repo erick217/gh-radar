@@ -1,4 +1,21 @@
 {
+  "ai": {
+    "at": "2026-11-08",
+    "category": "开发工具/代码质量与构建",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布多个版本，可通过 pip、uv、brew 等直接安装，文档完善，且被众多大型开源项目实际使用。",
+    "summary": "用 Rust 编写的极快 Python linter 与代码格式化工具，可替代 Flake8、Black 等",
+    "tags": [
+      "Python",
+      "代码检查",
+      "格式化",
+      "Rust",
+      "静态分析"
+    ]
+  },
   "archived": false,
   "contributors": 1011,
   "created_at": "2022-08-09",
@@ -6,33 +23,34 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 2616,
+  "forks": 2634,
   "full_name": "astral-sh/ruff",
   "homepage": "https://docs.astral.sh/ruff",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": "0.17.4",
   "license": "MIT",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-08",
   "readme_chars": 19599,
   "readme_hash": "67659426d825",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 507,
+    "gain7": 1050,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
-    "practical": 0.8,
-    "total": 67.4,
-    "trending_days_30": 1,
-    "velocity": 0.63
+    "persistence": 0.29,
+    "practical": 1.0,
+    "total": 75.4,
+    "trending_days_30": 2,
+    "velocity": 0.7
   },
   "stars": {
-    "2026-11-07": 50758
+    "2026-11-07": 50758,
+    "2026-11-08": 51036
   },
   "topics": [
     "linter",
@@ -50,6 +68,9 @@
   "trending": {
     "2026-11-07": {
       "daily": 169
+    },
+    "2026-11-08": {
+      "daily": 350
     }
   },
   "url": "https://github.com/astral-sh/ruff"

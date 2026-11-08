@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-08",
+    "category": "前端/UI组件",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包并处于 Beta，提供文档、Storybook、CLI 和现成主题，可直接安装使用。",
+    "summary": "Meta 开源的可定制 React 设计系统，含 150+ 组件与主题",
+    "tags": [
+      "React",
+      "设计系统",
+      "UI组件",
+      "StyleX",
+      "主题定制"
+    ]
+  },
+  "archived": false,
+  "contributors": 122,
+  "created_at": "2026-01-09",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "details_at": "2026-11-08",
+  "first_seen": "2026-11-08",
+  "fork": false,
+  "forks": 1211,
+  "full_name": "meta/astryx",
+  "homepage": "http://astryx.atmeta.com",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-08",
+  "latest_release": "v0.7.11",
+  "license": "MIT",
+  "pushed_at": "2026-11-08",
+  "readme_chars": 9082,
+  "readme_hash": "cb4835848cc0",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 288,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 69.4,
+    "trending_days_30": 1,
+    "velocity": 0.57
+  },
+  "stars": {
+    "2026-11-08": 14783
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-08": {
+      "daily": 96
+    }
+  },
+  "url": "https://github.com/meta/astryx"
+}

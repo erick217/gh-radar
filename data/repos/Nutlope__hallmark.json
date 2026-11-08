@@ -17,18 +17,18 @@
     ]
   },
   "archived": false,
-  "contributors": 7,
+  "contributors": 12,
   "created_at": "2026-04-27",
   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-  "details_at": "2026-11-01",
+  "details_at": "2026-11-08",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 2638,
+  "forks": 2675,
   "full_name": "Nutlope/hallmark",
   "homepage": "https://www.usehallmark.com/",
   "install_hint": true,
   "language": "CSS",
-  "last_seen": "2026-11-07",
+  "last_seen": "2026-11-08",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-05",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6599,
-    "gain7_source": "snapshot-partial",
+    "gain7": 6311,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 84.4,
-    "trending_days_30": 7,
-    "velocity": 0.89
+    "total": 85.6,
+    "trending_days_30": 8,
+    "velocity": 0.88
   },
   "stars": {
     "2026-11-01": 44121,
@@ -55,7 +55,8 @@
     "2026-11-04": 47251,
     "2026-11-05": 48209,
     "2026-11-06": 49034,
-    "2026-11-07": 49777
+    "2026-11-07": 49777,
+    "2026-11-08": 50432
   },
   "topics": [],
   "trending": {
@@ -79,6 +80,9 @@
     },
     "2026-11-07": {
       "weekly": 6900
+    },
+    "2026-11-08": {
+      "weekly": 6624
     }
   },
   "url": "https://github.com/Nutlope/hallmark"

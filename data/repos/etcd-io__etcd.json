@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 10595,
+  "forks": 10594,
   "full_name": "etcd-io/etcd",
   "homepage": "https://etcd.io",
   "install_hint": false,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 52643,
-    "2026-11-08": 52670
+    "2026-11-08": 52670,
+    "2026-11-09": 52677
   },
   "topics": [
     "cncf",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 7119,
+  "forks": 6862,
   "full_name": "tailwindlabs/tailwindcss",
   "homepage": "https://tailwindcss.com/",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-08",
   "latest_release": "v4.3.5",
   "license": "MIT",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-08",
   "readme_chars": 1838,
   "readme_hash": "a697d883cb81",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.6
   },
   "stars": {
-    "2026-11-08": 98581
+    "2026-11-08": 98581,
+    "2026-11-09": 98651
   },
   "topics": [
     "css",

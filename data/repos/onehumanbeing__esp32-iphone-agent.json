@@ -23,30 +23,30 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 636,
+  "forks": 650,
   "full_name": "onehumanbeing/esp32-iphone-agent",
   "homepage": "https://handsy.tech?ref=github",
   "install_hint": true,
   "language": "Swift",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "latest_release": "v1.0.0",
   "license": "MIT",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 14883,
   "readme_hash": "3aef6b542827",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 471,
+    "gain7": 507,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.8,
+    "total": 73.0,
     "trending_days_30": 0,
-    "velocity": 0.62
+    "velocity": 0.63
   },
   "stars": {
     "2026-10-29": 4084,
@@ -59,7 +59,8 @@
     "2026-11-05": 4395,
     "2026-11-06": 4520,
     "2026-11-07": 4593,
-    "2026-11-08": 4637
+    "2026-11-08": 4637,
+    "2026-11-09": 4720
   },
   "topics": [
     "ai-agent",

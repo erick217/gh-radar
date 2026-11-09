@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 6007,
+  "forks": 6018,
   "full_name": "storytold/lightcraft",
   "homepage": "https://getartcraft.com/apps/lightcraft",
   "install_hint": false,
@@ -31,13 +31,13 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.18.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 53457,
   "readme_hash": "c6d1e2f5f90c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 468,
+    "gain7": 460,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -59,7 +59,8 @@
     "2026-11-05": 15508,
     "2026-11-06": 15561,
     "2026-11-07": 15610,
-    "2026-11-08": 15667
+    "2026-11-08": 15667,
+    "2026-11-09": 15732
   },
   "topics": [
     "art",

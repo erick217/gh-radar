@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 408,
+  "forks": 413,
   "full_name": "nullmoth/nvidia-macos-driver",
   "homepage": "https://nullmothsystems.com",
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 253,
+    "gain7": 251,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.6,
+    "total": 70.5,
     "trending_days_30": 0,
     "velocity": 0.56
   },
@@ -59,7 +59,8 @@
     "2026-11-05": 4131,
     "2026-11-06": 4167,
     "2026-11-07": 4190,
-    "2026-11-08": 4213
+    "2026-11-08": 4213,
+    "2026-11-09": 4245
   },
   "topics": [
     "kext",

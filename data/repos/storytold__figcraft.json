@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1762,
+  "forks": 1774,
   "full_name": "storytold/figcraft",
   "homepage": "https://getartcraft.com/apps/figcraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v0.15.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-09",
   "readme_chars": 34289,
   "readme_hash": "ffd1488a291b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 665,
+    "gain7": 639,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 74.0,
+    "total": 73.8,
     "trending_days_30": 0,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-10-29": 3784,
@@ -59,7 +59,8 @@
     "2026-11-05": 4342,
     "2026-11-06": 4464,
     "2026-11-07": 4552,
-    "2026-11-08": 4643
+    "2026-11-08": 4643,
+    "2026-11-09": 4717
   },
   "topics": [
     "design",

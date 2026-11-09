@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11586,
+  "forks": 11591,
   "full_name": "openssl/openssl",
   "homepage": "https://openssl-library.org/",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "openssl-4.1.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-09",
   "readme_chars": 8624,
   "readme_hash": "c45d9222844b",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 31335,
-    "2026-11-08": 31366
+    "2026-11-08": 31366,
+    "2026-11-09": 31386
   },
   "topics": [
     "cryptography",

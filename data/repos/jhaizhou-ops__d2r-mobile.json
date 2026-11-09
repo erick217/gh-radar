@@ -23,30 +23,30 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1317,
+  "forks": 1320,
   "full_name": "jhaizhou-ops/d2r-mobile",
   "homepage": null,
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-09",
   "latest_release": "v2.3.0",
   "license": "MIT",
-  "pushed_at": "2026-11-04",
+  "pushed_at": "2026-11-08",
   "readme_chars": 50312,
   "readme_hash": "0b64d53b7a98",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 262,
+    "gain7": 222,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.7,
+    "total": 70.1,
     "trending_days_30": 0,
-    "velocity": 0.56
+    "velocity": 0.55
   },
   "stars": {
     "2026-10-29": 4855,
@@ -59,7 +59,8 @@
     "2026-11-05": 5141,
     "2026-11-06": 5157,
     "2026-11-07": 5184,
-    "2026-11-08": 5203
+    "2026-11-08": 5203,
+    "2026-11-09": 5225
   },
   "topics": [
     "android",

@@ -1,6 +1,6 @@
 # GitHub 热门项目雷达
 
-更新于 2026-11-08 15:19（北京时间） · 已收录 171 个项目 · 共追踪 177 个
+更新于 2026-11-09 15:58（北京时间） · 已收录 172 个项目 · 共追踪 179 个
 
 - [最近 7 天新收录](new.md)
 - [本周增速榜](rising.md)
@@ -15,7 +15,7 @@
 - [运维与云原生](categories/ops.md)（2）：容器与编排 1、监控与日志 1
 - [安全](categories/security.md)（9）：安全工具 9
 - [效率与自托管](categories/productivity.md)（7）：笔记与知识管理 1、自动化 5、自托管服务 1
-- [多媒体](categories/media.md)（13）：图像 7、音视频 6
+- [多媒体](categories/media.md)（14）：图像 7、音视频 7
 - [移动与桌面](categories/apps.md)（16）：桌面应用 16
-- [学习资源](categories/learning.md)（9）：教程与课程 2、资源合集 7
-- [其他](categories/other.md)（16）：其他 16
+- [学习资源](categories/learning.md)（8）：教程与课程 2、资源合集 6
+- [其他](categories/other.md)（17）：其他 17

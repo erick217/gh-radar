@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 6812,
+  "forks": 6816,
   "full_name": "MichaelCade/90DaysOfDevOps",
   "homepage": "https://www.90daysofdevops.com/",
   "install_hint": false,
@@ -37,22 +37,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 443,
+    "gain7": 369,
     "gain7_source": "snapshot-partial",
     "health": 0.6,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 63.9,
+    "total": 63.3,
     "trending_days_30": 1,
-    "velocity": 0.62
+    "velocity": 0.6
   },
   "stars": {
     "2026-11-05": 30641,
     "2026-11-06": 30799,
     "2026-11-07": 30815,
-    "2026-11-08": 30831
+    "2026-11-08": 30831,
+    "2026-11-09": 30852
   },
   "topics": [
     "ansible",

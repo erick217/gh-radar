@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 280,
+  "forks": 289,
   "full_name": "Verlintas/NOIR",
   "homepage": "https://verlintas.dev/noir/",
   "install_hint": true,
@@ -37,19 +37,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2636,
+    "gain7": 2432,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 75.8,
+    "total": 75.6,
     "trending_days_30": 0,
-    "velocity": 0.8
+    "velocity": 0.79
   },
   "stars": {
-    "2026-11-08": 3012
+    "2026-11-08": 3012,
+    "2026-11-09": 3127
   },
   "topics": [
     "adb",

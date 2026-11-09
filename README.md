@@ -8,20 +8,20 @@
 
 <!-- radar:start -->
 
-**本周增速 Top 10**（2026-11-08 更新，共收录 171 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-09 更新，共收录 172 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 21.3k | +22.2k | 78 |  |
-| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 面向单个 GitHub 仓库的主动式编码代理原型，需配合 DeepSeek Harness 使用 | AI/Agent | 其他 | TypeScript | 20.9k | +17.1k | 58 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 51.5k | +15.5k | 98 |  |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 19.1k | +11.4k | 90 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 15.0k | +11.1k | 72 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 66.1k | +10.5k | 84 |  |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 318.0k | +9.3k | 94 |  |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 为 LLM 与 Agent 构建语义本体和图推理层的 Python 框架 | AI/RAG与知识库 | 框架 | Python | 9.9k | +9.3k | 80 |  |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 数据/数据处理 | 框架 | Python | 99.4k | +8.4k | 91 |  |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 把 AI 味浓重的界面逐步改造成有设计感 UI 的 Claude/Codex 技能 | AI/Agent | 其他 | JavaScript | 11.5k | +7.7k | 75 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 23.4k | +21.0k | 78 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 53.0k | +14.1k | 97 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 16.8k | +11.6k | 73 |  |
+| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 面向单个 GitHub 仓库的主动式编码代理原型，需配合 DeepSeek Harness 使用 | AI/Agent | 其他 | TypeScript | 21.5k | +11.4k | 57 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 67.2k | +10.6k | 84 |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 19.9k | +10.4k | 89 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 318.9k | +9.4k | 94 |  |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 为 LLM 与 Agent 构建语义本体和图推理层的 Python 框架 | AI/RAG与知识库 | 框架 | Python | 10.6k | +8.3k | 80 |  |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源Grok Bot替代品：聊天式多AI智能体桌面应用，可操作电脑 | AI/Agent | 桌面应用 | TypeScript | 18.9k | +8.0k | 94 |  |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 数据/数据处理 | 框架 | Python | 100.1k | +7.8k | 91 |  |
 
 <!-- radar:end -->
 

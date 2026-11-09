@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 170,
+  "forks": 171,
   "full_name": "net-merge/net-merge",
   "homepage": "https://net-merge.org",
   "install_hint": true,
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 768,
+    "gain7": 746,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 71.5,
+    "total": 71.4,
     "trending_days_30": 0,
     "velocity": 0.67
   },
   "stars": {
     "2026-11-07": 2932,
-    "2026-11-08": 2963
+    "2026-11-08": 2963,
+    "2026-11-09": 2986
   },
   "topics": [
     "android",

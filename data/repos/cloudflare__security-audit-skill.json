@@ -22,7 +22,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4298,
+  "forks": 4391,
   "full_name": "cloudflare/security-audit-skill",
   "homepage": null,
   "install_hint": true,
@@ -36,7 +36,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 10507,
+    "gain7": 10562,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
@@ -58,7 +58,8 @@
     "2026-11-05": 59879,
     "2026-11-06": 62258,
     "2026-11-07": 64461,
-    "2026-11-08": 66066
+    "2026-11-08": 66066,
+    "2026-11-09": 67221
   },
   "topics": [],
   "trending": {

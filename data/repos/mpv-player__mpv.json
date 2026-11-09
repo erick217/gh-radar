@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 3640,
+  "forks": 3642,
   "full_name": "mpv-player/mpv",
   "homepage": "https://mpv.io",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "v0.42.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-09",
   "readme_chars": 8717,
   "readme_hash": "3c8858028a4e",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 37936,
-    "2026-11-08": 37986
+    "2026-11-08": 37986,
+    "2026-11-09": 38013
   },
   "topics": [
     "audio",

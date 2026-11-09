@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 51957,
+  "forks": 52040,
   "full_name": "react/react",
   "homepage": "https://react.dev",
   "install_hint": false,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 252309,
-    "2026-11-08": 252389
+    "2026-11-08": 252389,
+    "2026-11-09": 252431
   },
   "topics": [
     "declarative",

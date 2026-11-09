@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 9910,
+  "forks": 10074,
   "full_name": "pingdotgg/t3code",
   "homepage": "https://t3.codes",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-08",
   "latest_release": "v0.1.8-nightly.20261107.4301",
   "license": "MIT",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 5255,
   "readme_hash": "2de8959c0dc5",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 15521,
+    "gain7": 14076,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.93,
     "practical": 1.0,
-    "total": 97.7,
+    "total": 97.4,
     "trending_days_30": 9,
-    "velocity": 0.97
+    "velocity": 0.96
   },
   "stars": {
     "2026-10-31": 33069,
@@ -57,7 +57,8 @@
     "2026-11-05": 47057,
     "2026-11-06": 48703,
     "2026-11-07": 50162,
-    "2026-11-08": 51542
+    "2026-11-08": 51542,
+    "2026-11-09": 52956
   },
   "topics": [],
   "trending": {

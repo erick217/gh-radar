@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2691,
+  "forks": 2702,
   "full_name": "storytold/deckcraft",
   "homepage": "https://getartcraft.com/apps/slidecraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": "v0.15.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 22789,
   "readme_hash": "5227af23c343",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 193,
+    "gain7": 178,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.6,
+    "total": 69.3,
     "trending_days_30": 0,
-    "velocity": 0.53
+    "velocity": 0.52
   },
   "stars": {
     "2026-10-29": 4401,
@@ -59,7 +59,8 @@
     "2026-11-05": 4614,
     "2026-11-06": 4638,
     "2026-11-07": 4652,
-    "2026-11-08": 4668
+    "2026-11-08": 4668,
+    "2026-11-09": 4689
   },
   "topics": [],
   "trending": {},

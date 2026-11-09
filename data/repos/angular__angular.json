@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 28928,
+  "forks": 28637,
   "full_name": "angular/angular",
   "homepage": "https://angular.dev",
   "install_hint": true,
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 101425,
-    "2026-11-08": 101466
+    "2026-11-08": 101466,
+    "2026-11-09": 101465
   },
   "topics": [
     "angular",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 10437,
+  "forks": 10526,
   "full_name": "OpenMontageInc/OpenMontage",
   "homepage": "https://www.openmontage.video/",
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-07",
   "latest_release": null,
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 42827,
   "readme_hash": "2cb7a23eaf95",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3808,
+    "gain7": 3612,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 76.8,
+    "total": 76.7,
     "trending_days_30": 3,
     "velocity": 0.83
   },
@@ -52,7 +52,8 @@
     "2026-11-05": 76750,
     "2026-11-06": 77339,
     "2026-11-07": 77853,
-    "2026-11-08": 78382
+    "2026-11-08": 78382,
+    "2026-11-09": 78814
   },
   "topics": [
     "agent",

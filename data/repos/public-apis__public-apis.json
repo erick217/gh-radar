@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 2186,
+  "contributors": 2273,
   "created_at": "2016-03-20",
   "description": "A collective list of free APIs",
-  "details_at": "2026-11-02",
+  "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 55559,
+  "forks": 55607,
   "full_name": "public-apis/public-apis",
   "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
   "install_hint": false,
@@ -32,21 +32,21 @@
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-07",
-  "readme_chars": 334985,
-  "readme_hash": "79adee2d482c",
+  "readme_chars": 351624,
+  "readme_hash": "033fe29faa0b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2389,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2329,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 72.4,
+    "total": 72.3,
     "trending_days_30": 1,
-    "velocity": 0.79
+    "velocity": 0.78
   },
   "stars": {
     "2026-11-02": 495052,
@@ -55,7 +55,8 @@
     "2026-11-05": 496194,
     "2026-11-06": 496506,
     "2026-11-07": 496810,
-    "2026-11-08": 497100
+    "2026-11-08": 497100,
+    "2026-11-09": 497381
   },
   "topics": [
     "api",

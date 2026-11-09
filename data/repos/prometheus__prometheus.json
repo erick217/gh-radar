@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11011,
+  "forks": 11014,
   "full_name": "prometheus/prometheus",
   "homepage": "https://prometheus.io/",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-08",
   "latest_release": "v3.16.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-09",
   "readme_chars": 9689,
   "readme_hash": "6c8ba888ee8e",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 67243,
-    "2026-11-08": 67496
+    "2026-11-08": 67496,
+    "2026-11-09": 67574
   },
   "topics": [
     "alerting",

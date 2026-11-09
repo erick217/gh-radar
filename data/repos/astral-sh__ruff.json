@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 2634,
+  "forks": 2639,
   "full_name": "astral-sh/ruff",
   "homepage": "https://docs.astral.sh/ruff",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-08",
   "latest_release": "0.17.4",
   "license": "MIT",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 19599,
   "readme_hash": "67659426d825",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-07": 50758,
-    "2026-11-08": 51036
+    "2026-11-08": 51036,
+    "2026-11-09": 51122
   },
   "topics": [
     "linter",

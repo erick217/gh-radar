@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 1211,
+  "forks": 1396,
   "full_name": "meta/astryx",
   "homepage": "http://astryx.atmeta.com",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-08",
   "latest_release": "v0.7.11",
   "license": "MIT",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-09",
   "readme_chars": 9082,
   "readme_hash": "cb4835848cc0",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.57
   },
   "stars": {
-    "2026-11-08": 14783
+    "2026-11-08": 14783,
+    "2026-11-09": 17817
   },
   "topics": [],
   "trending": {

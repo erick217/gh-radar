@@ -1,0 +1,69 @@
+{
+  "ai": {
+    "at": "2026-11-10",
+    "category": "AI/AI应用",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可运行的 Python 程序、Web 工作台、Docker 与 GitHub Actions 部署方式，文档完整且有正式版本发布。",
+    "summary": "LLM 驱动的多市场股票分析系统，生成决策仪表盘并自动推送。",
+    "tags": [
+      "股票分析",
+      "LLM",
+      "量化交易",
+      "自选股",
+      "消息推送"
+    ]
+  },
+  "archived": false,
+  "contributors": 140,
+  "created_at": "2026-01-10",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "details_at": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "fork": false,
+  "forks": 56501,
+  "full_name": "ZhuLinsen/daily_stock_analysis",
+  "homepage": "https://dsa.zhulinsen.tech",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-10",
+  "latest_release": "v3.34.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-09",
+  "readme_chars": 10731,
+  "readme_hash": "cb22c0f9e454",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1518,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 75.3,
+    "trending_days_30": 1,
+    "velocity": 0.74
+  },
+  "stars": {
+    "2026-11-10": 69318
+  },
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "llm",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading"
+  ],
+  "trending": {
+    "2026-11-10": {
+      "daily": 506
+    }
+  },
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+}

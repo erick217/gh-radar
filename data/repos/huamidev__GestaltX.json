@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-10",
+    "category": "其他/其他",
+    "form": "移动应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 IPA 发布包和完整使用文档，需自行签名且仅支持 iOS 27.x，但可直接安装运行。",
+    "summary": "iOS 27 上的 MobileGestalt 编辑器，可修改区域码与设备功能开关。",
+    "tags": [
+      "iOS",
+      "MobileGestalt",
+      "系统定制",
+      "SwiftUI",
+      "plist"
+    ]
+  },
+  "archived": false,
+  "contributors": 7,
+  "created_at": "2026-11-09",
+  "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+  "details_at": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "fork": false,
+  "forks": 1308,
+  "full_name": "huamidev/GestaltX",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Swift",
+  "last_seen": "2026-11-10",
+  "latest_release": "v1.0.4",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-10",
+  "readme_chars": 7173,
+  "readme_hash": "9b610e524db1",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3372,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 72.7,
+    "trending_days_30": 0,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-11-10": 3372
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/huamidev/GestaltX"
+}

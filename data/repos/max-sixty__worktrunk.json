@@ -17,36 +17,36 @@
     ]
   },
   "archived": false,
-  "contributors": 82,
+  "contributors": 89,
   "created_at": "2025-10-17",
   "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "details_at": "2026-11-03",
+  "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 472,
+  "forks": 480,
   "full_name": "max-sixty/worktrunk",
   "homepage": "https://worktrunk.dev",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-10",
   "latest_release": "v0.81.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-09",
+  "pushed_at": "2026-11-10",
   "readme_chars": 14938,
-  "readme_hash": "71305e978c45",
+  "readme_hash": "5845b2e40f74",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2342,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2150,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 86.8,
-    "trending_days_30": 6,
-    "velocity": 0.78
+    "total": 87.9,
+    "trending_days_30": 7,
+    "velocity": 0.77
   },
   "stars": {
     "2026-11-03": 10170,
@@ -55,7 +55,8 @@
     "2026-11-06": 11664,
     "2026-11-07": 11838,
     "2026-11-08": 11984,
-    "2026-11-09": 12177
+    "2026-11-09": 12177,
+    "2026-11-10": 12320
   },
   "topics": [
     "agents",
@@ -86,6 +87,9 @@
     },
     "2026-11-08": {
       "weekly": 2292
+    },
+    "2026-11-10": {
+      "weekly": 2395
     }
   },
   "url": "https://github.com/max-sixty/worktrunk"

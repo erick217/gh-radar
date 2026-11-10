@@ -22,7 +22,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 320,
+  "forks": 330,
   "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
   "homepage": null,
   "install_hint": false,
@@ -30,29 +30,30 @@
   "last_seen": "2026-11-06",
   "latest_release": "v1.4.1",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-10",
   "readme_chars": 9335,
   "readme_hash": "42a69ec6dba7",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3378,
+    "gain7": 3010,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 0.8,
-    "total": 78.5,
+    "total": 78.1,
     "trending_days_30": 2,
-    "velocity": 0.82
+    "velocity": 0.81
   },
   "stars": {
     "2026-11-05": 6845,
     "2026-11-06": 7492,
     "2026-11-07": 7932,
     "2026-11-08": 8324,
-    "2026-11-09": 8775
+    "2026-11-09": 8775,
+    "2026-11-10": 8995
   },
   "topics": [],
   "trending": {

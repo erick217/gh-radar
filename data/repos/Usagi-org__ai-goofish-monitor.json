@@ -23,7 +23,7 @@
   "details_at": "2026-11-04",
   "first_seen": "2026-11-04",
   "fork": false,
-  "forks": 3044,
+  "forks": 3109,
   "full_name": "Usagi-org/ai-goofish-monitor",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2289,
+    "gain7": 2548,
     "gain7_source": "snapshot-partial",
-    "health": 1.0,
+    "health": 0.8,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 81.1,
+    "total": 76.5,
     "trending_days_30": 2,
-    "velocity": 0.78
+    "velocity": 0.79
   },
   "stars": {
     "2026-11-04": 16830,
@@ -54,7 +54,8 @@
     "2026-11-06": 17978,
     "2026-11-07": 18232,
     "2026-11-08": 18348,
-    "2026-11-09": 18465
+    "2026-11-09": 18465,
+    "2026-11-10": 19014
   },
   "topics": [
     "ai",

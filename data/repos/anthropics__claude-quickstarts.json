@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-10",
+    "category": "学习资源/资源合集",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "每个 quickstart 都提供独立目录、README 安装步骤和可运行代码，配置 API key 即可上手。",
+    "summary": "Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用",
+    "tags": [
+      "Claude",
+      "示例项目",
+      "AI Agent",
+      "快速上手",
+      "Python"
+    ]
+  },
+  "archived": false,
+  "contributors": 34,
+  "created_at": "2024-08-29",
+  "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+  "details_at": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "fork": false,
+  "forks": 3329,
+  "full_name": "anthropics/claude-quickstarts",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-10",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 10673,
+  "readme_hash": "c67627304b58",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1653,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 64.1,
+    "trending_days_30": 1,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-10": 20188
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-10": {
+      "daily": 551
+    }
+  },
+  "url": "https://github.com/anthropics/claude-quickstarts"
+}

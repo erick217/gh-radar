@@ -31,27 +31,28 @@
   "last_seen": "2026-11-08",
   "latest_release": "v3.16.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-09",
+  "pushed_at": "2026-11-10",
   "readme_chars": 9689,
   "readme_hash": "6c8ba888ee8e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 966,
-    "gain7_source": "trending-daily",
+    "gain7": 840,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.44,
     "practical": 1.0,
-    "total": 75.1,
+    "total": 77.6,
     "trending_days_30": 2,
-    "velocity": 0.69
+    "velocity": 0.68
   },
   "stars": {
     "2026-11-07": 67243,
     "2026-11-08": 67496,
-    "2026-11-09": 67574
+    "2026-11-09": 67574,
+    "2026-11-10": 67603
   },
   "topics": [
     "alerting",

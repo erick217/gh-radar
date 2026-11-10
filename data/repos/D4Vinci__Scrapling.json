@@ -17,35 +17,35 @@
     ]
   },
   "archived": false,
-  "contributors": 42,
+  "contributors": 54,
   "created_at": "2024-10-13",
   "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-  "details_at": "2026-11-03",
+  "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 10461,
+  "forks": 10526,
   "full_name": "D4Vinci/Scrapling",
   "homepage": "https://scrapling.readthedocs.io/en/latest/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-08",
-  "latest_release": "v0.5",
+  "last_seen": "2026-11-10",
+  "latest_release": "v0.5.1",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-08",
-  "readme_chars": 37265,
-  "readme_hash": "a5c773ad0fbd",
+  "pushed_at": "2026-11-09",
+  "readme_chars": 38279,
+  "readme_hash": "d3d4a1dd8419",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 7784,
-    "gain7_source": "snapshot-partial",
+    "gain7": 7332,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 91.1,
-    "trending_days_30": 6,
+    "total": 92.3,
+    "trending_days_30": 7,
     "velocity": 0.9
   },
   "stars": {
@@ -55,7 +55,8 @@
     "2026-11-06": 98377,
     "2026-11-07": 98968,
     "2026-11-08": 99443,
-    "2026-11-09": 100112
+    "2026-11-09": 100112,
+    "2026-11-10": 100772
   },
   "topics": [
     "ai",
@@ -97,6 +98,9 @@
     },
     "2026-11-08": {
       "weekly": 8712
+    },
+    "2026-11-10": {
+      "weekly": 8226
     }
   },
   "url": "https://github.com/D4Vinci/Scrapling"

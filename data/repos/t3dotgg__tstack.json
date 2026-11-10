@@ -23,12 +23,12 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 248,
+  "forks": 256,
   "full_name": "t3dotgg/tstack",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-09",
+  "last_seen": "2026-11-10",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-28",
@@ -37,22 +37,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 411,
+    "gain7": 504,
     "gain7_source": "snapshot-partial",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 53.3,
+    "total": 54.0,
     "trending_days_30": 0,
-    "velocity": 0.61
+    "velocity": 0.63
   },
   "stars": {
     "2026-11-06": 3119,
     "2026-11-07": 3198,
     "2026-11-08": 3249,
-    "2026-11-09": 3295
+    "2026-11-09": 3295,
+    "2026-11-10": 3407
   },
   "topics": [],
   "trending": {},

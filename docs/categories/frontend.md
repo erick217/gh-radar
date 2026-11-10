@@ -6,16 +6,16 @@
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [react/react](https://github.com/react/react) | 用于构建 Web 与原生用户界面的声明式 JavaScript 组件库 | 库 | JavaScript | 252.4k | +744 | 73 |  |
-| [angular/angular](https://github.com/angular/angular) | 基于 TypeScript 的 Web 应用开发框架，用于构建移动端和桌面端应用 | 框架 | TypeScript | 101.5k | +405 | 71 |  |
-| [anomalyco/rune](https://github.com/anomalyco/rune) | Rust 编写的原生 GPU UI 框架，支持多平台与无头渲染。 | 框架 | Rust | 5.5k | +2.1k | 64 |  |
+| [react/react](https://github.com/react/react) | 用于构建 Web 与原生用户界面的声明式 JavaScript 组件库 | 库 | JavaScript | 252.5k | +385 | 73 |  |
+| [angular/angular](https://github.com/angular/angular) | 基于 TypeScript 的 Web 应用开发框架，用于构建移动端和桌面端应用 | 框架 | TypeScript | 101.5k | +96 | 69 |  |
+| [anomalyco/rune](https://github.com/anomalyco/rune) | Rust 编写的原生 GPU UI 框架，支持多平台与无头渲染。 | 框架 | Rust | 6.0k | +2.2k | 64 |  |
 
 ## UI组件（2）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [obsidianmd/pele](https://github.com/obsidianmd/pele) | 同步将 Mermaid 文本渲染为 SVG 的轻量无依赖库 | 库 | TypeScript | 4.4k | +367 | 72 |  |
-| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 库 | TypeScript | 17.8k | +288 | 69 |  |
+| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 库 | TypeScript | 21.0k | +9.8k | 83 |  |
+| [obsidianmd/pele](https://github.com/obsidianmd/pele) | 同步将 Mermaid 文本渲染为 SVG 的轻量无依赖库 | 库 | TypeScript | 4.4k | +310 | 71 |  |
 
 ## 构建与工程化（1）
 

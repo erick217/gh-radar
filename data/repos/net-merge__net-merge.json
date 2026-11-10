@@ -31,27 +31,28 @@
   "last_seen": "2026-11-08",
   "latest_release": "v0.3.6",
   "license": "MIT",
-  "pushed_at": "2026-11-02",
+  "pushed_at": "2026-11-09",
   "readme_chars": 25896,
   "readme_hash": "af6fa16e266a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 746,
-    "gain7_source": "age",
+    "gain7": 210,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 1.0,
-    "total": 71.4,
+    "total": 69.9,
     "trending_days_30": 0,
-    "velocity": 0.67
+    "velocity": 0.54
   },
   "stars": {
     "2026-11-07": 2932,
     "2026-11-08": 2963,
-    "2026-11-09": 2986
+    "2026-11-09": 2986,
+    "2026-11-10": 3022
   },
   "topics": [
     "android",

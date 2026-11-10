@@ -19,11 +19,11 @@
   "archived": false,
   "contributors": 148,
   "created_at": "2026-10-07",
-  "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+  "description": "GridCraft: an open-source, clean-room spreadsheet in pure Rust. By ArtCraft.",
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3400,
+  "forks": 3421,
   "full_name": "storytold/gridcraft",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 347,
+    "gain7": 321,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 67.7,
+    "total": 67.4,
     "trending_days_30": 0,
-    "velocity": 0.59
+    "velocity": 0.58
   },
   "stars": {
     "2026-10-29": 6771,
@@ -60,7 +60,8 @@
     "2026-11-06": 7220,
     "2026-11-07": 7267,
     "2026-11-08": 7309,
-    "2026-11-09": 7346
+    "2026-11-09": 7346,
+    "2026-11-10": 7380
   },
   "topics": [],
   "trending": {},

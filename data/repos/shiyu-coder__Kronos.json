@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 7829,
+  "forks": 7844,
   "full_name": "shiyu-coder/Kronos",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1749,
+    "gain7": 1325,
     "gain7_source": "snapshot",
     "health": 0.3,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 66.9,
+    "total": 65.9,
     "trending_days_30": 5,
-    "velocity": 0.75
+    "velocity": 0.73
   },
   "stars": {
     "2026-11-02": 45620,
@@ -56,7 +56,8 @@
     "2026-11-06": 46979,
     "2026-11-07": 47109,
     "2026-11-08": 47281,
-    "2026-11-09": 47369
+    "2026-11-09": 47369,
+    "2026-11-10": 47464
   },
   "topics": [],
   "trending": {

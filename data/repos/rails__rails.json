@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 23581,
+  "forks": 23115,
   "full_name": "rails/rails",
   "homepage": "https://rubyonrails.org",
   "install_hint": false,
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 426,
-    "gain7_source": "trending-daily",
+    "gain7": 68,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.37,
     "practical": 1.0,
-    "total": 70.8,
+    "total": 67.4,
     "trending_days_30": 1,
-    "velocity": 0.61
+    "velocity": 0.43
   },
   "stars": {
     "2026-11-07": 59059,
     "2026-11-08": 59081,
-    "2026-11-09": 59082
+    "2026-11-09": 59082,
+    "2026-11-10": 59088
   },
   "topics": [
     "activejob",

@@ -23,39 +23,43 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 1396,
+  "forks": 1587,
   "full_name": "meta/astryx",
   "homepage": "http://astryx.atmeta.com",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-10",
   "latest_release": "v0.7.11",
   "license": "MIT",
-  "pushed_at": "2026-11-09",
+  "pushed_at": "2026-11-10",
   "readme_chars": 9082,
   "readme_hash": "cb4835848cc0",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 288,
+    "gain7": 9834,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 69.4,
-    "trending_days_30": 1,
-    "velocity": 0.57
+    "total": 83.3,
+    "trending_days_30": 2,
+    "velocity": 0.93
   },
   "stars": {
     "2026-11-08": 14783,
-    "2026-11-09": 17817
+    "2026-11-09": 17817,
+    "2026-11-10": 21011
   },
   "topics": [],
   "trending": {
     "2026-11-08": {
       "daily": 96
+    },
+    "2026-11-10": {
+      "daily": 3278
     }
   },
   "url": "https://github.com/meta/astryx"

@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-10",
+    "category": "AI/MCP与工具集成",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 HACS 集成、Add-on、Docker/PyPI 等安装方式，文档完整，可直接连接 AI 客户端使用。",
+    "summary": "通过 MCP 让 AI 助手配置和自动化 Home Assistant。",
+    "tags": [
+      "MCP",
+      "Home Assistant",
+      "智能家居",
+      "AI助手",
+      "自动化"
+    ]
+  },
+  "archived": false,
+  "contributors": 101,
+  "created_at": "2025-09-14",
+  "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+  "details_at": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "fork": false,
+  "forks": 303,
+  "full_name": "homeassistant-ai/ha-mcp",
+  "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-10",
+  "latest_release": "v9.2.0.dev3452",
+  "license": "MIT",
+  "pushed_at": "2026-11-10",
+  "readme_chars": 46948,
+  "readme_hash": "6fca1a896d24",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 93,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 65.5,
+    "trending_days_30": 1,
+    "velocity": 0.46
+  },
+  "stars": {
+    "2026-11-10": 6221
+  },
+  "topics": [
+    "ai",
+    "claude",
+    "hacs",
+    "home-assistant",
+    "home-automation",
+    "llm",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "trending": {
+    "2026-11-10": {
+      "daily": 31
+    }
+  },
+  "url": "https://github.com/homeassistant-ai/ha-mcp"
+}

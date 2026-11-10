@@ -1,0 +1,81 @@
+{
+  "ai": {
+    "at": "2026-11-10",
+    "category": "AI/AI应用",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 npm CLI、ESP32 固件、预训练模型和 Home Assistant 集成文档，但需自备传感器硬件并完成校准。",
+    "summary": "用WiFi信号实现穿墙人体感知、呼吸心率监测与智能家居联动",
+    "tags": [
+      "WiFi CSI",
+      "人体感知",
+      "ESP32",
+      "Home Assistant",
+      "边缘计算"
+    ]
+  },
+  "archived": false,
+  "contributors": 50,
+  "created_at": "2025-06-07",
+  "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+  "details_at": "2026-11-10",
+  "first_seen": "2026-11-10",
+  "fork": false,
+  "forks": 13432,
+  "full_name": "ruvnet/RuView",
+  "homepage": "https://cognitum.one",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-10",
+  "latest_release": "v3632",
+  "license": "MIT",
+  "pushed_at": "2026-11-10",
+  "readme_chars": 76349,
+  "readme_hash": "ec1ea289b342",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 516,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.5,
+    "trending_days_30": 1,
+    "velocity": 0.63
+  },
+  "stars": {
+    "2026-11-10": 103710
+  },
+  "topics": [
+    "claude",
+    "claude-code",
+    "esp32",
+    "firmware",
+    "home-assistant",
+    "home-automation",
+    "iot",
+    "mcp",
+    "monitoring",
+    "networking",
+    "pose-estimation",
+    "react",
+    "rf",
+    "self-learning",
+    "spatial-intelligence",
+    "typescript",
+    "webassembly",
+    "wifi",
+    "wifi-security"
+  ],
+  "trending": {
+    "2026-11-10": {
+      "daily": 172
+    }
+  },
+  "url": "https://github.com/ruvnet/RuView"
+}

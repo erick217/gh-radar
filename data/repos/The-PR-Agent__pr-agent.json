@@ -23,29 +23,29 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 2155,
+  "forks": 2163,
   "full_name": "The-PR-Agent/pr-agent",
   "homepage": "https://www.pr-agent.ai",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-10",
   "latest_release": "v0.49.0",
   "license": "MIT",
-  "pushed_at": "2026-11-08",
+  "pushed_at": "2026-11-10",
   "readme_chars": 9240,
   "readme_hash": "24b508d8cd47",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1255,
+    "gain7": 1194,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 81.8,
-    "trending_days_30": 4,
+    "total": 83.0,
+    "trending_days_30": 5,
     "velocity": 0.72
   },
   "stars": {
@@ -53,7 +53,8 @@
     "2026-11-06": 15154,
     "2026-11-07": 15348,
     "2026-11-08": 15497,
-    "2026-11-09": 15643
+    "2026-11-09": 15643,
+    "2026-11-10": 15779
   },
   "topics": [
     "ai",
@@ -78,6 +79,9 @@
     },
     "2026-11-08": {
       "weekly": 1576
+    },
+    "2026-11-10": {
+      "weekly": 1822
     }
   },
   "url": "https://github.com/The-PR-Agent/pr-agent"

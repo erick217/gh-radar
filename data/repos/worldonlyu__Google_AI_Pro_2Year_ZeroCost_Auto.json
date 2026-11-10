@@ -25,6 +25,7 @@
   "fork": false,
   "forks": 1214,
   "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+  "gone": true,
   "homepage": null,
   "install_hint": false,
   "language": "Python",
@@ -35,7 +36,7 @@
   "readme_chars": 1460,
   "readme_hash": "5e9b2caf9858",
   "score": {
-    "excluded": null,
+    "excluded": "仓库已不可访问",
     "flags": [
       "新建且仅 1 名贡献者"
     ],

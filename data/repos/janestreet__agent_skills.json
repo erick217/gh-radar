@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-11",
+    "category": "AI/Agent",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可直接复制到 Agent 技能目录或聊天提示词中的 SKILL.md，文档已说明使用方式，无需安装即可上手。",
+    "summary": "Jane Street 的 AI Agent 技能合集，目前含苏格拉底式导师技能。",
+    "tags": [
+      "AI Agent",
+      "技能",
+      "提示词",
+      "苏格拉底教学",
+      "SKILL.md"
+    ]
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-03",
+  "description": "Agent skills",
+  "details_at": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "fork": false,
+  "forks": 268,
+  "full_name": "janestreet/agent_skills",
+  "homepage": null,
+  "install_hint": false,
+  "language": null,
+  "last_seen": "2026-11-11",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-03",
+  "readme_chars": 753,
+  "readme_hash": "5605190786f6",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3758,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 54.1,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-11": 4295
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/janestreet/agent_skills"
+}

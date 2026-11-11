@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3602,
+  "forks": 3627,
   "full_name": "AgriciDaniel/claude-seo",
   "homepage": "skool.com/ai-marketing-hub-pro",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": "v2.5.0",
   "license": "MIT",
-  "pushed_at": "2026-11-01",
+  "pushed_at": "2026-11-10",
   "readme_chars": 22858,
   "readme_hash": "6491e137c428",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1692,
+    "gain7": 1543,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.86,
     "practical": 1.0,
-    "total": 88.5,
+    "total": 88.1,
     "trending_days_30": 8,
-    "velocity": 0.75
+    "velocity": 0.74
   },
   "stars": {
     "2026-10-29": 23767,
@@ -61,7 +61,8 @@
     "2026-11-07": 27108,
     "2026-11-08": 27323,
     "2026-11-09": 27533,
-    "2026-11-10": 27786
+    "2026-11-10": 27786,
+    "2026-11-11": 27964
   },
   "topics": [
     "ai",

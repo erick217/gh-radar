@@ -28,7 +28,7 @@
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "latest_release": "v2.0.6",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-05",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 322,
+    "gain7": 268,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 71.4,
+    "total": 70.8,
     "trending_days_30": 0,
-    "velocity": 0.58
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-30": 3683,
@@ -60,7 +60,8 @@
     "2026-11-07": 4527,
     "2026-11-08": 4566,
     "2026-11-09": 4597,
-    "2026-11-10": 4629
+    "2026-11-10": 4629,
+    "2026-11-11": 4653
   },
   "topics": [],
   "trending": {},

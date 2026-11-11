@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 464,
+  "forks": 466,
   "full_name": "jakubkrehel/skills",
   "homepage": "https://jakub.kr/skills",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1451,
+    "gain7": 1321,
     "gain7_source": "snapshot",
     "health": 0.55,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 79.5,
+    "total": 79.1,
     "trending_days_30": 11,
-    "velocity": 0.74
+    "velocity": 0.73
   },
   "stars": {
     "2026-10-29": 9114,
@@ -61,7 +61,8 @@
     "2026-11-07": 11343,
     "2026-11-08": 11559,
     "2026-11-09": 11804,
-    "2026-11-10": 11886
+    "2026-11-10": 11886,
+    "2026-11-11": 11994
   },
   "topics": [],
   "trending": {

@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 22628,
+  "forks": 22687,
   "full_name": "harry0703/MoneyPrinterTurbo",
   "homepage": null,
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-05",
   "latest_release": "v1.3.9",
   "license": "MIT",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-11",
   "readme_chars": 29419,
   "readme_hash": "721b06310a41",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3384,
+    "gain7": 3221,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 81.1,
+    "total": 80.9,
     "trending_days_30": 1,
     "velocity": 0.82
   },
@@ -54,7 +54,8 @@
     "2026-11-07": 140355,
     "2026-11-08": 140845,
     "2026-11-09": 141224,
-    "2026-11-10": 141763
+    "2026-11-10": 141763,
+    "2026-11-11": 142107
   },
   "topics": [
     "ai-video-generator",

@@ -23,12 +23,12 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 26807,
+  "forks": 26935,
   "full_name": "mattpocock/skills",
   "homepage": "https://aihero.dev/skills",
   "install_hint": true,
   "language": "Shell",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "latest_release": "v1.3.2",
   "license": "MIT",
   "pushed_at": "2026-11-09",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9548,
+    "gain7": 9437,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.93,
+    "persistence": 1.0,
     "practical": 1.0,
-    "total": 96.0,
-    "trending_days_30": 9,
-    "velocity": 0.93
+    "total": 97.3,
+    "trending_days_30": 10,
+    "velocity": 0.92
   },
   "stars": {
     "2026-10-31": 307680,
@@ -59,7 +59,8 @@
     "2026-11-07": 316951,
     "2026-11-08": 317959,
     "2026-11-09": 318920,
-    "2026-11-10": 320128
+    "2026-11-10": 320128,
+    "2026-11-11": 321270
   },
   "topics": [],
   "trending": {
@@ -90,6 +91,10 @@
     },
     "2026-11-10": {
       "weekly": 9800
+    },
+    "2026-11-11": {
+      "daily": 1225,
+      "weekly": 9872
     }
   },
   "url": "https://github.com/mattpocock/skills"

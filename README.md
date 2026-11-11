@@ -8,20 +8,20 @@
 
 <!-- radar:start -->
 
-**本周增速 Top 10**（2026-11-10 更新，共收录 179 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-11 更新，共收录 180 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 25.2k | +19.8k | 78 |  |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 通过用户名在 400+ 社交网络批量检索账号的 OSINT 命令行工具 | 安全/安全工具 | CLI工具 | Python | 107.9k | +12.8k | 84 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 54.7k | +12.1k | 98 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 18.0k | +11.7k | 73 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 68.4k | +10.8k | 85 |  |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 20.9k | +9.9k | 90 |  |
-| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 前端/UI组件 | 库 | TypeScript | 21.0k | +9.8k | 83 |  |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 320.1k | +9.5k | 96 |  |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源Grok Bot替代品：聊天式多AI智能体桌面应用，可操作电脑 | AI/Agent | 桌面应用 | TypeScript | 20.2k | +8.7k | 96 |  |
-| [zortos293/Lichii](https://github.com/zortos293/Lichii) | 实验性开源 Nintendo Switch / Switch 2 模拟器，基于 yuzu 等分支开发 | 其他/其他 | 桌面应用 | C++ | 7.8k | +8.3k | 79 |  |
+| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 前端/UI组件 | 库 | TypeScript | 23.7k | +20.8k | 90 |  |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 通过用户名在 400+ 社交网络批量检索账号的 OSINT 命令行工具 | 安全/安全工具 | CLI工具 | Python | 109.5k | +19.4k | 90 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 27.1k | +17.8k | 78 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 69.6k | +11.2k | 86 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 56.1k | +11.1k | 98 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 19.1k | +10.7k | 72 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 321.3k | +9.4k | 97 |  |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 开源Grok Bot替代品：聊天式多AI智能体桌面应用，可操作电脑 | AI/Agent | 桌面应用 | TypeScript | 20.9k | +9.1k | 97 |  |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 让 AI Agent 通过系统无障碍树读取并操作桌面应用的 CLI 工具 | AI/Agent | CLI工具 | Rust | 21.6k | +8.2k | 91 |  |
+| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 黄果短剧第三方跨平台客户端，支持沉浸式竖屏播放。 | 多媒体/音视频 | 桌面应用 |  | 8.2k | +7.2k | 71 |  |
 
 <!-- radar:end -->
 

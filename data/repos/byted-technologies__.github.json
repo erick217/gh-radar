@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2,
+    "gain7": 0,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.2,
-    "total": 23.9,
+    "total": 20.0,
     "trending_days_30": 0,
-    "velocity": 0.11
+    "velocity": 0.0
   },
   "stars": {
     "2026-10-30": 3386,
@@ -60,7 +60,8 @@
     "2026-11-07": 4022,
     "2026-11-08": 4018,
     "2026-11-09": 4016,
-    "2026-11-10": 4017
+    "2026-11-10": 4017,
+    "2026-11-11": 4012
   },
   "topics": [],
   "trending": {},

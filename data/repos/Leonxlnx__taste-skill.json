@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 7584,
+  "forks": 7618,
   "full_name": "Leonxlnx/taste-skill",
   "homepage": "https://tasteskill.dev",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3666,
+    "gain7": 3459,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.79,
     "practical": 1.0,
-    "total": 89.8,
+    "total": 89.6,
     "trending_days_30": 7,
-    "velocity": 0.83
+    "velocity": 0.82
   },
   "stars": {
     "2026-10-29": 105155,
@@ -61,7 +61,8 @@
     "2026-11-07": 111315,
     "2026-11-08": 111748,
     "2026-11-09": 112182,
-    "2026-11-10": 112695
+    "2026-11-10": 112695,
+    "2026-11-11": 113133
   },
   "topics": [
     "agent-skills",

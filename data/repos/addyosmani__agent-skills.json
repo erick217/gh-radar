@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-11",
+    "category": "AI/Agent",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx skills 与多种代理插件安装方式，并有完整上手文档，可直接集成到 Claude Code、Cursor 等工具使用。",
+    "summary": "为 AI 编程代理提供工程化技能包，覆盖从需求到上线的开发流程。",
+    "tags": [
+      "AI编程代理",
+      "技能包",
+      "开发工作流",
+      "测试驱动",
+      "代码审查"
+    ]
+  },
+  "archived": false,
+  "contributors": 97,
+  "created_at": "2026-02-15",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "details_at": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "fork": false,
+  "forks": 12110,
+  "full_name": "addyosmani/agent-skills",
+  "homepage": "https://skills.addy.ie",
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-11",
+  "latest_release": "0.6.15",
+  "license": "MIT",
+  "pushed_at": "2026-11-01",
+  "readme_chars": 25184,
+  "readme_hash": "0cbe00def1bb",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1395,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 75.0,
+    "trending_days_30": 1,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-11-11": 115402
+  },
+  "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "skills"
+  ],
+  "trending": {
+    "2026-11-11": {
+      "daily": 465
+    }
+  },
+  "url": "https://github.com/addyosmani/agent-skills"
+}

@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-11",
+    "category": "后端/Web框架",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 crates.io v0.12.1，提供 CLI 与完整上手文档，可直接创建并运行应用；虽处于实验阶段但具备可用产物。",
+    "summary": "Rust 全栈 Web 框架，内置路由、模板、组件与资源打包",
+    "tags": [
+      "Rust",
+      "Web框架",
+      "全栈",
+      "服务端渲染",
+      "模板"
+    ]
+  },
+  "archived": false,
+  "contributors": 40,
+  "created_at": "2026-04-03",
+  "description": "A batteries-included framework for building web apps",
+  "details_at": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "fork": false,
+  "forks": 309,
+  "full_name": "tokio-rs/topcoat",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-11",
+  "latest_release": "v0.12.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-10",
+  "readme_chars": 12764,
+  "readme_hash": "03b135dbc6c5",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 576,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 67.9,
+    "trending_days_30": 1,
+    "velocity": 0.64
+  },
+  "stars": {
+    "2026-11-11": 6986
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-11": {
+      "daily": 192
+    }
+  },
+  "url": "https://github.com/tokio-rs/topcoat"
+}

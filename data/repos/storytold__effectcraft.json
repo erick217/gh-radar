@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4555,
+  "forks": 4557,
   "full_name": "storytold/effectcraft",
   "homepage": "https://getartcraft.com/apps/effectcraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-30",
   "latest_release": "v0.21.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-11",
   "readme_chars": 27265,
   "readme_hash": "7812fd1ba7a7",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 247,
+    "gain7": 217,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.5,
+    "total": 70.0,
     "trending_days_30": 0,
-    "velocity": 0.56
+    "velocity": 0.54
   },
   "stars": {
     "2026-10-29": 8134,
@@ -61,7 +61,8 @@
     "2026-11-07": 8522,
     "2026-11-08": 8547,
     "2026-11-09": 8572,
-    "2026-11-10": 8614
+    "2026-11-10": 8614,
+    "2026-11-11": 8634
   },
   "topics": [
     "art",

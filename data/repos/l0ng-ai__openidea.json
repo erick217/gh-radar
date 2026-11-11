@@ -23,30 +23,30 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 721,
+  "forks": 745,
   "full_name": "l0ng-ai/openidea",
-  "homepage": null,
+  "homepage": "https://openidea.sh",
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
   "latest_release": "v0.1.39",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-11",
   "readme_chars": 3205,
   "readme_hash": "e92b2a0ba909",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3013,
+    "gain7": 2643,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
-    "practical": 0.8,
-    "total": 75.3,
+    "practical": 1.0,
+    "total": 78.8,
     "trending_days_30": 0,
-    "velocity": 0.81
+    "velocity": 0.8
   },
   "stars": {
     "2026-11-02": 4153,
@@ -57,7 +57,8 @@
     "2026-11-07": 7528,
     "2026-11-08": 7705,
     "2026-11-09": 7994,
-    "2026-11-10": 8297
+    "2026-11-10": 8297,
+    "2026-11-11": 8463
   },
   "topics": [
     "code-editor",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 7041,
+  "forks": 7072,
   "full_name": "HKUDS/DeepTutor",
   "homepage": "http://arxiv.org/abs/2604.26962",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3297,
+    "gain7": 3269,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -61,7 +61,8 @@
     "2026-11-07": 56095,
     "2026-11-08": 56510,
     "2026-11-09": 57257,
-    "2026-11-10": 57764
+    "2026-11-10": 57764,
+    "2026-11-11": 58108
   },
   "topics": [
     "ai-agents",

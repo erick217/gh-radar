@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 2171,
+  "forks": 2172,
   "full_name": "hyprwm/Hyprland",
   "homepage": "https://hypr.land",
   "install_hint": false,
@@ -31,24 +31,22 @@
   "last_seen": "2026-11-08",
   "latest_release": "v0.57.1",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-09",
+  "pushed_at": "2026-11-11",
   "readme_chars": 4197,
   "readme_hash": "b396cf29e479",
   "score": {
     "excluded": null,
-    "flags": [
-      "单日暴涨"
-    ],
-    "gain7": 493,
+    "flags": [],
+    "gain7": 357,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.49,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 66.7,
+    "total": 81.6,
     "trending_days_30": 7,
-    "velocity": 0.63
+    "velocity": 0.59
   },
   "stars": {
     "2026-11-02": 39530,
@@ -59,7 +57,8 @@
     "2026-11-07": 40456,
     "2026-11-08": 40510,
     "2026-11-09": 40585,
-    "2026-11-10": 40595
+    "2026-11-10": 40595,
+    "2026-11-11": 40606
   },
   "topics": [
     "compositor",

@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 378,
+  "contributors": 390,
   "created_at": "2026-02-18",
   "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-  "details_at": "2026-11-04",
+  "details_at": "2026-11-11",
   "first_seen": "2026-11-04",
   "fork": false,
-  "forks": 3421,
+  "forks": 3429,
   "full_name": "floci-io/floci",
   "homepage": "https://floci.io/floci/",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-06",
   "latest_release": "2.4.0",
   "license": "MIT",
-  "pushed_at": "2026-11-10",
-  "readme_chars": 45051,
-  "readme_hash": "0f477c8e6a7d",
+  "pushed_at": "2026-11-11",
+  "readme_chars": 46053,
+  "readme_hash": "99145965a0f3",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2521,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2233,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 82.9,
+    "total": 82.5,
     "trending_days_30": 3,
-    "velocity": 0.79
+    "velocity": 0.78
   },
   "stars": {
     "2026-11-04": 29068,
@@ -55,7 +55,8 @@
     "2026-11-07": 30916,
     "2026-11-08": 31033,
     "2026-11-09": 31132,
-    "2026-11-10": 31229
+    "2026-11-10": 31229,
+    "2026-11-11": 31301
   },
   "topics": [
     "aws",

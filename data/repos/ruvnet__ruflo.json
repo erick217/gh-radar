@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9576,
+  "forks": 9593,
   "full_name": "ruvnet/ruflo",
   "homepage": "https://cognitum.one",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-31",
   "latest_release": "v3.71.4",
   "license": "MIT",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-11",
   "readme_chars": 36314,
   "readme_hash": "226ef0c0b490",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 687,
+    "gain7": 633,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 78.3,
+    "total": 78.0,
     "trending_days_30": 3,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-10-29": 80076,
@@ -61,7 +61,8 @@
     "2026-11-07": 81098,
     "2026-11-08": 81201,
     "2026-11-09": 81306,
-    "2026-11-10": 81387
+    "2026-11-10": 81387,
+    "2026-11-11": 81455
   },
   "topics": [
     "agent-memory",

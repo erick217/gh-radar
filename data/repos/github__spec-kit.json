@@ -23,7 +23,7 @@
   "details_at": "2026-11-05",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 13387,
+  "forks": 13400,
   "full_name": "github/spec-kit",
   "homepage": "https://github.github.com/spec-kit/",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2195,
+    "gain7": 2016,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 81.0,
+    "total": 80.7,
     "trending_days_30": 2,
-    "velocity": 0.78
+    "velocity": 0.77
   },
   "stars": {
     "2026-11-05": 147523,
@@ -54,7 +54,8 @@
     "2026-11-07": 148256,
     "2026-11-08": 148498,
     "2026-11-09": 148815,
-    "2026-11-10": 149091
+    "2026-11-10": 149091,
+    "2026-11-11": 149251
   },
   "topics": [
     "ai",

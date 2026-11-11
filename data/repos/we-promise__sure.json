@@ -1,0 +1,60 @@
+{
+  "ai": {
+    "at": "2026-11-11",
+    "category": "效率与自托管/自托管服务",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Docker 自托管指南、多平台客户端和正式发布版本，普通用户可按文档部署使用。",
+    "summary": "开源个人财务管理应用，可自托管并支持 AI 助手",
+    "tags": [
+      "个人财务",
+      "自托管",
+      "Ruby on Rails",
+      "AI助手"
+    ]
+  },
+  "archived": false,
+  "contributors": 448,
+  "created_at": "2025-07-23",
+  "description": "The personal finance app for everyone (by everyone)",
+  "details_at": "2026-11-11",
+  "first_seen": "2026-11-11",
+  "fork": false,
+  "forks": 909,
+  "full_name": "we-promise/sure",
+  "homepage": "https://sure.am",
+  "install_hint": false,
+  "language": "Ruby",
+  "last_seen": "2026-11-11",
+  "latest_release": "v2026.11.10-alpha",
+  "license": "AGPL-3.0",
+  "pushed_at": "2026-11-11",
+  "readme_chars": 7806,
+  "readme_hash": "53e473a10465",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 477,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.2,
+    "trending_days_30": 1,
+    "velocity": 0.62
+  },
+  "stars": {
+    "2026-11-11": 12283
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-11": {
+      "daily": 159
+    }
+  },
+  "url": "https://github.com/we-promise/sure"
+}

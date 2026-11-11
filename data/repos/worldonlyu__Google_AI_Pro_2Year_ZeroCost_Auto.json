@@ -37,9 +37,7 @@
   "readme_hash": "5e9b2caf9858",
   "score": {
     "excluded": "仓库已不可访问",
-    "flags": [
-      "新建且仅 1 名贡献者"
-    ],
+    "flags": [],
     "gain7": 3303,
     "gain7_source": "age",
     "health": 0.4,
@@ -47,7 +45,7 @@
     "is_resource": false,
     "persistence": 0.15,
     "practical": 0.4,
-    "total": 34.6,
+    "total": 49.6,
     "trending_days_30": 0,
     "velocity": 0.82
   },

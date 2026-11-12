@@ -20,10 +20,10 @@
   "contributors": 1,
   "created_at": "2026-10-03",
   "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-  "details_at": "2026-11-05",
+  "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1591,
+  "forks": 1622,
   "full_name": "Jakeschincariol/replica-skill",
   "homepage": "https://opusjake.ai",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1338,
+    "gain7": 1344,
     "gain7_source": "snapshot",
     "health": 0.2,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 56.4,
+    "total": 56.5,
     "trending_days_30": 0,
     "velocity": 0.73
   },
@@ -62,7 +62,8 @@
     "2026-11-08": 8276,
     "2026-11-09": 8533,
     "2026-11-10": 8703,
-    "2026-11-11": 8841
+    "2026-11-11": 8841,
+    "2026-11-12": 9016
   },
   "topics": [
     "agent",

@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-12",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装命令、3 个可构建的完整示例和构建脚本，普通开发者可按文档直接生成并运行 HTML 模拟页。",
+    "summary": "把任意机械变成可拆解3D模拟网页的 Claude Code 技能",
+    "tags": [
+      "Claude Code",
+      "3D模拟",
+      "可拆解",
+      "three.js",
+      "技能"
+    ]
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-30",
+  "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+  "details_at": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "fork": false,
+  "forks": 486,
+  "full_name": "elvarofficial/teardown",
+  "homepage": null,
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-12",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-10-31",
+  "readme_chars": 2281,
+  "readme_hash": "fe873afb62a2",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1738,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 59.4,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-12": 3228
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/elvarofficial/teardown"
+}

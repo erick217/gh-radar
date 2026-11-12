@@ -17,10 +17,10 @@
     ]
   },
   "archived": false,
-  "contributors": 5,
+  "contributors": 6,
   "created_at": "2026-10-02",
   "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
-  "details_at": "2026-11-05",
+  "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
   "forks": 18,
@@ -31,7 +31,7 @@
   "last_seen": "2026-10-31",
   "latest_release": "switch-v0.1.0-beta.6",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-01",
+  "pushed_at": "2026-11-11",
   "readme_chars": 8540,
   "readme_hash": "f0ef31e3ff90",
   "score": {
@@ -62,7 +62,8 @@
     "2026-11-08": 3761,
     "2026-11-09": 3760,
     "2026-11-10": 3762,
-    "2026-11-11": 3762
+    "2026-11-11": 3762,
+    "2026-11-12": 3763
   },
   "topics": [
     "ai",

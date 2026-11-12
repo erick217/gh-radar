@@ -31,22 +31,22 @@
   "last_seen": "2026-10-31",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-06",
+  "pushed_at": "2026-11-11",
   "readme_chars": 8318,
   "readme_hash": "6bbd0f578cc9",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 70,
+    "gain7": 62,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 60.0,
+    "total": 59.5,
     "trending_days_30": 1,
-    "velocity": 0.43
+    "velocity": 0.42
   },
   "stars": {
     "2026-10-31": 3940,
@@ -60,7 +60,8 @@
     "2026-11-08": 4084,
     "2026-11-09": 4096,
     "2026-11-10": 4103,
-    "2026-11-11": 4111
+    "2026-11-11": 4111,
+    "2026-11-12": 4116
   },
   "topics": [],
   "trending": {

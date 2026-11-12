@@ -23,7 +23,7 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 257,
+  "forks": 259,
   "full_name": "t4t5/owly",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-06",
   "latest_release": "v0.4.2",
   "license": "MIT",
-  "pushed_at": "2026-11-03",
+  "pushed_at": "2026-11-11",
   "readme_chars": 12900,
   "readme_hash": "d6271c707e04",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 46,
+    "gain7": 42,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 64.6,
+    "total": 64.3,
     "trending_days_30": 0,
-    "velocity": 0.39
+    "velocity": 0.38
   },
   "stars": {
     "2026-11-06": 3292,
@@ -54,7 +54,8 @@
     "2026-11-08": 3304,
     "2026-11-09": 3311,
     "2026-11-10": 3316,
-    "2026-11-11": 3325
+    "2026-11-11": 3325,
+    "2026-11-12": 3328
   },
   "topics": [
     "airdrop",

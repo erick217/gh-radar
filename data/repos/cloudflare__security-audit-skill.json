@@ -19,15 +19,15 @@
   "contributors": 4,
   "created_at": "2026-06-18",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-  "details_at": "2026-11-05",
+  "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4609,
+  "forks": 4687,
   "full_name": "cloudflare/security-audit-skill",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-09-14",
@@ -36,15 +36,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 11230,
+    "gain7": 10722,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 85.5,
-    "trending_days_30": 11,
+    "total": 85.3,
+    "trending_days_30": 12,
     "velocity": 0.94
   },
   "stars": {
@@ -61,7 +61,8 @@
     "2026-11-08": 66066,
     "2026-11-09": 67221,
     "2026-11-10": 68444,
-    "2026-11-11": 69638
+    "2026-11-11": 69638,
+    "2026-11-12": 70601
   },
   "topics": [],
   "trending": {
@@ -97,6 +98,9 @@
     },
     "2026-11-11": {
       "weekly": 10967
+    },
+    "2026-11-12": {
+      "weekly": 11507
     }
   },
   "url": "https://github.com/cloudflare/security-audit-skill"

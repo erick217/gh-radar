@@ -23,12 +23,12 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 890,
+  "forks": 914,
   "full_name": "patch-gg/pixelfx",
   "homepage": "https://patch-gg.github.io/pixelfx/",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-09",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2487,
+    "gain7": 2134,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 63.6,
+    "total": 63.1,
     "trending_days_30": 0,
-    "velocity": 0.79
+    "velocity": 0.77
   },
   "stars": {
     "2026-11-03": 3718,
@@ -57,7 +57,8 @@
     "2026-11-08": 5914,
     "2026-11-09": 6170,
     "2026-11-10": 6486,
-    "2026-11-11": 6798
+    "2026-11-11": 6798,
+    "2026-11-12": 7067
   },
   "topics": [
     "agent-skills",

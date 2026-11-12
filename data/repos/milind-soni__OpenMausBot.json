@@ -17,27 +17,27 @@
     ]
   },
   "archived": false,
-  "contributors": 202,
+  "contributors": 247,
   "created_at": "2026-08-11",
   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-  "details_at": "2026-11-05",
+  "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2896,
+  "forks": 2991,
   "full_name": "milind-soni/OpenMausBot",
   "homepage": "https://www.mausbot.com/",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-11",
-  "latest_release": "v0.1.141",
+  "last_seen": "2026-11-12",
+  "latest_release": "v0.1.154",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-11",
-  "readme_chars": 32241,
-  "readme_hash": "6cfb019b67ae",
+  "pushed_at": "2026-11-12",
+  "readme_chars": 34329,
+  "readme_hash": "a2a8bfae0a1c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9068,
+    "gain7": 9111,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -45,7 +45,7 @@
     "persistence": 1.0,
     "practical": 1.0,
     "total": 97.2,
-    "trending_days_30": 10,
+    "trending_days_30": 11,
     "velocity": 0.92
   },
   "stars": {
@@ -62,7 +62,8 @@
     "2026-11-08": 17344,
     "2026-11-09": 18873,
     "2026-11-10": 20177,
-    "2026-11-11": 20872
+    "2026-11-11": 20872,
+    "2026-11-12": 21431
   },
   "topics": [
     "ai-agents",
@@ -109,6 +110,9 @@
     },
     "2026-11-11": {
       "weekly": 8951
+    },
+    "2026-11-12": {
+      "weekly": 9257
     }
   },
   "url": "https://github.com/milind-soni/OpenMausBot"

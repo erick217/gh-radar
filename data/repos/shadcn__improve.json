@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-12",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装命令和完整使用流程，可在支持 Agent Skills 的代理中直接调用。",
+    "summary": "审计代码库并为低成本模型撰写可执行实现计划的 Agent 技能",
+    "tags": [
+      "Agent技能",
+      "代码审计",
+      "实现计划",
+      "自动化",
+      "shadcn"
+    ]
+  },
+  "archived": false,
+  "contributors": 5,
+  "created_at": "2026-06-10",
+  "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+  "details_at": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "fork": false,
+  "forks": 455,
+  "full_name": "shadcn/improve",
+  "homepage": null,
+  "install_hint": true,
+  "language": null,
+  "last_seen": "2026-11-12",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-09-12",
+  "readme_chars": 6875,
+  "readme_hash": "5de0827e5cc4",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1083,
+    "gain7_source": "trending-daily",
+    "health": 0.5,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 61.6,
+    "trending_days_30": 1,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-12": 11220
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-12": {
+      "daily": 361
+    }
+  },
+  "url": "https://github.com/shadcn/improve"
+}

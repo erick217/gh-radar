@@ -23,34 +23,35 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 2159,
+  "forks": 2176,
   "full_name": "google-deepmind/mujoco",
   "homepage": "https://mujoco.org",
   "install_hint": true,
   "language": "C++",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": "4.0.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-11",
   "readme_chars": 10205,
   "readme_hash": "9e286fb82d7d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1722,
-    "gain7_source": "trending-daily",
+    "gain7": 1535,
+    "gain7_source": "trending-weekly",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 77.1,
-    "trending_days_30": 2,
-    "velocity": 0.75
+    "total": 78.1,
+    "trending_days_30": 3,
+    "velocity": 0.74
   },
   "stars": {
     "2026-11-10": 17095,
-    "2026-11-11": 17507
+    "2026-11-11": 17507,
+    "2026-11-12": 17698
   },
   "topics": [
     "mujoco",
@@ -63,6 +64,9 @@
     },
     "2026-11-11": {
       "daily": 456
+    },
+    "2026-11-12": {
+      "weekly": 1535
     }
   },
   "url": "https://github.com/google-deepmind/mujoco"

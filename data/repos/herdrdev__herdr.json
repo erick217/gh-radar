@@ -1,0 +1,80 @@
+{
+  "ai": {
+    "at": "2026-11-12",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.9.5 发布版，支持 curl、Homebrew 等安装方式，且提供快速上手与完整文档，可直接使用。",
+    "summary": "为编码智能体提供终端运行时的多路复用器",
+    "tags": [
+      "终端复用器",
+      "编码智能体",
+      "Agent编排",
+      "Rust",
+      "TUI"
+    ]
+  },
+  "archived": false,
+  "contributors": 91,
+  "created_at": "2026-03-27",
+  "description": "the runtime your coding agents live on",
+  "details_at": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "fork": false,
+  "forks": 4072,
+  "full_name": "herdrdev/herdr",
+  "homepage": "https://herdr.dev",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-12",
+  "latest_release": "v0.9.5",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-07",
+  "readme_chars": 4943,
+  "readme_hash": "337822678d40",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2213,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 76.6,
+    "trending_days_30": 1,
+    "velocity": 0.78
+  },
+  "stars": {
+    "2026-11-12": 50444
+  },
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools",
+    "multiplexer",
+    "rust",
+    "terminal",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tmux",
+    "tui",
+    "workspace-manager"
+  ],
+  "trending": {
+    "2026-11-12": {
+      "weekly": 2213
+    }
+  },
+  "url": "https://github.com/herdrdev/herdr"
+}

@@ -20,10 +20,10 @@
   "contributors": 13,
   "created_at": "2026-10-08",
   "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-  "details_at": "2026-11-05",
+  "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2239,
+  "forks": 2252,
   "full_name": "wheresryan22/anatomy",
   "homepage": "https://skills.wheresryan.sh/anatomy",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1992,
+    "gain7": 1806,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 77.8,
+    "total": 77.5,
     "trending_days_30": 0,
-    "velocity": 0.77
+    "velocity": 0.76
   },
   "stars": {
     "2026-10-29": 22454,
@@ -62,7 +62,8 @@
     "2026-11-08": 25831,
     "2026-11-09": 26103,
     "2026-11-10": 26342,
-    "2026-11-11": 26579
+    "2026-11-11": 26579,
+    "2026-11-12": 26829
   },
   "topics": [
     "agent-skill",

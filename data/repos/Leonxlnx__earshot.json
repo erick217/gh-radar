@@ -23,12 +23,12 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 288,
+  "forks": 290,
   "full_name": "Leonxlnx/earshot",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": "v0.4.0",
   "license": "MIT",
   "pushed_at": "2026-11-06",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 658,
+    "gain7": 625,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 66.4,
+    "total": 66.3,
     "trending_days_30": 0,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-10-30": 3265,
@@ -61,7 +61,8 @@
     "2026-11-08": 4205,
     "2026-11-09": 4301,
     "2026-11-10": 4394,
-    "2026-11-11": 4467
+    "2026-11-11": 4467,
+    "2026-11-12": 4547
   },
   "topics": [
     "ai-agents",

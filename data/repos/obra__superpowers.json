@@ -20,10 +20,10 @@
   "contributors": 44,
   "created_at": "2025-10-09",
   "description": "An agentic skills framework & software development methodology that works.",
-  "details_at": "2026-11-05",
+  "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 28099,
+  "forks": 28155,
   "full_name": "obra/superpowers",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3879,
+    "gain7": 3851,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -62,7 +62,8 @@
     "2026-11-08": 314239,
     "2026-11-09": 314734,
     "2026-11-10": 315332,
-    "2026-11-11": 315896
+    "2026-11-11": 315896,
+    "2026-11-12": 316448
   },
   "topics": [
     "ai",

@@ -1,0 +1,57 @@
+{
+  "ai": {
+    "at": "2026-11-12",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "可通过 npx skills add 直接安装，附有技能文档、示例与预览，普通开发者能立即上手使用。",
+    "summary": "为 AI 编码代理提供生成产品 UI 截图与动效演示的技能包",
+    "tags": [
+      "Agent Skills",
+      "AI编码代理",
+      "React",
+      "动效设计",
+      "UI原型"
+    ]
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-26",
+  "description": "Skills for AI coding agents.",
+  "details_at": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "fork": false,
+  "forks": 210,
+  "full_name": "benjitaylor/skills",
+  "homepage": null,
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-12",
+  "latest_release": "stageshow-v1.1.1",
+  "license": null,
+  "pushed_at": "2026-11-05",
+  "readme_chars": 720,
+  "readme_hash": "2ec380c76509",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1291,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 57.8,
+    "trending_days_30": 0,
+    "velocity": 0.72
+  },
+  "stars": {
+    "2026-11-12": 3135
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/benjitaylor/skills"
+}

@@ -22,12 +22,12 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 698,
+  "forks": 704,
   "full_name": "JoasASantos/REA-Prompts",
   "homepage": null,
   "install_hint": true,
   "language": "Batchfile",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-05",
@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 355,
+    "gain7": 364,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 64.3,
+    "total": 64.4,
     "trending_days_30": 0,
-    "velocity": 0.59
+    "velocity": 0.6
   },
   "stars": {
     "2026-10-31": 3314,
@@ -59,7 +59,8 @@
     "2026-11-08": 3766,
     "2026-11-09": 3821,
     "2026-11-10": 3872,
-    "2026-11-11": 3911
+    "2026-11-11": 3911,
+    "2026-11-12": 3969
   },
   "topics": [
     "prompt-engineering",

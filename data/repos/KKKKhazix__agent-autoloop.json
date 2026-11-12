@@ -23,30 +23,30 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 814,
+  "forks": 836,
   "full_name": "KKKKhazix/agent-autoloop",
   "homepage": null,
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": "v1.5.0",
   "license": "MIT",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-12",
   "readme_chars": 10049,
   "readme_hash": "822b02e8159b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1471,
+    "gain7": 1342,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.8,
+    "total": 76.5,
     "trending_days_30": 0,
-    "velocity": 0.74
+    "velocity": 0.73
   },
   "stars": {
     "2026-11-06": 3415,
@@ -54,7 +54,8 @@
     "2026-11-08": 4008,
     "2026-11-09": 4189,
     "2026-11-10": 4365,
-    "2026-11-11": 4466
+    "2026-11-11": 4466,
+    "2026-11-12": 4565
   },
   "topics": [
     "ai-agents",

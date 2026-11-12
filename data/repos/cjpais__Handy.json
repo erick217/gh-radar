@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 3613,
+  "forks": 3626,
   "full_name": "cjpais/Handy",
   "homepage": "https://handy.computer",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 960,
+    "gain7": 917,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 76.7,
+    "total": 76.5,
     "trending_days_30": 1,
     "velocity": 0.69
   },
@@ -58,7 +58,8 @@
     "2026-11-08": 37969,
     "2026-11-09": 38097,
     "2026-11-10": 38234,
-    "2026-11-11": 38363
+    "2026-11-11": 38363,
+    "2026-11-12": 38486
   },
   "topics": [
     "accessibility",

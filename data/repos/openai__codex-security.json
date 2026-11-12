@@ -1,0 +1,77 @@
+{
+  "ai": {
+    "at": "2026-11-12",
+    "category": "安全/安全工具",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包 v0.10.0，提供可安装的 CLI 和 TypeScript SDK，并有完整的上手与集成文档。",
+    "summary": "OpenAI 的代码安全扫描 CLI/SDK，用于发现、验证和修复漏洞",
+    "tags": [
+      "安全扫描",
+      "漏洞检测",
+      "CLI",
+      "TypeScript",
+      "OpenAI"
+    ]
+  },
+  "archived": false,
+  "contributors": 87,
+  "created_at": "2026-07-13",
+  "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "details_at": "2026-11-12",
+  "first_seen": "2026-11-12",
+  "fork": false,
+  "forks": 954,
+  "full_name": "openai/codex-security",
+  "homepage": "https://developers.openai.com/codex/security",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-12",
+  "latest_release": "npm-v0.10.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-12",
+  "readme_chars": 9871,
+  "readme_hash": "9f5d3f058684",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 156,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 67.3,
+    "trending_days_30": 1,
+    "velocity": 0.51
+  },
+  "stars": {
+    "2026-11-12": 11958
+  },
+  "topics": [
+    "ai-security",
+    "application-security",
+    "cli",
+    "code-scanning",
+    "codex",
+    "codex-security",
+    "cybersecurity",
+    "devsecops",
+    "nodejs",
+    "npm",
+    "openai",
+    "sdk",
+    "security",
+    "typescript",
+    "vulnerability-scanning"
+  ],
+  "trending": {
+    "2026-11-12": {
+      "daily": 52
+    }
+  },
+  "url": "https://github.com/openai/codex-security"
+}

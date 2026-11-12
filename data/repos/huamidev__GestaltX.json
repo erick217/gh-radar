@@ -23,12 +23,12 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 2156,
+  "forks": 2489,
   "full_name": "huamidev/GestaltX",
   "homepage": null,
   "install_hint": false,
   "language": "Swift",
-  "last_seen": "2026-11-11",
+  "last_seen": "2026-11-12",
   "latest_release": "v1.0.4",
   "license": "GPL-3.0",
   "pushed_at": "2026-11-11",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5504,
+    "gain7": 6631,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 0.8,
-    "total": 74.4,
+    "total": 75.1,
     "trending_days_30": 0,
-    "velocity": 0.87
+    "velocity": 0.89
   },
   "stars": {
     "2026-11-10": 3372,
-    "2026-11-11": 5504
+    "2026-11-11": 5504,
+    "2026-11-12": 6631
   },
   "topics": [],
   "trending": {},

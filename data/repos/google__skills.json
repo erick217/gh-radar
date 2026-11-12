@@ -23,12 +23,12 @@
   "details_at": "2026-11-06",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 1991,
+  "forks": 1998,
   "full_name": "google/skills",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-12",
   "latest_release": null,
   "license": "Apache-2.0",
   "pushed_at": "2026-11-11",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1833,
+    "gain7": 1690,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 74.3,
-    "trending_days_30": 3,
-    "velocity": 0.76
+    "total": 75.4,
+    "trending_days_30": 4,
+    "velocity": 0.75
   },
   "stars": {
     "2026-11-06": 22534,
@@ -54,7 +54,8 @@
     "2026-11-08": 23536,
     "2026-11-09": 23732,
     "2026-11-10": 23800,
-    "2026-11-11": 23843
+    "2026-11-11": 23843,
+    "2026-11-12": 23983
   },
   "topics": [
     "google",
@@ -70,6 +71,9 @@
     },
     "2026-11-08": {
       "daily": 443
+    },
+    "2026-11-12": {
+      "weekly": 2013
     }
   },
   "url": "https://github.com/google/skills"

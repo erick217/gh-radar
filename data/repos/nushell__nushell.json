@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 2337,
+  "forks": 2342,
   "full_name": "nushell/nushell",
   "homepage": "https://www.nushell.sh/",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "0.116.1",
   "license": "MIT",
-  "pushed_at": "2026-11-11",
+  "pushed_at": "2026-11-12",
   "readme_chars": 11374,
   "readme_hash": "2a5785afb6bb",
   "score": {
@@ -54,7 +54,8 @@
     "2026-11-09": 41068,
     "2026-11-10": 41079,
     "2026-11-11": 41086,
-    "2026-11-12": 41000
+    "2026-11-12": 41000,
+    "2026-11-13": 41017
   },
   "topics": [
     "nushell",

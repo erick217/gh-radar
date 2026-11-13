@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2358,
+  "forks": 2369,
   "full_name": "google-research/harness2",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 779,
+    "gain7": 768,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-09": 23191,
     "2026-11-10": 23332,
     "2026-11-11": 23433,
-    "2026-11-12": 23503
+    "2026-11-12": 23503,
+    "2026-11-13": 23631
   },
   "topics": [],
   "trending": {},

@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 201,
+    "gain7": 185,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.8,
+    "total": 69.5,
     "trending_days_30": 0,
-    "velocity": 0.54
+    "velocity": 0.53
   },
   "stars": {
     "2026-10-29": 3853,
@@ -63,7 +63,8 @@
     "2026-11-09": 4400,
     "2026-11-10": 4435,
     "2026-11-11": 4456,
-    "2026-11-12": 4484
+    "2026-11-12": 4484,
+    "2026-11-13": 4503
   },
   "topics": [
     "charts",

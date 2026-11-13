@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-13",
+    "category": "其他/其他",
+    "form": "移动应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可下载的 IPA 和 Xcode 构建方式，安装文档完整；但需侧载、开启开发者模式，且仅支持特定 watchOS 版本，使用门槛较高。",
+    "summary": "在任意 Apple Watch 上启用 Hermès 表盘的侧载应用",
+    "tags": [
+      "Apple Watch",
+      "Hermès表盘",
+      "watchOS",
+      "侧载",
+      "Objective-C"
+    ]
+  },
+  "archived": false,
+  "contributors": 10,
+  "created_at": "2024-12-14",
+  "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+  "details_at": "2026-11-13",
+  "first_seen": "2026-11-13",
+  "fork": false,
+  "forks": 146,
+  "full_name": "pookjw/HermesEnabler",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Objective-C",
+  "last_seen": "2026-11-13",
+  "latest_release": "1.5.4",
+  "license": "MIT",
+  "pushed_at": "2026-11-13",
+  "readme_chars": 5316,
+  "readme_hash": "6e498a2fd5a5",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 654,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 0.8,
+    "total": 68.3,
+    "trending_days_30": 1,
+    "velocity": 0.65
+  },
+  "stars": {
+    "2026-11-13": 1658
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-13": {
+      "daily": 218
+    }
+  },
+  "url": "https://github.com/pookjw/HermesEnabler"
+}

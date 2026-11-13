@@ -1,0 +1,71 @@
+{
+  "ai": {
+    "at": "2026-11-13",
+    "category": "后端/Web框架",
+    "form": "框架",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "官方提供多平台二进制安装包、LTS 版本与完整 API 文档，可直接下载安装使用。",
+    "summary": "跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行",
+    "tags": [
+      "Node.js",
+      "JavaScript运行时",
+      "服务端",
+      "跨平台",
+      "V8"
+    ]
+  },
+  "archived": false,
+  "contributors": 4554,
+  "created_at": "2014-11-26",
+  "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+  "details_at": "2026-11-13",
+  "first_seen": "2026-11-13",
+  "fork": false,
+  "forks": 38060,
+  "full_name": "nodejs/node",
+  "homepage": "https://nodejs.org",
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-13",
+  "latest_release": "v27.0.0-alpha.0.1.0",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-13",
+  "readme_chars": 42938,
+  "readme_hash": "fbe275f88231",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 186,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 67.9,
+    "trending_days_30": 1,
+    "velocity": 0.53
+  },
+  "stars": {
+    "2026-11-13": 123658
+  },
+  "topics": [
+    "javascript",
+    "js",
+    "linux",
+    "macos",
+    "mit",
+    "node",
+    "nodejs",
+    "runtime",
+    "windows"
+  ],
+  "trending": {
+    "2026-11-13": {
+      "daily": 62
+    }
+  },
+  "url": "https://github.com/nodejs/node"
+}

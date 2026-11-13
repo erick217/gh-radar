@@ -23,15 +23,15 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1099,
+  "forks": 1110,
   "full_name": "simbasjungles/free-my-tv",
   "homepage": "https://freemytv.io",
   "install_hint": true,
   "language": "Java",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-13",
   "latest_release": "v1.4.0",
   "license": "MIT",
-  "pushed_at": "2026-11-11",
+  "pushed_at": "2026-11-13",
   "readme_chars": 52424,
   "readme_hash": "bb22631b944c",
   "score": {
@@ -63,7 +63,8 @@
     "2026-11-09": 6155,
     "2026-11-10": 6224,
     "2026-11-11": 6258,
-    "2026-11-12": 6286
+    "2026-11-12": 6286,
+    "2026-11-13": 6329
   },
   "topics": [
     "android-tv",

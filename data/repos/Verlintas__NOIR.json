@@ -23,12 +23,12 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 308,
+  "forks": 310,
   "full_name": "Verlintas/NOIR",
   "homepage": "https://verlintas.dev/noir/",
   "install_hint": true,
   "language": "Kotlin",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-13",
   "latest_release": "v0.4.2",
   "license": "MIT",
   "pushed_at": "2026-11-12",
@@ -37,23 +37,24 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 520,
+    "gain7": 462,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 73.1,
+    "total": 72.7,
     "trending_days_30": 0,
-    "velocity": 0.63
+    "velocity": 0.62
   },
   "stars": {
     "2026-11-08": 3012,
     "2026-11-09": 3127,
     "2026-11-10": 3186,
     "2026-11-11": 3251,
-    "2026-11-12": 3309
+    "2026-11-12": 3309,
+    "2026-11-13": 3342
   },
   "topics": [
     "adb",

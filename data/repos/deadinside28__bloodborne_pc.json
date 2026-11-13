@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1124,
+  "forks": 1134,
   "full_name": "deadinside28/bloodborne_pc",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 99,
+    "gain7": 123,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 55.8,
+    "total": 56.5,
     "trending_days_30": 0,
-    "velocity": 0.47
+    "velocity": 0.49
   },
   "stars": {
     "2026-10-29": 3736,
@@ -63,7 +63,8 @@
     "2026-11-09": 3974,
     "2026-11-10": 3979,
     "2026-11-11": 3995,
-    "2026-11-12": 4004
+    "2026-11-12": 4004,
+    "2026-11-13": 4041
   },
   "topics": [],
   "trending": {},

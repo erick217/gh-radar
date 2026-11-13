@@ -23,12 +23,12 @@
   "details_at": "2026-11-11",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 12176,
+  "forks": 12221,
   "full_name": "addyosmani/agent-skills",
   "homepage": "https://skills.addy.ie",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-13",
   "latest_release": "0.6.15",
   "license": "MIT",
   "pushed_at": "2026-11-01",
@@ -37,20 +37,21 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2361,
+    "gain7": 2448,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 78.3,
-    "trending_days_30": 2,
-    "velocity": 0.78
+    "total": 79.8,
+    "trending_days_30": 3,
+    "velocity": 0.79
   },
   "stars": {
     "2026-11-11": 115402,
-    "2026-11-12": 116198
+    "2026-11-12": 116198,
+    "2026-11-13": 116882
   },
   "topics": [
     "agent-skills",
@@ -66,6 +67,9 @@
     },
     "2026-11-12": {
       "daily": 787
+    },
+    "2026-11-13": {
+      "daily": 816
     }
   },
   "url": "https://github.com/addyosmani/agent-skills"

@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 743,
+  "forks": 750,
   "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 193,
+    "gain7": 192,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-09": 4247,
     "2026-11-10": 4278,
     "2026-11-11": 4324,
-    "2026-11-12": 4348
+    "2026-11-12": 4348,
+    "2026-11-13": 4369
   },
   "topics": [
     "agent-skill",

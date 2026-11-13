@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 174,
+    "gain7": 165,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.4,
-    "total": 49.8,
+    "total": 49.6,
     "trending_days_30": 0,
     "velocity": 0.52
   },
@@ -63,7 +63,8 @@
     "2026-11-09": 17458,
     "2026-11-10": 17471,
     "2026-11-11": 17491,
-    "2026-11-12": 17515
+    "2026-11-12": 17515,
+    "2026-11-13": 17521
   },
   "topics": [],
   "trending": {},

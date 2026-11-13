@@ -1,0 +1,71 @@
+{
+  "ai": {
+    "at": "2026-11-13",
+    "category": "前端/框架",
+    "form": "框架",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "项目处于 pre-1.0、每日变动且无 API 稳定性或正式发布，需自行克隆并配置多套工具链，尚不适合普通开发者直接使用。",
+    "summary": "跨平台应用运行时，声明式界面可编译到 Web/iOS/macOS/Linux",
+    "tags": [
+      "跨平台",
+      "声明式UI",
+      "Rust",
+      "AI Agent",
+      "原生应用"
+    ]
+  },
+  "archived": false,
+  "contributors": 13,
+  "created_at": "2026-11-02",
+  "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+  "details_at": "2026-11-13",
+  "first_seen": "2026-11-13",
+  "fork": false,
+  "forks": 85,
+  "full_name": "expo/exact",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-13",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-13",
+  "readme_chars": 49531,
+  "readme_hash": "5e5abd3d8693",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2253,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 55.8,
+    "trending_days_30": 0,
+    "velocity": 0.78
+  },
+  "stars": {
+    "2026-11-13": 3540
+  },
+  "topics": [
+    "ai-agents",
+    "appkit",
+    "coding-agents",
+    "cross-platform",
+    "css",
+    "ios",
+    "linux",
+    "macos",
+    "native-apps",
+    "rust",
+    "swift",
+    "uikit",
+    "web"
+  ],
+  "trending": {},
+  "url": "https://github.com/expo/exact"
+}

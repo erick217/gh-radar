@@ -23,7 +23,7 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 52351,
+  "forks": 52518,
   "full_name": "react/react",
   "homepage": "https://react.dev",
   "install_hint": false,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-07",
   "latest_release": "v19.3.1",
   "license": "MIT",
-  "pushed_at": "2026-11-11",
+  "pushed_at": "2026-11-13",
   "readme_chars": 5296,
   "readme_hash": "e4116b90bf73",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 319,
+    "gain7": 299,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 72.8,
+    "total": 72.6,
     "trending_days_30": 1,
     "velocity": 0.58
   },
@@ -54,7 +54,8 @@
     "2026-11-09": 252431,
     "2026-11-10": 252474,
     "2026-11-11": 252522,
-    "2026-11-12": 252537
+    "2026-11-12": 252537,
+    "2026-11-13": 252565
   },
   "topics": [
     "declarative",

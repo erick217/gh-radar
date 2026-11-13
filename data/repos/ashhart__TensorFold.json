@@ -1,0 +1,67 @@
+{
+  "ai": {
+    "at": "2026-11-13",
+    "category": "AI/模型推理与部署",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v1.2.7 发布版，提供 Homebrew 和预编译包，可拉取模型并启动兼容 OpenAI 的本地服务。",
+    "summary": "用 Zig 编写的本地 LLM 推理与服务引擎，支持 Metal、CUDA 和 Vulkan。",
+    "tags": [
+      "LLM推理",
+      "本地部署",
+      "Zig",
+      "Metal/CUDA",
+      "OpenAI兼容"
+    ]
+  },
+  "archived": false,
+  "contributors": 137,
+  "created_at": "2026-06-19",
+  "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+  "details_at": "2026-11-13",
+  "first_seen": "2026-11-13",
+  "fork": false,
+  "forks": 397,
+  "full_name": "ashhart/TensorFold",
+  "homepage": "https://tensorfold.dev",
+  "install_hint": true,
+  "language": "Zig",
+  "last_seen": "2026-11-13",
+  "latest_release": "v1.2.7",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-13",
+  "readme_chars": 53080,
+  "readme_hash": "2484bffd9a25",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 162,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 67.4,
+    "trending_days_30": 1,
+    "velocity": 0.51
+  },
+  "stars": {
+    "2026-11-13": 2026
+  },
+  "topics": [
+    "ai",
+    "ai-tools",
+    "llm",
+    "llm-inference",
+    "llm-tools"
+  ],
+  "trending": {
+    "2026-11-13": {
+      "daily": 54
+    }
+  },
+  "url": "https://github.com/ashhart/TensorFold"
+}

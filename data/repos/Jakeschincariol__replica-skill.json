@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1622,
+  "forks": 1649,
   "full_name": "Jakeschincariol/replica-skill",
   "homepage": "https://opusjake.ai",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1344,
+    "gain7": 1342,
     "gain7_source": "snapshot",
     "health": 0.2,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-09": 8533,
     "2026-11-10": 8703,
     "2026-11-11": 8841,
-    "2026-11-12": 9016
+    "2026-11-12": 9016,
+    "2026-11-13": 9159
   },
   "topics": [
     "agent",

@@ -6,28 +6,28 @@
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [storytold/photocraft](https://github.com/storytold/photocraft) | 用纯 Rust 编写的开源照片编辑器，支持图层、蒙版与 PSD。 | 桌面应用 | Rust | 78.8k | +1.8k | 78 |  |
-| [storytold/lightcraft](https://github.com/storytold/lightcraft) | 纯 Rust 编写的开源非破坏性照片库与 RAW 修图工具 | 桌面应用 | Rust | 15.9k | +362 | 72 |  |
-| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | 纯 Rust 编写的开源矢量绘图软件，支持桌面与浏览器。 | 桌面应用 | Rust | 11.7k | +269 | 71 |  |
-| [storytold/designcraft](https://github.com/storytold/designcraft) | 用纯 Rust 编写的开源桌面排版与页面布局编辑器，支持多平台和 Web。 | 桌面应用 | Rust | 5.2k | +140 | 68 |  |
-| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 中文汉化的 AI 姿势参考图库，含 1439 组图片与静态画廊。 | Web应用 | TypeScript | 6.8k | +779 | 67 |  |
-| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Qwen-Image 本地出图技能包，含提示词配方与 136 姿势控制 | 其他 | Python | 4.3k | +193 | 66 |  |
-| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 244 个代码实现的像素特效库，可导出精灵表并配 Claude Code 技能 | 库 | JavaScript | 7.1k | +2.1k | 63 |  |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | 用纯 Rust 编写的开源照片编辑器，支持图层、蒙版与 PSD。 | 桌面应用 | Rust | 79.1k | +1.8k | 77 |  |
+| [storytold/lightcraft](https://github.com/storytold/lightcraft) | 纯 Rust 编写的开源非破坏性照片库与 RAW 修图工具 | 桌面应用 | Rust | 15.9k | +346 | 72 |  |
+| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | 纯 Rust 编写的开源矢量绘图软件，支持桌面与浏览器。 | 桌面应用 | Rust | 11.7k | +268 | 71 |  |
+| [storytold/designcraft](https://github.com/storytold/designcraft) | 用纯 Rust 编写的开源桌面排版与页面布局编辑器，支持多平台和 Web。 | 桌面应用 | Rust | 5.3k | +136 | 68 |  |
+| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 中文汉化的 AI 姿势参考图库，含 1439 组图片与静态画廊。 | Web应用 | TypeScript | 6.9k | +706 | 67 |  |
+| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Qwen-Image 本地出图技能包，含提示词配方与 136 姿势控制 | 其他 | Python | 4.4k | +192 | 66 |  |
+| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 244 个代码实现的像素特效库，可导出精灵表并配 Claude Code 技能 | 库 | JavaScript | 7.2k | +1.8k | 63 |  |
 
 ## 音视频（7）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 用 HTML/CSS 和可定位动画确定性渲染 MP4 视频的框架。 | 框架 | TypeScript | 83.1k | +4.0k | 82 |  |
-| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 黄果短剧第三方跨平台客户端，支持沉浸式竖屏播放。 | 桌面应用 |  | 8.4k | +9.6k | 75 |  |
-| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | 逐镜拆解视频是实拍、AI生成还是代码制作，并给出复刻方案 | CLI工具 | Python | 7.2k | +5.5k | 74 |  |
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 纯 Rust 编写的开源非线性视频编辑器，支持剪辑、调色与音频处理。 | 桌面应用 | Rust | 18.1k | +543 | 73 |  |
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 命令行媒体播放器，支持多种音视频格式、编解码器与字幕。 | CLI工具 | C | 38.1k | +200 | 71 |  |
-| [storytold/effectcraft](https://github.com/storytold/effectcraft) | 纯 Rust 编写的开源动态图形与视觉合成软件，支持关键帧动画与特效渲染。 | 桌面应用 | Rust | 8.7k | +212 | 70 |  |
-| [storytold/soundcraft](https://github.com/storytold/soundcraft) | 纯 Rust 编写的开源数字音频工作站，支持录音、编辑、混音与插件。 | 桌面应用 | Rust | 4.3k | +196 | 70 |  |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 用 HTML/CSS 和可定位动画确定性渲染 MP4 视频的框架。 | 框架 | TypeScript | 83.6k | +3.8k | 82 |  |
+| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 黄果短剧第三方跨平台客户端，支持沉浸式竖屏播放。 | 桌面应用 |  | 8.7k | +7.9k | 75 |  |
+| [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | 逐镜拆解视频是实拍、AI生成还是代码制作，并给出复刻方案 | CLI工具 | Python | 7.7k | +5.1k | 74 |  |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | 纯 Rust 编写的开源非线性视频编辑器，支持剪辑、调色与音频处理。 | 桌面应用 | Rust | 18.2k | +541 | 73 |  |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 命令行媒体播放器，支持多种音视频格式、编解码器与字幕。 | CLI工具 | C | 38.1k | +182 | 71 |  |
+| [storytold/soundcraft](https://github.com/storytold/soundcraft) | 纯 Rust 编写的开源数字音频工作站，支持录音、编辑、混音与插件。 | 桌面应用 | Rust | 4.3k | +213 | 70 |  |
+| [storytold/effectcraft](https://github.com/storytold/effectcraft) | 纯 Rust 编写的开源动态图形与视觉合成软件，支持关键帧动画与特效渲染。 | 桌面应用 | Rust | 8.7k | +208 | 70 |  |
 
 ## 下载工具（1）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 桌面应用 | Rust | 7.2k | +3.6k | 77 |  |
+| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 桌面应用 | Rust | 8.3k | +8.4k | 83 |  |

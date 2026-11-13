@@ -23,7 +23,7 @@
   "details_at": "2026-11-11",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 321,
+  "forks": 326,
   "full_name": "tokio-rs/topcoat",
   "homepage": null,
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-11",
   "latest_release": "v0.12.1",
   "license": "MIT",
-  "pushed_at": "2026-11-11",
+  "pushed_at": "2026-11-12",
   "readme_chars": 12764,
   "readme_hash": "03b135dbc6c5",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-11": 6986,
-    "2026-11-12": 7137
+    "2026-11-12": 7137,
+    "2026-11-13": 7173
   },
   "topics": [],
   "trending": {

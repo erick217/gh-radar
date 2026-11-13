@@ -22,29 +22,29 @@
   "details_at": "2026-11-07",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11638,
+  "forks": 11676,
   "full_name": "zed-industries/zed",
   "homepage": "https://zed.dev",
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-11-12",
+  "last_seen": "2026-11-13",
   "latest_release": "v1.28.0-pre",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-13",
   "readme_chars": 2852,
   "readme_hash": "584d76645134",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1271,
+    "gain7": 1206,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 80.5,
-    "trending_days_30": 3,
+    "total": 81.7,
+    "trending_days_30": 4,
     "velocity": 0.72
   },
   "stars": {
@@ -53,7 +53,8 @@
     "2026-11-09": 94523,
     "2026-11-10": 94629,
     "2026-11-11": 94713,
-    "2026-11-12": 94758
+    "2026-11-12": 94758,
+    "2026-11-13": 94884
   },
   "topics": [
     "gpui",
@@ -70,6 +71,9 @@
     },
     "2026-11-12": {
       "weekly": 2310
+    },
+    "2026-11-13": {
+      "weekly": 2339
     }
   },
   "url": "https://github.com/zed-industries/zed"

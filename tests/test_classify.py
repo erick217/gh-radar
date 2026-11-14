@@ -166,6 +166,63 @@ class ClassifierTests(unittest.TestCase):
         self.assertIn("分类或形态不在固定清单中", output.getvalue())
         self.assertNotIn("test-credential", output.getvalue())
 
+    def test_token_usage_and_cost_are_recorded_when_present(self):
+        client = Mock()
+        res = response()
+        res.json.return_value["usage"] = {
+            "prompt_tokens": 3000,
+            "prompt_cache_hit_tokens": 1000,
+            "prompt_cache_miss_tokens": 2000,
+            "completion_tokens": 500,
+            "total_tokens": 3500,
+            "completion_tokens_details": {"reasoning_tokens": 120},
+        }
+        client.post.return_value = res
+        result = classify_one(client, {"full_name": "demo/tool"}, "README", CFG, CATEGORIES, FORMS)
+        usage = result["usage"]
+        self.assertEqual(usage["prompt_tokens"], 3000)
+        self.assertEqual(usage["prompt_cache_hit_tokens"], 1000)
+        self.assertEqual(usage["prompt_cache_miss_tokens"], 2000)
+        self.assertEqual(usage["completion_tokens"], 500)
+        self.assertEqual(usage["reasoning_tokens"], 120)
+        self.assertEqual(usage["total_tokens"], 3500)
+        # (1000 * 0.04 + 2000 * 2.0 + 500 * 8.0) / 1_000_000 = 8040 / 1_000_000 = 0.00804
+        self.assertEqual(usage["cost_cny"], 0.00804)
+
+    @patch.dict(os.environ, {"DEEPSEEK_API_KEY": "test-credential"}, clear=True)
+    def test_classify_aggregates_token_usage_and_cost_stats(self):
+        from radar.render import summarize_ai_billing
+        repos = records()
+        item_with_usage = dict(
+            deepcopy(RESULT),
+            at="2026-11-15",
+            usage={
+                "prompt_tokens": 2000,
+                "prompt_cache_hit_tokens": 500,
+                "prompt_cache_miss_tokens": 1500,
+                "completion_tokens": 300,
+                "total_tokens": 2300,
+                "cost_cny": 0.00542,
+            },
+        )
+        with patch("radar.classify.requests.Session"), \
+                patch("radar.classify.classify_one", side_effect=lambda *args: deepcopy(item_with_usage)):
+            stats = classify(repos, {"ai": CFG}, {}, CATEGORIES, FORMS, Mock())
+        self.assertEqual(stats["classified"], 2)
+        self.assertEqual(stats["prompt_tokens"], 4000)
+        self.assertEqual(stats["cache_hit_tokens"], 1000)
+        self.assertEqual(stats["completion_tokens"], 600)
+        self.assertEqual(stats["total_tokens"], 4600)
+        self.assertEqual(stats["cost_cny"], 0.01084)
+
+        billing = summarize_ai_billing(repos)
+        self.assertEqual(billing["classified_total"], 3)
+        self.assertEqual(billing["billed_count"], 2)
+        self.assertEqual(billing["unbilled_count"], 1)
+        self.assertEqual(billing["total_tokens"], 4600)
+        self.assertEqual(billing["cost_cny"], 0.01084)
+
 
 if __name__ == "__main__":
     unittest.main()
+

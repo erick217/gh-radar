@@ -10,6 +10,11 @@ from .github import GitHub, RateLimited
 from .store import today
 
 API_URL = "https://api.deepseek.com/chat/completions"
+DEFAULT_PRICING = {
+    "input_cache_hit": 0.04,
+    "input_cache_miss": 2.0,
+    "output": 8.0,
+}
 
 
 class InvalidClassification(ValueError):
@@ -76,6 +81,49 @@ def _validate_result(data: dict, categories: list[str], forms: list[str]) -> Non
         raise InvalidClassification("tags 必须包含 3~5 个非空字符串")
 
 
+def _non_neg_int(val: object) -> int:
+    if isinstance(val, bool) or not isinstance(val, int):
+        return 0
+    return max(0, val)
+
+
+def compute_cost_cny(cache_hit_tokens: int, cache_miss_tokens: int,
+                     completion_tokens: int, pricing: dict | None = None) -> float:
+    rates = {**DEFAULT_PRICING, **(pricing or {})}
+    cost = (
+        cache_hit_tokens * float(rates["input_cache_hit"])
+        + cache_miss_tokens * float(rates["input_cache_miss"])
+        + completion_tokens * float(rates["output"])
+    ) / 1_000_000
+    return round(max(0.0, cost), 6)
+
+
+def _extract_usage(envelope: dict, cfg: dict) -> dict | None:
+    raw = envelope.get("usage")
+    if not isinstance(raw, dict):
+        return None
+    prompt_tokens = _non_neg_int(raw.get("prompt_tokens"))
+    completion_tokens = _non_neg_int(raw.get("completion_tokens"))
+    total_tokens = _non_neg_int(raw.get("total_tokens")) or (prompt_tokens + completion_tokens)
+    cache_hit = min(prompt_tokens, _non_neg_int(raw.get("prompt_cache_hit_tokens")))
+    if "prompt_cache_miss_tokens" in raw and isinstance(raw.get("prompt_cache_miss_tokens"), int):
+        cache_miss = _non_neg_int(raw.get("prompt_cache_miss_tokens"))
+    else:
+        cache_miss = max(0, prompt_tokens - cache_hit)
+    details = raw.get("completion_tokens_details")
+    reasoning_tokens = _non_neg_int(details.get("reasoning_tokens")) if isinstance(details, dict) else 0
+    cost_cny = compute_cost_cny(cache_hit, cache_miss, completion_tokens, cfg.get("pricing"))
+    return {
+        "prompt_tokens": prompt_tokens,
+        "prompt_cache_hit_tokens": cache_hit,
+        "prompt_cache_miss_tokens": cache_miss,
+        "completion_tokens": completion_tokens,
+        "reasoning_tokens": reasoning_tokens,
+        "total_tokens": total_tokens,
+        "cost_cny": cost_cny,
+    }
+
+
 def classify_one(client: requests.Session, rec: dict, readme: str, cfg: dict,
                  categories: list[str], forms: list[str]) -> dict | None:
     schema = json.dumps(_schema(categories, forms), ensure_ascii=False)
@@ -118,13 +166,25 @@ def classify_one(client: requests.Session, rec: dict, readme: str, cfg: dict,
     data["provider"] = "deepseek"
     data["model"] = envelope.get("model") or cfg["model"]
     data["at"] = today()
+    usage = _extract_usage(envelope, cfg)
+    if usage is not None:
+        data["usage"] = usage
     return data
 
 
 def classify(repos: dict[str, dict], settings: dict, readme_cache: dict[str, str],
              categories: list[str], forms: list[str], gh: GitHub) -> dict:
     """对通过硬规则、还没分类的项目调用 DeepSeek，按当前分数从高到低处理。"""
-    stats = {"classified": 0, "failed": 0, "skipped_no_key": False}
+    stats = {
+        "classified": 0,
+        "failed": 0,
+        "skipped_no_key": False,
+        "prompt_tokens": 0,
+        "cache_hit_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0,
+        "cost_cny": 0.0,
+    }
     api_key = os.environ.get("DEEPSEEK_API_KEY")
     if not api_key:
         stats["skipped_no_key"] = True
@@ -169,6 +229,14 @@ def classify(repos: dict[str, dict], settings: dict, readme_cache: dict[str, str
             if result:
                 rec["ai"] = result
                 stats["classified"] += 1
+                usage = result.get("usage")
+                if isinstance(usage, dict):
+                    stats["prompt_tokens"] += int(usage.get("prompt_tokens") or 0)
+                    stats["cache_hit_tokens"] += int(usage.get("prompt_cache_hit_tokens") or 0)
+                    stats["completion_tokens"] += int(usage.get("completion_tokens") or 0)
+                    stats["total_tokens"] += int(usage.get("total_tokens") or 0)
+                    stats["cost_cny"] = round(stats["cost_cny"] + float(usage.get("cost_cny") or 0.0), 6)
             else:
                 stats["failed"] += 1
     return stats
+

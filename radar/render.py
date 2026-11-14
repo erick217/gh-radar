@@ -77,6 +77,72 @@ def _split(category: str) -> tuple[str, str]:
     return top, sub or top
 
 
+def summarize_ai_billing(repos: dict[str, dict]) -> dict:
+    """汇总所有仓库记录中的 DeepSeek Token 消耗与计费金额。"""
+    now = today()
+    stats = {
+        "classified_total": 0,
+        "billed_count": 0,
+        "unbilled_count": 0,
+        "prompt_tokens": 0,
+        "cache_hit_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0,
+        "cost_cny": 0.0,
+        "today_billed": 0,
+        "today_tokens": 0,
+        "today_cost_cny": 0.0,
+    }
+    for rec in repos.values():
+        ai = rec.get("ai")
+        if not isinstance(ai, dict) or not ai:
+            continue
+        stats["classified_total"] += 1
+        usage = ai.get("usage")
+        if not isinstance(usage, dict):
+            stats["unbilled_count"] += 1
+            continue
+        stats["billed_count"] += 1
+        p_tok = int(usage.get("prompt_tokens") or 0)
+        h_tok = int(usage.get("prompt_cache_hit_tokens") or 0)
+        c_tok = int(usage.get("completion_tokens") or 0)
+        t_tok = int(usage.get("total_tokens") or (p_tok + c_tok))
+        cost = float(usage.get("cost_cny") or 0.0)
+        stats["prompt_tokens"] += p_tok
+        stats["cache_hit_tokens"] += h_tok
+        stats["completion_tokens"] += c_tok
+        stats["total_tokens"] += t_tok
+        stats["cost_cny"] = round(stats["cost_cny"] + cost, 6)
+        if ai.get("at") == now:
+            stats["today_billed"] += 1
+            stats["today_tokens"] += t_tok
+            stats["today_cost_cny"] = round(stats["today_cost_cny"] + cost, 6)
+    return stats
+
+
+def _format_billing_line(billing: dict) -> str:
+    if billing["billed_count"] > 0:
+        parts = [
+            f"🤖 DeepSeek 计费统计：已记录 {billing['billed_count']} 次分类",
+            f"累计 {_k(billing['total_tokens'])} tokens"
+            f"（输入 {_k(billing['prompt_tokens'])} / 缓存命中 {_k(billing['cache_hit_tokens'])} / 输出 {_k(billing['completion_tokens'])}）",
+            f"累计费用 ¥{billing['cost_cny']:.4f}",
+        ]
+        if billing["today_billed"] > 0:
+            parts.append(
+                f"今日新增 {billing['today_billed']} 次（{_k(billing['today_tokens'])} tokens / ¥{billing['today_cost_cny']:.4f}）"
+            )
+        if billing["unbilled_count"] > 0:
+            parts.append(f"另有 {billing['unbilled_count']} 个早期分类未记录接口 usage")
+        return " · ".join(parts)
+    if billing["unbilled_count"] > 0:
+        return (
+            f"🤖 DeepSeek 计费统计：已记录 0 次计费调用（¥0.0000，新项目分类时自动记录接口 Token 与费用；"
+            f"另有 {billing['unbilled_count']} 个早期分类未记录接口 usage）"
+        )
+    return "🤖 DeepSeek 计费统计：暂无已记录的 AI 分类调用（¥0.0000）"
+
+
 def render(repos: dict[str, dict], overrides: dict) -> dict:
     items = [resolve(r, overrides.get(n) or {}) for n, r in repos.items()
              if (r.get("score") or {}).get("included")]
@@ -106,10 +172,13 @@ def render(repos: dict[str, dict], overrides: dict) -> dict:
     week_ago = days_ago(7)
     new = sorted((x for x in items if x["first_seen"] >= week_ago), key=lambda x: -x["score"])
     rising = sorted(items, key=lambda x: -x["gain7"])[:30]
+    billing = summarize_ai_billing(repos)
+    billing_line = _format_billing_line(billing)
 
     index = [
         "# GitHub 热门项目雷达\n",
         f"更新于 {datetime.now(BEIJING):%Y-%m-%d %H:%M}（北京时间） · 已收录 {len(items)} 个项目 · 共追踪 {len(repos)} 个\n",
+        f"{billing_line}\n",
         "- [最近 7 天新收录](new.md)",
         "- [本周增速榜](rising.md)\n",
         "## 分类\n", *toc, "",
@@ -122,15 +191,22 @@ def render(repos: dict[str, dict], overrides: dict) -> dict:
     (DOCS_DIR / "data.json").write_text(
         json.dumps(sorted(items, key=lambda x: -x["score"]), ensure_ascii=False, indent=1), encoding="utf-8")
 
-    _update_readme(rising[:10], len(items))
-    return {"included": len(items), "new_7d": len(new)}
+    _update_readme(rising[:10], len(items), billing_line)
+    return {
+        "included": len(items),
+        "new_7d": len(new),
+        "billed_repos": billing["billed_count"],
+        "total_tokens": billing["total_tokens"],
+        "cost_cny": billing["cost_cny"],
+    }
 
 
-def _update_readme(top: list[dict], total: int) -> None:
+def _update_readme(top: list[dict], total: int, billing_line: str) -> None:
     path = ROOT / "README.md"
     start, end = "<!-- radar:start -->", "<!-- radar:end -->"
     text = path.read_text(encoding="utf-8")
     block = (f"{start}\n\n**本周增速 Top 10**（{today()} 更新，共收录 {total} 个，"
-             f"[查看全部分类](docs/index.md)）\n\n{_table(top, True)}\n\n{end}")
+             f"[查看全部分类](docs/index.md)）\n\n{billing_line}\n\n{_table(top, True)}\n\n{end}")
     text = re.sub(re.escape(start) + ".*?" + re.escape(end), lambda _: block, text, flags=re.S)
     path.write_text(text, encoding="utf-8")
+

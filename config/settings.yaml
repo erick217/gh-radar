@@ -16,6 +16,11 @@ ai:
   max_per_run: 60
   # 发给模型的 README 最大字符数
   readme_chars: 12000
+  # 每百万 token 计费单价（人民币元，默认按 DeepSeek Flash 标准时段计）
+  pricing:
+    input_cache_hit: 0.04
+    input_cache_miss: 2.0
+    output: 8.0
 
 score:
   weights:

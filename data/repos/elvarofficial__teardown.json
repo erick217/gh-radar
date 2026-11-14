@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 515,
+  "forks": 523,
   "full_name": "elvarofficial/teardown",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1613,
+    "gain7": 1629,
     "gain7_source": "age",
     "health": 0.4,
     "included": true,
@@ -51,7 +51,7 @@
   "stars": {
     "2026-11-12": 3228,
     "2026-11-13": 3375,
-    "2026-11-14": 3456
+    "2026-11-14": 3491
   },
   "topics": [],
   "trending": {},

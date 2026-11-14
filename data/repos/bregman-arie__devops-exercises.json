@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 20658,
+  "forks": 20660,
   "full_name": "bregman-arie/devops-exercises",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 213,
+    "gain7": 214,
     "gain7_source": "snapshot",
     "health": 0.3,
     "included": false,
@@ -62,7 +62,7 @@
     "2026-11-11": 86718,
     "2026-11-12": 86756,
     "2026-11-13": 86788,
-    "2026-11-14": 86802
+    "2026-11-14": 86803
   },
   "topics": [
     "ansible",

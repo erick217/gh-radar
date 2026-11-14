@@ -1,0 +1,79 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "安全/安全工具",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.9.0 发布版本、crates.io/AUR 安装方式和 Wiki 使用文档，Linux 用户配合支持监听模式的无线网卡即可直接使用。",
+    "summary": "Linux 上的 WiFi 安全审计桌面工具，可抓包、发现客户端、捕获握手包并破解密码。",
+    "tags": [
+      "WiFi安全",
+      "安全审计",
+      "Rust",
+      "GTK4",
+      "渗透测试"
+    ],
+    "usage": {
+      "completion_tokens": 507,
+      "cost_cny": 0.00598,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 949,
+      "prompt_tokens": 1589,
+      "reasoning_tokens": 398,
+      "total_tokens": 2096
+    }
+  },
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2022-09-30",
+  "description": "A WiFi security auditing software",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 943,
+  "full_name": "martin-olivier/airgorah",
+  "homepage": "https://crates.io/crates/airgorah",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-14",
+  "latest_release": "v0.9.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 2726,
+  "readme_hash": "d88b220d8092",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 807,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 73.1,
+    "trending_days_30": 1,
+    "velocity": 0.68
+  },
+  "stars": {
+    "2026-11-14": 5653
+  },
+  "topics": [
+    "gui",
+    "kali",
+    "linux-app",
+    "security",
+    "security-audit",
+    "wifi",
+    "wifi-security",
+    "wireless"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "daily": 269
+    }
+  },
+  "url": "https://github.com/martin-olivier/airgorah"
+}

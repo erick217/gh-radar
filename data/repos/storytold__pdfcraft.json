@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 7559,
+  "forks": 7568,
   "full_name": "storytold/pdfcraft",
   "homepage": "https://getartcraft.com/apps/printcraft",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 799,
+    "gain7": 866,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 74.6,
+    "total": 74.9,
     "trending_days_30": 0,
-    "velocity": 0.67
+    "velocity": 0.68
   },
   "stars": {
     "2026-10-29": 18570,
@@ -65,7 +65,7 @@
     "2026-11-11": 20328,
     "2026-11-12": 20447,
     "2026-11-13": 20544,
-    "2026-11-14": 20646
+    "2026-11-14": 20713
   },
   "topics": [
     "document-processing",

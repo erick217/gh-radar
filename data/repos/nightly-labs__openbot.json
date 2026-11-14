@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 765,
+  "forks": 774,
   "full_name": "nightly-labs/openbot",
   "homepage": "https://openbot.run/",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1466,
+    "gain7": 1573,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 81.0,
+    "total": 81.2,
     "trending_days_30": 3,
     "velocity": 0.74
   },
@@ -65,7 +65,7 @@
     "2026-11-11": 6939,
     "2026-11-12": 7165,
     "2026-11-13": 7373,
-    "2026-11-14": 7592
+    "2026-11-14": 7699
   },
   "topics": [
     "ai-agents",

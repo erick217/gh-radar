@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 18880,
+  "forks": 18900,
   "full_name": "paperclipai/paperclip",
   "homepage": "https://paperclip.ing",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1943,
+    "gain7": 2067,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 79.2,
+    "total": 79.4,
     "trending_days_30": 1,
-    "velocity": 0.76
+    "velocity": 0.77
   },
   "stars": {
     "2026-11-03": 110594,
@@ -60,7 +60,7 @@
     "2026-11-11": 113022,
     "2026-11-12": 113252,
     "2026-11-13": 113481,
-    "2026-11-14": 113757
+    "2026-11-14": 113881
   },
   "topics": [
     "acpx",

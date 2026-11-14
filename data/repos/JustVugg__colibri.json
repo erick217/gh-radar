@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 6032,
+  "forks": 6053,
   "full_name": "JustVugg/colibri",
   "homepage": "https://justvugg.github.io/colibri",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2386,
+    "gain7": 2504,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 81.3,
+    "total": 81.5,
     "trending_days_30": 2,
     "velocity": 0.79
   },
@@ -60,7 +60,7 @@
     "2026-11-11": 49828,
     "2026-11-12": 50060,
     "2026-11-13": 50562,
-    "2026-11-14": 50927
+    "2026-11-14": 51045
   },
   "topics": [],
   "trending": {

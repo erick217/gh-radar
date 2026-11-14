@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 2812,
+  "forks": 2822,
   "full_name": "deepseek-ai/dsh-superagent-prototype",
   "homepage": null,
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2629,
+    "gain7": 2691,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.4,
-    "total": 51.8,
+    "total": 51.9,
     "trending_days_30": 0,
     "velocity": 0.8
   },
@@ -62,7 +62,7 @@
     "2026-11-11": 22311,
     "2026-11-12": 22615,
     "2026-11-13": 22878,
-    "2026-11-14": 23061
+    "2026-11-14": 23123
   },
   "topics": [],
   "trending": {},

@@ -1,0 +1,74 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "运维与云原生/容器与编排",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 macOS/Windows/Linux 安装包和发布版本，文档涵盖安装与使用，普通开发者可直接上手。",
+    "summary": "轻量快速的容器运行时，兼容 Docker CLI，可替代 Docker Desktop。",
+    "tags": [
+      "容器运行时",
+      "Docker",
+      "Kubernetes",
+      "Rust",
+      "跨平台"
+    ],
+    "usage": {
+      "completion_tokens": 286,
+      "cost_cny": 0.006832,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 2259,
+      "prompt_tokens": 2899,
+      "reasoning_tokens": 197,
+      "total_tokens": 3185
+    }
+  },
+  "archived": false,
+  "contributors": 10,
+  "created_at": "2026-11-02",
+  "description": "A small, fast container runtime for macOS, Windows and Linux",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 173,
+  "full_name": "libracoder/kiri",
+  "homepage": "https://runkiri.com",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-14",
+  "latest_release": "v0.2.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 6546,
+  "readme_hash": "7ac753135393",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1950,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 74.8,
+    "trending_days_30": 0,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-11-14": 3343
+  },
+  "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "macos",
+    "oci",
+    "windows"
+  ],
+  "trending": {},
+  "url": "https://github.com/libracoder/kiri"
+}

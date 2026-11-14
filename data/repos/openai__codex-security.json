@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 1029,
+  "forks": 1048,
   "full_name": "openai/codex-security",
   "homepage": "https://developers.openai.com/codex/security",
   "install_hint": true,
@@ -51,7 +51,7 @@
   "stars": {
     "2026-11-12": 11958,
     "2026-11-13": 12687,
-    "2026-11-14": 13286
+    "2026-11-14": 13496
   },
   "topics": [
     "ai-security",

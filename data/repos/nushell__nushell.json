@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 2345,
+  "forks": 2348,
   "full_name": "nushell/nushell",
   "homepage": "https://www.nushell.sh/",
   "install_hint": true,
@@ -56,7 +56,7 @@
     "2026-11-11": 41086,
     "2026-11-12": 41000,
     "2026-11-13": 41017,
-    "2026-11-14": 41013
+    "2026-11-14": 41017
   },
   "topics": [
     "nushell",

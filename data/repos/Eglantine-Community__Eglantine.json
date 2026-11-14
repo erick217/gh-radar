@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 643,
+  "forks": 647,
   "full_name": "Eglantine-Community/Eglantine",
   "homepage": "https://eglantine-emu.org/",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 983,
+    "gain7": 1000,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -58,7 +58,7 @@
     "2026-11-11": 5798,
     "2026-11-12": 5861,
     "2026-11-13": 5907,
-    "2026-11-14": 5943
+    "2026-11-14": 5960
   },
   "topics": [],
   "trending": {},

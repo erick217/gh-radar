@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 4115,
+  "forks": 4123,
   "full_name": "herdrdev/herdr",
   "homepage": "https://herdr.dev",
   "install_hint": true,
@@ -51,7 +51,7 @@
   "stars": {
     "2026-11-12": 50444,
     "2026-11-13": 50680,
-    "2026-11-14": 50886
+    "2026-11-14": 50946
   },
   "topics": [
     "agent",

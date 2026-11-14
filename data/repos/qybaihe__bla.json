@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 682,
+  "forks": 695,
   "full_name": "qybaihe/bla",
   "homepage": "https://bla.tools",
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-14",
   "latest_release": "bla-agents-3.1.0",
   "license": "MIT",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 16906,
   "readme_hash": "5ea87e234ee6",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2982,
+    "gain7": 3056,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 79.3,
+    "total": 79.4,
     "trending_days_30": 0,
     "velocity": 0.81
   },
@@ -55,7 +55,7 @@
     "2026-11-11": 5140,
     "2026-11-12": 5372,
     "2026-11-13": 5490,
-    "2026-11-14": 5596
+    "2026-11-14": 5659
   },
   "topics": [
     "adversarial-ai",

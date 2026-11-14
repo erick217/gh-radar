@@ -1,0 +1,81 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npm 一键安装和正式版本，支持 30 多种编码代理，文档与安装方式完整，可直接上手使用。",
+    "summary": "让编码 AI 助手用更少 token 回答并压缩输入，降低使用成本",
+    "tags": [
+      "token节省",
+      "AI编程助手",
+      "提示词工程",
+      "代理",
+      "Claude Code"
+    ],
+    "usage": {
+      "completion_tokens": 315,
+      "cost_cny": 0.01035,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3902,
+      "prompt_tokens": 4542,
+      "reasoning_tokens": 223,
+      "total_tokens": 4857
+    }
+  },
+  "archived": false,
+  "contributors": 118,
+  "created_at": "2026-04-04",
+  "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 6993,
+  "full_name": "JuliusBrussee/caveman",
+  "homepage": "https://docs.caveman.so/caveman",
+  "install_hint": true,
+  "language": "Go",
+  "last_seen": "2026-11-14",
+  "latest_release": "v4.1.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 23397,
+  "readme_hash": "ca0dd2fbf2c5",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 681,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.5,
+    "trending_days_30": 1,
+    "velocity": 0.66
+  },
+  "stars": {
+    "2026-11-14": 119915
+  },
+  "topics": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code",
+    "llm",
+    "meme",
+    "prompt-engineering",
+    "skill",
+    "tokens"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "daily": 227
+    }
+  },
+  "url": "https://github.com/JuliusBrussee/caveman"
+}

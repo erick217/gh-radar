@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1399,
+  "forks": 1413,
   "full_name": "google/elephant-goldfish-model",
   "homepage": "https://egm.dev",
   "install_hint": false,
@@ -49,7 +49,7 @@
     "velocity": 0.87
   },
   "stars": {
-    "2026-11-14": 18742
+    "2026-11-14": 19000
   },
   "topics": [
     "agent-skills",

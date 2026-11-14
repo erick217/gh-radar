@@ -31,22 +31,22 @@
   "last_seen": "2026-10-31",
   "latest_release": "switch-v0.1.0-beta.6",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-14",
   "readme_chars": 8540,
   "readme_hash": "f0ef31e3ff90",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 7,
+    "gain7": 8,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 58.3,
+    "total": 58.8,
     "trending_days_30": 0,
-    "velocity": 0.21
+    "velocity": 0.22
   },
   "stars": {
     "2026-10-29": 3908,
@@ -65,7 +65,7 @@
     "2026-11-11": 3762,
     "2026-11-12": 3763,
     "2026-11-13": 3765,
-    "2026-11-14": 3765
+    "2026-11-14": 3766
   },
   "topics": [
     "ai",

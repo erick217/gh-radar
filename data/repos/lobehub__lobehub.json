@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 16305,
+  "forks": 16316,
   "full_name": "lobehub/lobehub",
   "homepage": "https://lobehub.com",
   "install_hint": true,
@@ -49,7 +49,7 @@
     "velocity": 0.71
   },
   "stars": {
-    "2026-11-14": 85463
+    "2026-11-14": 85526
   },
   "topics": [
     "agent",

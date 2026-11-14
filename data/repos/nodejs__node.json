@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 38062,
+  "forks": 38066,
   "full_name": "nodejs/node",
   "homepage": "https://nodejs.org",
   "install_hint": false,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-11-13": 123658,
-    "2026-11-14": 123707
+    "2026-11-14": 123714
   },
   "topics": [
     "javascript",

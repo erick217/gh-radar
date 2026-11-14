@@ -1,0 +1,91 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "AI/Agent",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Docker Compose 一键安装脚本、发布镜像和完整部署文档，可直接自托管运行。",
+    "summary": "自托管工作流平台，编排编码智能体执行任务并加入人工审批环节",
+    "tags": [
+      "AI Agent",
+      "工作流编排",
+      "自托管",
+      "代码智能体",
+      "人工审批"
+    ],
+    "usage": {
+      "completion_tokens": 393,
+      "cost_cny": 0.009848,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3339,
+      "prompt_tokens": 3979,
+      "reasoning_tokens": 308,
+      "total_tokens": 4372
+    }
+  },
+  "archived": false,
+  "contributors": 18,
+  "created_at": "2026-07-28",
+  "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 129,
+  "full_name": "Tencent/LoopForge",
+  "homepage": "https://loopforge.cn",
+  "install_hint": true,
+  "language": "Go",
+  "last_seen": "2026-11-14",
+  "latest_release": "v0.3.9-rc.1",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 22594,
+  "readme_hash": "6e57c8de9504",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 303,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 69.6,
+    "trending_days_30": 1,
+    "velocity": 0.58
+  },
+  "stars": {
+    "2026-11-14": 792
+  },
+  "topics": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codebuddy",
+    "codex",
+    "coding-agents",
+    "cursor",
+    "developer-tools",
+    "human-on-the-loop",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "sdlc",
+    "self-hosted",
+    "sop",
+    "workflow-automation",
+    "workflow-engine"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "daily": 101
+    }
+  },
+  "url": "https://github.com/Tencent/LoopForge"
+}

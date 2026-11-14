@@ -31,22 +31,22 @@
   "last_seen": "2026-11-03",
   "latest_release": "v0.9.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 28388,
   "readme_hash": "3160e12a4dca",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 32,
+    "gain7": 34,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 66.2,
+    "total": 66.4,
     "trending_days_30": 2,
-    "velocity": 0.35
+    "velocity": 0.36
   },
   "stars": {
     "2026-11-02": 11922,
@@ -61,7 +61,7 @@
     "2026-11-11": 12371,
     "2026-11-12": 12375,
     "2026-11-13": 12377,
-    "2026-11-14": 12381
+    "2026-11-14": 12383
   },
   "topics": [
     "artificial-intelligence",

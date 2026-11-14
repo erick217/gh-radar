@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 436,
+  "forks": 452,
   "full_name": "tailscale/tailcat",
   "homepage": "https://tailscale.com/tailcat",
   "install_hint": false,
@@ -49,7 +49,7 @@
     "velocity": 0.67
   },
   "stars": {
-    "2026-11-14": 9584
+    "2026-11-14": 9782
   },
   "topics": [],
   "trending": {

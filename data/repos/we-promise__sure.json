@@ -22,7 +22,7 @@
   "details_at": "2026-11-11",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 1132,
+  "forks": 1151,
   "full_name": "we-promise/sure",
   "homepage": "https://sure.am",
   "install_hint": false,
@@ -36,22 +36,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6106,
+    "gain7": 6680,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.58,
     "practical": 1.0,
-    "total": 87.4,
+    "total": 87.7,
     "trending_days_30": 4,
-    "velocity": 0.88
+    "velocity": 0.89
   },
   "stars": {
     "2026-11-11": 12283,
     "2026-11-12": 13258,
     "2026-11-13": 14206,
-    "2026-11-14": 14900
+    "2026-11-14": 15146
   },
   "topics": [],
   "trending": {
@@ -65,7 +65,7 @@
       "daily": 967
     },
     "2026-11-14": {
-      "daily": 925
+      "daily": 659
     }
   },
   "url": "https://github.com/we-promise/sure"

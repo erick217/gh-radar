@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 10761,
+  "forks": 10762,
   "full_name": "nvm-sh/nvm",
   "homepage": null,
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-11-13": 96067,
-    "2026-11-14": 96107
+    "2026-11-14": 96110
   },
   "topics": [
     "bash",

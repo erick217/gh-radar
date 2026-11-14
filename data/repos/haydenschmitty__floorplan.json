@@ -23,12 +23,12 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 327,
+  "forks": 347,
   "full_name": "haydenschmitty/floorplan",
   "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
   "install_hint": false,
   "language": "JavaScript",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "latest_release": "floorplan--v0.6.3",
   "license": "MIT",
   "pushed_at": "2026-11-12",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 956,
+    "gain7": 1083,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 75.3,
+    "total": 75.7,
     "trending_days_30": 0,
-    "velocity": 0.69
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-06": 3018,
@@ -56,7 +56,8 @@
     "2026-11-10": 3387,
     "2026-11-11": 3467,
     "2026-11-12": 3721,
-    "2026-11-13": 3974
+    "2026-11-13": 3974,
+    "2026-11-14": 4182
   },
   "topics": [
     "ai-coding",

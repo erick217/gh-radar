@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 18839,
+  "forks": 18880,
   "full_name": "paperclipai/paperclip",
   "homepage": "https://paperclip.ing",
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-03",
   "latest_release": "v2026.1106.0",
   "license": "MIT",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 34249,
   "readme_hash": "0c5223da14dd",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1933,
+    "gain7": 1943,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 79.1,
+    "total": 79.2,
     "trending_days_30": 1,
     "velocity": 0.76
   },
@@ -59,7 +59,8 @@
     "2026-11-10": 112728,
     "2026-11-11": 113022,
     "2026-11-12": 113252,
-    "2026-11-13": 113481
+    "2026-11-13": 113481,
+    "2026-11-14": 113757
   },
   "topics": [
     "acpx",

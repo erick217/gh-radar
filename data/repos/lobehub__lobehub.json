@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "AI/Agent",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Docker Compose 与一键部署、完整文档和可用发布版本，普通开发者可自行部署使用。",
+    "summary": "可自托管的多智能体协作平台，将 AI 代理接入团队聊天并自动处理任务。",
+    "tags": [
+      "AI Agent",
+      "多智能体",
+      "MCP",
+      "团队协作",
+      "自托管"
+    ]
+  },
+  "archived": false,
+  "contributors": 366,
+  "created_at": "2023-05-21",
+  "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 16305,
+  "full_name": "lobehub/lobehub",
+  "homepage": "https://lobehub.com",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-14",
+  "latest_release": "v0.0.0-nightly.pr22966.39383",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 31676,
+  "readme_hash": "1786922f13aa",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1126,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 74.2,
+    "trending_days_30": 1,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-14": 85463
+  },
+  "topics": [
+    "agent",
+    "agent-collaboration",
+    "agent-harness",
+    "loop-engineering",
+    "mcp",
+    "personal-assistant",
+    "proactive-agent",
+    "skills",
+    "super-agent",
+    "task-management"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "weekly": 1126
+    }
+  },
+  "url": "https://github.com/lobehub/lobehub"
+}

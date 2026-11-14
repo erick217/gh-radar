@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 836,
+  "contributors": 837,
   "created_at": "2012-10-13",
   "description": "🎥 Command line media player",
-  "details_at": "2026-11-07",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 3652,
+  "forks": 3656,
   "full_name": "mpv-player/mpv",
   "homepage": "https://mpv.io",
   "install_hint": false,
@@ -31,14 +31,14 @@
   "last_seen": "2026-11-07",
   "latest_release": "v0.42.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-13",
   "readme_chars": 8717,
   "readme_hash": "3c8858028a4e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 182,
-    "gain7_source": "snapshot-partial",
+    "gain7": 179,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 70.8,
     "trending_days_30": 1,
-    "velocity": 0.53
+    "velocity": 0.52
   },
   "stars": {
     "2026-11-07": 37936,
@@ -55,7 +55,8 @@
     "2026-11-10": 38036,
     "2026-11-11": 38062,
     "2026-11-12": 38079,
-    "2026-11-13": 38092
+    "2026-11-13": 38092,
+    "2026-11-14": 38115
   },
   "topics": [
     "audio",

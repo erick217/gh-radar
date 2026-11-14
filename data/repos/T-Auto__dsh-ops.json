@@ -22,7 +22,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 202,
+  "forks": 208,
   "full_name": "T-Auto/dsh-ops",
   "homepage": null,
   "install_hint": true,
@@ -30,22 +30,22 @@
   "last_seen": "2026-11-06",
   "latest_release": "v0.5.4",
   "license": "MIT",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-14",
   "readme_chars": 10375,
   "readme_hash": "7c1c95230471",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 413,
+    "gain7": 342,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.3,
+    "total": 71.6,
     "trending_days_30": 0,
-    "velocity": 0.61
+    "velocity": 0.59
   },
   "stars": {
     "2026-10-29": 4753,
@@ -63,7 +63,8 @@
     "2026-11-10": 5662,
     "2026-11-11": 5688,
     "2026-11-12": 5742,
-    "2026-11-13": 5777
+    "2026-11-13": 5777,
+    "2026-11-14": 5806
   },
   "topics": [
     "dsh",

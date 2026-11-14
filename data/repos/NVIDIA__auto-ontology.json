@@ -23,30 +23,30 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 1017,
+  "forks": 1039,
   "full_name": "NVIDIA/auto-ontology",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "latest_release": null,
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 23955,
   "readme_hash": "928835f7618d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4413,
+    "gain7": 3289,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 83.0,
-    "trending_days_30": 7,
-    "velocity": 0.85
+    "total": 83.3,
+    "trending_days_30": 8,
+    "velocity": 0.82
   },
   "stars": {
     "2026-11-05": 5883,
@@ -57,7 +57,8 @@
     "2026-11-10": 11194,
     "2026-11-11": 11591,
     "2026-11-12": 12013,
-    "2026-11-13": 12365
+    "2026-11-13": 12365,
+    "2026-11-14": 12641
   },
   "topics": [],
   "trending": {
@@ -81,6 +82,9 @@
     },
     "2026-11-13": {
       "weekly": 5802
+    },
+    "2026-11-14": {
+      "weekly": 4108
     }
   },
   "url": "https://github.com/NVIDIA/auto-ontology"

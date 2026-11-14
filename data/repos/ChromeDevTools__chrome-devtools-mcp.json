@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "AI/MCP与工具集成",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包，提供 MCP 服务与 CLI，文档完整，可直接安装配置使用。",
+    "summary": "让编码代理通过 MCP 控制并调试 Chrome 浏览器的工具",
+    "tags": [
+      "MCP",
+      "Chrome DevTools",
+      "浏览器调试",
+      "性能分析",
+      "Puppeteer"
+    ]
+  },
+  "archived": false,
+  "contributors": 167,
+  "created_at": "2025-09-11",
+  "description": "Chrome DevTools for coding agents",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 4614,
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "homepage": "https://developer.chrome.com/docs/devtools/agents",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-14",
+  "latest_release": "chrome-devtools-mcp-v1.13.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-13",
+  "readme_chars": 9583,
+  "readme_hash": "4dbe3dd0d5a7",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 201,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 68.2,
+    "trending_days_30": 1,
+    "velocity": 0.54
+  },
+  "stars": {
+    "2026-11-14": 55704
+  },
+  "topics": [
+    "browser",
+    "chrome",
+    "chrome-devtools",
+    "debugging",
+    "devtools",
+    "mcp",
+    "mcp-server",
+    "puppeteer"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "daily": 67
+    }
+  },
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+}

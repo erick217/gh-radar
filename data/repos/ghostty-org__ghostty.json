@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 3911,
+  "forks": 3915,
   "full_name": "ghostty-org/ghostty",
   "homepage": "https://ghostty.org",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-06",
   "latest_release": "tip",
   "license": "MIT",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 10678,
   "readme_hash": "69493b0ee866",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 372,
+    "gain7": 318,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 78.9,
+    "total": 78.4,
     "trending_days_30": 5,
-    "velocity": 0.6
+    "velocity": 0.58
   },
   "stars": {
     "2026-11-02": 63234,
@@ -60,7 +60,8 @@
     "2026-11-10": 63951,
     "2026-11-11": 63979,
     "2026-11-12": 64029,
-    "2026-11-13": 64062
+    "2026-11-13": 64062,
+    "2026-11-14": 64084
   },
   "topics": [],
   "trending": {

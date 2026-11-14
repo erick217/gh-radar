@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 4637,
+  "forks": 4649,
   "full_name": "p-e-w/heretic",
   "homepage": "https://heretic-project.org",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-04",
   "latest_release": "v2.1.0",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-14",
   "readme_chars": 15322,
   "readme_hash": "776e5a7f225e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 845,
+    "gain7": 764,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 77.6,
+    "total": 77.3,
     "trending_days_30": 2,
-    "velocity": 0.68
+    "velocity": 0.67
   },
   "stars": {
     "2026-11-03": 38305,
@@ -59,7 +59,8 @@
     "2026-11-10": 40176,
     "2026-11-11": 40250,
     "2026-11-12": 40349,
-    "2026-11-13": 40460
+    "2026-11-13": 40460,
+    "2026-11-14": 40561
   },
   "topics": [
     "abliteration",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 1659,
+  "forks": 1661,
   "full_name": "lz4/lz4",
   "homepage": "http://www.lz4.org",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 318,
+    "gain7": 127,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 74.2,
+    "total": 70.9,
     "trending_days_30": 2,
-    "velocity": 0.58
+    "velocity": 0.49
   },
   "stars": {
     "2026-11-06": 12479,
@@ -56,7 +56,8 @@
     "2026-11-10": 12744,
     "2026-11-11": 12756,
     "2026-11-12": 12778,
-    "2026-11-13": 12797
+    "2026-11-13": 12797,
+    "2026-11-14": 12778
   },
   "topics": [
     "c",

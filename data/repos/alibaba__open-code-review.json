@@ -1,0 +1,68 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "开发工具/代码质量与构建",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm 包和 v1.13.9 版本，提供安装命令、配置流程与完整文档，可直接用于 Git 变更审查。",
+    "summary": "阿里开源的 AI 代码审查 CLI，用确定性流程加 LLM Agent 生成行级评论。",
+    "tags": [
+      "AI代码审查",
+      "代码质量",
+      "CLI",
+      "LLM",
+      "Agent"
+    ]
+  },
+  "archived": false,
+  "contributors": 219,
+  "created_at": "2026-05-18",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 3790,
+  "full_name": "alibaba/open-code-review",
+  "homepage": "https://open-codereview.ai",
+  "install_hint": true,
+  "language": "Go",
+  "last_seen": "2026-11-14",
+  "latest_release": "v1.13.9",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 13981,
+  "readme_hash": "358443b8f176",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 645,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.3,
+    "trending_days_30": 1,
+    "velocity": 0.65
+  },
+  "stars": {
+    "2026-11-14": 50872
+  },
+  "topics": [
+    "agent",
+    "agent-skills",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "daily": 215
+    }
+  },
+  "url": "https://github.com/alibaba/open-code-review"
+}

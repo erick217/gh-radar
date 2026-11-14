@@ -1,0 +1,73 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "前端/UI组件",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 npm beta 包，提供 React/Vue/Svelte/Solid/Web Components 适配器及文档，可直接安装试用。",
+    "summary": "面向 Agent 构建界面的无头 UI 行为库，支持多框架。",
+    "tags": [
+      "无头UI",
+      "组件库",
+      "跨框架",
+      "可访问性",
+      "Agent"
+    ]
+  },
+  "archived": false,
+  "contributors": 5,
+  "created_at": "2026-10-26",
+  "description": "A library of behaviors for agents to build the next generation of user interfaces.",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 104,
+  "full_name": "vercel-labs/ui",
+  "homepage": "https://ui-sdk.dev",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-14",
+  "latest_release": "@ui-sdk/web@0.1.0-beta.2",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 5329,
+  "readme_hash": "e5836b6de094",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1487,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 73.8,
+    "trending_days_30": 0,
+    "velocity": 0.74
+  },
+  "stars": {
+    "2026-11-14": 4036
+  },
+  "topics": [
+    "accessibility",
+    "agent",
+    "agents",
+    "aria",
+    "behaviors",
+    "component",
+    "component-library",
+    "headless",
+    "mcp",
+    "react",
+    "solid",
+    "svelte",
+    "vue",
+    "web-components",
+    "webmcp"
+  ],
+  "trending": {},
+  "url": "https://github.com/vercel-labs/ui"
+}

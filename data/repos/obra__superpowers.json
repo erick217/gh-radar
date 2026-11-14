@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 28208,
+  "forks": 28262,
   "full_name": "obra/superpowers",
   "homepage": null,
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3740,
+    "gain7": 3602,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 0.8,
-    "total": 90.1,
+    "total": 89.9,
     "trending_days_30": 11,
     "velocity": 0.83
   },
@@ -64,7 +64,8 @@
     "2026-11-10": 315332,
     "2026-11-11": 315896,
     "2026-11-12": 316448,
-    "2026-11-13": 316941
+    "2026-11-13": 316941,
+    "2026-11-14": 317339
   },
   "topics": [
     "ai",

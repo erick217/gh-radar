@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 38060,
+  "forks": 38062,
   "full_name": "nodejs/node",
   "homepage": "https://nodejs.org",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-13",
   "latest_release": "v27.0.0-alpha.0.1.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 42938,
   "readme_hash": "fbe275f88231",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.53
   },
   "stars": {
-    "2026-11-13": 123658
+    "2026-11-13": 123658,
+    "2026-11-14": 123707
   },
   "topics": [
     "javascript",

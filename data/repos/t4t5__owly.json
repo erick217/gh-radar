@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 259,
+  "forks": 261,
   "full_name": "t4t5/owly",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 44,
+    "gain7": 46,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 64.5,
+    "total": 64.6,
     "trending_days_30": 0,
-    "velocity": 0.38
+    "velocity": 0.39
   },
   "stars": {
     "2026-11-06": 3292,
@@ -56,7 +56,8 @@
     "2026-11-10": 3316,
     "2026-11-11": 3325,
     "2026-11-12": 3328,
-    "2026-11-13": 3336
+    "2026-11-13": 3336,
+    "2026-11-14": 3344
   },
   "topics": [
     "airdrop",

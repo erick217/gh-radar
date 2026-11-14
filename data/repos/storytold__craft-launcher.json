@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1501,
+  "forks": 1504,
   "full_name": "storytold/craft-launcher",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v0.19.2",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-13",
   "readme_chars": 29231,
   "readme_hash": "dde5ed49565e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 299,
+    "gain7": 278,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 71.2,
+    "total": 70.9,
     "trending_days_30": 0,
-    "velocity": 0.58
+    "velocity": 0.57
   },
   "stars": {
     "2026-10-29": 4284,
@@ -64,7 +64,8 @@
     "2026-11-10": 5178,
     "2026-11-11": 5214,
     "2026-11-12": 5261,
-    "2026-11-13": 5293
+    "2026-11-13": 5293,
+    "2026-11-14": 5324
   },
   "topics": [],
   "trending": {},

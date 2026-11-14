@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 1843,
+  "forks": 1855,
   "full_name": "FareedKhan-dev/kimi-k3-in-c",
   "homepage": "https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1146,
+    "gain7": 968,
     "gain7_source": "snapshot",
     "health": 0.8,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 72.3,
+    "total": 71.7,
     "trending_days_30": 1,
-    "velocity": 0.71
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-05": 10538,
@@ -57,7 +57,8 @@
     "2026-11-10": 11522,
     "2026-11-11": 11694,
     "2026-11-12": 11853,
-    "2026-11-13": 11935
+    "2026-11-13": 11935,
+    "2026-11-14": 12008
   },
   "topics": [
     "avx2",

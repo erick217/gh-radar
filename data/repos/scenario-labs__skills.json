@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 330,
+  "forks": 331,
   "full_name": "scenario-labs/skills",
   "homepage": "https://www.skills.sh/scenario-labs/skills",
   "install_hint": true,
@@ -31,24 +31,22 @@
   "last_seen": "2026-11-06",
   "latest_release": "skills-v0.62.0",
   "license": "MIT",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-13",
   "readme_chars": 70795,
   "readme_hash": "32c350b99565",
   "score": {
     "excluded": null,
-    "flags": [
-      "单日暴涨"
-    ],
-    "gain7": 488,
+    "flags": [],
+    "gain7": 314,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.14,
+    "persistence": 0.44,
     "practical": 1.0,
-    "total": 59.7,
+    "total": 74.1,
     "trending_days_30": 2,
-    "velocity": 0.63
+    "velocity": 0.58
   },
   "stars": {
     "2026-11-05": 2635,
@@ -59,7 +57,8 @@
     "2026-11-10": 3640,
     "2026-11-11": 3665,
     "2026-11-12": 3710,
-    "2026-11-13": 3746
+    "2026-11-13": 3746,
+    "2026-11-14": 3764
   },
   "topics": [
     "3d-models",

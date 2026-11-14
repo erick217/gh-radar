@@ -1,0 +1,74 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "运维与云原生/监控与日志",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供官方 Docker 镜像、Docker Compose 部署方式和完整安装文档，可直接部署使用。",
+    "summary": "自托管网站与服务可用性监控工具，支持多种检测与通知。",
+    "tags": [
+      "自托管",
+      "监控",
+      "服务可用性",
+      "告警",
+      "Docker"
+    ]
+  },
+  "archived": false,
+  "contributors": 1160,
+  "created_at": "2021-07-03",
+  "description": "A fancy self-hosted monitoring tool",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 8729,
+  "full_name": "louislam/uptime-kuma",
+  "homepage": "https://uptime.kuma.pet",
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-14",
+  "latest_release": "2.5.11",
+  "license": "MIT",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 8212,
+  "readme_hash": "78914765600a",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 213,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 68.4,
+    "trending_days_30": 1,
+    "velocity": 0.54
+  },
+  "stars": {
+    "2026-11-14": 93972
+  },
+  "topics": [
+    "docker",
+    "monitor",
+    "monitoring",
+    "responsive",
+    "self-hosted",
+    "selfhosted",
+    "single-page-app",
+    "socket-io",
+    "uptime",
+    "uptime-monitoring",
+    "webapp",
+    "websocket"
+  ],
+  "trending": {
+    "2026-11-14": {
+      "daily": 71
+    }
+  },
+  "url": "https://github.com/louislam/uptime-kuma"
+}

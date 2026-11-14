@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 6391,
+  "forks": 6387,
   "full_name": "tailwindlabs/tailwindcss",
   "homepage": "https://tailwindcss.com/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 8,
+    "gain7": 21,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.8,
-    "total": 56.2,
+    "total": 59.3,
     "trending_days_30": 1,
-    "velocity": 0.22
+    "velocity": 0.31
   },
   "stars": {
     "2026-11-08": 98581,
@@ -54,7 +54,8 @@
     "2026-11-10": 98665,
     "2026-11-11": 98674,
     "2026-11-12": 98584,
-    "2026-11-13": 98587
+    "2026-11-13": 98587,
+    "2026-11-14": 98599
   },
   "topics": [
     "css",

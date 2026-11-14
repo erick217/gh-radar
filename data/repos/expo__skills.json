@@ -20,7 +20,7 @@
   "contributors": 31,
   "created_at": "2025-11-30",
   "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-  "details_at": "2026-11-07",
+  "details_at": "2026-11-14",
   "first_seen": "2026-10-31",
   "fork": false,
   "forks": 269,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-31",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-12",
-  "readme_chars": 8318,
-  "readme_hash": "6bbd0f578cc9",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 8315,
+  "readme_hash": "8be55f7690c9",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 61,
+    "gain7": 67,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 59.5,
+    "total": 59.8,
     "trending_days_30": 1,
-    "velocity": 0.42
+    "velocity": 0.43
   },
   "stars": {
     "2026-10-31": 3940,
@@ -62,7 +62,8 @@
     "2026-11-10": 4103,
     "2026-11-11": 4111,
     "2026-11-12": 4116,
-    "2026-11-13": 4129
+    "2026-11-13": 4129,
+    "2026-11-14": 4142
   },
   "topics": [],
   "trending": {

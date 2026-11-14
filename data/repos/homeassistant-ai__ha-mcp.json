@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 468,
+  "forks": 471,
   "full_name": "homeassistant-ai/ha-mcp",
   "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
   "install_hint": true,
@@ -31,28 +31,29 @@
   "last_seen": "2026-11-12",
   "latest_release": "v9.2.0.dev3452",
   "license": "MIT",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 46948,
   "readme_hash": "6fca1a896d24",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3484,
+    "gain7": 2707,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 84.0,
+    "total": 83.1,
     "trending_days_30": 3,
-    "velocity": 0.82
+    "velocity": 0.8
   },
   "stars": {
     "2026-11-10": 6221,
     "2026-11-11": 6841,
     "2026-11-12": 7570,
-    "2026-11-13": 7714
+    "2026-11-13": 7714,
+    "2026-11-14": 7768
   },
   "topics": [
     "ai",

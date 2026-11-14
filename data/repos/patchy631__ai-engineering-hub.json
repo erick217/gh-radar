@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 639,
+    "gain7": 510,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": true,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 67.7,
+    "total": 66.9,
     "trending_days_30": 1,
-    "velocity": 0.65
+    "velocity": 0.63
   },
   "stars": {
     "2026-11-02": 40623,
@@ -60,7 +60,8 @@
     "2026-11-10": 41673,
     "2026-11-11": 41732,
     "2026-11-12": 41785,
-    "2026-11-13": 41814
+    "2026-11-13": 41814,
+    "2026-11-14": 41848
   },
   "topics": [
     "agents",

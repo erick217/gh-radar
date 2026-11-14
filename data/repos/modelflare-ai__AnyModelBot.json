@@ -23,15 +23,15 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 48,
+  "forks": 51,
   "full_name": "modelflare-ai/AnyModelBot",
   "homepage": "https://anymodel.bot/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "latest_release": "v0.1.32",
   "license": "MIT",
-  "pushed_at": "2026-11-11",
+  "pushed_at": "2026-11-14",
   "readme_chars": 22324,
   "readme_hash": "2d0cb569ef0f",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-12": 3311,
-    "2026-11-13": 3494
+    "2026-11-13": 3494,
+    "2026-11-14": 3701
   },
   "topics": [
     "ai-agent",

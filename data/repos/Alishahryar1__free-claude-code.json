@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 10799,
+  "forks": 10848,
   "full_name": "Alishahryar1/free-claude-code",
   "homepage": null,
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-13",
   "latest_release": "v6.19.11",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-14",
   "readme_chars": 28281,
   "readme_hash": "1a596dcfd3ed",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.72
   },
   "stars": {
-    "2026-11-13": 69575
+    "2026-11-13": 69575,
+    "2026-11-14": 69973
   },
   "topics": [],
   "trending": {

@@ -1,0 +1,61 @@
+{
+  "ai": {
+    "at": "2026-11-14",
+    "category": "AI/AI应用",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可上传的 .skill 包和源码安装步骤，文档完整，并给出无需付费行情 API 的上手路径。",
+    "summary": "面向个人投资者的 Claude 交易工作流技能包，覆盖市场分析、复盘与风控。",
+    "tags": [
+      "Claude Skills",
+      "交易工作流",
+      "投资分析",
+      "风险管理",
+      "Python"
+    ]
+  },
+  "archived": false,
+  "contributors": 31,
+  "created_at": "2025-10-19",
+  "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+  "details_at": "2026-11-14",
+  "first_seen": "2026-11-14",
+  "fork": false,
+  "forks": 881,
+  "full_name": "tradermonty/claude-trading-skills",
+  "homepage": "https://tradermonty.github.io/claude-trading-skills/",
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-14",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-14",
+  "readme_chars": 43788,
+  "readme_hash": "9b9fea7d8501",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 207,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 60.8,
+    "trending_days_30": 1,
+    "velocity": 0.54
+  },
+  "stars": {
+    "2026-11-14": 4319
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-14": {
+      "daily": 69
+    }
+  },
+  "url": "https://github.com/tradermonty/claude-trading-skills"
+}

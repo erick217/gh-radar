@@ -23,7 +23,7 @@
   "details_at": "2026-11-11",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 326,
+  "forks": 325,
   "full_name": "tokio-rs/topcoat",
   "homepage": null,
   "install_hint": false,
@@ -37,21 +37,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 576,
-    "gain7_source": "trending-daily",
+    "gain7": 511,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.37,
     "practical": 0.8,
-    "total": 67.9,
+    "total": 70.4,
     "trending_days_30": 1,
-    "velocity": 0.64
+    "velocity": 0.63
   },
   "stars": {
     "2026-11-11": 6986,
     "2026-11-12": 7137,
-    "2026-11-13": 7173
+    "2026-11-13": 7173,
+    "2026-11-14": 7205
   },
   "topics": [],
   "trending": {

@@ -23,30 +23,30 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3421,
+  "forks": 3541,
   "full_name": "kingcharleslzy-ai/dsh-purge",
   "homepage": "https://github.com/kingcharleslzy-ai/dsh-purge/releases",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "latest_release": "v1.6.93",
   "license": "MIT",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-13",
   "readme_chars": 16249,
   "readme_hash": "f5dc55f47b04",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2961,
+    "gain7": 3245,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 79.3,
+    "total": 79.6,
     "trending_days_30": 0,
-    "velocity": 0.81
+    "velocity": 0.82
   },
   "stars": {
     "2026-10-29": 3346,
@@ -64,7 +64,8 @@
     "2026-11-10": 6298,
     "2026-11-11": 6727,
     "2026-11-12": 7202,
-    "2026-11-13": 7639
+    "2026-11-13": 7639,
+    "2026-11-14": 8047
   },
   "topics": [
     "agent-tools",

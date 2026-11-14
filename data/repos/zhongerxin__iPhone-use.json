@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 499,
+  "forks": 500,
   "full_name": "zhongerxin/iPhone-use",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 70,
+    "gain7": 66,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 62.1,
+    "total": 61.9,
     "trending_days_30": 0,
-    "velocity": 0.43
+    "velocity": 0.42
   },
   "stars": {
     "2026-10-29": 4760,
@@ -64,7 +64,8 @@
     "2026-11-10": 4962,
     "2026-11-11": 4975,
     "2026-11-12": 4984,
-    "2026-11-13": 4986
+    "2026-11-13": 4986,
+    "2026-11-14": 4998
   },
   "topics": [],
   "trending": {},

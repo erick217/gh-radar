@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 0,
+    "gain7": 7,
     "gain7_source": "snapshot",
     "health": 1.0,
-    "included": false,
+    "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 51.0,
+    "total": 58.3,
     "trending_days_30": 0,
-    "velocity": 0.0
+    "velocity": 0.21
   },
   "stars": {
     "2026-10-29": 3908,
@@ -64,7 +64,8 @@
     "2026-11-10": 3762,
     "2026-11-11": 3762,
     "2026-11-12": 3763,
-    "2026-11-13": 3765
+    "2026-11-13": 3765,
+    "2026-11-14": 3765
   },
   "topics": [
     "ai",

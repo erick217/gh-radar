@@ -23,7 +23,7 @@
   "details_at": "2026-11-08",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 552,
+  "forks": 554,
   "full_name": "Orkas-AI/Orkas",
   "homepage": "https://orkas.ai?source=gh-orkas",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-01",
   "latest_release": "v2026.11.4",
   "license": "MIT",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-14",
   "readme_chars": 26874,
   "readme_hash": "c5441dc28582",
   "score": {
@@ -61,7 +61,8 @@
     "2026-11-10": 9157,
     "2026-11-11": 9206,
     "2026-11-12": 9271,
-    "2026-11-13": 9315
+    "2026-11-13": 9315,
+    "2026-11-14": 9342
   },
   "topics": [
     "agent-collaboration",

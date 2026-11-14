@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 146,
+  "forks": 161,
   "full_name": "pookjw/HermesEnabler",
   "homepage": null,
   "install_hint": false,
@@ -49,7 +49,8 @@
     "velocity": 0.65
   },
   "stars": {
-    "2026-11-13": 1658
+    "2026-11-13": 1658,
+    "2026-11-14": 1786
   },
   "topics": [],
   "trending": {

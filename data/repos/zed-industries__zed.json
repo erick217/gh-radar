@@ -16,36 +16,36 @@
     ]
   },
   "archived": false,
-  "contributors": 2389,
+  "contributors": 2410,
   "created_at": "2021-02-20",
   "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-  "details_at": "2026-11-07",
+  "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11676,
+  "forks": 11698,
   "full_name": "zed-industries/zed",
   "homepage": "https://zed.dev",
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-11-13",
-  "latest_release": "v1.28.0-pre",
+  "last_seen": "2026-11-14",
+  "latest_release": "v1.29.1-pre",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-14",
   "readme_chars": 2852,
   "readme_hash": "584d76645134",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1206,
-    "gain7_source": "snapshot-partial",
+    "gain7": 1138,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 81.7,
-    "trending_days_30": 4,
-    "velocity": 0.72
+    "total": 82.9,
+    "trending_days_30": 5,
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-07": 93850,
@@ -54,7 +54,8 @@
     "2026-11-10": 94629,
     "2026-11-11": 94713,
     "2026-11-12": 94758,
-    "2026-11-13": 94884
+    "2026-11-13": 94884,
+    "2026-11-14": 94988
   },
   "topics": [
     "gpui",
@@ -74,6 +75,9 @@
     },
     "2026-11-13": {
       "weekly": 2339
+    },
+    "2026-11-14": {
+      "weekly": 2117
     }
   },
   "url": "https://github.com/zed-industries/zed"

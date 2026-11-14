@@ -23,12 +23,12 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2113,
+  "forks": 2138,
   "full_name": "xiaoyang111222/cn-math-taxonomy",
   "homepage": "https://math.pansgo.com/",
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "latest_release": null,
   "license": "NOASSERTION",
   "pushed_at": "2026-11-13",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1092,
+    "gain7": 1036,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.2,
+    "total": 68.0,
     "trending_days_30": 0,
-    "velocity": 0.71
+    "velocity": 0.7
   },
   "stars": {
     "2026-10-29": 5133,
@@ -64,7 +64,8 @@
     "2026-11-10": 7323,
     "2026-11-11": 7550,
     "2026-11-12": 7778,
-    "2026-11-13": 7912
+    "2026-11-13": 7912,
+    "2026-11-14": 7985
   },
   "topics": [
     "chinese",

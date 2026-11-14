@@ -23,12 +23,12 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1927,
+  "forks": 1955,
   "full_name": "wangzan101/Mika",
   "homepage": "https://mikaphone.com",
   "install_hint": false,
   "language": "Kotlin",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
   "latest_release": "v0.1.38",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-13",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1207,
+    "gain7": 1093,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.1,
+    "total": 75.7,
     "trending_days_30": 0,
-    "velocity": 0.72
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-02": 4479,
@@ -60,7 +60,8 @@
     "2026-11-10": 7967,
     "2026-11-11": 8132,
     "2026-11-12": 8304,
-    "2026-11-13": 8461
+    "2026-11-13": 8461,
+    "2026-11-14": 8551
   },
   "topics": [
     "accessibility",

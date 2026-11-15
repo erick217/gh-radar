@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 23010,
+  "forks": 23011,
   "full_name": "harry0703/MoneyPrinterTurbo",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2792,
+    "gain7": 2796,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -59,7 +59,7 @@
     "2026-11-12": 142708,
     "2026-11-13": 143060,
     "2026-11-14": 143528,
-    "2026-11-15": 143637
+    "2026-11-15": 143641
   },
   "topics": [
     "ai-video-generator",

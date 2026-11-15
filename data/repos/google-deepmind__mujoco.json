@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1273,
+    "gain7": 1275,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
@@ -54,7 +54,7 @@
     "2026-11-12": 17698,
     "2026-11-13": 17806,
     "2026-11-14": 17955,
-    "2026-11-15": 18004
+    "2026-11-15": 18006
   },
   "topics": [
     "mujoco",

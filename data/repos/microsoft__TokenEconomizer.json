@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 389,
+  "forks": 390,
   "full_name": "microsoft/TokenEconomizer",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1160,
+    "gain7": 1161,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -62,7 +62,7 @@
     "2026-11-12": 5759,
     "2026-11-13": 5974,
     "2026-11-14": 6107,
-    "2026-11-15": 6124
+    "2026-11-15": 6125
   },
   "topics": [
     "agentic-ai",

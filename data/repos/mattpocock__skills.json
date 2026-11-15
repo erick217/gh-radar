@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 27248,
+  "forks": 27254,
   "full_name": "mattpocock/skills",
   "homepage": "https://aihero.dev/skills",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6649,
+    "gain7": 6660,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -64,7 +64,7 @@
     "2026-11-12": 322347,
     "2026-11-13": 323262,
     "2026-11-14": 324325,
-    "2026-11-15": 324608
+    "2026-11-15": 324619
   },
   "topics": [],
   "trending": {

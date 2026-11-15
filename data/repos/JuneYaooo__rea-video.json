@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 1276,
+  "forks": 1278,
   "full_name": "JuneYaooo/rea-video",
   "homepage": "https://www.reavideo.ai/",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4911,
+    "gain7": 4930,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 81.0,
+    "total": 81.1,
     "trending_days_30": 0,
     "velocity": 0.86
   },
@@ -57,7 +57,7 @@
     "2026-11-12": 7234,
     "2026-11-13": 7654,
     "2026-11-14": 8450,
-    "2026-11-15": 8713
+    "2026-11-15": 8732
   },
   "topics": [
     "agent-skills",

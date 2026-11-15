@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1507,
+    "gain7": 1511,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -66,7 +66,7 @@
     "2026-11-12": 7165,
     "2026-11-13": 7373,
     "2026-11-14": 7699,
-    "2026-11-15": 7808
+    "2026-11-15": 7812
   },
   "topics": [
     "ai-agents",

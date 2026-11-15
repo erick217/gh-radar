@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 4777,
+  "forks": 4780,
   "full_name": "ChromeDevTools/chrome-devtools-mcp",
   "homepage": "https://developer.chrome.com/docs/devtools/agents",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-11-14": 56139,
-    "2026-11-15": 56446
+    "2026-11-15": 56459
   },
   "topics": [
     "browser",

@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 305,
+    "gain7": 306,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -66,7 +66,7 @@
     "2026-11-12": 6253,
     "2026-11-13": 6293,
     "2026-11-14": 6321,
-    "2026-11-15": 6327
+    "2026-11-15": 6328
   },
   "topics": [
     "agent-skill",

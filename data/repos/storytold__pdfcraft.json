@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 804,
+    "gain7": 806,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 74.6,
+    "total": 74.7,
     "trending_days_30": 0,
     "velocity": 0.68
   },
@@ -66,7 +66,7 @@
     "2026-11-12": 20447,
     "2026-11-13": 20544,
     "2026-11-14": 20713,
-    "2026-11-15": 20749
+    "2026-11-15": 20751
   },
   "topics": [
     "document-processing",

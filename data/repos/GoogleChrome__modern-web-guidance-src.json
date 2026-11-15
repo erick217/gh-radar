@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 460,
+  "forks": 468,
   "full_name": "GoogleChrome/modern-web-guidance-src",
   "homepage": "https://goo.gle/modern-web-guidance",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 9826,
+    "gain7": 9907,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
@@ -52,7 +52,7 @@
     "2026-11-12": 2053,
     "2026-11-13": 3715,
     "2026-11-14": 5671,
-    "2026-11-15": 6264
+    "2026-11-15": 6299
   },
   "topics": [],
   "trending": {

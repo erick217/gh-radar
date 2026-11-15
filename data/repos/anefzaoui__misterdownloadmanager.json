@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 799,
+  "forks": 802,
   "full_name": "anefzaoui/misterdownloadmanager",
   "homepage": "https://misterdownloadmanager.com",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 7043,
+    "gain7": 7063,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
@@ -54,7 +54,7 @@
     "2026-11-12": 7180,
     "2026-11-13": 8280,
     "2026-11-14": 9444,
-    "2026-11-15": 9714
+    "2026-11-15": 9728
   },
   "topics": [
     "bittorrent-client",

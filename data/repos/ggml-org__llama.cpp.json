@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 25630,
+  "forks": 25633,
   "full_name": "ggml-org/llama.cpp",
   "homepage": "https://llama.app",
   "install_hint": true,
@@ -51,7 +51,7 @@
   "stars": {
     "2026-11-13": 134739,
     "2026-11-14": 135035,
-    "2026-11-15": 135109
+    "2026-11-15": 135113
   },
   "topics": [
     "ggml"

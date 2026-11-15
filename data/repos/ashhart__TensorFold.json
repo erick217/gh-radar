@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 516,
+  "forks": 517,
   "full_name": "ashhart/TensorFold",
   "homepage": "https://tensorfold.dev",
   "install_hint": true,
@@ -51,7 +51,7 @@
   "stars": {
     "2026-11-13": 2026,
     "2026-11-14": 2118,
-    "2026-11-15": 2197
+    "2026-11-15": 2201
   },
   "topics": [
     "ai",

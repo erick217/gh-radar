@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 878,
+  "forks": 880,
   "full_name": "LNPANDY/NX2Apple",
   "homepage": "https://github.com/LNPANDY/NX2Apple#readme",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2012,
+    "gain7": 2018,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -59,7 +59,7 @@
     "2026-11-12": 6254,
     "2026-11-13": 6595,
     "2026-11-14": 6983,
-    "2026-11-15": 7077
+    "2026-11-15": 7083
   },
   "topics": [
     "apple-silicon",

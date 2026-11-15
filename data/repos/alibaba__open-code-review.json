@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 3966,
+  "forks": 3980,
   "full_name": "alibaba/open-code-review",
   "homepage": "https://open-codereview.ai",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-11-14": 51248,
-    "2026-11-15": 51558
+    "2026-11-15": 51568
   },
   "topics": [
     "agent",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 684,
+  "forks": 685,
   "full_name": "alchaincyf/huashu-art-motion",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 442,
+    "gain7": 443,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -66,7 +66,7 @@
     "2026-11-12": 6776,
     "2026-11-13": 6839,
     "2026-11-14": 6903,
-    "2026-11-15": 6926
+    "2026-11-15": 6927
   },
   "topics": [
     "agent-skills",

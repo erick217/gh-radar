@@ -22,7 +22,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 21533,
+  "forks": 21532,
   "full_name": "TheAlgorithms/Java",
   "homepage": null,
   "install_hint": false,
@@ -36,7 +36,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 201,
+    "gain7": 203,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": false,
@@ -51,7 +51,7 @@
     "2026-11-12": 67164,
     "2026-11-13": 67224,
     "2026-11-14": 67248,
-    "2026-11-15": 67250
+    "2026-11-15": 67251
   },
   "topics": [
     "algorithm",

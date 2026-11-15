@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 727,
+    "gain7": 728,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -59,7 +59,7 @@
     "2026-11-12": 5861,
     "2026-11-13": 5907,
     "2026-11-14": 5960,
-    "2026-11-15": 5987
+    "2026-11-15": 5988
   },
   "topics": [],
   "trending": {},

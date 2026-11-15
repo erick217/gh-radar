@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 532,
+    "gain7": 538,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
@@ -46,7 +46,7 @@
     "practical": 0.8,
     "total": 54.2,
     "trending_days_30": 0,
-    "velocity": 0.63
+    "velocity": 0.64
   },
   "stars": {
     "2026-11-06": 3119,
@@ -58,7 +58,7 @@
     "2026-11-12": 3497,
     "2026-11-13": 3605,
     "2026-11-14": 3696,
-    "2026-11-15": 3781
+    "2026-11-15": 3787
   },
   "topics": [],
   "trending": {},

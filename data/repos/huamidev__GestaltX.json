@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 2645,
+  "forks": 2647,
   "full_name": "huamidev/GestaltX",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5942,
+    "gain7": 5953,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
@@ -54,7 +54,7 @@
     "2026-11-12": 6631,
     "2026-11-13": 7083,
     "2026-11-14": 7533,
-    "2026-11-15": 7616
+    "2026-11-15": 7624
   },
   "topics": [],
   "trending": {},

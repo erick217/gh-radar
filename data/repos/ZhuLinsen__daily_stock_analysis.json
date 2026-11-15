@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 57498,
+  "forks": 57501,
   "full_name": "ZhuLinsen/daily_stock_analysis",
   "homepage": "https://dsa.zhulinsen.tech",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4175,
+    "gain7": 4186,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
@@ -54,7 +54,7 @@
     "2026-11-12": 70791,
     "2026-11-13": 71149,
     "2026-11-14": 72199,
-    "2026-11-15": 72300
+    "2026-11-15": 72308
   },
   "topics": [
     "a-stock",

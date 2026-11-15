@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 3497,
+  "forks": 3498,
   "full_name": "anthropics/claude-quickstarts",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1141,
+    "gain7": 1145,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
@@ -54,7 +54,7 @@
     "2026-11-12": 20783,
     "2026-11-13": 20817,
     "2026-11-14": 20951,
-    "2026-11-15": 21003
+    "2026-11-15": 21006
   },
   "topics": [],
   "trending": {

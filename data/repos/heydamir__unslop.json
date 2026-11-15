@@ -23,7 +23,7 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 945,
+  "forks": 946,
   "full_name": "heydamir/unslop",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4638,
+    "gain7": 4653,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -63,7 +63,7 @@
     "2026-11-12": 14745,
     "2026-11-13": 15310,
     "2026-11-14": 15921,
-    "2026-11-15": 16137
+    "2026-11-15": 16152
   },
   "topics": [],
   "trending": {},

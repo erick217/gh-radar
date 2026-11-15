@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 1494,
+  "forks": 1495,
   "full_name": "zortos293/Lichii",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3220,
+    "gain7": 3221,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -57,7 +57,7 @@
     "2026-11-12": 8621,
     "2026-11-13": 8835,
     "2026-11-14": 9136,
-    "2026-11-15": 9232
+    "2026-11-15": 9233
   },
   "topics": [],
   "trending": {},

@@ -15,7 +15,7 @@ description: "开发工具分类下的热门开源项目，共收录 12 个。"
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 阿里开源的 AI 代码审查 CLI，用确定性流程加 LLM Agent 生成行级评论。 | CLI工具 | Go | 51.6k | +2.7k | 79 |  |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言的官方主仓库，包含编译器、标准库与文档。 | 其他 | Rust | 121.9k | +333 | 73 |  |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言的官方主仓库，包含编译器、标准库与文档。 | 其他 | Rust | 121.9k | +334 | 73 |  |
 | [lz4/lz4](https://github.com/lz4/lz4) | 极快的无损压缩算法，提供库和命令行工具，压缩速度超500MB/s | 库 | C | 12.8k | +75 | 69 |  |
 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 用 Rust 编写的极快 Python linter 与代码格式化工具，可替代 Flake8、Black 等<br>提醒：单日暴涨 | CLI工具 | Rust | 51.3k | +223 | 57 |  |
 
@@ -31,7 +31,7 @@ description: "开发工具分类下的热门开源项目，共收录 12 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [zed-industries/zed](https://github.com/zed-industries/zed) | Rust 编写的高性能多人协作代码编辑器，支持 macOS、Linux 和 Windows。 | 桌面应用 | Rust | 95.0k | +683 | 81 |  |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | Rust 编写的高性能多人协作代码编辑器，支持 macOS、Linux 和 Windows。 | 桌面应用 | Rust | 95.0k | +684 | 81 |  |
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | Rust 重写的 IntelliJ 风格跨平台 IDE，集成编辑、调试、Git 与终端。 | 桌面应用 | TypeScript | 9.0k | +1.3k | 76 |  |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 微软开源的跨平台代码编辑器，支持编辑、调试与扩展。 | 桌面应用 | TypeScript | 195.4k | +243 | 72 |  |
 
@@ -45,4 +45,4 @@ description: "开发工具分类下的热门开源项目，共收录 12 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 管理 Git worktree 的命令行工具，便于并行运行多个 AI 编码代理。 | CLI工具 | Rust | 12.5k | +548 | 84 |  |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 管理 Git worktree 的命令行工具，便于并行运行多个 AI 编码代理。 | CLI工具 | Rust | 12.5k | +549 | 84 |  |

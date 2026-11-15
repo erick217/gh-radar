@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 2072,
+  "forks": 2073,
   "full_name": "Thysrael/Horizon",
   "homepage": "https://www.horizon1123.top",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1284,
+    "gain7": 1292,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -59,7 +59,7 @@
     "2026-11-12": 13853,
     "2026-11-13": 14012,
     "2026-11-14": 14245,
-    "2026-11-15": 14333
+    "2026-11-15": 14341
   },
   "topics": [
     "aggregator",

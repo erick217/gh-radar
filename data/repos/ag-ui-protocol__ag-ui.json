@@ -32,7 +32,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1712,
+  "forks": 1717,
   "full_name": "ag-ui-protocol/ag-ui",
   "homepage": "https://ag-ui.com",
   "install_hint": true,
@@ -59,7 +59,7 @@
   },
   "stars": {
     "2026-11-14": 17257,
-    "2026-11-15": 17448
+    "2026-11-15": 17459
   },
   "topics": [
     "ag-ui-protocol",

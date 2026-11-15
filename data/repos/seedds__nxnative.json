@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2814,
+  "forks": 2816,
   "full_name": "seedds/nxnative",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2083,
+    "gain7": 2089,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -66,7 +66,7 @@
     "2026-11-12": 14910,
     "2026-11-13": 15160,
     "2026-11-14": 15459,
-    "2026-11-15": 15549
+    "2026-11-15": 15555
   },
   "topics": [],
   "trending": {},

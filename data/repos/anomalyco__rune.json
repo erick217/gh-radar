@@ -23,7 +23,7 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 279,
+  "forks": 278,
   "full_name": "anomalyco/rune",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3176,
+    "gain7": 3177,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -56,7 +56,7 @@
     "2026-11-12": 6745,
     "2026-11-13": 6951,
     "2026-11-14": 7110,
-    "2026-11-15": 7180
+    "2026-11-15": 7181
   },
   "topics": [],
   "trending": {},

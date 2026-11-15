@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 965,
+  "forks": 972,
   "full_name": "backnotprop/plannotator",
   "homepage": "https://plannotator.ai",
   "install_hint": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-11-14": 10889,
-    "2026-11-15": 11325
+    "2026-11-15": 11353
   },
   "topics": [
     "agents",

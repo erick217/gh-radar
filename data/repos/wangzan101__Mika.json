@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1969,
+  "forks": 1972,
   "full_name": "wangzan101/Mika",
   "homepage": "https://mikaphone.com",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 991,
+    "gain7": 996,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -62,7 +62,7 @@
     "2026-11-12": 8304,
     "2026-11-13": 8461,
     "2026-11-14": 8597,
-    "2026-11-15": 8642
+    "2026-11-15": 8647
   },
   "topics": [
     "accessibility",

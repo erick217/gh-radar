@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 440,
+    "gain7": 441,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 57.5,
     "trending_days_30": 0,
-    "velocity": 0.61
+    "velocity": 0.62
   },
   "stars": {
     "2026-10-30": 3282,
@@ -65,7 +65,7 @@
     "2026-11-12": 4734,
     "2026-11-13": 4790,
     "2026-11-14": 4842,
-    "2026-11-15": 4860
+    "2026-11-15": 4861
   },
   "topics": [
     "chinese",

@@ -14,4 +14,4 @@ description: "数据分类下的热门开源项目，共收录 1 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 框架 | Python | 103.0k | +3.6k | 94 |  |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 框架 | Python | 103.1k | +3.6k | 94 |  |

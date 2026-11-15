@@ -22,7 +22,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 14044,
+  "forks": 14046,
   "full_name": "storytold/photocraft",
   "homepage": "https://getartcraft.com/apps/photocraft",
   "install_hint": false,
@@ -36,7 +36,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1646,
+    "gain7": 1650,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -65,7 +65,7 @@
     "2026-11-12": 78826,
     "2026-11-13": 79058,
     "2026-11-14": 79370,
-    "2026-11-15": 79447
+    "2026-11-15": 79451
   },
   "topics": [
     "art",

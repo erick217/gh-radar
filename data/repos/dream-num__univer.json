@@ -32,7 +32,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 2294,
+  "forks": 2296,
   "full_name": "dream-num/univer",
   "homepage": "https://univer.ai",
   "install_hint": true,
@@ -59,7 +59,7 @@
   },
   "stars": {
     "2026-11-14": 24350,
-    "2026-11-15": 25075
+    "2026-11-15": 25090
   },
   "topics": [
     "board",

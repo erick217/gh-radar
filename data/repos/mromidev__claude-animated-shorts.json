@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1714,
+    "gain7": 1718,
     "gain7_source": "age",
     "health": 0.4,
     "included": true,
@@ -50,7 +50,7 @@
   },
   "stars": {
     "2026-11-14": 3367,
-    "2026-11-15": 3429
+    "2026-11-15": 3435
   },
   "topics": [],
   "trending": {},

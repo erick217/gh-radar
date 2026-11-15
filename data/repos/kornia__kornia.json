@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 31,
+    "gain7": 32,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 66.0,
+    "total": 66.2,
     "trending_days_30": 2,
     "velocity": 0.35
   },
@@ -62,7 +62,7 @@
     "2026-11-12": 12375,
     "2026-11-13": 12377,
     "2026-11-14": 12383,
-    "2026-11-15": 12384
+    "2026-11-15": 12385
   },
   "topics": [
     "artificial-intelligence",

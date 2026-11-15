@@ -21,7 +21,7 @@ description: "安全分类下的热门开源项目，共收录 11 个。"
 | [qybaihe/bla](https://github.com/qybaihe/bla) | 通过投毒、资源耗尽等手段干扰 AI 逆向分析软件产物的防御工具。 | CLI工具 | TypeScript | 5.7k | +2.7k | 79 |  |
 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 开源可自托管的 AI 安全运营中心，聚合告警、AI 分诊并审计调查过程。 | 自托管服务 | Python | 7.7k | +985 | 77 |  |
 | [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Linux 上的 WiFi 安全审计桌面工具，可抓包、发现客户端、捕获握手包并破解密码。 | 桌面应用 | Rust | 6.0k | +810 | 74 |  |
-| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 用 adb 扫描 Android 应用权限、上报端点与数据流向的审计工具 | CLI工具 | Kotlin | 3.5k | +480 | 73 |  |
-| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 开源离线检测工具，用于排查设备中已知雇佣间谍软件的痕迹 | CLI工具 | Python | 4.9k | +295 | 71 |  |
+| [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 用 adb 扫描 Android 应用权限、上报端点与数据流向的审计工具 | CLI工具 | Kotlin | 3.5k | +483 | 73 |  |
+| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 开源离线检测工具，用于排查设备中已知雇佣间谍软件的痕迹 | CLI工具 | Python | 4.9k | +304 | 71 |  |
 | [openssl/openssl](https://github.com/openssl/openssl) | 通用 TLS 与密码学库，提供 SSL/TLS 协议实现及命令行加密工具 | 库 | C | 31.4k | +81 | 68 |  |
 | [mmparko/dsh-purge](https://github.com/mmparko/dsh-purge) | 针对 DeepSeek Harness 的越狱/红队插件，可切换模型提示词并修改本地策略。 | 其他 | JavaScript | 5.0k | +1.6k | 64 |  |

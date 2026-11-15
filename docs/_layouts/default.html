@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+<head>
+{% include head-custom.html %}
+</head>
+<body>
+<a class="radar-skip-link button-sm" href="#main-content">跳到主要内容</a>
+
+<header class="radar-nav-shell">
+  <nav class="radar-nav" aria-label="主导航">
+    <a class="radar-brand title-4" href="{{ '/' | relative_url }}">
+      <svg class="radar-icon" width="18" height="18" viewBox="0 0 256 256" fill="none" aria-hidden="true">
+        <circle cx="128" cy="128" r="96" stroke="currentColor" stroke-width="18"/>
+        <circle cx="128" cy="128" r="52" stroke="currentColor" stroke-width="18" opacity="0.65"/>
+        <path d="M128 128L194 62" stroke="currentColor" stroke-width="18" stroke-linecap="round"/>
+        <circle cx="128" cy="128" r="14" fill="currentColor"/>
+      </svg>
+      <span>GitHub 热门项目雷达</span>
+    </a>
+
+    <div class="radar-nav-links" role="list">
+      <a class="radar-nav-link title-4{% if page.nav_active == 'index' %} is-active{% endif %}" href="{{ '/' | relative_url }}"{% if page.nav_active == 'index' %} aria-current="page"{% endif %}>概览</a>
+      <a class="radar-nav-link title-4{% if page.nav_active == 'rising' %} is-active{% endif %}" href="{{ '/rising.html' | relative_url }}"{% if page.nav_active == 'rising' %} aria-current="page"{% endif %}>本周增速榜</a>
+      <a class="radar-nav-link title-4{% if page.nav_active == 'new' %} is-active{% endif %}" href="{{ '/new.html' | relative_url }}"{% if page.nav_active == 'new' %} aria-current="page"{% endif %}>7日新收录</a>
+      <a class="radar-nav-link title-4{% if page.nav_active == 'usage' %} is-active{% endif %}" href="{{ '/usage.html' | relative_url }}"{% if page.nav_active == 'usage' %} aria-current="page"{% endif %}>每日 Usage</a>
+    </div>
+
+    <div class="radar-nav-actions">
+      <button type="button" class="radar-theme-btn button-sm" id="radar-theme-toggle" aria-label="切换浅色或深色主题">
+        <svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true">
+          <circle cx="128" cy="128" r="56" stroke="currentColor" stroke-width="18"/>
+          <path d="M128 24V44M128 212V232M24 128H44M212 128H232M54.5 54.5L68.6 68.6M187.4 187.4L201.5 201.5M201.5 54.5L187.4 68.6M68.6 187.4L54.5 201.5" stroke="currentColor" stroke-width="18" stroke-linecap="round"/>
+        </svg>
+        <span class="radar-theme-label">跟随系统</span>
+      </button>
+      <a class="radar-nav-ext button-sm" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">
+        <span>GitHub</span>
+        <svg class="radar-icon" width="14" height="14" viewBox="0 0 256 256" fill="none" aria-hidden="true">
+          <path d="M64 192L192 64M96 64H192V160" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <button type="button" class="radar-menu-toggle button-sm" id="radar-menu-toggle" aria-expanded="false" aria-controls="radar-mobile-drawer" aria-label="打开导航菜单">
+        <span class="radar-hamburger" aria-hidden="true">
+          <span></span>
+          <span></span>
+        </span>
+      </button>
+    </div>
+  </nav>
+</header>
+
+<div class="radar-mobile-drawer" id="radar-mobile-drawer" aria-hidden="true">
+  <div class="radar-mobile-drawer-inner">
+    <a class="radar-mobile-link heading-5{% if page.nav_active == 'index' %} is-active{% endif %}" href="{{ '/' | relative_url }}">概览</a>
+    <a class="radar-mobile-link heading-5{% if page.nav_active == 'rising' %} is-active{% endif %}" href="{{ '/rising.html' | relative_url }}">本周增速榜</a>
+    <a class="radar-mobile-link heading-5{% if page.nav_active == 'new' %} is-active{% endif %}" href="{{ '/new.html' | relative_url }}">7日新收录</a>
+    <a class="radar-mobile-link heading-5{% if page.nav_active == 'usage' %} is-active{% endif %}" href="{{ '/usage.html' | relative_url }}">每日 Usage</a>
+    <a class="radar-mobile-link heading-5" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub 仓库</a>
+  </div>
+</div>
+
+<main id="main-content" class="radar-main">
+  {{ content }}
+</main>
+
+<footer class="radar-footer">
+  <div class="radar-footer-inner">
+    <div class="radar-footer-meta">
+      <p class="body-5">GitHub 热门项目雷达</p>
+      <p class="caption-2">由 GitHub Actions 每日采集、四维评分并调用 DeepSeek 生成中文摘要，原始数据公开归档于仓库。</p>
+    </div>
+    <div class="radar-footer-links caption-1">
+      <a href="{{ '/' | relative_url }}">首页概览</a>
+      <a href="{{ '/rising.html' | relative_url }}">本周增速榜</a>
+      <a href="{{ '/usage.html' | relative_url }}">每日 Usage</a>
+      <a href="{{ '/data.json' | relative_url }}">数据 JSON</a>
+      <a href="https://github.com/erick217/gh-radar/blob/main/README.md" target="_blank" rel="noopener">使用说明与条款</a>
+      <a href="https://github.com/erick217/gh-radar/security" target="_blank" rel="noopener">隐私与安全</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

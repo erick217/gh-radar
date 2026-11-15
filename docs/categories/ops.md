@@ -1,8 +1,16 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "运维与云原生"
+description: "运维与云原生分类下的热门开源项目，共收录 5 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>☁️ 运维与云原生</h1><p class="radar-page-desc">共收录 <strong>5</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">运维与云原生</h1>
+<p class="body-3 radar-page-desc">共收录 5 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## 监控与日志（3）
+<h2 class="heading-5 radar-sub-heading">监控与日志（3）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -10,7 +18,7 @@
 | [shanselman/gputaskman](https://github.com/shanselman/gputaskman) | 终端里的 GPU 任务管理器，按进程查看显存与 LLM 缓存占用。 | CLI工具 | Python | 3.2k | +1.9k | 75 |  |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 开源的指标监控与时序数据库系统，采集、查询并告警 | 自托管服务 | Go | 67.6k | +121 | 71 |  |
 
-## 容器与编排（2）
+<h2 class="heading-5 radar-sub-heading">容器与编排（2）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

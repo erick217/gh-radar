@@ -1,4 +1,4 @@
-"""页面渲染与 DeepSeek Usage 表格统计的离线测试。"""
+"""页面渲染与简易每日 DeepSeek Usage 表格的离线测试。"""
 from __future__ import annotations
 
 import json
@@ -107,25 +107,22 @@ def _sample_repos() -> dict[str, dict]:
 
 
 class RenderTests(unittest.TestCase):
-    def test_summarize_ai_billing_groups_daily_and_records(self):
+    def test_summarize_ai_billing_groups_daily_totals(self):
         with patch.object(render_mod, "today", return_value="2026-11-14"):
             billing = summarize_ai_billing(_sample_repos())
         self.assertEqual(billing["classified_total"], 3)
         self.assertEqual(billing["billed_count"], 2)
         self.assertEqual(billing["unbilled_count"], 1)
-        self.assertEqual(billing["prompt_tokens"], 4000)
-        self.assertEqual(billing["cache_hit_tokens"], 1500)
-        self.assertEqual(billing["cache_miss_tokens"], 2500)
-        self.assertEqual(billing["completion_tokens"], 750)
-        self.assertEqual(billing["reasoning_tokens"], 300)
         self.assertEqual(billing["total_tokens"], 4750)
         self.assertEqual(billing["cost_cny"], 0.01106)
         self.assertEqual(billing["today_billed"], 1)
         self.assertEqual(billing["today_cost_cny"], 0.00804)
-        self.assertEqual([d["date"] for d in billing["daily"]], ["2026-11-14", "2026-11-13"])
-        self.assertEqual([r["full_name"] for r in billing["records"]], ["owner/alpha", "owner/beta"])
+        self.assertEqual(billing["daily"], [
+            {"date": "2026-11-14", "total_tokens": 3500, "cost_cny": 0.00804},
+            {"date": "2026-11-13", "total_tokens": 1250, "cost_cny": 0.00302},
+        ])
 
-    def test_render_writes_usage_table_and_dashboard_pages(self):
+    def test_render_writes_simple_daily_usage_table_and_landing_sections(self):
         with TemporaryDirectory() as tmp:
             root = Path(tmp)
             docs = root / "docs"
@@ -134,12 +131,11 @@ class RenderTests(unittest.TestCase):
                 "# Title\n\n<!-- radar:start -->\nold\n<!-- radar:end -->\n",
                 encoding="utf-8",
             )
-            settings = {"ai": {"pricing": {"input_cache_hit": 0.04, "input_cache_miss": 2.0, "output": 8.0}}}
             with patch.object(render_mod, "ROOT", root), \
                     patch.object(render_mod, "DOCS_DIR", docs), \
                     patch.object(render_mod, "today", return_value="2026-11-14"), \
                     patch.object(render_mod, "days_ago", return_value="2026-11-07"):
-                summary = render(_sample_repos(), {}, settings)
+                summary = render(_sample_repos(), {})
 
             self.assertEqual(summary["included"], 3)
             self.assertEqual(summary["billed_repos"], 2)
@@ -147,22 +143,28 @@ class RenderTests(unittest.TestCase):
             self.assertEqual(summary["cost_cny"], 0.01106)
 
             usage_md = (docs / "usage.md").read_text(encoding="utf-8")
-            self.assertIn("| 周期 | 调用次数 | 输入 Tokens |", usage_md)
-            self.assertIn("| 2026-11-14 | 1 | 3,000 | 1,000 | 33.3% | 2,000 | 500（含思维链 200） | 3,500 | ¥0.0080 |", usage_md)
-            self.assertIn("[owner/alpha](https://github.com/owner/alpha)", usage_md)
-            self.assertIn("| 输入（缓存命中） | ¥0.04 |", usage_md)
+            self.assertIn("nav_active: usage", usage_md)
+            self.assertIn("| 日期 | 总 Tokens | 花费 (¥) |", usage_md)
+            self.assertIn("| 2026-11-14 | 3,500 | ¥0.0080 |", usage_md)
+            self.assertIn("| 2026-11-13 | 1,250 | ¥0.0030 |", usage_md)
+            self.assertNotIn("单项目调用明细", usage_md)
+            self.assertNotIn("计费单价参考", usage_md)
 
             usage_json = json.loads((docs / "usage.json").read_text(encoding="utf-8"))
             self.assertEqual(usage_json["cost_cny"], 0.01106)
+            self.assertEqual(len(usage_json["daily"]), 2)
 
             index_md = (docs / "index.md").read_text(encoding="utf-8")
-            self.assertIn('class="radar-nav"', index_md)
-            self.assertIn('class="radar-cat-grid"', index_md)
-            self.assertIn("| 周期 | 调用次数 | 输入 Tokens |", index_md)
+            self.assertIn("nav_active: index", index_md)
+            self.assertIn('class="radar-hero"', index_md)
+            self.assertIn('class="radar-tagline-section"', index_md)
+            self.assertIn('class="radar-faq-list"', index_md)
+            self.assertIn("| 日期 | 总 Tokens | 花费 (¥) |", index_md)
 
             readme_md = (root / "README.md").read_text(encoding="utf-8")
-            self.assertIn("**DeepSeek API 用量与计费**", readme_md)
-            self.assertIn("| 累计（已记录） | 2 | 4,000 | 1,500 | 37.5% | 2,500 | 750（含思维链 300） | 4,750 | ¥0.0111 |", readme_md)
+            self.assertIn("**DeepSeek 每日 Usage**", readme_md)
+            self.assertIn("| 日期 | 总 Tokens | 花费 (¥) |", readme_md)
+            self.assertIn("| 2026-11-14 | 3,500 | ¥0.0080 |", readme_md)
 
 
 if __name__ == "__main__":

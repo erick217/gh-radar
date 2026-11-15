@@ -1,8 +1,16 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "学习资源"
+description: "学习资源分类下的热门开源项目，共收录 8 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>📚 学习资源</h1><p class="radar-page-desc">共收录 <strong>8</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">学习资源</h1>
+<p class="body-3 radar-page-desc">共收录 8 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## 资源合集（6）
+<h2 class="heading-5 radar-sub-heading">资源合集（6）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -13,7 +21,7 @@
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 41.9k | +417 | 66 |  |
 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.1k | +311 | 64 |  |
 
-## 教程与课程（2）
+<h2 class="heading-5 radar-sub-heading">教程与课程（2）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

@@ -1,17 +1,25 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "开发工具"
+description: "开发工具分类下的热门开源项目，共收录 12 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>🛠️ 开发工具</h1><p class="radar-page-desc">共收录 <strong>12</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">开发工具</h1>
+<p class="body-3 radar-page-desc">共收录 12 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## 代码质量与构建（4）
+<h2 class="heading-5 radar-sub-heading">代码质量与构建（4）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 阿里开源的 AI 代码审查 CLI，用确定性流程加 LLM Agent 生成行级评论。 | CLI工具 | Go | 51.6k | +2.7k | 79 |  |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust 语言的官方主仓库，包含编译器、标准库与文档。 | 其他 | Rust | 121.9k | +333 | 73 |  |
 | [lz4/lz4](https://github.com/lz4/lz4) | 极快的无损压缩算法，提供库和命令行工具，压缩速度超500MB/s | 库 | C | 12.8k | +75 | 69 |  |
-| [astral-sh/ruff](https://github.com/astral-sh/ruff) | 用 Rust 编写的极快 Python linter 与代码格式化工具，可替代 Flake8、Black 等<br>⚠️ 单日暴涨 | CLI工具 | Rust | 51.3k | +223 | 57 |  |
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | 用 Rust 编写的极快 Python linter 与代码格式化工具，可替代 Flake8、Black 等<br>提醒：单日暴涨 | CLI工具 | Rust | 51.3k | +223 | 57 |  |
 
-## CLI工具（3）
+<h2 class="heading-5 radar-sub-heading">CLI工具（3）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +27,7 @@
 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 基于 Tailscale 数据平面的 netcat 替代工具，实现端到端加密点对点传输 | CLI工具 | Go | 9.9k | +768 | 73 |  |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node.js 版本管理器，可在命令行快速安装和切换多个 Node 版本。 | CLI工具 | Shell | 96.1k | +189 | 68 |  |
 
-## 编辑器与插件（3）
+<h2 class="heading-5 radar-sub-heading">编辑器与插件（3）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -27,13 +35,13 @@
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | Rust 重写的 IntelliJ 风格跨平台 IDE，集成编辑、调试、Git 与终端。 | 桌面应用 | TypeScript | 9.0k | +1.3k | 76 |  |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 微软开源的跨平台代码编辑器，支持编辑、调试与扩展。 | 桌面应用 | TypeScript | 195.4k | +243 | 72 |  |
 
-## 测试与调试（1）
+<h2 class="heading-5 radar-sub-heading">测试与调试（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
 | [floci-io/floci](https://github.com/floci-io/floci) | 本地模拟 AWS 服务的开源工具，用于开发、测试和 CI | 自托管服务 | Java | 31.7k | +716 | 78 |  |
 
-## Git与协作（1）
+<h2 class="heading-5 radar-sub-heading">Git与协作（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

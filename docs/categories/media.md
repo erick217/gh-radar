@@ -1,8 +1,16 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "多媒体"
+description: "多媒体分类下的热门开源项目，共收录 17 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>🎬 多媒体</h1><p class="radar-page-desc">共收录 <strong>17</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">多媒体</h1>
+<p class="body-3 radar-page-desc">共收录 17 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## 音视频（9）
+<h2 class="heading-5 radar-sub-heading">音视频（9）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -16,7 +24,7 @@
 | [storytold/soundcraft](https://github.com/storytold/soundcraft) | 纯 Rust 编写的开源数字音频工作站，支持录音、编辑、混音与插件。 | 桌面应用 | Rust | 4.4k | +196 | 70 |  |
 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | Claude 技能：用 three.js 和 Remotion 制作竖屏动画短片 | 其他 | TypeScript | 3.4k | +1.7k | 55 |  |
 
-## 图像（7）
+<h2 class="heading-5 radar-sub-heading">图像（7）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -28,7 +36,7 @@
 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Qwen-Image 本地出图技能包，含提示词配方与 136 姿势控制 | 其他 | Python | 4.4k | +177 | 65 |  |
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 244 个代码实现的像素特效库，可导出精灵表并配 Claude Code 技能 | 库 | JavaScript | 7.5k | +1.6k | 62 |  |
 
-## 下载工具（1）
+<h2 class="heading-5 radar-sub-heading">下载工具（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

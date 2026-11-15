@@ -1,8 +1,16 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "效率与自托管"
+description: "效率与自托管分类下的热门开源项目，共收录 9 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>⚡ 效率与自托管</h1><p class="radar-page-desc">共收录 <strong>9</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">效率与自托管</h1>
+<p class="body-3 radar-page-desc">共收录 9 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## 自动化（6）
+<h2 class="heading-5 radar-sub-heading">自动化（6）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -13,14 +21,14 @@
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 用 AI 聚合多源新闻并生成中英文每日简报的新闻雷达。 | CLI工具 | Python | 14.3k | +1.3k | 70 |  |
 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 基于 Node.js 的 SheerID 验证流程教学研究工作台，含 Web 队列与浏览器自动化。 | Web应用 | JavaScript | 3.2k | +2.5k | 57 |  |
 
-## 自托管服务（2）
+<h2 class="heading-5 radar-sub-heading">自托管服务（2）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
 | [we-promise/sure](https://github.com/we-promise/sure) | 开源个人财务管理应用，可自托管并支持 AI 助手 | 自托管服务 | Ruby | 15.4k | +5.5k | 88 |  |
 | [mbillow/localthings](https://github.com/mbillow/localthings) | 通过局域网在 Home Assistant 中本地控制三星家电，无需云端账号。 | 其他 | Python | 1.3k | +239 | 68 |  |
 
-## 笔记与知识管理（1）
+<h2 class="heading-5 radar-sub-heading">笔记与知识管理（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

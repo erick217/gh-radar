@@ -1,8 +1,16 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "AI"
+description: "AI分类下的热门开源项目，共收录 100 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>🤖 AI</h1><p class="radar-page-desc">共收录 <strong>100</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">AI</h1>
+<p class="body-3 radar-page-desc">共收录 100 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## Agent（71）
+<h2 class="heading-5 radar-sub-heading">Agent（71）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -78,7 +86,7 @@
 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 一套 Claude 技能，用于逆向分析应用并重建功能与流程。 | 其他 | Python | 9.4k | +1.1k | 56 |  |
 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 面向 AI 编程代理的软件工程规范技能，结合质量门禁约束代码质量 | 其他 |  | 8.0k | +704 | 55 |  |
 
-## AI应用（12）
+<h2 class="heading-5 radar-sub-heading">AI应用（12）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -95,7 +103,7 @@
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 本地多模态文件语义搜索桌面应用，用自然语言查找照片、音频、视频和文档。 | 桌面应用 | Swift | 6.4k | +111 | 68 |  |
 | [Folkbench/folkbench](https://github.com/Folkbench/folkbench) | 评测 AI API 中转站并一键切换 Claude Code 等工具配置的桌面客户端 | 桌面应用 | Rust | 3.8k | +4 | 57 |  |
 
-## 模型推理与部署（7）
+<h2 class="heading-5 radar-sub-heading">模型推理与部署（7）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -107,7 +115,7 @@
 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 纯 C99 实现的 CPU 推理引擎，可在 8GB 内存流式运行 Kimi K3 | CLI工具 | C | 12.1k | +832 | 71 |  |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 微软开源语音模型家族，提供长音频识别与实时多说话人语音合成。 | 模型或数据集 | Python | 57.2k | +455 | 62 |  |
 
-## MCP与工具集成（6）
+<h2 class="heading-5 radar-sub-heading">MCP与工具集成（6）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -118,7 +126,7 @@
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 让 Codex 等 AI 助手通过 USB 操作真实 iPhone 的本地 MCP 工具。 | 自托管服务 | Python | 5.0k | +62 | 62 |  |
 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 把 Spotify Portal 接入 Claude Code、Cursor 等 AI 编程工具的插件集。 | 其他 | TypeScript | 3.2k | +66 | 60 |  |
 
-## 模型训练与微调（3）
+<h2 class="heading-5 radar-sub-heading">模型训练与微调（3）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -126,7 +134,7 @@
 | [kornia/kornia](https://github.com/kornia/kornia) | 基于 PyTorch 的可微计算机视觉库，提供图像处理与几何算法 | 库 | Python | 12.4k | +31 | 66 |  |
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 面向金融K线序列的开源基础模型，支持预测与微调。 | 模型或数据集 | Python | 47.8k | +536 | 63 |  |
 
-## RAG与知识库（1）
+<h2 class="heading-5 radar-sub-heading">RAG与知识库（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

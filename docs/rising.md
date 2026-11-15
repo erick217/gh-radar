@@ -1,6 +1,15 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="index.html">概览</a><a class="radar-nav-link" href="new.html">7日新收录</a><a class="radar-nav-link is-active" href="rising.html">本周增速榜</a><a class="radar-nav-link" href="usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "本周增速榜"
+description: "最近 7 天 Star 增速排名前 30 的开源项目。"
+nav_active: rising
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="index.html">← 返回首页概览</a></div><h1>🔥 本周增速榜 Top 30</h1><p class="radar-page-desc">更新于 2026-11-15 14:12（北京时间） · 按最近 7 天 Star 增量排序，支持搜索、语言筛选与点击表头排序。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">本周增速榜 Top 30</h1>
+<p class="body-3 radar-page-desc">更新于 2026-11-15 14:49（北京时间） · 按最近 7 天 Star 增量排序，支持搜索、语言筛选与点击表头排序。</p>
+</section>
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|

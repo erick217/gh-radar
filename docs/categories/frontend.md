@@ -1,8 +1,16 @@
-<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
+---
+layout: default
+title: "前端"
+description: "前端分类下的热门开源项目，共收录 9 个。"
+---
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>🎨 前端</h1><p class="radar-page-desc">共收录 <strong>9</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<section class="radar-page-head">
+<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1 class="heading-3">前端</h1>
+<p class="body-3 radar-page-desc">共收录 9 个项目，各子分类按综合评分由高到低排列。</p>
+</section>
 
-## 框架（4）
+<h2 class="heading-5 radar-sub-heading">框架（4）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +19,7 @@
 | [angular/angular](https://github.com/angular/angular) | 基于 TypeScript 的 Web 应用开发框架，用于构建移动端和桌面端应用 | 框架 | TypeScript | 101.5k | +36 | 65 |  |
 | [expo/exact](https://github.com/expo/exact) | 跨平台应用运行时，声明式界面可编译到 Web/iOS/macOS/Linux | 框架 | Rust | 4.2k | +2.3k | 56 |  |
 
-## UI组件（4）
+<h2 class="heading-5 radar-sub-heading">UI组件（4）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -20,7 +28,7 @@
 | [vercel-labs/ui](https://github.com/vercel-labs/ui) | 面向 Agent 构建界面的无头 UI 行为库，支持多框架。 | 库 | TypeScript | 4.7k | +1.6k | 74 |  |
 | [obsidianmd/pele](https://github.com/obsidianmd/pele) | 同步将 Mermaid 文本渲染为 SVG 的轻量无依赖库 | 库 | TypeScript | 4.5k | +170 | 69 |  |
 
-## 构建与工程化（1）
+<h2 class="heading-5 radar-sub-heading">构建与工程化（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

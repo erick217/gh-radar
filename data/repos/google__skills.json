@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 2013,
+  "forks": 2017,
   "full_name": "google/skills",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1266,
+    "gain7": 761,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 75.7,
+    "total": 74.0,
     "trending_days_30": 5,
-    "velocity": 0.72
+    "velocity": 0.67
   },
   "stars": {
     "2026-11-06": 22534,
@@ -57,7 +57,8 @@
     "2026-11-11": 23843,
     "2026-11-12": 23983,
     "2026-11-13": 24103,
-    "2026-11-14": 24225
+    "2026-11-14": 24225,
+    "2026-11-15": 24297
   },
   "topics": [
     "google",

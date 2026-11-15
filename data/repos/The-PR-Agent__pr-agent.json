@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 2200,
+  "forks": 2204,
   "full_name": "The-PR-Agent/pr-agent",
   "homepage": "https://www.pr-agent.ai",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-11",
   "latest_release": "v0.50.0",
   "license": "MIT",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 10656,
   "readme_hash": "805de5f0c1d2",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 810,
+    "gain7": 689,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.72,
     "practical": 1.0,
-    "total": 83.1,
+    "total": 82.5,
     "trending_days_30": 6,
-    "velocity": 0.68
+    "velocity": 0.66
   },
   "stars": {
     "2026-11-05": 14926,
@@ -58,7 +58,8 @@
     "2026-11-11": 15905,
     "2026-11-12": 15971,
     "2026-11-13": 16043,
-    "2026-11-14": 16158
+    "2026-11-14": 16158,
+    "2026-11-15": 16186
   },
   "topics": [
     "ai",

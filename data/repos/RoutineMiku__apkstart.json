@@ -1,0 +1,76 @@
+{
+  "ai": {
+    "at": "2026-11-15",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可直接下载安装的 EXE 与便携包，具备完整运行时部署和文档，普通用户现即可上手使用。",
+    "summary": "在 Windows 上双击安装并运行安卓 APK 的桌面工具",
+    "tags": [
+      "Android",
+      "APK",
+      "Windows",
+      "QEMU",
+      "模拟器"
+    ],
+    "usage": {
+      "completion_tokens": 230,
+      "cost_cny": 0.012032,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 5083,
+      "prompt_tokens": 5723,
+      "reasoning_tokens": 143,
+      "total_tokens": 5953
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-29",
+  "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
+  "details_at": "2026-11-15",
+  "first_seen": "2026-11-15",
+  "fork": false,
+  "forks": 325,
+  "full_name": "RoutineMiku/apkstart",
+  "homepage": null,
+  "install_hint": true,
+  "language": "JavaScript",
+  "last_seen": "2026-11-15",
+  "latest_release": "v0.4.3",
+  "license": "MIT",
+  "pushed_at": "2026-11-15",
+  "readme_chars": 10277,
+  "readme_hash": "833e4da3cd7a",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1693,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 66.8,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-15": 4112
+  },
+  "topics": [
+    "android",
+    "android-x86",
+    "apk",
+    "electron",
+    "emulator",
+    "freeform",
+    "qemu",
+    "windows",
+    "wsa"
+  ],
+  "trending": {},
+  "url": "https://github.com/RoutineMiku/apkstart"
+}

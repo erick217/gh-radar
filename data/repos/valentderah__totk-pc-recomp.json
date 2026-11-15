@@ -23,12 +23,12 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 584,
+  "forks": 589,
   "full_name": "valentderah/totk-pc-recomp",
   "homepage": null,
   "install_hint": false,
   "language": "C",
-  "last_seen": "2026-11-14",
+  "last_seen": "2026-11-15",
   "latest_release": "v0.3.13",
   "license": "MIT",
   "pushed_at": "2026-11-14",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1710,
+    "gain7": 1526,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 73.3,
+    "total": 72.9,
     "trending_days_30": 0,
-    "velocity": 0.75
+    "velocity": 0.74
   },
   "stars": {
     "2026-11-03": 4179,
@@ -60,7 +60,8 @@
     "2026-11-11": 6529,
     "2026-11-12": 6808,
     "2026-11-13": 6985,
-    "2026-11-14": 7201
+    "2026-11-14": 7201,
+    "2026-11-15": 7268
   },
   "topics": [
     "game",

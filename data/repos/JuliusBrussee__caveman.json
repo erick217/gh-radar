@@ -32,12 +32,12 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 6993,
+  "forks": 7006,
   "full_name": "JuliusBrussee/caveman",
   "homepage": "https://docs.caveman.so/caveman",
   "install_hint": true,
   "language": "Go",
-  "last_seen": "2026-11-14",
+  "last_seen": "2026-11-15",
   "latest_release": "v4.1.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-14",
@@ -51,14 +51,15 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 72.5,
-    "trending_days_30": 1,
+    "total": 73.9,
+    "trending_days_30": 2,
     "velocity": 0.66
   },
   "stars": {
-    "2026-11-14": 119915
+    "2026-11-14": 119915,
+    "2026-11-15": 120167
   },
   "topics": [
     "ai",
@@ -74,6 +75,9 @@
   ],
   "trending": {
     "2026-11-14": {
+      "daily": 227
+    },
+    "2026-11-15": {
       "daily": 227
     }
   },

@@ -12,23 +12,23 @@
 
 | 周期 | 调用次数 | 输入 Tokens | 缓存命中 | 命中率 | 缓存未命中 | 输出 Tokens（思维链） | 总 Tokens | 花费 (¥) |
 |---|---|---|---|---|---|---|---|---|
-| 今日（2026-11-15） | 0 | 0 | 0 | 0.0% | 0 | 0 | 0 | ¥0.0000 |
-| 累计（已记录） | 6 | 21,724 | 3,840 | 17.7% | 17,884 | 3,190（含思维链 2,655） | 24,914 | ¥0.0614 |
+| 今日（2026-11-15） | 3 | 16,298 | 1,920 | 11.8% | 14,378 | 978（含思维链 700） | 17,276 | ¥0.0367 |
+| 累计（已记录） | 9 | 38,022 | 5,760 | 15.1% | 32,262 | 4,168（含思维链 3,355） | 42,190 | ¥0.0981 |
 
-**本周增速 Top 10**（2026-11-15 更新，共收录 213 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-15 更新，共收录 214 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 前端/UI组件 | 库 | TypeScript | 27.9k | +15.3k | 94 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 32.6k | +13.8k | 77 |  |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 通过用户名在 400+ 社交网络批量检索账号的 OSINT 命令行工具 | 安全/安全工具 | CLI工具 | Python | 111.7k | +12.3k | 90 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 60.4k | +10.2k | 98 |  |
-| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | Jane Street 的 AI Agent 技能合集，目前含苏格拉底式导师技能。 | AI/Agent | 资源列表 |  | 8.5k | +9.9k | 60 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 22.6k | +9.4k | 72 |  |
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 9.4k | +8.3k | 83 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 72.4k | +8.0k | 84 |  |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 324.3k | +7.4k | 96 |  |
-| [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | iOS 27 上的 MobileGestalt 编辑器，可修改区域码与设备功能开关。 | 其他/其他 | 移动应用 | Swift | 7.5k | +7.3k | 78 |  |
+| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 前端/UI组件 | 库 | TypeScript | 28.3k | +13.5k | 94 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 33.0k | +11.7k | 76 |  |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 通过用户名在 400+ 社交网络批量检索账号的 OSINT 命令行工具 | 安全/安全工具 | CLI工具 | Python | 111.9k | +10.8k | 91 |  |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 为编码代理注入现代 Web 平台知识与最佳实践的技能源仓库 | AI/Agent | CLI工具 | TypeScript | 6.3k | +9.8k | 89 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 60.8k | +9.2k | 97 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 23.0k | +8.1k | 71 |  |
+| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | Jane Street 的 AI Agent 技能合集，目前含苏格拉底式导师技能。 | AI/Agent | 资源列表 |  | 8.7k | +7.7k | 60 |  |
+| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 9.7k | +7.0k | 82 |  |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 72.8k | +6.7k | 84 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 324.6k | +6.6k | 96 |  |
 
 <!-- radar:end -->
 

@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-15",
+    "category": "效率与自托管/自动化",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装运行的 Node.js Web 工作台、CLI、配置与部署文档，具备完整上手与运行产物。",
+    "summary": "基于 Node.js 的 SheerID 验证流程教学研究工作台，含 Web 队列与浏览器自动化。",
+    "tags": [
+      "SheerID",
+      "浏览器自动化",
+      "任务队列",
+      "Node.js",
+      "教学研究"
+    ],
+    "usage": {
+      "completion_tokens": 455,
+      "cost_cny": 0.0155,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 5917,
+      "prompt_tokens": 6557,
+      "reasoning_tokens": 358,
+      "total_tokens": 7012
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-06",
+  "description": "",
+  "details_at": "2026-11-15",
+  "first_seen": "2026-11-15",
+  "fork": false,
+  "forks": 1506,
+  "full_name": "JenkinWoo/sheeridVerify",
+  "homepage": null,
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-15",
+  "latest_release": null,
+  "license": "ISC",
+  "pushed_at": "2026-11-06",
+  "readme_chars": 17287,
+  "readme_hash": "beecc3c9ab23",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2475,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 56.6,
+    "trending_days_30": 0,
+    "velocity": 0.79
+  },
+  "stars": {
+    "2026-11-15": 3182
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/JenkinWoo/sheeridVerify"
+}

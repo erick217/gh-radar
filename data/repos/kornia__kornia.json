@@ -23,7 +23,7 @@
   "details_at": "2026-11-09",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1533,
+  "forks": 1534,
   "full_name": "kornia/kornia",
   "homepage": "https://kornia.readthedocs.io",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 34,
+    "gain7": 31,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 66.4,
+    "total": 66.0,
     "trending_days_30": 2,
-    "velocity": 0.36
+    "velocity": 0.35
   },
   "stars": {
     "2026-11-02": 11922,
@@ -61,7 +61,8 @@
     "2026-11-11": 12371,
     "2026-11-12": 12375,
     "2026-11-13": 12377,
-    "2026-11-14": 12383
+    "2026-11-14": 12383,
+    "2026-11-15": 12384
   },
   "topics": [
     "artificial-intelligence",

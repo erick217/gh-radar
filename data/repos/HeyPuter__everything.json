@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 915,
+  "forks": 919,
   "full_name": "HeyPuter/everything",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-11",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 27068,
   "readme_hash": "e1f904d10cb4",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 881,
+    "gain7": 799,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 67.5,
+    "total": 67.1,
     "trending_days_30": 0,
-    "velocity": 0.68
+    "velocity": 0.67
   },
   "stars": {
     "2026-10-29": 5159,
@@ -65,7 +65,8 @@
     "2026-11-11": 8065,
     "2026-11-12": 8169,
     "2026-11-13": 8267,
-    "2026-11-14": 8379
+    "2026-11-14": 8379,
+    "2026-11-15": 8400
   },
   "topics": [
     "adobe",

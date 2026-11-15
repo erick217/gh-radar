@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 2115,
+  "forks": 2117,
   "full_name": "lightpanda-io/browser",
   "homepage": "https://lightpanda.io",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-02",
   "latest_release": "1.0.4",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 19843,
   "readme_hash": "c6d1221ee488",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 521,
+    "gain7": 476,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 77.3,
+    "total": 77.0,
     "trending_days_30": 3,
-    "velocity": 0.63
+    "velocity": 0.62
   },
   "stars": {
     "2026-10-31": 38628,
@@ -63,7 +63,8 @@
     "2026-11-11": 41833,
     "2026-11-12": 41932,
     "2026-11-13": 41963,
-    "2026-11-14": 42040
+    "2026-11-14": 42040,
+    "2026-11-15": 42056
   },
   "topics": [
     "browser",

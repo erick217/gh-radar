@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 1761,
+  "forks": 1776,
   "full_name": "vercel-labs/agent-desktop",
   "homepage": "https://agent-browser.dev/desktop",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-14",
   "latest_release": "v1.2.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-15",
   "readme_chars": 10016,
   "readme_hash": "242537a4a568",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5367,
+    "gain7": 4744,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.93,
     "practical": 1.0,
-    "total": 94.0,
+    "total": 93.5,
     "trending_days_30": 9,
-    "velocity": 0.87
+    "velocity": 0.85
   },
   "stars": {
     "2026-11-03": 10946,
@@ -60,7 +60,8 @@
     "2026-11-11": 21621,
     "2026-11-12": 22347,
     "2026-11-13": 22919,
-    "2026-11-14": 23674
+    "2026-11-14": 23674,
+    "2026-11-15": 23853
   },
   "topics": [
     "accessibility",

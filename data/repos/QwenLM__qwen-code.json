@@ -23,15 +23,15 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 3431,
+  "forks": 3523,
   "full_name": "QwenLM/qwen-code",
   "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-14",
+  "last_seen": "2026-11-15",
   "latest_release": "v0.27.3",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 14564,
   "readme_hash": "a301e5b21131",
   "score": {
@@ -42,15 +42,16 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 72.4,
-    "trending_days_30": 2,
+    "total": 73.8,
+    "trending_days_30": 3,
     "velocity": 0.62
   },
   "stars": {
     "2026-11-13": 30003,
-    "2026-11-14": 30231
+    "2026-11-14": 30231,
+    "2026-11-15": 30412
   },
   "topics": [
     "agentic",
@@ -72,6 +73,9 @@
     },
     "2026-11-14": {
       "daily": 116
+    },
+    "2026-11-15": {
+      "daily": 64
     }
   },
   "url": "https://github.com/QwenLM/qwen-code"

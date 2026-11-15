@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 452,
+  "forks": 458,
   "full_name": "tailscale/tailcat",
   "homepage": "https://tailscale.com/tailcat",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-14",
   "latest_release": "v0.7.0",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-05",
+  "pushed_at": "2026-11-15",
   "readme_chars": 31357,
   "readme_hash": "1be44e8f4795",
   "score": {
@@ -49,7 +49,8 @@
     "velocity": 0.67
   },
   "stars": {
-    "2026-11-14": 9782
+    "2026-11-14": 9782,
+    "2026-11-15": 9867
   },
   "topics": [],
   "trending": {

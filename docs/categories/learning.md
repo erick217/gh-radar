@@ -1,22 +1,21 @@
 <nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="../index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="../index.html">概览</a><a class="radar-nav-link" href="../new.html">7日新收录</a><a class="radar-nav-link" href="../rising.html">本周增速榜</a><a class="radar-nav-link" href="../usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
 
-<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>📚 学习资源</h1><p class="radar-page-desc">共收录 <strong>9</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
+<header class="radar-page-head"><div class="radar-page-kicker"><a href="../index.html">← 返回首页概览</a></div><h1>📚 学习资源</h1><p class="radar-page-desc">共收录 <strong>8</strong> 个项目，各子分类按综合评分由高到低排列。</p></header>
 
-## 资源合集（7）
+## 资源合集（6）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 社区维护的免费公开 API 汇总清单，方便开发者按领域查找可用接口。 | 资源列表 | Python | 499.0k | +2.2k | 72 |  |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 资源列表 | Python | 21.0k | +1.3k | 69 |  |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 资源列表 |  | 17.1k | +2.1k | 68 |  |
-| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学数学英语物理知识图谱与自适应前置诊断题库 | 模型或数据集 | Python | 8.0k | +1.1k | 68 |  |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 41.9k | +519 | 67 |  |
-| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.1k | +342 | 64 |  |
-| [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | 海外移居手册，汇总欧洲36国110条移民路线与政策变化。 | 资源列表 | Python | 4.8k | +667 | 55 |  |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 社区维护的免费公开 API 汇总清单，方便开发者按领域查找可用接口。 | 资源列表 | Python | 499.1k | +2.0k | 72 |  |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 资源列表 | Python | 21.0k | +1.1k | 70 |  |
+| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学数学英语物理知识图谱与自适应前置诊断题库 | 模型或数据集 | Python | 8.1k | +1.0k | 68 |  |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 资源列表 |  | 17.2k | +1.9k | 68 |  |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 41.9k | +417 | 66 |  |
+| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.1k | +311 | 64 |  |
 
 ## 教程与课程（2）
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 带插画、英美发音和 FSRS 复习的开源雅思背词 Web 应用与词库。 | Web应用 | TypeScript | 4.8k | +499 | 58 |  |
-| [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 90 天 DevOps 结构化学习路线，涵盖原理、流程、工具与实践 | 资源列表 | Shell | 30.9k | +80 | 58 |  |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 带插画、英美发音和 FSRS 复习的开源雅思背词 Web 应用与词库。 | Web应用 | TypeScript | 4.9k | +440 | 58 |  |
+| [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 90 天 DevOps 结构化学习路线，涵盖原理、流程、工具与实践 | 资源列表 | Shell | 30.9k | +68 | 57 |  |

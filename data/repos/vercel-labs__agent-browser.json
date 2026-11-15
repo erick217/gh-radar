@@ -23,30 +23,30 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 3562,
+  "forks": 3583,
   "full_name": "vercel-labs/agent-browser",
   "homepage": "https://agent-browser.dev",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-14",
+  "last_seen": "2026-11-15",
   "latest_release": "v0.43.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 8780,
   "readme_hash": "c79a8bc8674b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4737,
+    "gain7": 4265,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 90.7,
-    "trending_days_30": 7,
-    "velocity": 0.85
+    "total": 91.7,
+    "trending_days_30": 8,
+    "velocity": 0.84
   },
   "stars": {
     "2026-11-06": 46123,
@@ -57,7 +57,8 @@
     "2026-11-11": 49460,
     "2026-11-12": 50076,
     "2026-11-13": 50452,
-    "2026-11-14": 51083
+    "2026-11-14": 51083,
+    "2026-11-15": 51301
   },
   "topics": [],
   "trending": {
@@ -85,6 +86,9 @@
     },
     "2026-11-14": {
       "weekly": 4360
+    },
+    "2026-11-15": {
+      "weekly": 4601
     }
   },
   "url": "https://github.com/vercel-labs/agent-browser"

@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 23171,
+  "forks": 23185,
   "full_name": "multica-ai/andrej-karpathy-skills",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2726,
+    "gain7": 2513,
     "gain7_source": "snapshot",
     "health": 0.3,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 0.6,
-    "total": 67.5,
+    "total": 67.2,
     "trending_days_30": 10,
-    "velocity": 0.8
+    "velocity": 0.79
   },
   "stars": {
     "2026-10-29": 226249,
@@ -65,7 +65,8 @@
     "2026-11-11": 231986,
     "2026-11-12": 232321,
     "2026-11-13": 232621,
-    "2026-11-14": 233094
+    "2026-11-14": 233094,
+    "2026-11-15": 233203
   },
   "topics": [],
   "trending": {

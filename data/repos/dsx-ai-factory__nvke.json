@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 68,
+  "contributors": 72,
   "created_at": "2026-08-04",
   "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-  "details_at": "2026-11-08",
+  "details_at": "2026-11-15",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 160,
+  "forks": 161,
   "full_name": "dsx-ai-factory/nvke",
   "homepage": "https://docs.nvidia.com/nvke/",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-08",
   "latest_release": "v0.23.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 9039,
-  "readme_hash": "14692cb3de75",
+  "readme_hash": "2c38877a743a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 704,
-    "gain7_source": "snapshot-partial",
+    "gain7": 605,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 75.6,
+    "total": 75.0,
     "trending_days_30": 1,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-11-08": 622,
@@ -55,7 +55,8 @@
     "2026-11-11": 1133,
     "2026-11-12": 1183,
     "2026-11-13": 1211,
-    "2026-11-14": 1225
+    "2026-11-14": 1225,
+    "2026-11-15": 1227
   },
   "topics": [
     "bare-metal",

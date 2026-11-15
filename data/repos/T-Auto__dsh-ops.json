@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 354,
+    "gain7": 272,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 71.8,
+    "total": 70.8,
     "trending_days_30": 0,
-    "velocity": 0.59
+    "velocity": 0.57
   },
   "stars": {
     "2026-10-29": 4753,
@@ -64,7 +64,8 @@
     "2026-11-11": 5688,
     "2026-11-12": 5742,
     "2026-11-13": 5777,
-    "2026-11-14": 5818
+    "2026-11-14": 5818,
+    "2026-11-15": 5822
   },
   "topics": [
     "dsh",

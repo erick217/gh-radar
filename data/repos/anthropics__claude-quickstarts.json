@@ -23,12 +23,12 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 3494,
+  "forks": 3497,
   "full_name": "anthropics/claude-quickstarts",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-14",
+  "last_seen": "2026-11-15",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-06",
@@ -37,23 +37,24 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1335,
+    "gain7": 1141,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.58,
     "practical": 0.8,
-    "total": 69.1,
-    "trending_days_30": 3,
-    "velocity": 0.73
+    "total": 70.0,
+    "trending_days_30": 4,
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-10": 20188,
     "2026-11-11": 20651,
     "2026-11-12": 20783,
     "2026-11-13": 20817,
-    "2026-11-14": 20951
+    "2026-11-14": 20951,
+    "2026-11-15": 21003
   },
   "topics": [],
   "trending": {
@@ -65,6 +66,9 @@
     },
     "2026-11-14": {
       "weekly": 1731
+    },
+    "2026-11-15": {
+      "weekly": 1794
     }
   },
   "url": "https://github.com/anthropics/claude-quickstarts"

@@ -1,23 +1,18 @@
-# GitHub 热门项目雷达
+<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link is-active" href="index.html">概览</a><a class="radar-nav-link" href="new.html">7日新收录</a><a class="radar-nav-link" href="rising.html">本周增速榜</a><a class="radar-nav-link" href="usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
 
-更新于 2026-11-15 01:41（北京时间） · 已收录 213 个项目 · 共追踪 227 个
+<section class="radar-hero"><div class="radar-hero-main"><span class="radar-badge">每日自动更新 · 北京时间</span><h1>GitHub 热门项目雷达</h1><p class="radar-hero-desc">自动追踪 GitHub Trending 与高星新项目，多维评分过滤噪音，并使用 DeepSeek 生成中文简介与精细分类。</p><div class="radar-hero-meta">最后更新：<strong>2026-11-15 14:09（北京时间）</strong> · 已收录 <strong>213</strong> / 追踪 <strong>227</strong> 个项目</div></div><div class="radar-hero-actions"><a class="radar-btn is-primary" href="rising.html">🔥 本周增速榜</a><a class="radar-btn" href="new.html">✨ 7日新收录</a><a class="radar-btn" href="usage.html">💰 Token 用量账单</a></div></section>
 
-🤖 DeepSeek 计费统计：已记录 6 次分类 · 累计 24.9k tokens（输入 21.7k / 缓存命中 3.8k / 输出 3.2k） · 累计费用 ¥0.0614 · 今日新增 6 次（24.9k tokens / ¥0.0614） · 另有 221 个早期分类未记录接口 usage
+<div class="radar-stats-grid"><div class="radar-kpi"><span class="radar-kpi-label">已收录项目</span><strong class="radar-kpi-value">213</strong><span class="radar-kpi-sub">共追踪 227 个仓库</span></div><a class="radar-kpi is-link" href="new.html"><span class="radar-kpi-label">7日新收录</span><strong class="radar-kpi-value">57</strong><span class="radar-kpi-sub">点击查看近一周新晋项目</span></a><a class="radar-kpi is-link" href="rising.html"><span class="radar-kpi-label">本周增速榜</span><strong class="radar-kpi-value">Top 30</strong><span class="radar-kpi-sub">按 7 天 Star 增量排序</span></a><a class="radar-kpi is-cost is-link" href="usage.html"><span class="radar-kpi-label">DeepSeek 累计花费</span><strong class="radar-kpi-value">¥0.0614</strong><span class="radar-kpi-sub">24.9k tokens · 6 次计费</span></a></div>
 
-- [最近 7 天新收录](new.md)
-- [本周增速榜](rising.md)
+## 分类浏览
 
-## 分类
+<div class="radar-cat-grid"><a class="radar-cat-card" href="categories/ai.html"><div class="radar-cat-head"><span class="radar-cat-title">🤖 AI</span><span class="radar-cat-count">101</span></div><div class="radar-cat-chips"><span class="radar-chip">Agent <b>72</b></span><span class="radar-chip">AI应用 <b>12</b></span><span class="radar-chip">模型推理与部署 <b>7</b></span><span class="radar-chip">MCP与工具集成 <b>6</b></span><span class="radar-chip">模型训练与微调 <b>3</b></span><span class="radar-chip">RAG与知识库 <b>1</b></span></div></a><a class="radar-cat-card" href="categories/devtools.html"><div class="radar-cat-head"><span class="radar-cat-title">🛠️ 开发工具</span><span class="radar-cat-count">12</span></div><div class="radar-cat-chips"><span class="radar-chip">代码质量与构建 <b>4</b></span><span class="radar-chip">CLI工具 <b>3</b></span><span class="radar-chip">编辑器与插件 <b>3</b></span><span class="radar-chip">Git与协作 <b>1</b></span><span class="radar-chip">测试与调试 <b>1</b></span></div></a><a class="radar-cat-card" href="categories/frontend.html"><div class="radar-cat-head"><span class="radar-cat-title">🎨 前端</span><span class="radar-cat-count">9</span></div><div class="radar-cat-chips"><span class="radar-chip">UI组件 <b>4</b></span><span class="radar-chip">框架 <b>4</b></span><span class="radar-chip">构建与工程化 <b>1</b></span></div></a><a class="radar-cat-card" href="categories/backend.html"><div class="radar-cat-head"><span class="radar-cat-title">⚙️ 后端</span><span class="radar-cat-count">4</span></div><div class="radar-cat-chips"><span class="radar-chip">Web框架 <b>4</b></span></div></a><a class="radar-cat-card" href="categories/data.html"><div class="radar-cat-head"><span class="radar-cat-title">📊 数据</span><span class="radar-cat-count">1</span></div><div class="radar-cat-chips"><span class="radar-chip">数据处理 <b>1</b></span></div></a><a class="radar-cat-card" href="categories/ops.html"><div class="radar-cat-head"><span class="radar-cat-title">☁️ 运维与云原生</span><span class="radar-cat-count">4</span></div><div class="radar-cat-chips"><span class="radar-chip">容器与编排 <b>2</b></span><span class="radar-chip">监控与日志 <b>2</b></span></div></a><a class="radar-cat-card" href="categories/security.html"><div class="radar-cat-head"><span class="radar-cat-title">🔒 安全</span><span class="radar-cat-count">11</span></div><div class="radar-cat-chips"><span class="radar-chip">安全工具 <b>11</b></span></div></a><a class="radar-cat-card" href="categories/productivity.html"><div class="radar-cat-head"><span class="radar-cat-title">⚡ 效率与自托管</span><span class="radar-cat-count">8</span></div><div class="radar-cat-chips"><span class="radar-chip">自动化 <b>5</b></span><span class="radar-chip">自托管服务 <b>2</b></span><span class="radar-chip">笔记与知识管理 <b>1</b></span></div></a><a class="radar-cat-card" href="categories/media.html"><div class="radar-cat-head"><span class="radar-cat-title">🎬 多媒体</span><span class="radar-cat-count">17</span></div><div class="radar-cat-chips"><span class="radar-chip">音视频 <b>9</b></span><span class="radar-chip">图像 <b>7</b></span><span class="radar-chip">下载工具 <b>1</b></span></div></a><a class="radar-cat-card" href="categories/apps.html"><div class="radar-cat-head"><span class="radar-cat-title">📱 移动与桌面</span><span class="radar-cat-count">18</span></div><div class="radar-cat-chips"><span class="radar-chip">桌面应用 <b>18</b></span></div></a><a class="radar-cat-card" href="categories/learning.html"><div class="radar-cat-head"><span class="radar-cat-title">📚 学习资源</span><span class="radar-cat-count">9</span></div><div class="radar-cat-chips"><span class="radar-chip">资源合集 <b>7</b></span><span class="radar-chip">教程与课程 <b>2</b></span></div></a><a class="radar-cat-card" href="categories/other.html"><div class="radar-cat-head"><span class="radar-cat-title">📦 其他</span><span class="radar-cat-count">19</span></div><div class="radar-cat-chips"><span class="radar-chip">其他 <b>19</b></span></div></a></div>
 
-- [AI](categories/ai.md)（101）：AI应用 12、Agent 72、MCP与工具集成 6、RAG与知识库 1、模型推理与部署 7、模型训练与微调 3
-- [开发工具](categories/devtools.md)（12）：CLI工具 3、Git与协作 1、代码质量与构建 4、测试与调试 1、编辑器与插件 3
-- [前端](categories/frontend.md)（9）：UI组件 4、构建与工程化 1、框架 4
-- [后端](categories/backend.md)（4）：Web框架 4
-- [数据](categories/data.md)（1）：数据处理 1
-- [运维与云原生](categories/ops.md)（4）：容器与编排 2、监控与日志 2
-- [安全](categories/security.md)（11）：安全工具 11
-- [效率与自托管](categories/productivity.md)（8）：笔记与知识管理 1、自动化 5、自托管服务 2
-- [多媒体](categories/media.md)（17）：下载工具 1、图像 7、音视频 9
-- [移动与桌面](categories/apps.md)（18）：桌面应用 18
-- [学习资源](categories/learning.md)（9）：教程与课程 2、资源合集 7
-- [其他](categories/other.md)（19）：其他 19
+## DeepSeek Token 用量与花费
+
+| 周期 | 调用次数 | 输入 Tokens | 缓存命中 | 命中率 | 缓存未命中 | 输出 Tokens（思维链） | 总 Tokens | 花费 (¥) |
+|---|---|---|---|---|---|---|---|---|
+| 今日（2026-11-15） | 0 | 0 | 0 | 0.0% | 0 | 0 | 0 | ¥0.0000 |
+| 累计（已记录） | 6 | 21,724 | 3,840 | 17.7% | 17,884 | 3,190（含思维链 2,655） | 24,914 | ¥0.0614 |
+
+> 另有 **221** 个早期项目在接入统计前完成分类，[查看每日统计与单项目明细 →](usage.md)

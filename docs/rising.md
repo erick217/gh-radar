@@ -1,6 +1,6 @@
-# 本周增速榜 Top 30
+<nav class="radar-nav" aria-label="主导航"><a class="radar-brand" href="index.html">📡 GitHub 热门项目雷达</a><div class="radar-nav-links"><a class="radar-nav-link" href="index.html">概览</a><a class="radar-nav-link" href="new.html">7日新收录</a><a class="radar-nav-link is-active" href="rising.html">本周增速榜</a><a class="radar-nav-link" href="usage.html">Usage 计费</a></div><div class="radar-nav-actions"><a class="radar-nav-ext" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub ↗</a></div></nav>
 
-[← 返回目录](index.md)
+<header class="radar-page-head"><div class="radar-page-kicker"><a href="index.html">← 返回首页概览</a></div><h1>🔥 本周增速榜 Top 30</h1><p class="radar-page-desc">更新于 2026-11-15 14:09（北京时间） · 按最近 7 天 Star 增量排序，支持搜索、语言筛选与点击表头排序。</p></header>
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|

@@ -59,7 +59,7 @@ def main() -> None:
     print("[prune] 删除", _prune(repos, overrides), "条过期记录")
     for rec in repos.values():
         save_repo(rec)
-    print("[render]", render(repos, overrides), f"GitHub API 调用 {gh.calls} 次")
+    print("[render]", render(repos, overrides, settings), f"GitHub API 调用 {gh.calls} 次")
 
 
 if __name__ == "__main__":

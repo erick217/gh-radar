@@ -1,4 +1,15 @@
 <meta name="color-scheme" content="light dark">
-<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#f6f8fa" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)">
+<script>
+(function () {
+  try {
+    var saved = localStorage.getItem("radar-theme");
+    if (saved === "light" || saved === "dark") {
+      document.documentElement.setAttribute("data-theme", saved);
+    }
+  } catch (e) {}
+})();
+</script>
 <link rel="stylesheet" href="{{ '/assets/css/system-theme.css' | relative_url }}?v={{ site.github.build_revision }}">
+<script defer src="{{ '/assets/js/radar-ui.js' | relative_url }}?v={{ site.github.build_revision }}"></script>

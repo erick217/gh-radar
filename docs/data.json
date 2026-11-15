@@ -2729,30 +2729,6 @@
   "pushed_at": "2026-11-14"
  },
  {
-  "full_name": "storytold/wordcraft",
-  "url": "https://github.com/storytold/wordcraft",
-  "summary": "用 Rust 编写的开源文字处理器，支持读写 .docx，可跨平台使用",
-  "category": "移动与桌面/桌面应用",
-  "form": "桌面应用",
-  "tags": [
-   "Rust",
-   "文字处理",
-   "docx",
-   "办公软件",
-   "跨平台"
-  ],
-  "language": "Rust",
-  "stars": 18013,
-  "gain7": 523,
-  "score": 73.1,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-10-29",
-  "pushed_at": "2026-11-14"
- },
- {
   "full_name": "martin-olivier/airgorah",
   "url": "https://github.com/martin-olivier/airgorah",
   "summary": "Linux 上的 WiFi 安全审计桌面工具，可抓包、发现客户端、捕获握手包并破解密码。",
@@ -2775,6 +2751,30 @@
   "similar": [],
   "first_seen": "2026-11-14",
   "pushed_at": "2026-11-06"
+ },
+ {
+  "full_name": "storytold/wordcraft",
+  "url": "https://github.com/storytold/wordcraft",
+  "summary": "用 Rust 编写的开源文字处理器，支持读写 .docx，可跨平台使用",
+  "category": "移动与桌面/桌面应用",
+  "form": "桌面应用",
+  "tags": [
+   "Rust",
+   "文字处理",
+   "docx",
+   "办公软件",
+   "跨平台"
+  ],
+  "language": "Rust",
+  "stars": 18013,
+  "gain7": 523,
+  "score": 73.1,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-10-29",
+  "pushed_at": "2026-11-14"
  },
  {
   "full_name": "tailscale/tailcat",
@@ -2801,30 +2801,6 @@
   "pushed_at": "2026-11-05"
  },
  {
-  "full_name": "react/react",
-  "url": "https://github.com/react/react",
-  "summary": "用于构建 Web 与原生用户界面的声明式 JavaScript 组件库",
-  "category": "前端/框架",
-  "form": "库",
-  "tags": [
-   "React",
-   "UI框架",
-   "组件化",
-   "JavaScript",
-   "声明式"
-  ],
-  "language": "JavaScript",
-  "stars": 252605,
-  "gain7": 296,
-  "score": 72.5,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-07",
-  "pushed_at": "2026-11-13"
- },
- {
   "full_name": "JuliusBrussee/caveman",
   "url": "https://github.com/JuliusBrussee/caveman",
   "summary": "让编码 AI 助手用更少 token 回答并压缩输入，降低使用成本",
@@ -2847,6 +2823,30 @@
   "similar": [],
   "first_seen": "2026-11-14",
   "pushed_at": "2026-11-14"
+ },
+ {
+  "full_name": "react/react",
+  "url": "https://github.com/react/react",
+  "summary": "用于构建 Web 与原生用户界面的声明式 JavaScript 组件库",
+  "category": "前端/框架",
+  "form": "库",
+  "tags": [
+   "React",
+   "UI框架",
+   "组件化",
+   "JavaScript",
+   "声明式"
+  ],
+  "language": "JavaScript",
+  "stars": 252605,
+  "gain7": 296,
+  "score": 72.5,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-07",
+  "pushed_at": "2026-11-13"
  },
  {
   "full_name": "QwenLM/qwen-code",

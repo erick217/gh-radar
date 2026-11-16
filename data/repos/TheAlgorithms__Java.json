@@ -22,7 +22,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 21532,
+  "forks": 21534,
   "full_name": "TheAlgorithms/Java",
   "homepage": null,
   "install_hint": false,
@@ -36,22 +36,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 203,
+    "gain7": 158,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": false,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.2,
-    "total": 47.7,
+    "total": 46.8,
     "trending_days_30": 1,
-    "velocity": 0.54
+    "velocity": 0.51
   },
   "stars": {
     "2026-11-12": 67164,
     "2026-11-13": 67224,
     "2026-11-14": 67248,
-    "2026-11-15": 67251
+    "2026-11-15": 67251,
+    "2026-11-16": 67254
   },
   "topics": [
     "algorithm",

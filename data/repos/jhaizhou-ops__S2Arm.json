@@ -1,0 +1,77 @@
+{
+  "ai": {
+    "at": "2026-11-16",
+    "category": "其他/其他",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.4.3，提供 Mac/Windows 图形启动器，可按文档导入自有游戏并构建安装到 Apple 设备。",
+    "summary": "把 Switch 游戏重编译为 ARM64，在 iPhone/iPad/Mac 原生运行。",
+    "tags": [
+      "Switch游戏",
+      "静态重编译",
+      "ARM64",
+      "Metal",
+      "Apple Silicon"
+    ],
+    "usage": {
+      "completion_tokens": 495,
+      "cost_cny": 0.011518,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3766,
+      "prompt_tokens": 4406,
+      "reasoning_tokens": 400,
+      "total_tokens": 4901
+    }
+  },
+  "archived": false,
+  "contributors": 60,
+  "created_at": "2026-11-08",
+  "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+  "details_at": "2026-11-16",
+  "first_seen": "2026-11-16",
+  "fork": false,
+  "forks": 570,
+  "full_name": "jhaizhou-ops/S2Arm",
+  "homepage": "https://s2arm.com",
+  "install_hint": false,
+  "language": "C#",
+  "last_seen": "2026-11-16",
+  "latest_release": "v0.4.3",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-16",
+  "readme_chars": 17166,
+  "readme_hash": "cbe7bb15c78c",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2879,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 76.2,
+    "trending_days_30": 0,
+    "velocity": 0.8
+  },
+  "stars": {
+    "2026-11-16": 3290
+  },
+  "topics": [
+    "apple-silicon",
+    "arm64",
+    "game-porting",
+    "ios",
+    "ipados",
+    "macos",
+    "metal",
+    "s2arm",
+    "static-recompilation",
+    "switch"
+  ],
+  "trending": {},
+  "url": "https://github.com/jhaizhou-ops/S2Arm"
+}

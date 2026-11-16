@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-16",
+    "category": "AI/MCP与工具集成",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 安装命令、v1.0 插件和完整文档，但使用前需配置 Stitch MCP 及账号。",
+    "summary": "面向 Stitch MCP 的 Agent Skills 集合，用于在编码代理中生成和管理设计。",
+    "tags": [
+      "Stitch",
+      "MCP",
+      "Agent Skills",
+      "设计生成",
+      "编码代理"
+    ],
+    "usage": {
+      "completion_tokens": 438,
+      "cost_cny": 0.009388,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 2929,
+      "prompt_tokens": 3569,
+      "reasoning_tokens": 308,
+      "total_tokens": 4007
+    }
+  },
+  "archived": false,
+  "contributors": 17,
+  "created_at": "2026-01-16",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "details_at": "2026-11-16",
+  "first_seen": "2026-11-16",
+  "fork": false,
+  "forks": 1180,
+  "full_name": "google-labs-code/stitch-skills",
+  "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-16",
+  "latest_release": "v1.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-08-17",
+  "readme_chars": 10831,
+  "readme_hash": "5e406ad199b2",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 741,
+    "gain7_source": "trending-daily",
+    "health": 0.6,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 62.8,
+    "trending_days_30": 1,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-11-16": 9484
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-16": {
+      "daily": 247
+    }
+  },
+  "url": "https://github.com/google-labs-code/stitch-skills"
+}

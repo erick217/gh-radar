@@ -23,30 +23,30 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3189,
+  "forks": 3303,
   "full_name": "milind-soni/OpenMausBot",
   "homepage": "https://www.mausbot.com/",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-16",
   "latest_release": "v0.1.154",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-15",
+  "pushed_at": "2026-11-16",
   "readme_chars": 34329,
   "readme_hash": "a2a8bfae0a1c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5558,
+    "gain7": 4839,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 95.5,
-    "trending_days_30": 14,
-    "velocity": 0.87
+    "total": 95.0,
+    "trending_days_30": 15,
+    "velocity": 0.86
   },
   "stars": {
     "2026-10-29": 7120,
@@ -66,7 +66,8 @@
     "2026-11-12": 21431,
     "2026-11-13": 21874,
     "2026-11-14": 22658,
-    "2026-11-15": 22902
+    "2026-11-15": 22902,
+    "2026-11-16": 23712
   },
   "topics": [
     "ai-agents",
@@ -125,6 +126,9 @@
     },
     "2026-11-15": {
       "weekly": 6413
+    },
+    "2026-11-16": {
+      "weekly": 5463
     }
   },
   "url": "https://github.com/milind-soni/OpenMausBot"

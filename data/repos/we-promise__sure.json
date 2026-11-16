@@ -22,37 +22,38 @@
   "details_at": "2026-11-11",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 1315,
+  "forks": 1385,
   "full_name": "we-promise/sure",
   "homepage": "https://sure.am",
   "install_hint": false,
   "language": "Ruby",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-16",
   "latest_release": "v2026.11.10-alpha",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-15",
+  "pushed_at": "2026-11-16",
   "readme_chars": 7806,
   "readme_hash": "53e473a10465",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5500,
+    "gain7": 4935,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.65,
+    "persistence": 0.72,
     "practical": 1.0,
-    "total": 88.4,
-    "trending_days_30": 5,
-    "velocity": 0.87
+    "total": 89.5,
+    "trending_days_30": 6,
+    "velocity": 0.86
   },
   "stars": {
     "2026-11-11": 12283,
     "2026-11-12": 13258,
     "2026-11-13": 14206,
     "2026-11-14": 15146,
-    "2026-11-15": 15426
+    "2026-11-15": 15426,
+    "2026-11-16": 15808
   },
   "topics": [],
   "trending": {
@@ -70,6 +71,9 @@
     },
     "2026-11-15": {
       "daily": 659
+    },
+    "2026-11-16": {
+      "weekly": 4556
     }
   },
   "url": "https://github.com/we-promise/sure"

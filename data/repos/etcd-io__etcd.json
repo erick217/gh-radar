@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 10600,
+  "forks": 10605,
   "full_name": "etcd-io/etcd",
   "homepage": "https://etcd.io",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "v3.7.3",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-14",
+  "pushed_at": "2026-11-15",
   "readme_chars": 10197,
   "readme_hash": "e778dbc85713",
   "score": {
@@ -57,7 +57,8 @@
     "2026-11-12": 52599,
     "2026-11-13": 52600,
     "2026-11-14": 52604,
-    "2026-11-15": 52607
+    "2026-11-15": 52607,
+    "2026-11-16": 52614
   },
   "topics": [
     "cncf",

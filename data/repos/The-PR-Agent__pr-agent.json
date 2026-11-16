@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 2204,
+  "forks": 2208,
   "full_name": "The-PR-Agent/pr-agent",
   "homepage": "https://www.pr-agent.ai",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 691,
+    "gain7": 608,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.72,
     "practical": 1.0,
-    "total": 82.5,
+    "total": 82.1,
     "trending_days_30": 6,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-11-05": 14926,
@@ -59,7 +59,8 @@
     "2026-11-12": 15971,
     "2026-11-13": 16043,
     "2026-11-14": 16158,
-    "2026-11-15": 16188
+    "2026-11-15": 16188,
+    "2026-11-16": 16251
   },
   "topics": [
     "ai",

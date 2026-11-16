@@ -1,0 +1,67 @@
+{
+  "ai": {
+    "at": "2026-11-16",
+    "category": "AI/AI应用",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供在线试用、Release 可下载静态包，也支持本地启动和构建，配置 API Key 后即可直接使用。",
+    "summary": "基于 DeepSeek API 的静态网页聊天应用，浏览器直连 API。",
+    "tags": [
+      "DeepSeek",
+      "聊天界面",
+      "静态Web应用",
+      "API客户端"
+    ],
+    "usage": {
+      "completion_tokens": 261,
+      "cost_cny": 0.004342,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 1114,
+      "prompt_tokens": 1754,
+      "reasoning_tokens": 173,
+      "total_tokens": 2015
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-12",
+  "description": "Chat Demo",
+  "details_at": "2026-11-16",
+  "first_seen": "2026-11-16",
+  "fork": false,
+  "forks": 745,
+  "full_name": "deepseek-ai/chat-demo",
+  "homepage": "https://deepseek-ai.github.io/chat-demo/",
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-11-16",
+  "latest_release": "v0.1.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-13",
+  "readme_chars": 4364,
+  "readme_hash": "d939d89eaeb9",
+  "score": {
+    "excluded": null,
+    "flags": [
+      "新建且仅 1 名贡献者"
+    ],
+    "gain7": 3625,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": false,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 54.5,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-16": 3625
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/deepseek-ai/chat-demo"
+}

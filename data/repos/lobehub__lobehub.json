@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 16322,
+  "forks": 16335,
   "full_name": "lobehub/lobehub",
   "homepage": "https://lobehub.com",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-14",
   "latest_release": "v0.0.0-nightly.pr22966.39383",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-15",
+  "pushed_at": "2026-11-16",
   "readme_chars": 31676,
   "readme_hash": "1786922f13aa",
   "score": {
@@ -50,7 +50,8 @@
   },
   "stars": {
     "2026-11-14": 85526,
-    "2026-11-15": 85542
+    "2026-11-15": 85542,
+    "2026-11-16": 85606
   },
   "topics": [
     "agent",

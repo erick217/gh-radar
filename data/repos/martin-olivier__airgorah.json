@@ -32,7 +32,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1043,
+  "forks": 1067,
   "full_name": "martin-olivier/airgorah",
   "homepage": "https://crates.io/crates/airgorah",
   "install_hint": false,
@@ -59,7 +59,8 @@
   },
   "stars": {
     "2026-11-14": 5653,
-    "2026-11-15": 6020
+    "2026-11-15": 6020,
+    "2026-11-16": 6326
   },
   "topics": [
     "gui",

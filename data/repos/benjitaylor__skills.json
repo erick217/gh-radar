@@ -23,12 +23,12 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 224,
+  "forks": 229,
   "full_name": "benjitaylor/skills",
   "homepage": null,
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-16",
   "latest_release": "stageshow-v1.1.1",
   "license": null,
   "pushed_at": "2026-11-05",
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 439,
+    "gain7": 441,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
@@ -46,13 +46,14 @@
     "practical": 0.6,
     "total": 57.0,
     "trending_days_30": 0,
-    "velocity": 0.61
+    "velocity": 0.62
   },
   "stars": {
     "2026-11-12": 3135,
     "2026-11-13": 3230,
     "2026-11-14": 3302,
-    "2026-11-15": 3323
+    "2026-11-15": 3323,
+    "2026-11-16": 3387
   },
   "topics": [],
   "trending": {},

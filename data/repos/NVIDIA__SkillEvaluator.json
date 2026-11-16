@@ -1,0 +1,89 @@
+{
+  "ai": {
+    "at": "2026-11-16",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 PyPI 包和 v0.9.0 版本，提供完整 CLI、分层评测与 CI 集成文档，可直接安装使用。",
+    "summary": "评估 AI Agent 技能质量与安全，并量化其对任务效果的影响",
+    "tags": [
+      "agent评测",
+      "技能验证",
+      "质量门禁",
+      "安全扫描",
+      "CLI"
+    ],
+    "usage": {
+      "completion_tokens": 272,
+      "cost_cny": 0.00837,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3084,
+      "prompt_tokens": 3724,
+      "reasoning_tokens": 179,
+      "total_tokens": 3996
+    }
+  },
+  "archived": false,
+  "contributors": 33,
+  "created_at": "2026-06-24",
+  "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+  "details_at": "2026-11-16",
+  "first_seen": "2026-11-16",
+  "fork": false,
+  "forks": 282,
+  "full_name": "NVIDIA/SkillEvaluator",
+  "homepage": "https://docs.nvidia.com/skills/skillevaluator/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-16",
+  "latest_release": "v0.9.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-16",
+  "readme_chars": 10375,
+  "readme_hash": "55a8680eb6bd",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 366,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.3,
+    "trending_days_30": 1,
+    "velocity": 0.6
+  },
+  "stars": {
+    "2026-11-16": 2020
+  },
+  "topics": [
+    "agent-evaluation",
+    "agent-plugins",
+    "agent-security",
+    "agent-skills",
+    "agentic-ai",
+    "benchmark",
+    "claude-code",
+    "codex",
+    "evaluate",
+    "evaluation",
+    "plugin",
+    "plugin-evaluation",
+    "security-scanner",
+    "skill-eval",
+    "skill-evals",
+    "skill-evaluation",
+    "skill-evaluator",
+    "skills"
+  ],
+  "trending": {
+    "2026-11-16": {
+      "daily": 122
+    }
+  },
+  "url": "https://github.com/NVIDIA/SkillEvaluator"
+}

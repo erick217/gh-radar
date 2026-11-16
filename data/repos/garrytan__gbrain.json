@@ -23,7 +23,7 @@
   "details_at": "2026-11-10",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 4942,
+  "forks": 4954,
   "full_name": "garrytan/gbrain",
   "homepage": null,
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-10",
   "latest_release": "v0.60.642.0",
   "license": "MIT",
-  "pushed_at": "2026-11-15",
+  "pushed_at": "2026-11-16",
   "readme_chars": 34919,
   "readme_hash": "29a1a7fabda9",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 967,
+    "gain7": 901,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 76.7,
+    "total": 76.4,
     "trending_days_30": 1,
     "velocity": 0.69
   },
@@ -54,7 +54,8 @@
     "2026-11-12": 32729,
     "2026-11-13": 32808,
     "2026-11-14": 32962,
-    "2026-11-15": 33035
+    "2026-11-15": 33035,
+    "2026-11-16": 33116
   },
   "topics": [],
   "trending": {

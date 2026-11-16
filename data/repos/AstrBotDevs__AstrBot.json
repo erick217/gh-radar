@@ -23,7 +23,7 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 3579,
+  "forks": 3593,
   "full_name": "AstrBotDevs/AstrBot",
   "homepage": "https://astrbot.app",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-01",
   "latest_release": "v4.29.4",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-15",
+  "pushed_at": "2026-11-16",
   "readme_chars": 13912,
   "readme_hash": "f5f6d0def7b5",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 535,
+    "gain7": 530,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-12": 46732,
     "2026-11-13": 46819,
     "2026-11-14": 46912,
-    "2026-11-15": 46934
+    "2026-11-15": 46934,
+    "2026-11-16": 47013
   },
   "topics": [
     "agent",

@@ -23,12 +23,12 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2031,
+  "forks": 2054,
   "full_name": "Zagitta/gpu-unlock",
   "homepage": null,
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-16",
   "latest_release": "unraid",
   "license": null,
   "pushed_at": "2026-10-29",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1652,
+    "gain7": 1537,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 73.2,
+    "total": 72.9,
     "trending_days_30": 0,
-    "velocity": 0.75
+    "velocity": 0.74
   },
   "stars": {
     "2026-10-29": 12820,
@@ -66,7 +66,8 @@
     "2026-11-12": 18805,
     "2026-11-13": 19033,
     "2026-11-14": 19427,
-    "2026-11-15": 19594
+    "2026-11-15": 19594,
+    "2026-11-16": 19765
   },
   "topics": [],
   "trending": {},

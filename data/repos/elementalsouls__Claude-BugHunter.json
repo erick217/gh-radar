@@ -1,0 +1,87 @@
+{
+  "ai": {
+    "at": "2026-11-16",
+    "category": "安全/安全工具",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供插件与脚本安装方式、83 个技能和 15 个命令，并有安装/使用文档和正式 Release，可直接用于授权安全测试。",
+    "summary": "面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。",
+    "tags": [
+      "安全测试",
+      "漏洞赏金",
+      "红队",
+      "Claude Code",
+      "渗透测试"
+    ],
+    "usage": {
+      "completion_tokens": 337,
+      "cost_cny": 0.009678,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3478,
+      "prompt_tokens": 4118,
+      "reasoning_tokens": 233,
+      "total_tokens": 4455
+    }
+  },
+  "archived": false,
+  "contributors": 11,
+  "created_at": "2026-05-05",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "details_at": "2026-11-16",
+  "first_seen": "2026-11-16",
+  "fork": false,
+  "forks": 1047,
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-16",
+  "latest_release": "v2.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-15",
+  "readme_chars": 22591,
+  "readme_hash": "cb55b9a2fe45",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 294,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 69.5,
+    "trending_days_30": 1,
+    "velocity": 0.57
+  },
+  "stars": {
+    "2026-11-16": 6800
+  },
+  "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "ethical-hacking",
+    "hackerone",
+    "offensive-security",
+    "pentesting",
+    "red-team",
+    "security-tools",
+    "web-security"
+  ],
+  "trending": {
+    "2026-11-16": {
+      "daily": 98
+    }
+  },
+  "url": "https://github.com/elementalsouls/Claude-BugHunter"
+}

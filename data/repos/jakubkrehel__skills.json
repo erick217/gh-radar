@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 478,
+  "forks": 480,
   "full_name": "jakubkrehel/skills",
   "homepage": "https://jakub.kr/skills",
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-08",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-12",
+  "pushed_at": "2026-11-16",
   "readme_chars": 3846,
   "readme_hash": "2be2bdfd94c4",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 419,
+    "gain7": 403,
     "gain7_source": "snapshot",
     "health": 0.55,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 75.1,
+    "total": 75.0,
     "trending_days_30": 11,
     "velocity": 0.61
   },
@@ -67,7 +67,8 @@
     "2026-11-13": 12091,
     "2026-11-14": 12152,
     "2026-11-15": 12169,
-    "2026-11-16": 12223
+    "2026-11-16": 12223,
+    "2026-11-17": 12289
   },
   "topics": [],
   "trending": {

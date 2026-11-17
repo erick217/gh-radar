@@ -14,16 +14,16 @@ description: "学习资源分类下的热门开源项目，共收录 8 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 社区维护的免费公开 API 汇总清单，方便开发者按领域查找可用接口。 | 资源列表 | Python | 499.4k | +2.0k | 72 |  |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 资源列表 | Python | 21.1k | +1.0k | 70 |  |
-| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学数学英语物理知识图谱与自适应前置诊断题库 | 模型或数据集 | Python | 8.2k | +1.0k | 68 |  |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 资源列表 |  | 17.5k | +1.8k | 68 |  |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 41.9k | +391 | 66 |  |
-| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.1k | +291 | 64 |  |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 社区维护的免费公开 API 汇总清单，方便开发者按领域查找可用接口。 | 资源列表 | Python | 499.7k | +1.9k | 72 |  |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 资源列表 | Python | 21.1k | +888 | 69 |  |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 资源列表 |  | 17.9k | +2.0k | 68 |  |
+| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学数学英语物理知识图谱与自适应前置诊断题库 | 模型或数据集 | Python | 8.4k | +1.0k | 68 |  |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 41.9k | +276 | 65 |  |
+| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.2k | +284 | 64 |  |
 
 <h2 class="heading-5 radar-sub-heading">教程与课程（2）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 带插画、英美发音和 FSRS 复习的开源雅思背词 Web 应用与词库。 | Web应用 | TypeScript | 4.9k | +375 | 57 |  |
-| [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 90 天 DevOps 结构化学习路线，涵盖原理、流程、工具与实践 | 资源列表 | Shell | 30.9k | +55 | 57 |  |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 带插画、英美发音和 FSRS 复习的开源雅思背词 Web 应用与词库。 | Web应用 | TypeScript | 5.0k | +356 | 57 |  |
+| [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 90 天 DevOps 结构化学习路线，涵盖原理、流程、工具与实践 | 资源列表 | Shell | 30.9k | +44 | 56 |  |

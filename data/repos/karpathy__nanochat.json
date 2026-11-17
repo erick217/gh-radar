@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 57,
+  "contributors": 56,
   "created_at": "2025-10-13",
   "description": "The best ChatGPT that $100 can buy.",
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 8506,
+  "forks": 8511,
   "full_name": "karpathy/nanochat",
   "homepage": null,
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 202,
+    "gain7": 208,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": false,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.8,
-    "total": 54.7,
+    "total": 54.8,
     "trending_days_30": 1,
     "velocity": 0.54
   },
@@ -62,7 +62,8 @@
     "2026-11-13": 60530,
     "2026-11-14": 60555,
     "2026-11-15": 60558,
-    "2026-11-16": 60592
+    "2026-11-16": 60592,
+    "2026-11-17": 60619
   },
   "topics": [],
   "trending": {

@@ -17,35 +17,35 @@
     ]
   },
   "archived": false,
-  "contributors": 140,
+  "contributors": 146,
   "created_at": "2026-01-10",
   "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-17",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 57616,
+  "forks": 57719,
   "full_name": "ZhuLinsen/daily_stock_analysis",
   "homepage": "https://dsa.zhulinsen.tech",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-16",
-  "latest_release": "v3.34.0",
+  "last_seen": "2026-11-17",
+  "latest_release": "v3.35.0",
   "license": "MIT",
-  "pushed_at": "2026-11-15",
-  "readme_chars": 10731,
-  "readme_hash": "cb22c0f9e454",
+  "pushed_at": "2026-11-16",
+  "readme_chars": 11171,
+  "readme_hash": "38c8820f3d2f",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3856,
-    "gain7_source": "snapshot-partial",
+    "gain7": 3630,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.65,
+    "persistence": 0.72,
     "practical": 1.0,
-    "total": 87.2,
-    "trending_days_30": 5,
+    "total": 88.4,
+    "trending_days_30": 6,
     "velocity": 0.83
   },
   "stars": {
@@ -55,7 +55,8 @@
     "2026-11-13": 71149,
     "2026-11-14": 72199,
     "2026-11-15": 72308,
-    "2026-11-16": 72623
+    "2026-11-16": 72623,
+    "2026-11-17": 72948
   },
   "topics": [
     "a-stock",
@@ -81,6 +82,9 @@
     },
     "2026-11-16": {
       "weekly": 4548
+    },
+    "2026-11-17": {
+      "weekly": 4355
     }
   },
   "url": "https://github.com/ZhuLinsen/daily_stock_analysis"

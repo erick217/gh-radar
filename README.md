@@ -12,26 +12,27 @@
 
 | 日期 | 总 Tokens | 花费 (¥) |
 |---|---|---|
+| 2026-11-17 | 25,933 | ¥0.0562 |
 | 2026-11-16 | 23,740 | ¥0.0575 |
 | 2026-11-15 | 17,276 | ¥0.0367 |
 | 2026-11-14 | 24,914 | ¥0.0614 |
 
-> 累计已记录 16 次 DeepSeek 分类，共消耗 65,930 tokens，合计费用 ¥0.1556（另有 221 个早期分类未记录接口 usage）。
+> 累计已记录 24 次 DeepSeek 分类，共消耗 91,863 tokens，合计费用 ¥0.2119（另有 221 个早期分类未记录接口 usage）。
 
-**本周增速 Top 10**（2026-11-16 更新，共收录 217 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-17 更新，共收录 226 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 前端/UI组件 | 库 | TypeScript | 29.1k | +11.3k | 95 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 34.2k | +10.8k | 76 |  |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 为编码代理注入现代 Web 平台知识与最佳实践的技能源仓库 | AI/Agent | CLI工具 | TypeScript | 7.5k | +9.6k | 90 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 61.9k | +9.0k | 97 |  |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 通过用户名在 400+ 社交网络批量检索账号的 OSINT 命令行工具 | 安全/安全工具 | CLI工具 | Python | 112.7k | +7.7k | 91 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 24.2k | +7.4k | 71 |  |
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 10.7k | +7.1k | 82 |  |
-| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | Jane Street 的 AI Agent 技能合集，目前含苏格拉底式导师技能。 | AI/Agent | 资源列表 |  | 9.2k | +6.9k | 59 |  |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 325.4k | +6.5k | 96 |  |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 将编码代理变为安全审计员，分阶段产出可验证的漏洞发现。 | 安全/安全工具 | 其他 | JavaScript | 73.4k | +6.2k | 83 |  |
+| [libracoder/kiri](https://github.com/libracoder/kiri) | 轻量快速的容器运行时，兼容 Docker CLI，可替代 Docker Desktop。 | 运维与云原生/容器与编排 | 桌面应用 | Rust | 9.5k | +14.3k | 85 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 35.2k | +10.0k | 76 |  |
+| [dream-num/univer](https://github.com/dream-num/univer) | 开源 Office SDK，帮助开发者在应用中嵌入表格和文档编辑与计算能力。 | 前端/UI组件 | 库 | TypeScript | 28.6k | +9.8k | 89 |  |
+| [meta/astryx](https://github.com/meta/astryx) | Meta 开源的可定制 React 设计系统，含 150+ 组件与主题 | 前端/UI组件 | 库 | TypeScript | 29.9k | +8.8k | 96 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 63.3k | +8.6k | 97 |  |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 为编码代理注入现代 Web 平台知识与最佳实践的技能源仓库 | AI/Agent | CLI工具 | TypeScript | 8.2k | +8.6k | 91 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 25.4k | +7.3k | 71 |  |
+| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 11.4k | +6.7k | 82 |  |
+| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | Jane Street 的 AI Agent 技能合集，目前含苏格拉底式导师技能。 | AI/Agent | 资源列表 |  | 9.7k | +6.3k | 59 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 326.2k | +6.1k | 96 |  |
 
 <!-- radar:end -->
 

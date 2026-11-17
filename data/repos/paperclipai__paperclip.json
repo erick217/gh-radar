@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 261,
+  "contributors": 267,
   "created_at": "2026-03-02",
   "description": "The open-source app everyone uses to manage agents at work",
-  "details_at": "2026-11-10",
+  "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 18937,
+  "forks": 18981,
   "full_name": "paperclipai/paperclip",
   "homepage": "https://paperclip.ing",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-03",
   "latest_release": "v2026.1106.0",
   "license": "MIT",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-17",
   "readme_chars": 34249,
   "readme_hash": "0c5223da14dd",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1784,
+    "gain7": 1700,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 78.9,
+    "total": 78.7,
     "trending_days_30": 1,
-    "velocity": 0.76
+    "velocity": 0.75
   },
   "stars": {
     "2026-11-03": 110594,
@@ -62,7 +62,8 @@
     "2026-11-13": 113481,
     "2026-11-14": 113881,
     "2026-11-15": 113975,
-    "2026-11-16": 114203
+    "2026-11-16": 114203,
+    "2026-11-17": 114428
   },
   "topics": [
     "acpx",

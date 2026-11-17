@@ -32,7 +32,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 2059,
+  "forks": 2072,
   "full_name": "ggml-org/ggml",
   "homepage": "https://github.com/ggml-org",
   "install_hint": false,
@@ -40,7 +40,7 @@
   "last_seen": "2026-11-16",
   "latest_release": "v1.0.0",
   "license": "MIT",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-16",
   "readme_chars": 1852,
   "readme_hash": "e0b7aec07fdc",
   "score": {
@@ -58,7 +58,8 @@
     "velocity": 0.49
   },
   "stars": {
-    "2026-11-16": 16013
+    "2026-11-16": 16013,
+    "2026-11-17": 16097
   },
   "topics": [
     "machine-learning"

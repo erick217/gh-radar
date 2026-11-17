@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 23116,
+  "forks": 23112,
   "full_name": "rails/rails",
   "homepage": "https://rubyonrails.org",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v8.1.4.1",
   "license": "MIT",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-17",
   "readme_chars": 4786,
   "readme_hash": "1ab23e173449",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 11,
+    "gain7": 0,
     "gain7_source": "snapshot",
     "health": 1.0,
-    "included": true,
+    "included": false,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 61.2,
+    "total": 52.4,
     "trending_days_30": 1,
-    "velocity": 0.25
+    "velocity": 0.0
   },
   "stars": {
     "2026-11-07": 59059,
@@ -58,7 +58,8 @@
     "2026-11-13": 59093,
     "2026-11-14": 59094,
     "2026-11-15": 59110,
-    "2026-11-16": 59093
+    "2026-11-16": 59093,
+    "2026-11-17": 59051
   },
   "topics": [
     "activejob",

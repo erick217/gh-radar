@@ -23,12 +23,12 @@
   "details_at": "2026-11-11",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 622,
+  "forks": 659,
   "full_name": "janestreet/agent_skills",
   "homepage": null,
   "install_hint": false,
   "language": null,
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-03",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6866,
+    "gain7": 6328,
     "gain7_source": "snapshot-partial",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.6,
-    "total": 59.2,
+    "total": 58.9,
     "trending_days_30": 0,
-    "velocity": 0.89
+    "velocity": 0.88
   },
   "stars": {
     "2026-11-11": 4295,
@@ -54,7 +54,8 @@
     "2026-11-13": 7950,
     "2026-11-14": 8522,
     "2026-11-15": 8697,
-    "2026-11-16": 9199
+    "2026-11-16": 9199,
+    "2026-11-17": 9719
   },
   "topics": [],
   "trending": {},

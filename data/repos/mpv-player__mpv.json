@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 3661,
+  "forks": 3664,
   "full_name": "mpv-player/mpv",
   "homepage": "https://mpv.io",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 128,
+    "gain7": 129,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -58,7 +58,8 @@
     "2026-11-13": 38092,
     "2026-11-14": 38120,
     "2026-11-15": 38128,
-    "2026-11-16": 38141
+    "2026-11-16": 38141,
+    "2026-11-17": 38165
   },
   "topics": [
     "audio",

@@ -28,37 +28,38 @@
   "archived": false,
   "contributors": 33,
   "created_at": "2026-06-24",
-  "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+  "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
   "details_at": "2026-11-16",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 282,
+  "forks": 435,
   "full_name": "NVIDIA/SkillEvaluator",
   "homepage": "https://docs.nvidia.com/skills/skillevaluator/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "latest_release": "v0.9.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-17",
   "readme_chars": 10375,
   "readme_hash": "55a8680eb6bd",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 366,
+    "gain7": 2619,
     "gain7_source": "trending-daily",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 70.3,
-    "trending_days_30": 1,
-    "velocity": 0.6
+    "total": 78.6,
+    "trending_days_30": 2,
+    "velocity": 0.79
   },
   "stars": {
-    "2026-11-16": 2020
+    "2026-11-16": 2020,
+    "2026-11-17": 3075
   },
   "topics": [
     "agent-evaluation",
@@ -83,6 +84,9 @@
   "trending": {
     "2026-11-16": {
       "daily": 122
+    },
+    "2026-11-17": {
+      "daily": 873
     }
   },
   "url": "https://github.com/NVIDIA/SkillEvaluator"

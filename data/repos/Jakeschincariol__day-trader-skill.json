@@ -23,12 +23,12 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 1933,
+  "forks": 1978,
   "full_name": "Jakeschincariol/day-trader-skill",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-20",
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1817,
+    "gain7": 1781,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": true,
@@ -66,7 +66,8 @@
     "2026-11-13": 7481,
     "2026-11-14": 7754,
     "2026-11-15": 7859,
-    "2026-11-16": 8064
+    "2026-11-16": 8064,
+    "2026-11-17": 8260
   },
   "topics": [
     "backtesting",

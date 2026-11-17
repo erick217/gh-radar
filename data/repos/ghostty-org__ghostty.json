@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 3924,
+  "forks": 3933,
   "full_name": "ghostty-org/ghostty",
   "homepage": "https://ghostty.org",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 251,
+    "gain7": 233,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 77.5,
+    "total": 77.3,
     "trending_days_30": 5,
-    "velocity": 0.56
+    "velocity": 0.55
   },
   "stars": {
     "2026-11-02": 63234,
@@ -63,7 +63,8 @@
     "2026-11-13": 64062,
     "2026-11-14": 64104,
     "2026-11-15": 64118,
-    "2026-11-16": 64154
+    "2026-11-16": 64154,
+    "2026-11-17": 64184
   },
   "topics": [],
   "trending": {

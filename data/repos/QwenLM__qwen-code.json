@@ -23,36 +23,37 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 3539,
+  "forks": 3554,
   "full_name": "QwenLM/qwen-code",
   "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-17",
   "latest_release": "v0.27.3",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-17",
   "readme_chars": 14564,
   "readme_hash": "a301e5b21131",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1318,
+    "gain7": 1214,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 80.6,
-    "trending_days_30": 3,
-    "velocity": 0.73
+    "total": 81.7,
+    "trending_days_30": 4,
+    "velocity": 0.72
   },
   "stars": {
     "2026-11-13": 30003,
     "2026-11-14": 30231,
     "2026-11-15": 30420,
-    "2026-11-16": 30568
+    "2026-11-16": 30568,
+    "2026-11-17": 30697
   },
   "topics": [
     "agentic",
@@ -77,6 +78,9 @@
     },
     "2026-11-15": {
       "daily": 64
+    },
+    "2026-11-17": {
+      "weekly": 1497
     }
   },
   "url": "https://github.com/QwenLM/qwen-code"

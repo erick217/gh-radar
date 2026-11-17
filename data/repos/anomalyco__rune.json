@@ -23,32 +23,30 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 286,
+  "forks": 299,
   "full_name": "anomalyco/rune",
   "homepage": null,
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-17",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-17",
   "readme_chars": 3415,
   "readme_hash": "5c89599de486",
   "score": {
     "excluded": null,
-    "flags": [
-      "单日暴涨"
-    ],
-    "gain7": 1780,
+    "flags": [],
+    "gain7": 1395,
     "gain7_source": "snapshot",
     "health": 0.7,
-    "included": false,
+    "included": true,
     "is_resource": false,
-    "persistence": 0.0,
+    "persistence": 0.3,
     "practical": 0.8,
-    "total": 50.0,
+    "total": 65.1,
     "trending_days_30": 0,
-    "velocity": 0.76
+    "velocity": 0.73
   },
   "stars": {
     "2026-11-08": 4004,
@@ -59,7 +57,8 @@
     "2026-11-13": 6951,
     "2026-11-14": 7110,
     "2026-11-15": 7181,
-    "2026-11-16": 7263
+    "2026-11-16": 7263,
+    "2026-11-17": 7374
   },
   "topics": [],
   "trending": {},

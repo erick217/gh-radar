@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 8848,
+  "forks": 8859,
   "full_name": "louislam/uptime-kuma",
   "homepage": "https://uptime.kuma.pet",
   "install_hint": true,
@@ -31,27 +31,28 @@
   "last_seen": "2026-11-15",
   "latest_release": "2.5.11",
   "license": "MIT",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-17",
   "readme_chars": 8212,
   "readme_hash": "78914765600a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1296,
-    "gain7_source": "trending-daily",
+    "gain7": 884,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.44,
     "practical": 1.0,
-    "total": 76.1,
+    "total": 77.8,
     "trending_days_30": 2,
-    "velocity": 0.72
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-14": 94140,
     "2026-11-15": 94319,
-    "2026-11-16": 94452
+    "2026-11-16": 94452,
+    "2026-11-17": 94519
   },
   "topics": [
     "docker",

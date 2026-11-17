@@ -1,8 +1,10 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<meta name="theme-color" content="#0a0d14" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<meta name="site-kind" content="software">
+<meta name="page-type" content="software">
 {% assign meta_title = page.title | default: site.title %}
 {% assign meta_desc = page.description | default: site.description %}
 <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -11,19 +13,135 @@
 <meta property="og:title" content="{{ meta_title | escape }}">
 <meta property="og:description" content="{{ meta_desc | escape }}">
 <meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:image" content="{{ '/assets/og-card.svg' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ meta_title | escape }}">
+<meta name="twitter:description" content="{{ meta_desc | escape }}">
+<meta name="twitter:image" content="{{ '/assets/og-card.svg' | absolute_url }}">
 <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600&family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Instrument+Sans:wdth,wght@75..100,400..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/system.css' | relative_url }}?v={{ site.github.build_revision }}">
+<link rel="stylesheet" href="{{ '/assets/ui/cards.css' | relative_url }}?v={{ site.github.build_revision }}">
+<link rel="stylesheet" href="{{ '/assets/motion/motion.css' | relative_url }}?v={{ site.github.build_revision }}">
+<link rel="stylesheet" href="{{ '/assets/backgrounds/backgrounds.css' | relative_url }}?v={{ site.github.build_revision }}">
+<link rel="stylesheet" href="{{ '/assets/layout/layout.css' | relative_url }}?v={{ site.github.build_revision }}">
+<link rel="stylesheet" href="{{ '/assets/icons/icon.css' | relative_url }}?v={{ site.github.build_revision }}">
+<link rel="stylesheet" href="{{ '/assets/diagrams/diagram.css' | relative_url }}?v={{ site.github.build_revision }}">
+<style>
+:root {
+  /* Dark default: blue-black-cornflower (taste-skill 2.5.1) */
+  --p-bg: #0a0d14;
+  --p-surface: #131824;
+  --p-ink: #e9edf3;
+  --p-muted: #8891a1;
+  --p-accent: #5ab9fc;
+  --p-accent-ink: #0a0d14;
+  --p-action: #5ab9fc;
+  --p-action-ink: #0a0d14;
+  --p-inv-bg: #ffffff;
+  --p-inv-surface: #f4f6fa;
+  --p-inv-ink: #0a0d14;
+  --p-inv-muted: #556072;
+  --p-inv-accent: #1a4be0;
+  --p-inv-accent-ink: #ffffff;
+  --p-inv-action: #0a0d14;
+  --p-inv-action-ink: #ffffff;
+
+  /* Typography: Instrument Sans + DM Mono + CJK sans stack */
+  --font-display: "Instrument Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, -apple-system, sans-serif;
+  --font-text: "Instrument Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, -apple-system, sans-serif;
+  --font-mono: "DM Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --display-weight: 500;
+  --display-tracking: -0.028em;
+  --display-tracking-xl: -0.036em;
+  --display-stretch: 96%;
+  --ly-scale: 1.04;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --p-bg: #ffffff;
+    --p-surface: #f4f4f4;
+    --p-ink: #111111;
+    --p-muted: #6b6b6b;
+    --p-accent: #1a4be0;
+    --p-accent-ink: #ffffff;
+    --p-action: #1a4be0;
+    --p-action-ink: #ffffff;
+    --p-inv-bg: #111111;
+    --p-inv-surface: #1c1c1c;
+    --p-inv-ink: #f4f4f4;
+    --p-inv-muted: #a3a3a3;
+    --p-inv-accent: #ffffff;
+    --p-inv-accent-ink: #111111;
+    --p-inv-action: #ffffff;
+    --p-inv-action-ink: #111111;
+  }
+}
+
+html[data-theme="light"] {
+  --p-bg: #ffffff;
+  --p-surface: #f4f4f4;
+  --p-ink: #111111;
+  --p-muted: #6b6b6b;
+  --p-accent: #1a4be0;
+  --p-accent-ink: #ffffff;
+  --p-action: #1a4be0;
+  --p-action-ink: #ffffff;
+  --p-inv-bg: #111111;
+  --p-inv-surface: #1c1c1c;
+  --p-inv-ink: #f4f4f4;
+  --p-inv-muted: #a3a3a3;
+  --p-inv-accent: #ffffff;
+  --p-inv-accent-ink: #111111;
+  --p-inv-action: #ffffff;
+  --p-inv-action-ink: #111111;
+}
+
+html[data-theme="dark"] {
+  --p-bg: #0a0d14;
+  --p-surface: #131824;
+  --p-ink: #e9edf3;
+  --p-muted: #8891a1;
+  --p-accent: #5ab9fc;
+  --p-accent-ink: #0a0d14;
+  --p-action: #5ab9fc;
+  --p-action-ink: #0a0d14;
+  --p-inv-bg: #ffffff;
+  --p-inv-surface: #f4f6fa;
+  --p-inv-ink: #0a0d14;
+  --p-inv-muted: #556072;
+  --p-inv-accent: #1a4be0;
+  --p-inv-accent-ink: #ffffff;
+  --p-inv-action: #0a0d14;
+  --p-inv-action-ink: #ffffff;
+}
+</style>
+<link rel="stylesheet" href="{{ '/assets/css/system-theme.css' | relative_url }}?v={{ site.github.build_revision }}">
 <script>
 (function () {
   try {
     var saved = localStorage.getItem("radar-theme");
+    var html = document.documentElement;
     if (saved === "light" || saved === "dark") {
-      document.documentElement.setAttribute("data-theme", saved);
+      html.setAttribute("data-theme", saved);
+      html.dataset.tone = saved;
+    } else if (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches) {
+      html.dataset.tone = "light";
+    } else {
+      html.dataset.tone = "dark";
     }
+    html.classList.add("m-enter", "mo-js");
+    setTimeout(function () { html.classList.add("m-enter-done"); }, 700);
+    setTimeout(function () { html.classList.add("mo-safe"); }, 2500);
   } catch (e) {}
 })();
 </script>
-<link rel="stylesheet" href="{{ '/assets/css/system-theme.css' | relative_url }}?v={{ site.github.build_revision }}">
+<script src="{{ '/assets/backgrounds/backgrounds.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
+<script type="module" src="{{ '/assets/system.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
+<script type="module" src="{{ '/assets/motion/motion.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
+<script type="module" src="{{ '/assets/layout/layout.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
+<script type="module" src="{{ '/assets/diagrams/mount.js' | relative_url }}?v={{ site.github.build_revision }}"></script>
 <script defer src="{{ '/assets/js/radar-ui.js' | relative_url }}?v={{ site.github.build_revision }}"></script>

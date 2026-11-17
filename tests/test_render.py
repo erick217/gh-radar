@@ -156,9 +156,12 @@ class RenderTests(unittest.TestCase):
 
             index_md = (docs / "index.md").read_text(encoding="utf-8")
             self.assertIn("nav_active: index", index_md)
-            self.assertIn('class="radar-hero"', index_md)
-            self.assertIn('class="radar-tagline-section"', index_md)
-            self.assertIn('class="radar-faq-list"', index_md)
+            self.assertIn('class="hero hero--collage"', index_md)
+            self.assertIn("data-diagram=", index_md)
+            self.assertIn('data-moment="liquid-type"', index_md)
+            self.assertNotIn("data-ui=", index_md)
+            self.assertIn('class="faq"', index_md)
+            self.assertNotIn("<details", index_md)
             self.assertIn("| 日期 | 总 Tokens | 花费 (¥) |", index_md)
 
             readme_md = (root / "README.md").read_text(encoding="utf-8")

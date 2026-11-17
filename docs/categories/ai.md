@@ -4,13 +4,17 @@ title: "AI"
 description: "AI分类下的热门开源项目，共收录 107 个。"
 ---
 
-<section class="radar-page-head">
-<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-<h1 class="heading-3">AI</h1>
-<p class="body-3 radar-page-desc">共收录 107 个项目，各子分类按综合评分由高到低排列。</p>
+<section class="section">
+  <div class="wrap">
+    <div class="section-head" style="margin-bottom:0">
+      <a class="radar-back-link" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+      <h1>AI</h1>
+      <p>共收录 107 个项目，各子分类按综合评分由高到低排列。</p>
+    </div>
+  </div>
 </section>
 
-<h2 class="heading-5 radar-sub-heading">Agent（74）</h2>
+<h2 class="radar-sub-heading">Agent（74）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -69,8 +73,8 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 本地优先的多智能体桌面应用，将目标拆解为任务并协调专家代理协作完成。 | 桌面应用 | JavaScript | 9.4k | +263 | 72 |  |
 | [block/buzz](https://github.com/block/buzz) | 可自托管的协作空间，让人与 AI Agent 在同一频道协作 | 自托管服务 | Rust | 37.5k | +252 | 72 |  |
 | [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | 移动应用 | Dart | 25.4k | +7.3k | 71 |  |
-| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击 | 其他 | Swift | 5.0k | +258 | 71 |  |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent 技能，并行搜索社媒与网页，合成近30天主题简报 | 其他 | Python | 68.4k | +405 | 71 |  |
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击 | 其他 | Swift | 5.0k | +258 | 71 |  |
 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 让 AI Agent 用一页可读 HTML 回答复杂问题，自带 CLI 渲染。 | CLI工具 | JavaScript | 6.4k | +236 | 70 |  |
 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | DSH 底层操作插件，降低 Token 消耗与任务耗时。 | 其他 | JavaScript | 5.9k | +216 | 70 |  |
 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 为 AI 编码工具提供可安装的落地页设计技能规则 | 资源列表 | Python | 15.7k | +604 | 69 |  |
@@ -89,7 +93,7 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 一套 Claude 技能，用于逆向分析应用并重建功能与流程。 | 其他 | Python | 9.6k | +932 | 55 |  |
 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | 面向 Claude Code 和 Codex 的日常开发 Agent 技能集合。 | 其他 | Python | 4.1k | +672 | 55 |  |
 
-<h2 class="heading-5 radar-sub-heading">AI应用（13）</h2>
+<h2 class="radar-sub-heading">AI应用（13）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -107,7 +111,7 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 本地多模态文件语义搜索桌面应用，用自然语言查找照片、音频、视频和文档。 | 桌面应用 | Swift | 6.5k | +102 | 67 |  |
 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 基于 DeepSeek API 的静态网页聊天应用，浏览器直连 API。<br>提醒：新建且仅 1 名贡献者 | Web应用 | TypeScript | 4.3k | +4.3k | 55 |  |
 
-<h2 class="heading-5 radar-sub-heading">MCP与工具集成（8）</h2>
+<h2 class="radar-sub-heading">MCP与工具集成（8）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -120,7 +124,7 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 让 Codex 等 AI 助手通过 USB 操作真实 iPhone 的本地 MCP 工具。 | 自托管服务 | Python | 5.0k | +62 | 62 |  |
 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 把 Spotify Portal 接入 Claude Code、Cursor 等 AI 编程工具的插件集。 | 其他 | TypeScript | 3.3k | +98 | 61 |  |
 
-<h2 class="heading-5 radar-sub-heading">模型推理与部署（8）</h2>
+<h2 class="radar-sub-heading">模型推理与部署（8）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -133,7 +137,7 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | 无依赖的 C/C++ 张量库，为机器学习提供可移植的高效计算与量化支持。 | 库 | C++ | 16.1k | +129 | 63 |  |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 微软开源语音模型家族，提供长音频识别与实时多说话人语音合成。 | 模型或数据集 | Python | 57.2k | +295 | 60 |  |
 
-<h2 class="heading-5 radar-sub-heading">模型训练与微调（3）</h2>
+<h2 class="radar-sub-heading">模型训练与微调（3）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -141,7 +145,7 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [kornia/kornia](https://github.com/kornia/kornia) | 基于 PyTorch 的可微计算机视觉库，提供图像处理与几何算法 | 库 | Python | 12.4k | +26 | 65 |  |
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 面向金融K线序列的开源基础模型，支持预测与微调。 | 模型或数据集 | Python | 47.9k | +457 | 62 |  |
 
-<h2 class="heading-5 radar-sub-heading">RAG与知识库（1）</h2>
+<h2 class="radar-sub-heading">RAG与知识库（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

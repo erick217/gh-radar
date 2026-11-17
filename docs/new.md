@@ -5,10 +5,14 @@ description: "近 7 天新进入 GitHub 热门项目雷达的 65 个开源项目
 nav_active: new
 ---
 
-<section class="radar-page-head">
-<a class="radar-back-link caption-1" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-<h1 class="heading-3">最近 7 天新收录（65）</h1>
-<p class="body-3 radar-page-desc">更新于 2026-11-17 17:14（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>
+<section class="section">
+  <div class="wrap">
+    <div class="section-head" style="margin-bottom:0">
+      <a class="radar-back-link" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+      <h1>最近 7 天新收录（65）</h1>
+      <p>更新于 2026-11-18 01:19（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>
+    </div>
+  </div>
 </section>
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
@@ -51,19 +55,19 @@ nav_active: new
 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 基于 Tailscale 数据平面的 netcat 替代工具，实现端到端加密点对点传输 | 开发工具/CLI工具 | CLI工具 | Go | 10.0k | +569 | 75 |  |
 | [shanselman/gputaskman](https://github.com/shanselman/gputaskman) | 终端里的 GPU 任务管理器，按进程查看显存与 LLM 缓存占用。 | 运维与云原生/监控与日志 | CLI工具 | Python | 3.4k | +1.7k | 74 |  |
 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | 为编码助手提供本地 FFmpeg 视频剪辑工具的 MCP 服务 | AI/MCP与工具集成 | CLI工具 | Python | 7.3k | +1.1k | 74 |  |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 可自托管的多智能体协作平台，将 AI 代理接入团队聊天并自动处理任务。 | AI/Agent | 自托管服务 | TypeScript | 85.7k | +364 | 73 |  |
 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 中国历史交互地图时间轴，从战国到现代可拖动查看疆域、古城与人物行迹。 | 数据/可视化 | Web应用 | JavaScript | 7.4k | +864 | 73 |  |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 可自托管的多智能体协作平台，将 AI 代理接入团队聊天并自动处理任务。 | AI/Agent | 自托管服务 | TypeScript | 85.7k | +364 | 73 |  |
 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 将《塞尔达传说：时之笛》静态重编译为 Windows 原生 Vulkan 游戏 | 移动与桌面/桌面应用 | 桌面应用 | C | 4.3k | +1.3k | 72 |  |
 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | 在任意 Apple Watch 上启用 Hermès 表盘的侧载应用 | 其他/其他 | 移动应用 | Objective-C | 2.1k | +854 | 72 |  |
 | [block/buzz](https://github.com/block/buzz) | 可自托管的协作空间，让人与 AI Agent 在同一频道协作 | AI/Agent | 自托管服务 | Rust | 37.5k | +252 | 72 |  |
 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 跨平台原地解压 ZIP/7z/RAR 等压缩包的桌面与命令行工具 | 移动与桌面/桌面应用 | 桌面应用 | Rust | 3.0k | +765 | 72 |  |
-| [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 后端/Web框架 | 框架 | JavaScript | 123.8k | +172 | 71 |  |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent 技能，并行搜索社媒与网页，合成近30天主题简报 | AI/Agent | 其他 | Python | 68.4k | +405 | 71 |  |
+| [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 后端/Web框架 | 框架 | JavaScript | 123.8k | +172 | 71 |  |
 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 学习资源/资源合集 | 资源列表 | Python | 21.1k | +888 | 69 |  |
 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust 全栈 Web 框架，内置路由、模板、组件与资源打包 | 后端/Web框架 | 框架 | Rust | 7.2k | +302 | 69 |  |
 | [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | 在 Windows 上双击安装并运行安卓 APK 的桌面工具 | 移动与桌面/桌面应用 | 桌面应用 | JavaScript | 7.0k | +2.6k | 68 |  |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 面向 Stitch MCP 的 Agent Skills 集合，用于在编码代理中生成和管理设计。 | AI/MCP与工具集成 | 库 | TypeScript | 9.9k | +1.6k | 67 |  |
 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 面向普通用户的现代化 Docker 容器管理 Web 界面 | 运维与云原生/容器与编排 | 自托管服务 | Go | 9.0k | +138 | 67 |  |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 面向 Stitch MCP 的 Agent Skills 集合，用于在编码代理中生成和管理设计。 | AI/MCP与工具集成 | 库 | TypeScript | 9.9k | +1.6k | 67 |  |
 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 将声明式组件编译为高效 JavaScript 的前端框架 | 前端/框架 | 框架 | JavaScript | 89.2k | +345 | 66 |  |
 | [shadcn/improve](https://github.com/shadcn/improve) | 审计代码库并为低成本模型撰写可执行实现计划的 Agent 技能 | AI/Agent | 其他 |  | 12.0k | +1.1k | 65 |  |
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node.js 版本管理器，可在命令行快速安装和切换多个 Node 版本。 | 开发工具/CLI工具 | CLI工具 | Shell | 96.1k | +28 | 64 |  |

@@ -4,13 +4,17 @@ title: "多媒体"
 description: "多媒体分类下的热门开源项目，共收录 16 个。"
 ---
 
-<section class="radar-page-head">
-<a class="radar-back-link caption-1" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-<h1 class="heading-3">多媒体</h1>
-<p class="body-3 radar-page-desc">共收录 16 个项目，各子分类按综合评分由高到低排列。</p>
+<section class="section">
+  <div class="wrap">
+    <div class="section-head" style="margin-bottom:0">
+      <a class="radar-back-link" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+      <h1>多媒体</h1>
+      <p>共收录 16 个项目，各子分类按综合评分由高到低排列。</p>
+    </div>
+  </div>
 </section>
 
-<h2 class="heading-5 radar-sub-heading">音视频（8）</h2>
+<h2 class="radar-sub-heading">音视频（8）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +27,7 @@ description: "多媒体分类下的热门开源项目，共收录 16 个。"
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 命令行媒体播放器，支持多种音视频格式、编解码器与字幕。 | CLI工具 | C | 38.2k | +129 | 70 |  |
 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | Claude 技能：用 three.js 和 Remotion 制作竖屏动画短片 | 其他 | TypeScript | 3.8k | +1.1k | 57 |  |
 
-<h2 class="heading-5 radar-sub-heading">图像（7）</h2>
+<h2 class="radar-sub-heading">图像（7）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
@@ -35,7 +39,7 @@ description: "多媒体分类下的热门开源项目，共收录 16 个。"
 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 244 个代码实现的像素特效库，可导出精灵表并配 Claude Code 技能 | 库 | JavaScript | 7.9k | +1.4k | 65 |  |
 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Qwen-Image 本地出图技能包，含提示词配方与 136 姿势控制 | 其他 | Python | 4.4k | +167 | 65 |  |
 
-<h2 class="heading-5 radar-sub-heading">下载工具（1）</h2>
+<h2 class="radar-sub-heading">下载工具（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|

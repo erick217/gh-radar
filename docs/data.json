@@ -2753,6 +2753,30 @@
   "pushed_at": "2026-10-10"
  },
  {
+  "full_name": "DeanChensj/jiangshan-map",
+  "url": "https://github.com/DeanChensj/jiangshan-map",
+  "summary": "中国历史交互地图时间轴，从战国到现代可拖动查看疆域、古城与人物行迹。",
+  "category": "数据/可视化",
+  "form": "Web应用",
+  "tags": [
+   "历史地图",
+   "交互可视化",
+   "中国历史",
+   "GIS",
+   "数字人文"
+  ],
+  "language": "JavaScript",
+  "stars": 7449,
+  "gain7": 864,
+  "score": 73.3,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-17",
+  "pushed_at": "2026-11-17"
+ },
+ {
   "full_name": "lobehub/lobehub",
   "url": "https://github.com/lobehub/lobehub",
   "summary": "可自托管的多智能体协作平台，将 AI 代理接入团队聊天并自动处理任务。",
@@ -2798,30 +2822,6 @@
   "note": "",
   "similar": [],
   "first_seen": "2026-11-07",
-  "pushed_at": "2026-11-17"
- },
- {
-  "full_name": "DeanChensj/jiangshan-map",
-  "url": "https://github.com/DeanChensj/jiangshan-map",
-  "summary": "中国历史交互地图时间轴，从战国到现代可拖动查看疆域、古城与人物行迹。",
-  "category": "数据/可视化",
-  "form": "Web应用",
-  "tags": [
-   "历史地图",
-   "交互可视化",
-   "中国历史",
-   "GIS",
-   "数字人文"
-  ],
-  "language": "JavaScript",
-  "stars": 7449,
-  "gain7": 864,
-  "score": 73.3,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-17",
   "pushed_at": "2026-11-17"
  },
  {
@@ -3497,6 +3497,30 @@
   "pushed_at": "2026-11-17"
  },
  {
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "summary": "AI agent 技能，并行搜索社媒与网页，合成近30天主题简报",
+  "category": "AI/Agent",
+  "form": "其他",
+  "tags": [
+   "AI agent技能",
+   "深度研究",
+   "社交媒体搜索",
+   "Claude Code插件",
+   "内容聚合"
+  ],
+  "language": "Python",
+  "stars": 68437,
+  "gain7": 405,
+  "score": 70.6,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-17",
+  "pushed_at": "2026-11-17"
+ },
+ {
   "full_name": "nodejs/node",
   "url": "https://github.com/nodejs/node",
   "summary": "跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行",
@@ -3590,30 +3614,6 @@
   "note": "",
   "similar": [],
   "first_seen": "2026-10-29",
-  "pushed_at": "2026-11-17"
- },
- {
-  "full_name": "mvanhorn/last30days-skill",
-  "url": "https://github.com/mvanhorn/last30days-skill",
-  "summary": "AI agent 技能，并行搜索社媒与网页，合成近30天主题简报",
-  "category": "AI/Agent",
-  "form": "其他",
-  "tags": [
-   "AI agent技能",
-   "深度研究",
-   "社交媒体搜索",
-   "Claude Code插件",
-   "内容聚合"
-  ],
-  "language": "Python",
-  "stars": 68437,
-  "gain7": 405,
-  "score": 70.6,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-17",
   "pushed_at": "2026-11-17"
  },
  {
@@ -4311,6 +4311,30 @@
   "pushed_at": "2026-11-16"
  },
  {
+  "full_name": "getarcaneapp/arcane",
+  "url": "https://github.com/getarcaneapp/arcane",
+  "summary": "面向普通用户的现代化 Docker 容器管理 Web 界面",
+  "category": "运维与云原生/容器与编排",
+  "form": "自托管服务",
+  "tags": [
+   "docker",
+   "容器管理",
+   "自托管",
+   "compose",
+   "web-ui"
+  ],
+  "language": "Go",
+  "stars": 8971,
+  "gain7": 138,
+  "score": 66.8,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-17",
+  "pushed_at": "2026-11-17"
+ },
+ {
   "full_name": "google-labs-code/stitch-skills",
   "url": "https://github.com/google-labs-code/stitch-skills",
   "summary": "面向 Stitch MCP 的 Agent Skills 集合，用于在编码代理中生成和管理设计。",
@@ -4357,30 +4381,6 @@
   "similar": [],
   "first_seen": "2026-10-29",
   "pushed_at": "2026-04-20"
- },
- {
-  "full_name": "getarcaneapp/arcane",
-  "url": "https://github.com/getarcaneapp/arcane",
-  "summary": "面向普通用户的现代化 Docker 容器管理 Web 界面",
-  "category": "运维与云原生/容器与编排",
-  "form": "自托管服务",
-  "tags": [
-   "docker",
-   "容器管理",
-   "自托管",
-   "compose",
-   "web-ui"
-  ],
-  "language": "Go",
-  "stars": 8971,
-  "gain7": 138,
-  "score": 66.8,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-17",
-  "pushed_at": "2026-11-17"
  },
  {
   "full_name": "jhaizhou-ops/d2r-mobile",

@@ -1,83 +1,153 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'zh-CN' }}">
+<html lang="{{ site.lang | default: 'zh-CN' }}" data-type="software" data-radius="soft" data-ground="sky" data-buttons="solid" data-motion>
 <head>
 {% include head-custom.html %}
 </head>
-<body>
-<a class="radar-skip-link button-sm" href="#main-content">跳到主要内容</a>
+<body data-icon-base="{{ '/assets/icons/' | relative_url }}">
 
-<header class="radar-nav-shell">
-  <nav class="radar-nav" aria-label="主导航">
-    <a class="radar-brand title-4" href="{{ '/' | relative_url }}">
-      <svg class="radar-icon" width="18" height="18" viewBox="0 0 256 256" fill="none" aria-hidden="true">
-        <circle cx="128" cy="128" r="96" stroke="currentColor" stroke-width="18"/>
-        <circle cx="128" cy="128" r="52" stroke="currentColor" stroke-width="18" opacity="0.65"/>
-        <path d="M128 128L194 62" stroke="currentColor" stroke-width="18" stroke-linecap="round"/>
-        <circle cx="128" cy="128" r="14" fill="currentColor"/>
-      </svg>
-      <span>GitHub 热门项目雷达</span>
+<header class="nav nav--centre">
+  <a class="skip-link" href="#top">Skip to content</a>
+  <div class="wrap nav__bar">
+    <a class="nav__logo" href="{{ '/' | relative_url }}">
+      <span class="mark" data-mark="arc" aria-hidden="true"></span>
+      <span>gh-radar</span>
     </a>
 
-    <div class="radar-nav-links" role="list">
-      <a class="radar-nav-link title-4{% if page.nav_active == 'index' %} is-active{% endif %}" href="{{ '/' | relative_url }}"{% if page.nav_active == 'index' %} aria-current="page"{% endif %}>概览</a>
-      <a class="radar-nav-link title-4{% if page.nav_active == 'rising' %} is-active{% endif %}" href="{{ '/rising.html' | relative_url }}"{% if page.nav_active == 'rising' %} aria-current="page"{% endif %}>本周增速榜</a>
-      <a class="radar-nav-link title-4{% if page.nav_active == 'new' %} is-active{% endif %}" href="{{ '/new.html' | relative_url }}"{% if page.nav_active == 'new' %} aria-current="page"{% endif %}>7日新收录</a>
-      <a class="radar-nav-link title-4{% if page.nav_active == 'usage' %} is-active{% endif %}" href="{{ '/usage.html' | relative_url }}"{% if page.nav_active == 'usage' %} aria-current="page"{% endif %}>每日 Usage</a>
-    </div>
+    <nav class="nav__links" aria-label="主导航">
+      <div class="nav__item">
+        <a class="nav__link" href="{{ '/' | relative_url }}"{% if page.nav_active == 'index' %} aria-current="page"{% endif %}>概览 <svg class="chev" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 4.5l3 3 3-3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__menu">
+          <div class="wrap grid">
+            <div class="menu-col span-3">
+              <p class="t-label">首页视图</p>
+              <a href="{{ '/#features' | relative_url }}">三段式自动采集管线<span>每日同步 Trending 与高星新仓</span></a>
+              <a href="{{ '/#workflow' | relative_url }}">四维权重评分模型<span>增速、健康、持续与实用性校验</span></a>
+              <a href="{{ '/#categories' | relative_url }}">12 个技术分类索引<span>按领域快速定位热门工具</span></a>
+            </div>
+            <div class="menu-col span-3">
+              <p class="t-label">榜单与账单</p>
+              <a href="{{ '/rising.html' | relative_url }}">本周增速榜<span>近 7 天真实 Star 增量 Top 30</span></a>
+              <a href="{{ '/new.html' | relative_url }}">7 日新收录<span>最近一周首次入榜的开源项目</span></a>
+              <a href="{{ '/usage.html' | relative_url }}">DeepSeek 每日 Usage<span>每日 Token 与人民币花费账单</span></a>
+            </div>
+            <div class="menu-col span-3">
+              <p class="t-label">开放数据</p>
+              <a href="{{ '/data.json' | relative_url }}">全部收录 JSON<span>结构化项目评分与分类数据</span></a>
+              <a href="{{ '/usage.json' | relative_url }}">每日计费 JSON<span>按日汇总的接口 Token 消耗</span></a>
+            </div>
+            <a class="menu-card span-3" href="{{ '/rising.html' | relative_url }}">
+              <div class="panel radar-menu-preview">
+                <div class="radar-menu-card-in">
+                  <span class="t-label">每日自动刷新</span>
+                  <strong>四维防刷星雷达</strong>
+                  <span class="t-small muted">剔除空壳与单日刷星噪音</span>
+                </div>
+              </div>
+              <span class="t-card">查看本周增速榜</span>
+              <span class="t-small muted">支持关键词搜索、语言筛选与表头排序</span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="nav__item"><a class="nav__link" href="{{ '/rising.html' | relative_url }}"{% if page.nav_active == 'rising' %} aria-current="page"{% endif %}>本周增速榜</a></div>
+      <div class="nav__item"><a class="nav__link" href="{{ '/new.html' | relative_url }}"{% if page.nav_active == 'new' %} aria-current="page"{% endif %}>7日新收录</a></div>
+      <div class="nav__item"><a class="nav__link" href="{{ '/usage.html' | relative_url }}"{% if page.nav_active == 'usage' %} aria-current="page"{% endif %}>每日 Usage</a></div>
+    </nav>
 
-    <div class="radar-nav-actions">
-      <button type="button" class="radar-theme-btn button-sm" id="radar-theme-toggle" aria-label="切换浅色或深色主题">
+    <div class="nav__actions">
+      <button type="button" class="nav__theme-btn" id="radar-theme-toggle" aria-label="切换浅色或深色主题">
         <svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true">
           <circle cx="128" cy="128" r="56" stroke="currentColor" stroke-width="18"/>
           <path d="M128 24V44M128 212V232M24 128H44M212 128H232M54.5 54.5L68.6 68.6M187.4 187.4L201.5 201.5M201.5 54.5L187.4 68.6M68.6 187.4L54.5 201.5" stroke="currentColor" stroke-width="18" stroke-linecap="round"/>
         </svg>
         <span class="radar-theme-label">跟随系统</span>
       </button>
-      <a class="radar-nav-ext button-sm" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">
-        <span>GitHub</span>
-        <svg class="radar-icon" width="14" height="14" viewBox="0 0 256 256" fill="none" aria-hidden="true">
-          <path d="M64 192L192 64M96 64H192V160" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </a>
-      <button type="button" class="radar-menu-toggle button-sm" id="radar-menu-toggle" aria-expanded="false" aria-controls="radar-mobile-drawer" aria-label="打开导航菜单">
-        <span class="radar-hamburger" aria-hidden="true">
-          <span></span>
-          <span></span>
-        </span>
-      </button>
+      <a class="btn btn--primary" href="{{ '/rising.html' | relative_url }}">查看本周增速榜</a>
     </div>
-  </nav>
+
+    <button class="nav__toggle" type="button" aria-expanded="false" aria-label="打开导航菜单">
+      <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><path d="M2 5h14M2 13h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+    </button>
+  </div>
 </header>
 
-<div class="radar-mobile-drawer" id="radar-mobile-drawer" aria-hidden="true">
-  <div class="radar-mobile-drawer-inner">
-    <a class="radar-mobile-link heading-5{% if page.nav_active == 'index' %} is-active{% endif %}" href="{{ '/' | relative_url }}">概览</a>
-    <a class="radar-mobile-link heading-5{% if page.nav_active == 'rising' %} is-active{% endif %}" href="{{ '/rising.html' | relative_url }}">本周增速榜</a>
-    <a class="radar-mobile-link heading-5{% if page.nav_active == 'new' %} is-active{% endif %}" href="{{ '/new.html' | relative_url }}">7日新收录</a>
-    <a class="radar-mobile-link heading-5{% if page.nav_active == 'usage' %} is-active{% endif %}" href="{{ '/usage.html' | relative_url }}">每日 Usage</a>
-    <a class="radar-mobile-link heading-5" href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub 仓库</a>
-  </div>
-</div>
-
-<main id="main-content" class="radar-main">
+<main id="top" class="{% if page.nav_active != 'index' %}radar-subpage{% endif %}">
   {{ content }}
 </main>
 
-<footer class="radar-footer">
-  <div class="radar-footer-inner">
-    <div class="radar-footer-meta">
-      <p class="body-5">GitHub 热门项目雷达</p>
-      <p class="caption-2">由 GitHub Actions 每日采集、四维评分并调用 DeepSeek 生成中文摘要，原始数据公开归档于仓库。</p>
+<footer class="footer closing footer--dark ground-inverse g2m" aria-labelledby="close-h">
+  <div class="wrap">
+    <div class="closing__cta close--word">
+      <div class="section-head--split">
+        <div>
+          <h2 id="close-h">每天两分钟，直达真实高增长开源项目</h2>
+          <p class="t-lead">GitHub Actions 自动采集、四维权重剔除噪音，并公开每日 DeepSeek 花费。</p>
+        </div>
+        <a class="btn btn--primary" href="{{ '/rising.html' | relative_url }}">
+          查看本周增速榜
+          <svg class="m-arrow" viewBox="0 0 12 12" aria-hidden="true">
+            <path class="m-arrow__stem" d="M1 6h8"/>
+            <path class="m-arrow__head" d="M4.5 2.5 8 6l-3.5 3.5"/>
+          </svg>
+        </a>
+      </div>
+      <p class="close__word" aria-hidden="true">gh-radar</p>
     </div>
-    <div class="radar-footer-links caption-1">
-      <a href="{{ '/' | relative_url }}">首页概览</a>
-      <a href="{{ '/rising.html' | relative_url }}">本周增速榜</a>
-      <a href="{{ '/usage.html' | relative_url }}">每日 Usage</a>
-      <a href="{{ '/data.json' | relative_url }}">数据 JSON</a>
-      <a href="https://github.com/erick217/gh-radar/blob/main/README.md" target="_blank" rel="noopener">使用说明与条款</a>
-      <a href="https://github.com/erick217/gh-radar/security" target="_blank" rel="noopener">隐私与安全</a>
+
+    <div class="closing__links">
+      <div class="grid">
+        <div class="span-4 stack-4">
+          <a class="nav__logo" href="{{ '/' | relative_url }}"><span class="mark" data-mark="arc" aria-hidden="true"></span>gh-radar</a>
+          <p class="footer__lede">每日过滤 GitHub Trending 噪音，归档真正可落地的高价值开源项目。</p>
+        </div>
+        <div class="span-2 footer__col">
+          <h3>榜单</h3>
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">首页概览</a></li>
+            <li><a href="{{ '/rising.html' | relative_url }}">本周增速榜</a></li>
+            <li><a href="{{ '/new.html' | relative_url }}">7 日新收录</a></li>
+            <li><a href="{{ '/usage.html' | relative_url }}">每日 Usage</a></li>
+          </ul>
+        </div>
+        <div class="span-2 footer__col">
+          <h3>热门分类</h3>
+          <ul>
+            <li><a href="{{ '/categories/ai.html' | relative_url }}">AI / Agent</a></li>
+            <li><a href="{{ '/categories/devtools.html' | relative_url }}">开发工具</a></li>
+            <li><a href="{{ '/categories/frontend.html' | relative_url }}">前端开发</a></li>
+            <li><a href="{{ '/categories/backend.html' | relative_url }}">后端架构</a></li>
+          </ul>
+        </div>
+        <div class="span-2 footer__col">
+          <h3>更多领域</h3>
+          <ul>
+            <li><a href="{{ '/categories/data.html' | relative_url }}">数据与检索</a></li>
+            <li><a href="{{ '/categories/ops.html' | relative_url }}">运维与云原生</a></li>
+            <li><a href="{{ '/categories/security.html' | relative_url }}">安全工程</a></li>
+            <li><a href="{{ '/categories/productivity.html' | relative_url }}">效率与自托管</a></li>
+          </ul>
+        </div>
+        <div class="span-2 footer__col">
+          <h3>开放数据</h3>
+          <ul>
+            <li><a href="{{ '/data.json' | relative_url }}">data.json</a></li>
+            <li><a href="{{ '/usage.json' | relative_url }}">usage.json</a></li>
+            <li><a href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener">GitHub 仓库</a></li>
+            <li><a href="https://github.com/erick217/gh-radar/blob/main/README.md" target="_blank" rel="noopener">使用说明</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__legal">
+        <span>GitHub 热门项目雷达 · 数据每日自动归档于 GitHub Pages</span>
+        <div class="socials">
+          <a href="https://github.com/erick217/gh-radar" target="_blank" rel="noopener" aria-label="GitHub 仓库">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56 0-.28-.01-1.02-.02-2-3.2.69-3.88-1.54-3.88-1.54-.52-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.73-1.54-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.29 1.18-3.09-.12-.29-.51-1.46.11-3.04 0 0 .97-.31 3.17 1.18a10.97 10.97 0 0 1 5.76 0c2.2-1.49 3.17-1.18 3.17-1.18.62 1.58.23 2.75.11 3.04.74.8 1.18 1.83 1.18 3.09 0 4.42-2.69 5.39-5.26 5.68.41.35.78 1.05.78 2.12 0 1.53-.01 2.77-.01 3.15 0 .31.21.68.8.56A11.51 11.51 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/></svg>
+          </a>
+        </div>
+      </div>
     </div>
   </div>
 </footer>
+
 </body>
 </html>

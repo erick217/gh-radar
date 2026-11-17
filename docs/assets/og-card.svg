@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0A0D14"/>
+  <rect x="64" y="64" width="1072" height="502" rx="24" fill="#131824" stroke="#243044" stroke-width="2"/>
+  <path d="M128 192V156A48 48 0 0 1 224 156V192H200V156A24 24 0 0 0 152 156V192Z" fill="#5AB9FC"/>
+  <text x="248" y="176" fill="#E9EDF3" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="600">gh-radar</text>
+  <text x="128" y="290" fill="#E9EDF3" font-family="system-ui, -apple-system, sans-serif" font-size="56" font-weight="600">GitHub 热门开源项目雷达</text>
+  <text x="128" y="360" fill="#8891A1" font-family="system-ui, -apple-system, sans-serif" font-size="28">四维权重剔除刷星噪音 · DeepSeek 中文摘要 · 每日 Usage 透明账单</text>
+  <rect x="128" y="430" width="210" height="52" rx="10" fill="#5AB9FC"/>
+  <text x="162" y="464" fill="#0A0D14" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="600">本周增速 Top 30</text>
+  <rect x="358" y="430" width="220" height="52" rx="10" fill="#192131" stroke="#2C3A52"/>
+  <text x="392" y="464" fill="#E9EDF3" font-family="system-ui, -apple-system, sans-serif" font-size="22">12 个技术分类</text>
+</svg>

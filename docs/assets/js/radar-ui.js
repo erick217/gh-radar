@@ -27,12 +27,22 @@
     }
   }
 
-  function applyTheme(mode) {
-    if (mode === "light" || mode === "dark") {
-      document.documentElement.setAttribute("data-theme", mode);
-    } else {
-      document.documentElement.removeAttribute("data-theme");
+  function resolveEffectiveTone(mode) {
+    if (mode === "light" || mode === "dark") return mode;
+    if (window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches) {
+      return "light";
     }
+    return "dark";
+  }
+
+  function applyTheme(mode) {
+    var html = document.documentElement;
+    if (mode === "light" || mode === "dark") {
+      html.setAttribute("data-theme", mode);
+    } else {
+      html.removeAttribute("data-theme");
+    }
+    html.dataset.tone = resolveEffectiveTone(mode);
     try {
       if (mode === "system") {
         localStorage.removeItem(THEME_KEY);
@@ -40,6 +50,9 @@
         localStorage.setItem(THEME_KEY, mode);
       }
     } catch (e) {}
+    if (window.tasteBackgrounds && typeof window.tasteBackgrounds.detect === "function") {
+      window.tasteBackgrounds.detect();
+    }
   }
 
   function initThemeToggle() {
@@ -63,101 +76,14 @@
       applyTheme(next);
       renderBtn();
     });
-  }
 
-  function initMobileMenu() {
-    var toggle = document.getElementById("radar-menu-toggle");
-    var drawer = document.getElementById("radar-mobile-drawer");
-    if (!toggle || !drawer) return;
-
-    var setOpen = function (open) {
-      toggle.setAttribute("aria-expanded", open ? "true" : "false");
-      drawer.setAttribute("aria-hidden", open ? "false" : "true");
-      drawer.classList.toggle("is-open", open);
-      document.body.style.overflow = open ? "hidden" : "";
-    };
-
-    toggle.addEventListener("click", function () {
-      var isOpen = toggle.getAttribute("aria-expanded") === "true";
-      setOpen(!isOpen);
-    });
-
-    drawer.querySelectorAll("a").forEach(function (link) {
-      link.addEventListener("click", function () {
-        setOpen(false);
-      });
-    });
-
-    document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape" && drawer.classList.contains("is-open")) {
-        setOpen(false);
-        toggle.focus();
-      }
-    });
-  }
-
-  function initScrollReveals() {
-    var els = document.querySelectorAll(".radar-reveal");
-    if (!els.length) return;
-    var reduced = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduced || typeof IntersectionObserver === "undefined") {
-      els.forEach(function (el) { el.classList.add("is-visible"); });
-      return;
-    }
-
-    var observer = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-visible");
-          observer.unobserve(entry.target);
+    if (window.matchMedia) {
+      window.matchMedia("(prefers-color-scheme: light)").addEventListener("change", function () {
+        if (getTheme() === "system") {
+          applyTheme("system");
         }
       });
-    }, { threshold: 0.12, rootMargin: "0px 0px -32px 0px" });
-
-    els.forEach(function (el) { observer.observe(el); });
-  }
-
-  function initTaglineReveal() {
-    var words = Array.prototype.slice.call(document.querySelectorAll(".radar-reveal-word"));
-    if (!words.length) return;
-    var reduced = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduced) {
-      words.forEach(function (w) { w.classList.add("is-lit"); });
-      return;
     }
-
-    var rafPending = false;
-    var updateWords = function () {
-      rafPending = false;
-      var triggerY = window.innerHeight * 0.78;
-      var allLit = true;
-      for (var i = 0; i < words.length; i += 1) {
-        var word = words[i];
-        if (word.classList.contains("is-lit")) continue;
-        var rect = word.getBoundingClientRect();
-        var progressLine = rect.top + Math.min(rect.left * 0.12, 120);
-        if (progressLine <= triggerY) {
-          word.classList.add("is-lit");
-        } else {
-          allLit = false;
-        }
-      }
-      if (allLit) {
-        window.removeEventListener("scroll", onScroll);
-        window.removeEventListener("resize", onScroll);
-      }
-    };
-
-    var onScroll = function () {
-      if (!rafPending) {
-        rafPending = true;
-        window.requestAnimationFrame(updateWords);
-      }
-    };
-
-    updateWords();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    window.addEventListener("resize", onScroll, { passive: true });
   }
 
   function parseNumericValue(raw) {
@@ -178,7 +104,7 @@
 
   function makePill(text, cls) {
     var span = document.createElement("span");
-    span.className = "radar-pill caption-3 " + cls;
+    span.className = "radar-pill " + cls;
     span.textContent = text;
     return span;
   }
@@ -210,12 +136,16 @@
   }
 
   function enhanceTable(table) {
-    if (table.closest(".radar-table-wrap")) return;
+    if (table.dataset.radarEnhanced === "1") return;
+    table.dataset.radarEnhanced = "1";
 
-    var wrap = document.createElement("div");
-    wrap.className = "radar-table-wrap";
-    table.parentNode.insertBefore(wrap, table);
-    wrap.appendChild(table);
+    var wrap = table.closest(".radar-table-wrap");
+    if (!wrap) {
+      wrap = document.createElement("div");
+      wrap.className = "radar-table-wrap";
+      table.parentNode.insertBefore(wrap, table);
+      wrap.appendChild(table);
+    }
 
     var thead = table.querySelector("thead");
     var tbody = table.querySelector("tbody");
@@ -332,7 +262,7 @@
     }
 
     var countEl = document.createElement("span");
-    countEl.className = "radar-count caption-2 mono-num";
+    countEl.className = "radar-count mono-num";
     countEl.textContent = "共 " + rows.length + " 项";
 
     toolbar.appendChild(left);
@@ -342,9 +272,9 @@
     var emptyState = document.createElement("div");
     emptyState.className = "radar-empty-state";
     emptyState.innerHTML =
-      '<p class="title-3">未找到匹配的项目</p>' +
-      '<p class="body-6">没有符合当前搜索词或语言条件的开源项目，你可以清空筛选重新查看。</p>' +
-      '<button type="button" class="radar-btn button-sm">重置筛选条件</button>';
+      '<p class="t-card">未找到匹配的项目</p>' +
+      '<p class="t-body">没有符合当前搜索词或语言条件的开源项目，可以清空筛选重新查看。</p>' +
+      '<button type="button" class="btn btn--secondary btn--sm">重置筛选条件</button>';
     wrap.parentNode.insertBefore(emptyState, wrap.nextSibling);
 
     var resetBtn = emptyState.querySelector("button");
@@ -380,9 +310,6 @@
 
   document.addEventListener("DOMContentLoaded", function () {
     initThemeToggle();
-    initMobileMenu();
-    initScrollReveals();
-    initTaglineReveal();
-    document.querySelectorAll(".radar-main table").forEach(enhanceTable);
+    document.querySelectorAll("main table").forEach(enhanceTable);
   });
 })();

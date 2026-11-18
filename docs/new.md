@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "最近 7 天新收录"
-description: "近 7 天新进入 GitHub 热门项目雷达的 65 个开源项目。"
+description: "近 7 天新进入 GitHub 热门项目雷达的 57 个开源项目。"
 nav_active: new
 ---
 
@@ -9,8 +9,8 @@ nav_active: new
   <div class="wrap">
     <div class="section-head" style="margin-bottom:0">
       <a class="radar-back-link" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-      <h1>最近 7 天新收录（65）</h1>
-      <p>更新于 2026-11-18 01:19（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>
+      <h1>最近 7 天新收录（57）</h1>
+      <p>更新于 2026-11-18 10:15（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>
     </div>
   </div>
 </section>
@@ -21,9 +21,7 @@ nav_active: new
 | [we-promise/sure](https://github.com/we-promise/sure) | 开源个人财务管理应用，可自托管并支持 AI 助手 | 效率与自托管/自托管服务 | 自托管服务 | Ruby | 16.1k | +4.5k | 90 |  |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 为 AI 编程代理提供工程化技能包，覆盖从需求到上线的开发流程。 | AI/Agent | 资源列表 | JavaScript | 118.5k | +3.6k | 90 |  |
 | [dream-num/univer](https://github.com/dream-num/univer) | 开源 Office SDK，帮助开发者在应用中嵌入表格和文档编辑与计算能力。 | 前端/UI组件 | 库 | TypeScript | 28.6k | +9.8k | 89 |  |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票分析系统，生成决策仪表盘并自动推送。 | AI/AI应用 | Web应用 | Python | 72.9k | +3.6k | 88 |  |
 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 标准化 AI Agent 与前端应用交互的开源事件协议及 SDK | AI/Agent | 框架 | TypeScript | 19.6k | +5.5k | 87 |  |
-| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 通用物理仿真引擎，用于机器人、生物力学与强化学习研究。 | 其他/其他 | 库 | C++ | 18.2k | +1.1k | 87 |  |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 阿里开源的 AI 代码审查 CLI，用确定性流程加 LLM Agent 生成行级评论。 | 开发工具/代码质量与构建 | CLI工具 | Go | 53.3k | +4.7k | 86 |  |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 本地浏览器界面，用于标注 AI 代理的计划、文档和代码变更并回传反馈。 | AI/Agent | Web应用 | TypeScript | 12.8k | +4.5k | 86 |  |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让编码代理通过 MCP 控制并调试 Chrome 浏览器的工具 | AI/MCP与工具集成 | CLI工具 | TypeScript | 57.9k | +4.1k | 86 |  |
@@ -31,9 +29,7 @@ nav_active: new
 | [libracoder/kiri](https://github.com/libracoder/kiri) | 轻量快速的容器运行时，兼容 Docker CLI，可替代 Docker Desktop。 | 运维与云原生/容器与编排 | 桌面应用 | Rust | 9.5k | +14.3k | 85 |  |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 自托管工作流平台，编排编码智能体执行任务并加入人工审批环节 | AI/Agent | 自托管服务 | Go | 2.6k | +4.1k | 85 |  |
 | [openai/codex-security](https://github.com/openai/codex-security) | OpenAI 的代码安全扫描 CLI/SDK，用于发现、验证和修复漏洞 | 安全/安全工具 | CLI工具 | TypeScript | 13.8k | +2.6k | 84 |  |
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 11.4k | +6.7k | 82 |  |
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 开源终端 AI 编程代理，支持多模型、IDE 插件与聊天集成 | AI/Agent | CLI工具 | TypeScript | 30.7k | +1.2k | 82 |  |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 通过 MCP 让 AI 助手配置和自动化 Home Assistant。 | AI/MCP与工具集成 | 自托管服务 | Python | 7.9k | +1.7k | 82 |  |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 让编码 AI 助手用更少 token 回答并压缩输入，降低使用成本 | AI/Agent | CLI工具 | Go | 120.9k | +2.2k | 81 |  |
 | [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Linux 上的 WiFi 安全审计桌面工具，可抓包、发现客户端、捕获握手包并破解密码。 | 安全/安全工具 | 桌面应用 | Rust | 6.5k | +2.1k | 81 |  |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 将 Claude Code 等编码代理接入多家模型提供商，聚合免费额度。 | AI/Agent | CLI工具 | Python | 70.9k | +2.4k | 80 |  |
@@ -47,11 +43,8 @@ nav_active: new
 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | Windows实时GPU视频增强播放器，支持超分、降噪与补帧 | 多媒体/音视频 | 桌面应用 | C++ | 3.1k | +2.7k | 78 |  |
 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 用 C/C++ 实现的高性能 LLM 本地推理引擎，支持多硬件与量化 | AI/模型推理与部署 | 库 | C++ | 135.4k | +1.2k | 77 |  |
 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 用 Zig 编写的本地 LLM 推理与服务引擎，支持 Metal、CUDA 和 Vulkan。 | AI/模型推理与部署 | CLI工具 | Zig | 2.3k | +466 | 77 |  |
-| [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | iOS 27 上的 MobileGestalt 编辑器，可修改区域码与设备功能开关。 | 其他/其他 | 移动应用 | Swift | 8.0k | +4.6k | 77 |  |
 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 本地优先的多模型 AI 机器人桌面应用，可接入聊天渠道并操作电脑。 | AI/Agent | 桌面应用 | Python | 4.4k | +1.5k | 77 |  |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 为AI代理提供可自托管的持久记忆与知识检索服务 | AI/Agent | 自托管服务 | TypeScript | 33.2k | +840 | 76 |  |
 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 把 Switch 游戏重编译为 ARM64，在 iPhone/iPad/Mac 原生运行。 | 其他/其他 | 桌面应用 | C# | 3.4k | +2.7k | 76 |  |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 用WiFi信号实现穿墙人体感知、呼吸心率监测与智能家居联动 | AI/AI应用 | 自托管服务 | Rust | 104.5k | +774 | 76 |  |
 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | 基于 Tailscale 数据平面的 netcat 替代工具，实现端到端加密点对点传输 | 开发工具/CLI工具 | CLI工具 | Go | 10.0k | +569 | 75 |  |
 | [shanselman/gputaskman](https://github.com/shanselman/gputaskman) | 终端里的 GPU 任务管理器，按进程查看显存与 LLM 缓存占用。 | 运维与云原生/监控与日志 | CLI工具 | Python | 3.4k | +1.7k | 74 |  |
 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | 为编码助手提供本地 FFmpeg 视频剪辑工具的 MCP 服务 | AI/MCP与工具集成 | CLI工具 | Python | 7.3k | +1.1k | 74 |  |
@@ -63,7 +56,6 @@ nav_active: new
 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 跨平台原地解压 ZIP/7z/RAR 等压缩包的桌面与命令行工具 | 移动与桌面/桌面应用 | 桌面应用 | Rust | 3.0k | +765 | 72 |  |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent 技能，并行搜索社媒与网页，合成近30天主题简报 | AI/Agent | 其他 | Python | 68.4k | +405 | 71 |  |
 | [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 后端/Web框架 | 框架 | JavaScript | 123.8k | +172 | 71 |  |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 学习资源/资源合集 | 资源列表 | Python | 21.1k | +888 | 69 |  |
 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust 全栈 Web 框架，内置路由、模板、组件与资源打包 | 后端/Web框架 | 框架 | Rust | 7.2k | +302 | 69 |  |
 | [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | 在 Windows 上双击安装并运行安卓 APK 的桌面工具 | 移动与桌面/桌面应用 | 桌面应用 | JavaScript | 7.0k | +2.6k | 68 |  |
 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 面向普通用户的现代化 Docker 容器管理 Web 界面 | 运维与云原生/容器与编排 | 自托管服务 | Go | 9.0k | +138 | 67 |  |

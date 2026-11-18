@@ -56,7 +56,6 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | 面向编码智能体的跨会话 token 成本优化插件 | 其他 | Python | 7.3k | +1.8k | 77 |  |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 面向 Claude Code/Codex 的多智能体编排与记忆框架 | 框架 | TypeScript | 81.9k | +523 | 77 |  |
 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 本地优先的多模型 AI 机器人桌面应用，可接入聊天渠道并操作电脑。 | 桌面应用 | Python | 4.4k | +1.5k | 77 |  |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | 其他 | JavaScript | 27.8k | +1.4k | 77 |  |
 | [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) | 为 DeepSeek Harness 提供多智能体机器人、群聊与记忆的插件。 | 桌面应用 | JavaScript | 8.2k | +1.4k | 77 |  |
 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 让命令行 Agent 在后台自动接活并按规则跟进，需拍板时推送卡片。 | 自托管服务 | TypeScript | 5.7k | +1.4k | 77 |  |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 用 Zig 编写的轻量无头浏览器，为 AI 代理与自动化提供 CDP 服务 | CLI工具 | Zig | 42.2k | +426 | 77 |  |
@@ -72,6 +71,7 @@ description: "AI分类下的热门开源项目，共收录 107 个。"
 | [google/skills](https://github.com/google/skills) | 面向 Google 产品的 Agent Skills 集合，可通过 npx 安装使用。 | 资源列表 | Python | 24.4k | +577 | 73 |  |
 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 本地优先的多智能体桌面应用，将目标拆解为任务并协调专家代理协作完成。 | 桌面应用 | JavaScript | 9.4k | +263 | 72 |  |
 | [block/buzz](https://github.com/block/buzz) | 可自托管的协作空间，让人与 AI Agent 在同一频道协作 | 自托管服务 | Rust | 37.5k | +252 | 72 |  |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 用等距 SVG/WebGL 图解机器与复杂系统的 Agent 技能 | 其他 | JavaScript | 27.8k | +1.4k | 72 |  |
 | [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | 移动应用 | Dart | 25.4k | +7.3k | 71 |  |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent 技能，并行搜索社媒与网页，合成近30天主题简报 | 其他 | Python | 68.4k | +405 | 71 |  |
 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 用 7 美元 ESP32 让视觉模型操控真实 iPhone：AirPlay 看屏、USB HID 点击 | 其他 | Swift | 5.0k | +258 | 71 |  |

@@ -20,9 +20,9 @@
           <div class="wrap grid">
             <div class="menu-col span-3">
               <p class="t-label">首页视图</p>
-              <a href="{{ '/#features' | relative_url }}">三段式自动采集管线<span>每日同步 Trending 与高星新仓</span></a>
-              <a href="{{ '/#workflow' | relative_url }}">四维权重评分模型<span>增速、健康、持续与实用性校验</span></a>
+              <a href="{{ '/#all-projects' | relative_url }}">全部收录项目<span>按综合评分排列，支持搜索与多维筛选</span></a>
               <a href="{{ '/#categories' | relative_url }}">12 个技术分类索引<span>按领域快速定位热门工具</span></a>
+              <a href="{{ '/#workflow' | relative_url }}">四维权重筛选准则<span>增速、健康、持续与实用性校验</span></a>
             </div>
             <div class="menu-col span-3">
               <p class="t-label">榜单与账单</p>
@@ -49,6 +49,7 @@
           </div>
         </div>
       </div>
+      <div class="nav__item"><a class="nav__link" href="{{ '/#all-projects' | relative_url }}">全部项目</a></div>
       <div class="nav__item"><a class="nav__link" href="{{ '/rising.html' | relative_url }}"{% if page.nav_active == 'rising' %} aria-current="page"{% endif %}>本周增速榜</a></div>
       <div class="nav__item"><a class="nav__link" href="{{ '/new.html' | relative_url }}"{% if page.nav_active == 'new' %} aria-current="page"{% endif %}>7日新收录</a></div>
       <div class="nav__item"><a class="nav__link" href="{{ '/usage.html' | relative_url }}"{% if page.nav_active == 'usage' %} aria-current="page"{% endif %}>每日 Usage</a></div>
@@ -71,7 +72,7 @@
   </div>
 </header>
 
-<main id="top" class="{% if page.nav_active != 'index' %}radar-subpage{% endif %}">
+<main id="top" class="{% if page.nav_active == 'index' %}radar-index{% else %}radar-subpage{% endif %}">
   {{ content }}
 </main>
 

@@ -216,6 +216,7 @@
       });
     }
 
+    var catIdx = headers.indexOf("分类");
     var langIdx = headers.indexOf("语言");
     var isRepoTable = headers.indexOf("项目") !== -1 && headers.indexOf("简介") !== -1;
     if (!isRepoTable || rows.length < 4) return;
@@ -232,6 +233,35 @@
     search.placeholder = "搜索项目名、简介、分类或形态";
     search.setAttribute("aria-label", "搜索项目列表");
     left.appendChild(search);
+
+    var catSelect = null;
+    if (catIdx !== -1) {
+      var cats = {};
+      rows.forEach(function (r) {
+        var val = r.children[catIdx] ? r.children[catIdx].textContent.trim() : "";
+        var topCat = val.split("/")[0].trim();
+        if (topCat) cats[topCat] = (cats[topCat] || 0) + 1;
+      });
+      var catKeys = Object.keys(cats).sort(function (a, b) {
+        return cats[b] - cats[a] || a.localeCompare(b, "zh-Hans-CN");
+      });
+      if (catKeys.length > 1) {
+        catSelect = document.createElement("select");
+        catSelect.className = "radar-select";
+        catSelect.setAttribute("aria-label", "按分类筛选");
+        var allCatOpt = document.createElement("option");
+        allCatOpt.value = "";
+        allCatOpt.textContent = "全部分类 (" + rows.length + ")";
+        catSelect.appendChild(allCatOpt);
+        catKeys.forEach(function (c) {
+          var opt = document.createElement("option");
+          opt.value = c;
+          opt.textContent = c + " (" + cats[c] + ")";
+          catSelect.appendChild(opt);
+        });
+        left.appendChild(catSelect);
+      }
+    }
 
     var langSelect = null;
     if (langIdx !== -1) {
@@ -273,13 +303,14 @@
     emptyState.className = "radar-empty-state";
     emptyState.innerHTML =
       '<p class="t-card">未找到匹配的项目</p>' +
-      '<p class="t-body">没有符合当前搜索词或语言条件的开源项目，可以清空筛选重新查看。</p>' +
+      '<p class="t-body">没有符合当前搜索词、分类或语言条件的开源项目，可以清空筛选重新查看。</p>' +
       '<button type="button" class="btn btn--secondary btn--sm">重置筛选条件</button>';
     wrap.parentNode.insertBefore(emptyState, wrap.nextSibling);
 
     var resetBtn = emptyState.querySelector("button");
     resetBtn.addEventListener("click", function () {
       search.value = "";
+      if (catSelect) catSelect.value = "";
       if (langSelect) langSelect.value = "";
       applyFilter();
       search.focus();
@@ -287,13 +318,16 @@
 
     var applyFilter = function () {
       var q = search.value.trim().toLowerCase();
+      var cat = catSelect ? catSelect.value : "";
       var lang = langSelect ? langSelect.value : "";
       var visible = 0;
       rows.forEach(function (r) {
         var textMatch = !q || r.textContent.toLowerCase().indexOf(q) !== -1;
+        var cellCat = catIdx !== -1 && r.children[catIdx] ? r.children[catIdx].textContent.trim().split("/")[0].trim() : "";
+        var catMatch = !cat || cellCat === cat;
         var cellLang = langIdx !== -1 && r.children[langIdx] ? r.children[langIdx].textContent.trim() : "";
         var langMatch = !lang || cellLang === lang;
-        var show = textMatch && langMatch;
+        var show = textMatch && catMatch && langMatch;
         r.style.display = show ? "" : "none";
         if (show) visible += 1;
       });
@@ -303,6 +337,9 @@
     };
 
     search.addEventListener("input", applyFilter);
+    if (catSelect) {
+      catSelect.addEventListener("change", applyFilter);
+    }
     if (langSelect) {
       langSelect.addEventListener("change", applyFilter);
     }

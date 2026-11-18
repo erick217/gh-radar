@@ -405,21 +405,7 @@ def _render_index_page(
     billing: dict,
     updated_str: str,
 ) -> str:
-    pipeline_spec = json.dumps({
-        "layout": "bowtie",
-        "alt": "GitHub Trending 日榜、周榜与 30 天高星新仓汇入四维过滤引擎，经 DeepSeek Flash 分类与摘要后生成 12 个技术分类与每日 Usage 账单。",
-        "sources": [
-            {"label": "Trending 日榜", "icon": "github", "sub": "每日热榜"},
-            {"label": "Trending 周榜", "icon": "ui:trending-up", "sub": "7日增量"},
-            {"label": "高星新仓", "icon": "ui:star", "sub": "30天 >300⭐"},
-        ],
-        "core": {"label": "四维评分引擎", "icon": "ui:funnel"},
-        "targets": [
-            {"label": "DeepSeek Flash", "icon": "ui:cpu", "sub": "中文摘要"},
-            {"label": "12 个主分类", "icon": "ui:layers", "sub": "结构归档"},
-            {"label": "每日 Usage", "icon": "ui:chart-column", "sub": "账单透明"},
-        ],
-    }, ensure_ascii=False)
+    all_sorted = sorted(items, key=lambda x: (-x["score"], -x["gain7"]))
 
     hero_html = (
         '<section class="hero hero--collage" data-enter aria-labelledby="hero-h">\n'
@@ -430,8 +416,8 @@ def _render_index_page(
         '        <h1 id="hero-h">GitHub 热门开源项目 每日筛选雷达</h1>\n'
         '        <p class="hero__lead">每日自动抓取 GitHub Trending 与高星新仓，通过四维权重模型剔除刷星与空壳仓库，再由 DeepSeek 生成中文简介与分类。</p>\n'
         '        <div class="btn-row">\n'
-        f'          <a class="btn btn--primary" href="rising.html">查看本周增速榜{M_ARROW}</a>\n'
-        '          <a class="btn btn--secondary" href="new.html">7 日新收录</a>\n'
+        f'          <a class="btn btn--primary" href="#all-projects">查看全部项目（{len(items)}）{M_ARROW}</a>\n'
+        '          <a class="btn btn--secondary" href="rising.html">本周增速榜</a>\n'
         '        </div>\n'
         '        <dl class="hero-facts">\n'
         f'          <div><dt>已收录项目</dt><dd data-m-count>{len(items)}</dd></div>\n'
@@ -445,9 +431,9 @@ def _render_index_page(
         '          <div class="d-win__body">\n'
         '            <div class="d-side">\n'
         '              <span><i></i>概览</span>\n'
-        '              <span class="is-on"><i></i>本周增速</span>\n'
+        '              <span class="is-on"><i></i>全部项目</span>\n'
+        '              <span><i></i>本周增速</span>\n'
         '              <span><i></i>7 日新仓</span>\n'
-        '              <span><i></i>每日 Usage</span>\n'
         '              <span class="d-side__label">热门分类</span>\n'
         '              <span><i></i>AI / Agent</span>\n'
         '              <span><i></i>开发工具</span>\n'
@@ -472,28 +458,17 @@ def _render_index_page(
         '</section>'
     )
 
-    features_html = (
-        '<section class="section ground-surface" id="features" aria-labelledby="features-h">\n'
-        '  <div class="wrap">\n'
+    all_projects_html = (
+        '<section class="section ground-surface radar-section--auto" id="all-projects" aria-labelledby="all-projects-h" markdown="1">\n'
+        '  <div class="wrap" markdown="1">\n'
         '    <div class="section-head section-head--split">\n'
         '      <div>\n'
-        '        <h2 id="features-h">三段式自动采集管线。<span class="muted">先滤刷星再出简介</span></h2>\n'
-        '        <p>每日自动同步、防刷星评分与中文摘要，历史结果永久缓存。</p>\n'
+        f'        <h2 id="all-projects-h">全部收录项目（{len(items)}）</h2>\n'
+        '        <p>按四维综合评分由高到低排列，支持关键词搜索、按主分类或语言筛选，以及点击表头排序。</p>\n'
         '      </div>\n'
         '      <a class="link" href="new.html">查看 7 日新收录</a>\n'
-        '    </div>\n'
-        '    <div class="grid grid--top">\n'
-        '      <div class="span-5 stack-5">\n'
-        '        <div class="radar-feature-list">\n'
-        '          <div class="radar-feature-item"><strong>硬过滤前置</strong><span class="muted">排除 Fork、归档与文档过短的空壳仓库</span></div>\n'
-        '          <div class="radar-feature-item"><strong>缓存优先分析</strong><span class="muted">仅对新增项目调用 DeepSeek，历史不重复扣费</span></div>\n'
-        '          <div class="radar-feature-item"><strong>公开账单核验</strong><span class="muted">每日 Usage 简表与 JSON 同步提交至仓库</span></div>\n'
-        '        </div>\n'
-        '      </div>\n'
-        '      <div class="panel span-6 start-7">\n'
-        f'        <div class="dg" data-diagram=\'{html.escape(pipeline_spec)}\'></div>\n'
-        '      </div>\n'
-        '    </div>\n'
+        '    </div>\n\n'
+        f'{_table(all_sorted, True)}\n\n'
         '  </div>\n'
         '</section>'
     )
@@ -503,10 +478,10 @@ def _render_index_page(
         '  <div class="wrap">\n'
         '    <div class="section-head section-head--split">\n'
         '      <div>\n'
-        '        <h2 id="workflow-h">四维权重评分模型。<span class="muted">用近 45 天数据剔除短时刷星</span></h2>\n'
-        '        <p>对近 45 天 Star 曲线与项目维护状态建立定量评估，55 分准入线过滤纯宣传页或脉冲刷榜项目。</p>\n'
+        '        <h2 id="workflow-h">四维权重筛选准则。<span class="muted">用近 45 天数据剔除短时刷星</span></h2>\n'
+        '        <p>先排除 Fork、已归档与 README 过短的空壳仓库，再对近 45 天 Star 曲线与维护状态做定量评估，综合评分 ≥55 分方可入榜。</p>\n'
         '      </div>\n'
-        '      <a class="link" href="rising.html">浏览评分榜单</a>\n'
+        '      <a class="link" href="rising.html">浏览本周增速榜</a>\n'
         '    </div>\n'
         '    <div class="radar-weight-grid">\n'
         '      <div class="radar-weight-card">\n'
@@ -532,34 +507,6 @@ def _render_index_page(
         '        <p>结合形态标签、安装命令与模型摘要，保留即开即用工具。</p>\n'
         '        <div class="radar-weight-foot mono-num">综合评分 ≥55 分方可入榜</div>\n'
         f'        {_weight_visual_svg("utility")}\n'
-        '      </div>\n'
-        '    </div>\n'
-        '  </div>\n'
-        '</section>'
-    )
-
-    statement_html = (
-        '<section class="section ground-base" id="statement" aria-label="开源雷达筛选原则">\n'
-        '  <div class="wrap">\n'
-        '    <div data-moment="liquid-type" class="section-head" style="max-width:none">\n'
-        '      <h2 class="mo-lt__type radar-statement">开源热榜过滤刷星噪音 只留可用工具</h2>\n'
-        '      <p>好项目不该埋没在脉冲刷榜与营销文宣里。每项收录结果均经过 45 天曲线复核，并支持全站分类索引、关键词检索与多列数值排序。</p>\n'
-        '    </div>\n'
-        '    <div class="radar-statement-grid">\n'
-        '      <div class="radar-statement-card">\n'
-        f'        <span class="radar-weight-icon" aria-hidden="true">{PHOSPHOR_ICONS["clock"]}</span>\n'
-        '        <h3>45 天滚动快照追踪</h3>\n'
-        '        <p>持续保存每日 Star 增量与提交时间戳，不依赖单日 Trending 瞬时榜单做收录决策。</p>\n'
-        '      </div>\n'
-        '      <div class="radar-statement-card">\n'
-        f'        <span class="radar-weight-icon" aria-hidden="true">{PHOSPHOR_ICONS["cpu"]}</span>\n'
-        '        <h3>12 个领域与形态归档</h3>\n'
-        '        <p>由 DeepSeek Flash 自动生成一句话中文简介，并区分 CLI、Agent、库与完整应用形态。</p>\n'
-        '      </div>\n'
-        '      <div class="radar-statement-card">\n'
-        f'        <span class="radar-weight-icon" aria-hidden="true">{PHOSPHOR_ICONS["trend"]}</span>\n'
-        '        <h3>每日 API 账单可查</h3>\n'
-        '        <p>所有大模型 Token 消耗与人民币花费按天公开于首页与 JSON 文件，杜绝隐藏成本。</p>\n'
         '      </div>\n'
         '    </div>\n'
         '  </div>\n'
@@ -611,52 +558,22 @@ def _render_index_page(
         '</section>'
     )
 
-    faqs = [
-        ("开源雷达每天什么时候同步并刷新榜单？", "GitHub Actions 每天北京时间 09:17 至 23:17 检查一次，首次发布成功后当天跳过重复时段。"),
-        ("四维评分模型如何避免刷星仓库上榜？", "单日 Star 增量占 7 日 80% 以上扣 10 分，建库不足 7 天且单人提交扣 15 分，空壳仓库直接排除。"),
-        ("DeepSeek 每日 Usage 数字是估算还是真实返回？", "统计值直接读取 DeepSeek API 返回的 total_tokens 并按单价折算，历史项目永久缓存不重复扣费。"),
-        ("开源雷达如何使用 overrides.yaml 自定义分类？", "编辑 overrides.yaml 可覆盖分类或置顶；Fork 后启用 Pages 并配置 DEEPSEEK_API_KEY 即可运行。"),
-        ("开源雷达在哪里获取原始 JSON 与 Usage 接口？", "每次同步自动提交 docs/data.json 与 docs/usage.json，可直接用于站外订阅或二次分析。"),
-    ]
-    faq_items = "".join(
-        f'<div class="faq__item"><h3>{html.escape(q)}</h3><p>{html.escape(a)}</p></div>'
-        for q, a in faqs
-    )
-    faq_html = (
-        '<section class="section ground-surface" id="faq" aria-labelledby="faq-h">\n'
-        '  <div class="wrap">\n'
-        '    <div class="grid grid--top">\n'
-        '      <div class="span-5 radar-split-copy">\n'
-        '        <h2 id="faq-h">开源雷达常见问题</h2>\n'
-        '        <p>关于四维筛选规则、DeepSeek 计费统计与自部署的完整说明。</p>\n'
-        f'        <div class="radar-faq-badge"><span class="radar-weight-icon" aria-hidden="true">{PHOSPHOR_ICONS["faq_book"]}</span><p class="t-small muted">采集脚本、评分权重、每日快照与 DeepSeek Usage 均提交于 GitHub 仓库，全流程透明可复现。</p></div>\n'
-        '      </div>\n'
-        f'      <div class="span-6 start-7"><div class="faq">{faq_items}</div></div>\n'
-        '    </div>\n'
-        '  </div>\n'
-        '</section>'
-    )
-
     parts = [
         _front_matter(
             "概览",
-            f"每日追踪 GitHub 热门实用开源项目，当前收录 {len(items)} 个项目，附 DeepSeek 每日用量统计。",
+            f"每日追踪 GitHub 热门实用开源项目，当前收录 {len(items)} 个项目，附四维筛选准则与 DeepSeek 每日用量统计。",
             nav_active="index",
         ),
         "",
         hero_html,
         "",
-        features_html,
+        all_projects_html,
         "",
         workflow_html,
-        "",
-        statement_html,
         "",
         cats_html,
         "",
         usage_html,
-        "",
-        faq_html,
         "",
     ]
     return "\n".join(parts)

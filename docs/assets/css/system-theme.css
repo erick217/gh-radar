@@ -461,10 +461,18 @@ main.radar-subpage > section:first-child {
   padding-bottom: var(--s-6) !important;
 }
 
-main.radar-subpage > .radar-section--auto {
+main.radar-subpage > .radar-section--auto,
+main.radar-index > #all-projects {
   height: auto !important;
   min-height: 0 !important;
+}
+
+main.radar-subpage > .radar-section--auto {
   padding-block: 0 var(--s-7) !important;
+}
+
+main.radar-index > #all-projects > .wrap {
+  gap: var(--s-4);
 }
 
 /* Flush-left feature list (no top rule for SR-3 section-air) */

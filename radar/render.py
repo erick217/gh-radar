@@ -396,6 +396,68 @@ def _hero_window_rows(rising: list[dict]) -> str:
     return "".join(rows)
 
 
+def _md_inline_to_html(cell: str) -> str:
+    """Convert inline Markdown links/code in table cells to safe HTML."""
+    parts = cell.split("<br>")
+    out_parts = []
+    for p in parts:
+        p = p.replace("\\|", "|")
+        tokens = re.split(r"(\[[^\]]+\]\([^)]+\))", p)
+        buf = []
+        for tok in tokens:
+            m = re.fullmatch(r"\[([^\]]+)\]\(([^)]+)\)", tok)
+            if m:
+                buf.append(f'<a href="{html.escape(m.group(2))}">{html.escape(m.group(1))}</a>')
+            else:
+                buf.append(html.escape(tok))
+        out_parts.append("".join(buf))
+    return "<br>".join(out_parts)
+
+
+def _html_table(items: list[dict], show_category: bool = False) -> str:
+    head = ["项目", "简介"] + (["分类"] if show_category else []) + ["形态", "语言", "⭐", "7日", "分数", "状态"]
+    ths = "".join(f"<th>{html.escape(h)}</th>" for h in head)
+    trs = []
+    for it in items:
+        desc = _cell(it["summary"])
+        if it["note"]:
+            desc += f"<br>备注：{_cell(it['note'])}"
+        if it["similar"]:
+            desc += "<br>相似：" + "、".join(f"[{s}](https://github.com/{s})" for s in it["similar"])
+        if it["flags"]:
+            desc += f"<br>提醒：{'、'.join(it['flags'])}"
+        cells = [
+            f'<a href="{html.escape(it["url"])}">{html.escape(it["full_name"])}</a>',
+            _md_inline_to_html(desc),
+        ]
+        if show_category:
+            cells.append(html.escape(it["category"]))
+        cells += [
+            html.escape(it["form"]),
+            html.escape(it["language"]),
+            html.escape(_k(it["stars"])),
+            html.escape(f"+{_k(it['gain7'])}"),
+            html.escape(f"{it['score']:.0f}"),
+            html.escape(it["status"]),
+        ]
+        tds = "".join(f"<td>{c}</td>" for c in cells)
+        trs.append(f"<tr>{tds}</tr>")
+    return f'<div class="radar-table-wrap"><table><thead><tr>{ths}</tr></thead><tbody>{"".join(trs)}</tbody></table></div>'
+
+
+def _usage_daily_html_table(daily: list[dict]) -> str:
+    head = ["日期", "总 Tokens", "花费 (¥)"]
+    ths = "".join(f"<th>{html.escape(h)}</th>" for h in head)
+    if not daily:
+        trs = ["<tr><td>暂无记录</td><td>0</td><td>¥0.0000</td></tr>"]
+    else:
+        trs = [
+            f"<tr><td>{html.escape(d['date'])}</td><td>{html.escape(_num(d['total_tokens']))}</td><td>{html.escape(_cny(d['cost_cny']))}</td></tr>"
+            for d in daily
+        ]
+    return f'<div class="radar-table-wrap"><table><thead><tr>{ths}</tr></thead><tbody>{"".join(trs)}</tbody></table></div>'
+
+
 def _render_index_page(
     items: list[dict],
     total_tracked: int,
@@ -407,156 +469,154 @@ def _render_index_page(
 ) -> str:
     all_sorted = sorted(items, key=lambda x: (-x["score"], -x["gain7"]))
 
-    hero_html = (
-        '<section class="hero hero--collage" data-enter aria-labelledby="hero-h">\n'
-        '  <div class="wrap">\n'
-        '    <div class="hero-text grid hero__grid">\n'
-        '      <div class="hero__text span-5">\n'
-        f'        <p class="hero-notice">北京时间 <b>{html.escape(updated_str)}</b> 同步 · 今日 API 花费 <b>{_cny(billing["today_cost_cny"])}</b></p>\n'
-        '        <h1 id="hero-h">GitHub 热门开源项目 每日筛选雷达</h1>\n'
-        '        <p class="hero__lead">每日自动抓取 GitHub Trending 与高星新仓，通过四维权重模型剔除刷星与空壳仓库，再由 DeepSeek 生成中文简介与分类。</p>\n'
-        '        <div class="btn-row">\n'
-        f'          <a class="btn btn--primary" href="#all-projects">查看全部项目（{len(items)}）{M_ARROW}</a>\n'
-        '          <a class="btn btn--secondary" href="rising.html">本周增速榜</a>\n'
-        '        </div>\n'
-        '        <dl class="hero-facts">\n'
-        f'          <div><dt>已收录项目</dt><dd data-m-count>{len(items)}</dd></div>\n'
-        f'          <div><dt>追踪仓库</dt><dd data-m-count>{total_tracked}</dd></div>\n'
-        f'          <div><dt>累计 API 花费</dt><dd class="mono-num">{_cny(billing["cost_cny"])}</dd></div>\n'
-        '        </dl>\n'
-        '      </div>\n'
-        '      <div class="hero__art span-6 start-7" role="img" aria-label="GitHub 热门项目雷达的增速榜界面与四维评分卡片">\n'
-        '        <div class="ly-piece ly-piece--main d-win" aria-hidden="true">\n'
-        '          <div class="d-win__bar"><span class="d-win__dots"><i></i><i></i><i></i></span><span>gh-radar · 本周增速快照</span></div>\n'
-        '          <div class="d-win__body">\n'
-        '            <div class="d-side">\n'
-        '              <span><i></i>概览</span>\n'
-        '              <span class="is-on"><i></i>全部项目</span>\n'
-        '              <span><i></i>本周增速</span>\n'
-        '              <span><i></i>7 日新仓</span>\n'
-        '              <span class="d-side__label">热门分类</span>\n'
-        '              <span><i></i>AI / Agent</span>\n'
-        '              <span><i></i>开发工具</span>\n'
-        '              <span><i></i>后端框架</span>\n'
-        '            </div>\n'
-        '            <div class="d-main">\n'
-        f'              <div class="d-main__head"><h4>本周增速 Top 30</h4><span class="d-btn">共 {len(items)} 项</span></div>\n'
-        f'              <div class="d-tabs"><span class="is-on">7日增量</span><span>综合评分 ≥55</span><span>高分 ≥85</span></div>\n'
-        f'              <div class="d-rows">{_hero_window_rows(rising)}</div>\n'
-        '            </div>\n'
-        '          </div>\n'
-        '        </div>\n'
-        '        <div class="ly-piece ly-piece--note d-card" aria-hidden="true" data-ly-steps="700">\n'
-        '          <div class="d-card__row"><h5>四维准入校验</h5><span class="d-chip" data-step data-step-at="4">已收录</span></div>\n'
-        '          <div class="d-note__line" data-step><i>✓</i><span><b>增速权重 35%</b> · 排除单日暴涨噪音</span></div>\n'
-        '          <div class="d-note__line" data-step><i>✓</i><span><b>健康与活跃 45%</b> · 连续 45 天快照</span></div>\n'
-        '          <div class="d-note__line" data-step><i>✓</i><span><b>DeepSeek Flash</b> · 单仓库仅分析一次</span></div>\n'
-        '        </div>\n'
-        '      </div>\n'
-        '    </div>\n'
-        '  </div>\n'
-        '</section>'
-    )
+    hero_html = "\n".join([
+        '<section class="hero hero--collage" data-enter aria-labelledby="hero-h">',
+        '<div class="wrap">',
+        '<div class="hero-text grid hero__grid">',
+        '<div class="hero__text span-5">',
+        f'<p class="hero-notice">北京时间 <b>{html.escape(updated_str)}</b> 同步 · 今日 API 花费 <b>{_cny(billing["today_cost_cny"])}</b></p>',
+        '<h1 id="hero-h">GitHub 热门开源项目 每日筛选雷达</h1>',
+        '<p class="hero__lead">每日自动抓取 GitHub Trending 与高星新仓，通过四维权重模型剔除刷星与空壳仓库，再由 DeepSeek 生成中文简介与分类。</p>',
+        '<div class="btn-row">',
+        f'<a class="btn btn--primary" href="#all-projects">查看全部项目（{len(items)}）{M_ARROW}</a>',
+        '<a class="btn btn--secondary" href="rising.html">本周增速榜</a>',
+        '</div>',
+        '<dl class="hero-facts">',
+        f'<div><dt>已收录项目</dt><dd data-m-count>{len(items)}</dd></div>',
+        f'<div><dt>追踪仓库</dt><dd data-m-count>{total_tracked}</dd></div>',
+        f'<div><dt>累计 API 花费</dt><dd class="mono-num">{_cny(billing["cost_cny"])}</dd></div>',
+        '</dl>',
+        '</div>',
+        '<div class="hero__art span-6 start-7" role="img" aria-label="GitHub 热门项目雷达的增速榜界面与四维评分卡片">',
+        '<div class="ly-piece ly-piece--main d-win" aria-hidden="true">',
+        '<div class="d-win__bar"><span class="d-win__dots"><i></i><i></i><i></i></span><span>gh-radar · 本周增速快照</span></div>',
+        '<div class="d-win__body">',
+        '<div class="d-side">',
+        '<span><i></i>概览</span>',
+        '<span class="is-on"><i></i>全部项目</span>',
+        '<span><i></i>本周增速</span>',
+        '<span><i></i>7 日新仓</span>',
+        '<span class="d-side__label">热门分类</span>',
+        '<span><i></i>AI / Agent</span>',
+        '<span><i></i>开发工具</span>',
+        '<span><i></i>后端框架</span>',
+        '</div>',
+        '<div class="d-main">',
+        f'<div class="d-main__head"><h4>本周增速 Top 30</h4><span class="d-btn">共 {len(items)} 项</span></div>',
+        '<div class="d-tabs"><span class="is-on">7日增量</span><span>综合评分 ≥55</span><span>高分 ≥85</span></div>',
+        f'<div class="d-rows">{_hero_window_rows(rising)}</div>',
+        '</div>',
+        '</div>',
+        '</div>',
+        '<div class="ly-piece ly-piece--note d-card" aria-hidden="true" data-ly-steps="700">',
+        '<div class="d-card__row"><h5>四维准入校验</h5><span class="d-chip" data-step data-step-at="4">已收录</span></div>',
+        '<div class="d-note__line" data-step><i>✓</i><span><b>增速权重 35%</b> · 排除单日暴涨噪音</span></div>',
+        '<div class="d-note__line" data-step><i>✓</i><span><b>健康与活跃 45%</b> · 连续 45 天快照</span></div>',
+        '<div class="d-note__line" data-step><i>✓</i><span><b>DeepSeek Flash</b> · 单仓库仅分析一次</span></div>',
+        '</div>',
+        '</div>',
+        '</div>',
+        '</div>',
+        '</section>',
+    ])
 
-    all_projects_html = (
-        '<section class="section ground-surface radar-section--auto" id="all-projects" aria-labelledby="all-projects-h" markdown="1">\n'
-        '  <div class="wrap" markdown="1">\n'
-        '    <div class="section-head section-head--split">\n'
-        '      <div>\n'
-        f'        <h2 id="all-projects-h">全部收录项目（{len(items)}）</h2>\n'
-        '        <p>按四维综合评分由高到低排列，支持关键词搜索、按主分类或语言筛选，以及点击表头排序。</p>\n'
-        '      </div>\n'
-        '      <a class="link" href="new.html">查看 7 日新收录</a>\n'
-        '    </div>\n\n'
-        f'{_table(all_sorted, True)}\n\n'
-        '  </div>\n'
-        '</section>'
-    )
+    all_projects_html = "\n".join([
+        '<section class="section ground-surface radar-section--auto" id="all-projects" aria-labelledby="all-projects-h">',
+        '<div class="wrap">',
+        '<div class="section-head section-head--split">',
+        '<div>',
+        f'<h2 id="all-projects-h">全部收录项目（{len(items)}）</h2>',
+        '<p>按四维综合评分由高到低排列，支持关键词搜索、按主分类或语言筛选，以及点击表头排序。</p>',
+        '</div>',
+        '<a class="link" href="new.html">查看 7 日新收录</a>',
+        '</div>',
+        _html_table(all_sorted, True),
+        '</div>',
+        '</section>',
+    ])
 
-    workflow_html = (
-        '<section class="section ground-inverse" id="workflow" aria-labelledby="workflow-h" style="--hm: 2">\n'
-        '  <div class="wrap">\n'
-        '    <div class="section-head section-head--split">\n'
-        '      <div>\n'
-        '        <h2 id="workflow-h">四维权重筛选准则。<span class="muted">用近 45 天数据剔除短时刷星</span></h2>\n'
-        '        <p>先排除 Fork、已归档与 README 过短的空壳仓库，再对近 45 天 Star 曲线与维护状态做定量评估，综合评分 ≥55 分方可入榜。</p>\n'
-        '      </div>\n'
-        '      <a class="link" href="rising.html">浏览本周增速榜</a>\n'
-        '    </div>\n'
-        '    <div class="radar-weight-grid">\n'
-        '      <div class="radar-weight-card">\n'
-        f'        <div class="radar-weight-top"><p class="t-stat">35%</p><h3>7 日 Star 增速</h3></div>\n'
-        '        <p>计算最近 7 天真实增量，衡量社区短期关注度而非历史包袱。</p>\n'
-        '        <div class="radar-weight-foot mono-num">单日增量 &gt;80% 直接扣 10 分</div>\n'
-        f'        {_weight_visual_svg("velocity")}\n'
-        '      </div>\n'
-        '      <div class="radar-weight-card">\n'
-        f'        <div class="radar-weight-top"><p class="t-stat">25%</p><h3>仓库健康度</h3></div>\n'
-        '        <p>检查开源协议、文档篇幅与贡献者结构，过滤空壳项目。</p>\n'
-        '        <div class="radar-weight-foot mono-num">建库 &lt;7 天且单人提交扣 15 分</div>\n'
-        f'        {_weight_visual_svg("health")}\n'
-        '      </div>\n'
-        '      <div class="radar-weight-card">\n'
-        f'        <div class="radar-weight-top"><p class="t-stat">20%</p><h3>持续演进力</h3></div>\n'
-        '        <p>追踪连续 45 天历史快照变化与最近提交，剔除停更项目。</p>\n'
-        '        <div class="radar-weight-foot mono-num">滚动保留 45 天增量快照序列</div>\n'
-        f'        {_weight_visual_svg("continuity")}\n'
-        '      </div>\n'
-        '      <div class="radar-weight-card">\n'
-        f'        <div class="radar-weight-top"><p class="t-stat">20%</p><h3>可运行实用性</h3></div>\n'
-        '        <p>结合形态标签、安装命令与模型摘要，保留即开即用工具。</p>\n'
-        '        <div class="radar-weight-foot mono-num">综合评分 ≥55 分方可入榜</div>\n'
-        f'        {_weight_visual_svg("utility")}\n'
-        '      </div>\n'
-        '    </div>\n'
-        '  </div>\n'
-        '</section>'
-    )
+    workflow_html = "\n".join([
+        '<section class="section ground-inverse" id="workflow" aria-labelledby="workflow-h" style="--hm: 2">',
+        '<div class="wrap">',
+        '<div class="section-head section-head--split">',
+        '<div>',
+        '<h2 id="workflow-h">四维权重筛选准则。<span class="muted">用近 45 天数据剔除短时刷星</span></h2>',
+        '<p>先排除 Fork、已归档与 README 过短的空壳仓库，再对近 45 天 Star 曲线与维护状态做定量评估，综合评分 ≥55 分方可入榜。</p>',
+        '</div>',
+        '<a class="link" href="rising.html">浏览本周增速榜</a>',
+        '</div>',
+        '<div class="radar-weight-grid">',
+        '<div class="radar-weight-card">',
+        '<div class="radar-weight-top"><p class="t-stat">35%</p><h3>7 日 Star 增速</h3></div>',
+        '<p>计算最近 7 天真实增量，衡量社区短期关注度而非历史包袱。</p>',
+        '<div class="radar-weight-foot mono-num">单日增量 &gt;80% 直接扣 10 分</div>',
+        _weight_visual_svg("velocity"),
+        '</div>',
+        '<div class="radar-weight-card">',
+        '<div class="radar-weight-top"><p class="t-stat">25%</p><h3>仓库健康度</h3></div>',
+        '<p>检查开源协议、文档篇幅与贡献者结构，过滤空壳项目。</p>',
+        '<div class="radar-weight-foot mono-num">建库 &lt;7 天且单人提交扣 15 分</div>',
+        _weight_visual_svg("health"),
+        '</div>',
+        '<div class="radar-weight-card">',
+        '<div class="radar-weight-top"><p class="t-stat">20%</p><h3>持续演进力</h3></div>',
+        '<p>追踪连续 45 天历史快照变化与最近提交，剔除停更项目。</p>',
+        '<div class="radar-weight-foot mono-num">滚动保留 45 天增量快照序列</div>',
+        _weight_visual_svg("continuity"),
+        '</div>',
+        '<div class="radar-weight-card">',
+        '<div class="radar-weight-top"><p class="t-stat">20%</p><h3>可运行实用性</h3></div>',
+        '<p>结合形态标签、安装命令与模型摘要，保留即开即用工具。</p>',
+        '<div class="radar-weight-foot mono-num">综合评分 ≥55 分方可入榜</div>',
+        _weight_visual_svg("utility"),
+        '</div>',
+        '</div>',
+        '</div>',
+        '</section>',
+    ])
 
-    cats_html = (
-        '<section class="section ground-surface" id="categories" aria-labelledby="categories-h">\n'
-        '  <div class="wrap">\n'
-        '    <div class="grid grid--top">\n'
-        '      <div class="span-5 radar-split-copy">\n'
-        '        <h2 id="categories-h">12 个技术分类索引</h2>\n'
-        f'        <p>当前共收录 {len(items)} 个开源项目，点击任意领域直接查看对应子分类与评分排名。</p>\n'
-        f'        <div class="radar-cat-list">{"".join(cat_pills)}</div>\n'
-        '      </div>\n'
-        '      <div class="panel radar-cat-panel span-6 start-7">\n'
-        f'        {_category_chart_svg(cat_stats, len(items))}\n'
-        '      </div>\n'
-        '    </div>\n'
-        '  </div>\n'
-        '</section>'
-    )
+    cats_html = "\n".join([
+        '<section class="section ground-surface" id="categories" aria-labelledby="categories-h">',
+        '<div class="wrap">',
+        '<div class="grid grid--top">',
+        '<div class="span-5 radar-split-copy">',
+        '<h2 id="categories-h">12 个技术分类索引</h2>',
+        f'<p>当前共收录 {len(items)} 个开源项目，点击任意领域直接查看对应子分类与评分排名。</p>',
+        f'<div class="radar-cat-list">{"".join(cat_pills)}</div>',
+        '</div>',
+        '<div class="panel radar-cat-panel span-6 start-7">',
+        _category_chart_svg(cat_stats, len(items)),
+        '</div>',
+        '</div>',
+        '</div>',
+        '</section>',
+    ])
 
     hit_rate = _pct(billing["cache_hit_tokens"], billing["prompt_tokens"])
-    usage_html = (
-        '<section class="section ground-base" id="usage" aria-labelledby="usage-h" markdown="1">\n'
-        '  <div class="wrap" markdown="1">\n'
-        '    <div class="grid grid--top" markdown="1">\n'
-        '      <div class="span-5 radar-split-copy">\n'
-        '        <h2 id="usage-h">DeepSeek 每日 Usage 与花费</h2>\n'
-        '        <p>仅保留每日总 Tokens 与人民币花费，数据来源于模型接口实际返回值，历史结果永久缓存。</p>\n'
-        '        <div class="radar-usage-mini">\n'
-        f'          <div class="radar-usage-mini-item"><span>已计费分类</span><strong class="mono-num">{billing["billed_count"]} 次</strong></div>\n'
-        f'          <div class="radar-usage-mini-item"><span>Prompt 缓存命中</span><strong class="mono-num">{hit_rate}</strong></div>\n'
-        '        </div>\n'
-        '        <div class="btn-row"><a class="btn btn--secondary btn--sm" href="usage.html">查看全部日期</a></div>\n'
-        '      </div>\n'
-        '      <div class="span-6 start-7 radar-usage-panel" markdown="1">\n'
-        '        <div class="radar-usage-ledger ui ui-ledger" markdown="1">\n'
-        f'          <div class="radar-usage-ledger-head"><span>近 7 日 DeepSeek 用量趋势</span><span class="mono-num">累计 {_cny(billing["cost_cny"])}</span></div>\n'
-        f'          {_usage_chart_svg(billing["daily"])}\n'
-        '          <div class="radar-table-wrap" markdown="1">\n\n'
-        f'{_usage_daily_table(billing["daily"][:5])}\n\n'
-        '          </div>\n'
-        '        </div>\n'
-        '      </div>\n'
-        '    </div>\n'
-        '  </div>\n'
-        '</section>'
-    )
+    usage_html = "\n".join([
+        '<section class="section ground-base" id="usage" aria-labelledby="usage-h">',
+        '<div class="wrap">',
+        '<div class="grid grid--top">',
+        '<div class="span-5 radar-split-copy">',
+        '<h2 id="usage-h">DeepSeek 每日 Usage 与花费</h2>',
+        '<p>仅保留每日总 Tokens 与人民币花费，数据来源于模型接口实际返回值，历史结果永久缓存。</p>',
+        '<div class="radar-usage-mini">',
+        f'<div class="radar-usage-mini-item"><span>已计费分类</span><strong class="mono-num">{billing["billed_count"]} 次</strong></div>',
+        f'<div class="radar-usage-mini-item"><span>Prompt 缓存命中</span><strong class="mono-num">{hit_rate}</strong></div>',
+        '</div>',
+        '<div class="btn-row"><a class="btn btn--secondary btn--sm" href="usage.html">查看全部日期</a></div>',
+        '</div>',
+        '<div class="span-6 start-7 radar-usage-panel">',
+        '<div class="radar-usage-ledger ui ui-ledger">',
+        f'<div class="radar-usage-ledger-head"><span>近 7 日 DeepSeek 用量趋势</span><span class="mono-num">累计 {_cny(billing["cost_cny"])}</span></div>',
+        _usage_chart_svg(billing["daily"]),
+        _usage_daily_html_table(billing["daily"][:5]),
+        '</div>',
+        '</div>',
+        '</div>',
+        '</div>',
+        '</section>',
+    ])
 
     parts = [
         _front_matter(
@@ -595,14 +655,14 @@ def _render_usage_page(billing: dict, updated_str: str) -> str:
         ),
         "",
         '<section class="section">',
-        '  <div class="wrap">',
-        '    <div class="section-head" style="margin-bottom:var(--s-6)">',
-        f'      <a class="radar-back-link" href="index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
-        '      <h1>DeepSeek 每日 Usage 与花费</h1>',
-        f'      <p>更新于 {html.escape(updated_str)}（北京时间） · 仅针对新增或未缓存项目调用 DeepSeek API，按实际返回总 Token 与单价每日汇总。</p>',
-        '    </div>',
-        f'    <div class="radar-stats-grid">{kpis}</div>',
-        '  </div>',
+        '<div class="wrap">',
+        '<div class="section-head" style="margin-bottom:var(--s-6)">',
+        f'<a class="radar-back-link" href="index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
+        '<h1>DeepSeek 每日 Usage 与花费</h1>',
+        f'<p>更新于 {html.escape(updated_str)}（北京时间） · 仅针对新增或未缓存项目调用 DeepSeek API，按实际返回总 Token 与单价每日汇总。</p>',
+        '</div>',
+        f'<div class="radar-stats-grid">{kpis}</div>',
+        '</div>',
         '</section>',
         "",
         '<h2 class="radar-sub-heading">每日用量统计</h2>',
@@ -643,13 +703,13 @@ def render(repos: dict[str, dict], overrides: dict, settings: dict | None = None
             ),
             "",
             '<section class="section">',
-            '  <div class="wrap">',
-            '    <div class="section-head" style="margin-bottom:0">',
-            f'      <a class="radar-back-link" href="../index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
-            f'      <h1>{html.escape(top)}</h1>',
-            f'      <p>共收录 {count} 个项目，各子分类按综合评分由高到低排列。</p>',
-            '    </div>',
-            '  </div>',
+            '<div class="wrap">',
+            '<div class="section-head" style="margin-bottom:0">',
+            f'<a class="radar-back-link" href="../index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
+            f'<h1>{html.escape(top)}</h1>',
+            f'<p>共收录 {count} 个项目，各子分类按综合评分由高到低排列。</p>',
+            '</div>',
+            '</div>',
             '</section>',
             "",
         ]
@@ -677,13 +737,13 @@ def render(repos: dict[str, dict], overrides: dict, settings: dict | None = None
         ),
         "",
         '<section class="section">',
-        '  <div class="wrap">',
-        '    <div class="section-head" style="margin-bottom:0">',
-        f'      <a class="radar-back-link" href="index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
-        f'      <h1>最近 7 天新收录（{len(new)}）</h1>',
-        f'      <p>更新于 {html.escape(updated_str)}（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>',
-        '    </div>',
-        '  </div>',
+        '<div class="wrap">',
+        '<div class="section-head" style="margin-bottom:0">',
+        f'<a class="radar-back-link" href="index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
+        f'<h1>最近 7 天新收录（{len(new)}）</h1>',
+        f'<p>更新于 {html.escape(updated_str)}（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>',
+        '</div>',
+        '</div>',
         '</section>',
         "",
         _table(new, True),
@@ -699,13 +759,13 @@ def render(repos: dict[str, dict], overrides: dict, settings: dict | None = None
         ),
         "",
         '<section class="section">',
-        '  <div class="wrap">',
-        '    <div class="section-head" style="margin-bottom:0">',
-        f'      <a class="radar-back-link" href="index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
-        f'      <h1>本周增速榜 Top {len(rising)}</h1>',
-        f'      <p>更新于 {html.escape(updated_str)}（北京时间） · 按最近 7 天 Star 增量排序，支持搜索、语言筛选与点击表头排序。</p>',
-        '    </div>',
-        '  </div>',
+        '<div class="wrap">',
+        '<div class="section-head" style="margin-bottom:0">',
+        f'<a class="radar-back-link" href="index.html">{PHOSPHOR_ICONS["arrow_left"]}<span>返回首页概览</span></a>',
+        f'<h1>本周增速榜 Top {len(rising)}</h1>',
+        f'<p>更新于 {html.escape(updated_str)}（北京时间） · 按最近 7 天 Star 增量排序，支持搜索、语言筛选与点击表头排序。</p>',
+        '</div>',
+        '</div>',
         '</section>',
         "",
         _table(rising, True),

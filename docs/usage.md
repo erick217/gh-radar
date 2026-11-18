@@ -6,14 +6,14 @@ nav_active: usage
 ---
 
 <section class="section">
-  <div class="wrap">
-    <div class="section-head" style="margin-bottom:var(--s-6)">
-      <a class="radar-back-link" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-      <h1>DeepSeek 每日 Usage 与花费</h1>
-      <p>更新于 2026-11-18 16:33（北京时间） · 仅针对新增或未缓存项目调用 DeepSeek API，按实际返回总 Token 与单价每日汇总。</p>
-    </div>
-    <div class="radar-stats-grid"><div class="radar-kpi is-cost"><span class="radar-kpi-label">累计花费</span><strong class="radar-kpi-value mono-num">¥0.2752</strong><span class="radar-kpi-sub">今日 ¥0.0634</span></div><div class="radar-kpi"><span class="radar-kpi-label">累计 Token</span><strong class="radar-kpi-value mono-num">119.9k</strong><span class="radar-kpi-sub">已记录 29 次分类</span></div><div class="radar-kpi"><span class="radar-kpi-label">缓存命中率</span><strong class="radar-kpi-value mono-num">17.2%</strong><span class="radar-kpi-sub">命中 18.6k / 输入 108.0k</span></div><div class="radar-kpi"><span class="radar-kpi-label">已记录天数</span><strong class="radar-kpi-value mono-num">5</strong><span class="radar-kpi-sub">历史结果永久缓存不重复扣费</span></div></div>
-  </div>
+<div class="wrap">
+<div class="section-head" style="margin-bottom:var(--s-6)">
+<a class="radar-back-link" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1>DeepSeek 每日 Usage 与花费</h1>
+<p>更新于 2026-11-18 18:19（北京时间） · 仅针对新增或未缓存项目调用 DeepSeek API，按实际返回总 Token 与单价每日汇总。</p>
+</div>
+<div class="radar-stats-grid"><div class="radar-kpi is-cost"><span class="radar-kpi-label">累计花费</span><strong class="radar-kpi-value mono-num">¥0.2752</strong><span class="radar-kpi-sub">今日 ¥0.0634</span></div><div class="radar-kpi"><span class="radar-kpi-label">累计 Token</span><strong class="radar-kpi-value mono-num">119.9k</strong><span class="radar-kpi-sub">已记录 29 次分类</span></div><div class="radar-kpi"><span class="radar-kpi-label">缓存命中率</span><strong class="radar-kpi-value mono-num">17.2%</strong><span class="radar-kpi-sub">命中 18.6k / 输入 108.0k</span></div><div class="radar-kpi"><span class="radar-kpi-label">已记录天数</span><strong class="radar-kpi-value mono-num">5</strong><span class="radar-kpi-sub">历史结果永久缓存不重复扣费</span></div></div>
+</div>
 </section>
 
 <h2 class="radar-sub-heading">每日用量统计</h2>

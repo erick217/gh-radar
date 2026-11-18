@@ -6,13 +6,13 @@ nav_active: new
 ---
 
 <section class="section">
-  <div class="wrap">
-    <div class="section-head" style="margin-bottom:0">
-      <a class="radar-back-link" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-      <h1>最近 7 天新收录（61）</h1>
-      <p>更新于 2026-11-18 16:33（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>
-    </div>
-  </div>
+<div class="wrap">
+<div class="section-head" style="margin-bottom:0">
+<a class="radar-back-link" href="index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1>最近 7 天新收录（61）</h1>
+<p>更新于 2026-11-18 18:19（北京时间） · 按综合评分由高到低排序，支持搜索、语言筛选与点击表头排序。</p>
+</div>
+</div>
 </section>
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
@@ -45,8 +45,8 @@ nav_active: new
 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 面向 Stitch MCP 的 Agent Skills 集合，用于在编码代理中生成和管理设计。 | AI/MCP与工具集成 | 库 | TypeScript | 10.2k | +1.2k | 77 |  |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 自托管网站与服务可用性监控工具，支持多种检测与通知。 | 运维与云原生/监控与日志 | 自托管服务 | JavaScript | 94.6k | +768 | 77 |  |
 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | Windows实时GPU视频增强播放器，支持超分、降噪与补帧 | 多媒体/音视频 | 桌面应用 | C++ | 3.3k | +2.3k | 77 |  |
-| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 本地优先的多模型 AI 机器人桌面应用，可接入聊天渠道并操作电脑。 | AI/Agent | 桌面应用 | Python | 4.5k | +1.4k | 77 |  |
 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | 在 Windows 任务栏显示无线鼠标、耳机、键盘和手柄电量的轻量托盘工具 | 移动与桌面/桌面应用 | 桌面应用 | C++ | 3.2k | +3.2k | 77 |  |
+| [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 本地优先的多模型 AI 机器人桌面应用，可接入聊天渠道并操作电脑。 | AI/Agent | 桌面应用 | Python | 4.5k | +1.4k | 77 |  |
 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 用 Zig 编写的本地 LLM 推理与服务引擎，支持 Metal、CUDA 和 Vulkan。 | AI/模型推理与部署 | CLI工具 | Zig | 2.3k | +407 | 76 |  |
 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 把 Switch 游戏重编译为 ARM64，在 iPhone/iPad/Mac 原生运行。 | 其他/其他 | 桌面应用 | C# | 3.5k | +2.5k | 76 |  |
 | [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | 在 Windows 上双击安装并运行安卓 APK 的桌面工具 | 移动与桌面/桌面应用 | 桌面应用 | JavaScript | 7.6k | +8.1k | 75 |  |
@@ -74,7 +74,7 @@ nav_active: new
 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | 为 AI 编码代理提供生成产品 UI 截图与动效演示的技能包 | AI/Agent | 其他 | TypeScript | 3.7k | +657 | 58 |  |
 | [expo/exact](https://github.com/expo/exact) | 跨平台应用运行时，声明式界面可编译到 Web/iOS/macOS/Linux | 前端/框架 | 框架 | Rust | 4.6k | +1.5k | 57 |  |
 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | Claude 技能：用 three.js 和 Remotion 制作竖屏动画短片 | 多媒体/音视频 | 其他 | TypeScript | 4.0k | +1.2k | 57 |  |
-| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | iPhone LiDAR 房间扫描并重建为可编辑 Three.js 场景的工具。 | 其他/其他 | 其他 | Swift | 3.1k | +763 | 56 |  |
 | [cursor/plugins](https://github.com/cursor/plugins) | Cursor 官方插件规范与插件集合，用于扩展 AI 编程助手能力。 | AI/MCP与工具集成 | 其他 | TypeScript | 17.0k | +603 | 56 |  |
+| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | iPhone LiDAR 房间扫描并重建为可编辑 Three.js 场景的工具。 | 其他/其他 | 其他 | Swift | 3.1k | +763 | 56 |  |
 | [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) | 通过 UEFI 在非苹果 ARM64 硬件上运行 iOS 和 macOS 的启动环境。 | 其他/其他 | 框架 | Python | 3.0k | +696 | 56 |  |
 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 基于 DeepSeek API 的静态网页聊天应用，浏览器直连 API。<br>提醒：新建且仅 1 名贡献者 | AI/AI应用 | Web应用 | TypeScript | 4.7k | +4.7k | 55 |  |

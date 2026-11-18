@@ -2035,30 +2035,6 @@
   "pushed_at": "2026-11-18"
  },
  {
-  "full_name": "modelflare-ai/AnyModelBot",
-  "url": "https://github.com/modelflare-ai/AnyModelBot",
-  "summary": "本地优先的多模型 AI 机器人桌面应用，可接入聊天渠道并操作电脑。",
-  "category": "AI/Agent",
-  "form": "桌面应用",
-  "tags": [
-   "AI助手",
-   "多模型",
-   "本地优先",
-   "电脑操作",
-   "聊天机器人"
-  ],
-  "language": "Python",
-  "stars": 4510,
-  "gain7": 1399,
-  "score": 76.6,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-12",
-  "pushed_at": "2026-11-18"
- },
- {
   "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
   "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
   "summary": "在 Windows 任务栏显示无线鼠标、耳机、键盘和手柄电量的轻量托盘工具",
@@ -2080,6 +2056,30 @@
   "note": "",
   "similar": [],
   "first_seen": "2026-11-18",
+  "pushed_at": "2026-11-18"
+ },
+ {
+  "full_name": "modelflare-ai/AnyModelBot",
+  "url": "https://github.com/modelflare-ai/AnyModelBot",
+  "summary": "本地优先的多模型 AI 机器人桌面应用，可接入聊天渠道并操作电脑。",
+  "category": "AI/Agent",
+  "form": "桌面应用",
+  "tags": [
+   "AI助手",
+   "多模型",
+   "本地优先",
+   "电脑操作",
+   "聊天机器人"
+  ],
+  "language": "Python",
+  "stars": 4510,
+  "gain7": 1399,
+  "score": 76.6,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-12",
   "pushed_at": "2026-11-18"
  },
  {
@@ -4623,30 +4623,6 @@
   "pushed_at": "2026-11-17"
  },
  {
-  "full_name": "patch-gg/pixelfx",
-  "url": "https://github.com/patch-gg/pixelfx",
-  "summary": "244 个代码实现的像素特效库，可导出精灵表并配 Claude Code 技能",
-  "category": "多媒体/图像",
-  "form": "库",
-  "tags": [
-   "像素艺术",
-   "游戏特效",
-   "Canvas",
-   "精灵表",
-   "Claude Code"
-  ],
-  "language": "JavaScript",
-  "stars": 8057,
-  "gain7": 1259,
-  "score": 65.0,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-03",
-  "pushed_at": "2026-11-13"
- },
- {
   "full_name": "paipiange/nvzhuang",
   "url": "https://github.com/paipiange/nvzhuang",
   "summary": "收录 2727 套 AI 女装参考图并支持虚拟试穿的图集网站",
@@ -4669,6 +4645,30 @@
   "similar": [],
   "first_seen": "2026-11-18",
   "pushed_at": "2026-11-10"
+ },
+ {
+  "full_name": "patch-gg/pixelfx",
+  "url": "https://github.com/patch-gg/pixelfx",
+  "summary": "244 个代码实现的像素特效库，可导出精灵表并配 Claude Code 技能",
+  "category": "多媒体/图像",
+  "form": "库",
+  "tags": [
+   "像素艺术",
+   "游戏特效",
+   "Canvas",
+   "精灵表",
+   "Claude Code"
+  ],
+  "language": "JavaScript",
+  "stars": 8057,
+  "gain7": 1259,
+  "score": 65.0,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-03",
+  "pushed_at": "2026-11-13"
  },
  {
   "full_name": "t4t5/owly",
@@ -5270,6 +5270,30 @@
   "pushed_at": "2026-11-13"
  },
  {
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "summary": "Cursor 官方插件规范与插件集合，用于扩展 AI 编程助手能力。",
+  "category": "AI/MCP与工具集成",
+  "form": "其他",
+  "tags": [
+   "Cursor",
+   "插件",
+   "AI Agent",
+   "开发者工具",
+   "SaaS集成"
+  ],
+  "language": "TypeScript",
+  "stars": 17010,
+  "gain7": 603,
+  "score": 56.5,
+  "flags": [],
+  "status": "",
+  "note": "",
+  "similar": [],
+  "first_seen": "2026-11-18",
+  "pushed_at": "2026-11-18"
+ },
+ {
   "full_name": "deadinside28/bloodborne_pc",
   "url": "https://github.com/deadinside28/bloodborne_pc",
   "summary": "让《血源诅咒》1.09 在 Linux/Windows 原生运行的移植项目",
@@ -5316,30 +5340,6 @@
   "similar": [],
   "first_seen": "2026-11-16",
   "pushed_at": "2026-10-27"
- },
- {
-  "full_name": "cursor/plugins",
-  "url": "https://github.com/cursor/plugins",
-  "summary": "Cursor 官方插件规范与插件集合，用于扩展 AI 编程助手能力。",
-  "category": "AI/MCP与工具集成",
-  "form": "其他",
-  "tags": [
-   "Cursor",
-   "插件",
-   "AI Agent",
-   "开发者工具",
-   "SaaS集成"
-  ],
-  "language": "TypeScript",
-  "stars": 17010,
-  "gain7": 603,
-  "score": 56.5,
-  "flags": [],
-  "status": "",
-  "note": "",
-  "similar": [],
-  "first_seen": "2026-11-18",
-  "pushed_at": "2026-11-18"
  },
  {
   "full_name": "UniXNU/UniXNU",

@@ -3,5 +3,3 @@ description: 每日追踪热门实用开源项目，使用 DeepSeek 生成中文
 lang: zh-CN
 theme: jekyll-theme-primer
 markdown: kramdown
-kramdown:
-  parse_block_html: true

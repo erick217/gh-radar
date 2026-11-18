@@ -5,13 +5,13 @@ description: "前端分类下的热门开源项目，共收录 9 个。"
 ---
 
 <section class="section">
-  <div class="wrap">
-    <div class="section-head" style="margin-bottom:0">
-      <a class="radar-back-link" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
-      <h1>前端</h1>
-      <p>共收录 9 个项目，各子分类按综合评分由高到低排列。</p>
-    </div>
-  </div>
+<div class="wrap">
+<div class="section-head" style="margin-bottom:0">
+<a class="radar-back-link" href="../index.html"><svg class="radar-icon" width="16" height="16" viewBox="0 0 256 256" fill="none" aria-hidden="true"><path d="M216 128H40M112 56L40 128L112 200" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></svg><span>返回首页概览</span></a>
+<h1>前端</h1>
+<p>共收录 9 个项目，各子分类按综合评分由高到低排列。</p>
+</div>
+</div>
 </section>
 
 <h2 class="radar-sub-heading">框架（4）</h2>

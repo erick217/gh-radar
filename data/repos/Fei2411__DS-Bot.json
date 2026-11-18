@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 805,
+  "forks": 825,
   "full_name": "Fei2411/DS-Bot",
   "homepage": null,
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-05",
   "latest_release": "v0.3.5",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 13166,
   "readme_hash": "dd04cc543f47",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1412,
+    "gain7": 1374,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.6,
+    "total": 76.5,
     "trending_days_30": 0,
     "velocity": 0.73
   },
@@ -68,7 +68,8 @@
     "2026-11-14": 7750,
     "2026-11-15": 7798,
     "2026-11-16": 8018,
-    "2026-11-17": 8167
+    "2026-11-17": 8167,
+    "2026-11-18": 8290
   },
   "topics": [
     "bot",

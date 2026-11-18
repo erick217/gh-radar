@@ -20,7 +20,7 @@
   "contributors": 3,
   "created_at": "2026-07-23",
   "description": "",
-  "details_at": "2026-11-11",
+  "details_at": "2026-11-18",
   "first_seen": "2026-11-04",
   "fork": false,
   "forks": 259,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 98,
+    "gain7": 91,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 61.1,
+    "total": 60.9,
     "trending_days_30": 1,
     "velocity": 0.46
   },
@@ -62,7 +62,8 @@
     "2026-11-14": 3231,
     "2026-11-15": 3252,
     "2026-11-16": 3281,
-    "2026-11-17": 3292
+    "2026-11-17": 3292,
+    "2026-11-18": 3295
   },
   "topics": [],
   "trending": {

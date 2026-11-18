@@ -31,22 +31,22 @@
   "last_seen": "2026-10-29",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 24216,
   "readme_hash": "b0a488607a8e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 166,
+    "gain7": 157,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 61.6,
+    "total": 61.4,
     "trending_days_30": 0,
-    "velocity": 0.52
+    "velocity": 0.51
   },
   "stars": {
     "2026-10-29": 9177,
@@ -68,7 +68,8 @@
     "2026-11-14": 9683,
     "2026-11-15": 9700,
     "2026-11-16": 9721,
-    "2026-11-17": 9736
+    "2026-11-17": 9736,
+    "2026-11-18": 9756
   },
   "topics": [
     "age-of-empires",

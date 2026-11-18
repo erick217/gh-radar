@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-18",
+    "category": "AI/AI应用",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供在线预览和 Android APK，前端开箱即用；AI 试穿后端附带 Docker 部署与配置文档，可直接运行。",
+    "summary": "收录 2727 套 AI 女装参考图并支持虚拟试穿的图集网站",
+    "tags": [
+      "AI换装",
+      "虚拟试穿",
+      "服装图集",
+      "女装",
+      "GoFrame"
+    ],
+    "usage": {
+      "completion_tokens": 320,
+      "cost_cny": 0.014932,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 6173,
+      "prompt_tokens": 6813,
+      "reasoning_tokens": 222,
+      "total_tokens": 7133
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-29",
+  "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+  "details_at": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "fork": false,
+  "forks": 699,
+  "full_name": "paipiange/nvzhuang",
+  "homepage": "https://paipiange.github.io/nvzhuang/",
+  "install_hint": true,
+  "language": "Go",
+  "last_seen": "2026-11-18",
+  "latest_release": "v1.0.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-10",
+  "readme_chars": 14819,
+  "readme_hash": "3592fb54166f",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1013,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 65.0,
+    "trending_days_30": 0,
+    "velocity": 0.7
+  },
+  "stars": {
+    "2026-11-18": 2895
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/paipiange/nvzhuang"
+}

@@ -23,12 +23,12 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 460,
+  "forks": 462,
   "full_name": "unclebob/ub-mode",
   "homepage": null,
   "install_hint": false,
   "language": null,
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-18",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-02",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 583,
+    "gain7": 474,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 54.5,
+    "total": 53.8,
     "trending_days_30": 0,
-    "velocity": 0.64
+    "velocity": 0.62
   },
   "stars": {
     "2026-10-29": 4324,
@@ -68,7 +68,8 @@
     "2026-11-14": 7953,
     "2026-11-15": 7976,
     "2026-11-16": 8021,
-    "2026-11-17": 8080
+    "2026-11-17": 8080,
+    "2026-11-18": 8130
   },
   "topics": [],
   "trending": {},

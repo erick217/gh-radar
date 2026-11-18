@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 10990,
+  "forks": 11061,
   "full_name": "OpenMontageInc/OpenMontage",
   "homepage": "https://www.openmontage.video/",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1896,
+    "gain7": 1926,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -61,7 +61,8 @@
     "2026-11-14": 80443,
     "2026-11-15": 80552,
     "2026-11-16": 80808,
-    "2026-11-17": 81139
+    "2026-11-17": 81139,
+    "2026-11-18": 81430
   },
   "topics": [
     "agent",

@@ -1,0 +1,73 @@
+{
+  "ai": {
+    "at": "2026-11-18",
+    "category": "AI/模型训练与微调",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可直接安装运行的训练/推理脚本、开源数据集和已发布模型权重，文档覆盖完整上手流程。",
+    "summary": "从零训练64M小语言模型的开源项目，含完整训练链路与教程",
+    "tags": [
+      "小型语言模型",
+      "从零训练",
+      "LLM",
+      "PyTorch",
+      "微调"
+    ],
+    "usage": {
+      "completion_tokens": 315,
+      "cost_cny": 0.013712,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 5583,
+      "prompt_tokens": 6223,
+      "reasoning_tokens": 224,
+      "total_tokens": 6538
+    }
+  },
+  "archived": false,
+  "contributors": 29,
+  "created_at": "2024-07-27",
+  "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+  "details_at": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "fork": false,
+  "forks": 8692,
+  "full_name": "jingyaogong/minimind",
+  "homepage": "https://jingyaogong.github.io/minimind",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-18",
+  "latest_release": "v2",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-18",
+  "readme_chars": 78648,
+  "readme_hash": "b6c64c8ba15c",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 576,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.9,
+    "trending_days_30": 1,
+    "velocity": 0.64
+  },
+  "stars": {
+    "2026-11-18": 66309
+  },
+  "topics": [
+    "artificial-intelligence",
+    "large-language-model"
+  ],
+  "trending": {
+    "2026-11-18": {
+      "daily": 192
+    }
+  },
+  "url": "https://github.com/jingyaogong/minimind"
+}

@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 819,
+  "forks": 829,
   "full_name": "beenuar/AiSOC",
   "homepage": "https://beenuar.github.io/AiSOC/",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-02",
   "latest_release": "v23.4.0",
   "license": "MIT",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-18",
   "readme_chars": 22933,
   "readme_hash": "e9a8a6bd0dd4",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1027,
+    "gain7": 892,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 76.9,
+    "total": 76.4,
     "trending_days_30": 1,
-    "velocity": 0.7
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-02": 6440,
@@ -64,7 +64,8 @@
     "2026-11-14": 7581,
     "2026-11-15": 7690,
     "2026-11-16": 7898,
-    "2026-11-17": 8017
+    "2026-11-17": 8017,
+    "2026-11-18": 8094
   },
   "topics": [
     "agentic-ai",

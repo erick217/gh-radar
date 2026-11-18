@@ -22,7 +22,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 11746,
+  "forks": 11761,
   "full_name": "zed-industries/zed",
   "homepage": "https://zed.dev",
   "install_hint": false,
@@ -30,20 +30,20 @@
   "last_seen": "2026-11-14",
   "latest_release": "v1.29.1-pre",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 2852,
   "readme_hash": "584d76645134",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 566,
+    "gain7": 545,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 80.4,
+    "total": 80.3,
     "trending_days_30": 5,
     "velocity": 0.64
   },
@@ -58,7 +58,8 @@
     "2026-11-14": 95033,
     "2026-11-15": 95049,
     "2026-11-16": 95119,
-    "2026-11-17": 95195
+    "2026-11-17": 95195,
+    "2026-11-18": 95258
   },
   "topics": [
     "gpui",

@@ -23,36 +23,37 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 4860,
+  "forks": 4873,
   "full_name": "ChromeDevTools/chrome-devtools-mcp",
   "homepage": "https://developer.chrome.com/docs/devtools/agents",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-18",
   "latest_release": "chrome-devtools-mcp-v1.13.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 9583,
   "readme_hash": "4dbe3dd0d5a7",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4053,
+    "gain7": 3468,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 86.0,
-    "trending_days_30": 4,
-    "velocity": 0.84
+    "total": 86.8,
+    "trending_days_30": 5,
+    "velocity": 0.82
   },
   "stars": {
     "2026-11-14": 56139,
     "2026-11-15": 56459,
     "2026-11-16": 57258,
-    "2026-11-17": 57876
+    "2026-11-17": 57876,
+    "2026-11-18": 58121
   },
   "topics": [
     "browser",
@@ -76,6 +77,9 @@
     },
     "2026-11-17": {
       "daily": 841
+    },
+    "2026-11-18": {
+      "weekly": 2948
     }
   },
   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"

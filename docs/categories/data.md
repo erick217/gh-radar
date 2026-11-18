@@ -18,10 +18,10 @@ description: "数据分类下的热门开源项目，共收录 2 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 框架 | Python | 103.8k | +3.0k | 93 |  |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python 网页抓取框架，集请求、解析与并发爬虫于一体。 | 框架 | Python | 104.0k | +2.7k | 93 |  |
 
 <h2 class="radar-sub-heading">可视化（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 中国历史交互地图时间轴，从战国到现代可拖动查看疆域、古城与人物行迹。 | Web应用 | JavaScript | 7.4k | +864 | 73 |  |
+| [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | 中国历史交互地图时间轴，从战国到现代可拖动查看疆域、古城与人物行迹。 | Web应用 | JavaScript | 7.7k | +864 | 73 |  |

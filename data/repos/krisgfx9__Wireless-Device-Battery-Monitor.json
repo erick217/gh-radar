@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-18",
+    "category": "移动与桌面/桌面应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 v1.0.8 安装包与便携版，支持多品牌设备，无需厂商软件即可直接使用。",
+    "summary": "在 Windows 任务栏显示无线鼠标、耳机、键盘和手柄电量的轻量托盘工具",
+    "tags": [
+      "Windows",
+      "电池监控",
+      "无线外设",
+      "托盘应用",
+      "C++"
+    ],
+    "usage": {
+      "completion_tokens": 156,
+      "cost_cny": 0.009456,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 4091,
+      "prompt_tokens": 4731,
+      "reasoning_tokens": 63,
+      "total_tokens": 4887
+    }
+  },
+  "archived": false,
+  "contributors": 96,
+  "created_at": "2026-11-16",
+  "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+  "details_at": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "fork": false,
+  "forks": 279,
+  "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+  "homepage": null,
+  "install_hint": true,
+  "language": "C++",
+  "last_seen": "2026-11-18",
+  "latest_release": "v1.0.8",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-18",
+  "readme_chars": 70802,
+  "readme_hash": "f70fd7e388cd",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3250,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 76.6,
+    "trending_days_30": 0,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-11-18": 3250
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+}

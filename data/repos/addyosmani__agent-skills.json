@@ -17,19 +17,19 @@
     ]
   },
   "archived": false,
-  "contributors": 97,
+  "contributors": 100,
   "created_at": "2026-02-15",
   "description": "Production-grade engineering skills for AI coding agents.",
-  "details_at": "2026-11-11",
+  "details_at": "2026-11-18",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 12362,
+  "forks": 12379,
   "full_name": "addyosmani/agent-skills",
   "homepage": "https://skills.addy.ie",
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-17",
-  "latest_release": "0.6.15",
+  "last_seen": "2026-11-18",
+  "latest_release": "0.6.16",
   "license": "MIT",
   "pushed_at": "2026-11-14",
   "readme_chars": 25184,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3580,
-    "gain7_source": "snapshot-partial",
+    "gain7": 3352,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 89.7,
-    "trending_days_30": 7,
-    "velocity": 0.83
+    "total": 90.9,
+    "trending_days_30": 8,
+    "velocity": 0.82
   },
   "stars": {
     "2026-11-11": 115402,
@@ -55,7 +55,8 @@
     "2026-11-14": 117470,
     "2026-11-15": 117660,
     "2026-11-16": 118070,
-    "2026-11-17": 118471
+    "2026-11-17": 118471,
+    "2026-11-18": 118754
   },
   "topics": [
     "agent-skills",
@@ -86,6 +87,9 @@
     },
     "2026-11-17": {
       "weekly": 3960
+    },
+    "2026-11-18": {
+      "weekly": 3884
     }
   },
   "url": "https://github.com/addyosmani/agent-skills"

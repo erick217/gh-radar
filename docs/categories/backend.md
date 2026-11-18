@@ -18,6 +18,6 @@ description: "后端分类下的热门开源项目，共收录 3 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 框架 | JavaScript | 123.8k | +172 | 71 |  |
-| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust 全栈 Web 框架，内置路由、模板、组件与资源打包 | 框架 | Rust | 7.2k | +302 | 69 |  |
-| [php/php-src](https://github.com/php/php-src) | PHP 语言官方解释器源码，提供运行 PHP 代码的运行时与扩展 | 其他 | C | 41.8k | +15 | 64 |  |
+| [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 框架 | JavaScript | 123.8k | +175 | 71 |  |
+| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust 全栈 Web 框架，内置路由、模板、组件与资源打包 | 框架 | Rust | 7.3k | +271 | 68 |  |
+| [php/php-src](https://github.com/php/php-src) | PHP 语言官方解释器源码，提供运行 PHP 代码的运行时与扩展 | 其他 | C | 41.8k | +18 | 64 |  |

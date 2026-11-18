@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 1741,
+  "forks": 1746,
   "full_name": "ConardLi/garden-skills",
   "homepage": "https://github.com/ConardLi/garden-skills",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 496,
+    "gain7": 490,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -60,7 +60,8 @@
     "2026-11-14": 15155,
     "2026-11-15": 15180,
     "2026-11-16": 15256,
-    "2026-11-17": 15334
+    "2026-11-17": 15334,
+    "2026-11-18": 15407
   },
   "topics": [
     "agent",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 818,
+  "forks": 845,
   "full_name": "nightly-labs/openbot",
   "homepage": "https://openbot.run/",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v0.68.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 67082,
   "readme_hash": "5df275d0d2f3",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1615,
+    "gain7": 1817,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 81.3,
+    "total": 81.7,
     "trending_days_30": 3,
-    "velocity": 0.75
+    "velocity": 0.76
   },
   "stars": {
     "2026-10-29": 3636,
@@ -68,7 +68,8 @@
     "2026-11-14": 7699,
     "2026-11-15": 7812,
     "2026-11-16": 8039,
-    "2026-11-17": 8378
+    "2026-11-17": 8378,
+    "2026-11-18": 8756
   },
   "topics": [
     "ai-agents",

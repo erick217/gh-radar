@@ -32,36 +32,37 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 2026,
+  "forks": 2080,
   "full_name": "ag-ui-protocol/ag-ui",
   "homepage": "https://ag-ui.com",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-18",
   "latest_release": "release/2026-11-13",
   "license": "MIT",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 13437,
   "readme_hash": "a24d5a32f5bd",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5507,
+    "gain7": 5147,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 87.0,
-    "trending_days_30": 4,
-    "velocity": 0.87
+    "total": 88.2,
+    "trending_days_30": 5,
+    "velocity": 0.86
   },
   "stars": {
     "2026-11-14": 17257,
     "2026-11-15": 17459,
     "2026-11-16": 18185,
-    "2026-11-17": 19617
+    "2026-11-17": 19617,
+    "2026-11-18": 20198
   },
   "topics": [
     "ag-ui-protocol",
@@ -82,6 +83,9 @@
     },
     "2026-11-17": {
       "daily": 791
+    },
+    "2026-11-18": {
+      "daily": 1445
     }
   },
   "url": "https://github.com/ag-ui-protocol/ag-ui"

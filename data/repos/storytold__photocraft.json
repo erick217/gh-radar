@@ -22,7 +22,7 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 14111,
+  "forks": 14152,
   "full_name": "storytold/photocraft",
   "homepage": "https://getartcraft.com/apps/photocraft",
   "install_hint": false,
@@ -30,13 +30,13 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.23.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-18",
   "readme_chars": 36552,
   "readme_hash": "a9cd20960948",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1598,
+    "gain7": 1608,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -45,7 +45,7 @@
     "practical": 1.0,
     "total": 77.1,
     "trending_days_30": 0,
-    "velocity": 0.74
+    "velocity": 0.75
   },
   "stars": {
     "2026-10-29": 74681,
@@ -67,7 +67,8 @@
     "2026-11-14": 79370,
     "2026-11-15": 79451,
     "2026-11-16": 79681,
-    "2026-11-17": 79937
+    "2026-11-17": 79937,
+    "2026-11-18": 80185
   },
   "topics": [
     "art",

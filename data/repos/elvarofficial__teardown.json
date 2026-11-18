@@ -23,12 +23,12 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 544,
+  "forks": 552,
   "full_name": "elvarofficial/teardown",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-18",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-10-31",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 606,
+    "gain7": 589,
     "gain7_source": "snapshot-partial",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 58.6,
+    "total": 58.5,
     "trending_days_30": 0,
-    "velocity": 0.65
+    "velocity": 0.64
   },
   "stars": {
     "2026-11-12": 3228,
@@ -54,7 +54,8 @@
     "2026-11-14": 3491,
     "2026-11-15": 3520,
     "2026-11-16": 3597,
-    "2026-11-17": 3661
+    "2026-11-17": 3661,
+    "2026-11-18": 3733
   },
   "topics": [],
   "trending": {},

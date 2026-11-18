@@ -20,10 +20,10 @@
   "contributors": 27,
   "created_at": "2025-07-16",
   "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-  "details_at": "2026-11-11",
+  "details_at": "2026-11-18",
   "first_seen": "2026-11-04",
   "fork": false,
-  "forks": 3251,
+  "forks": 3262,
   "full_name": "Usagi-org/ai-goofish-monitor",
   "homepage": null,
   "install_hint": true,
@@ -36,17 +36,19 @@
   "readme_hash": "b439ea8f69c9",
   "score": {
     "excluded": null,
-    "flags": [],
-    "gain7": 1079,
+    "flags": [
+      "单日暴涨"
+    ],
+    "gain7": 569,
     "gain7_source": "snapshot",
     "health": 0.8,
     "included": true,
     "is_resource": false,
-    "persistence": 0.44,
+    "persistence": 0.14,
     "practical": 1.0,
-    "total": 73.5,
+    "total": 55.2,
     "trending_days_30": 2,
-    "velocity": 0.71
+    "velocity": 0.64
   },
   "stars": {
     "2026-11-04": 16830,
@@ -62,7 +64,8 @@
     "2026-11-14": 19920,
     "2026-11-15": 19945,
     "2026-11-16": 20028,
-    "2026-11-17": 20093
+    "2026-11-17": 20093,
+    "2026-11-18": 20170
   },
   "topics": [
     "ai",

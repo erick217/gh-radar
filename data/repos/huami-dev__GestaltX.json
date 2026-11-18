@@ -23,8 +23,8 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 2683,
-  "full_name": "huamidev/GestaltX",
+  "forks": 2705,
+  "full_name": "huami-dev/GestaltX",
   "homepage": null,
   "install_hint": false,
   "language": "Swift",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4593,
+    "gain7": 2710,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 76.8,
+    "total": 74.9,
     "trending_days_30": 0,
-    "velocity": 0.85
+    "velocity": 0.8
   },
   "stars": {
     "2026-11-10": 3372,
@@ -56,9 +56,10 @@
     "2026-11-14": 7533,
     "2026-11-15": 7624,
     "2026-11-16": 7790,
-    "2026-11-17": 7965
+    "2026-11-17": 7965,
+    "2026-11-18": 8214
   },
   "topics": [],
   "trending": {},
-  "url": "https://github.com/huamidev/GestaltX"
+  "url": "https://github.com/huami-dev/GestaltX"
 }

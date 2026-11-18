@@ -23,7 +23,7 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 3035,
+  "forks": 3092,
   "full_name": "Nutlope/hallmark",
   "homepage": "https://www.usehallmark.com/",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4380,
+    "gain7": 4302,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 85.7,
     "trending_days_30": 9,
-    "velocity": 0.85
+    "velocity": 0.84
   },
   "stars": {
     "2026-11-01": 44121,
@@ -65,7 +65,8 @@
     "2026-11-14": 54877,
     "2026-11-15": 55136,
     "2026-11-16": 55699,
-    "2026-11-17": 56416
+    "2026-11-17": 56416,
+    "2026-11-18": 57153
   },
   "topics": [],
   "trending": {

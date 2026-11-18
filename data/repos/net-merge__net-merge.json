@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 187,
+  "forks": 192,
   "full_name": "net-merge/net-merge",
   "homepage": "https://net-merge.org",
   "install_hint": true,
@@ -59,7 +59,8 @@
     "2026-11-14": 3114,
     "2026-11-15": 3129,
     "2026-11-16": 3276,
-    "2026-11-17": 3334
+    "2026-11-17": 3334,
+    "2026-11-18": 3353
   },
   "topics": [
     "android",

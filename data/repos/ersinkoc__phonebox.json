@@ -1,0 +1,83 @@
+{
+  "ai": {
+    "at": "2026-11-18",
+    "category": "效率与自托管/自动化",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 v0.9.19 发布包、一键安装脚本、Android APK 和完整安装文档，普通用户可按步骤配对使用。",
+    "summary": "把旧安卓手机变成电脑桌面控制面板，集成系统监控、AI编码、媒体与自动化。",
+    "tags": [
+      "Android",
+      "桌面面板",
+      "系统监控",
+      "自动化",
+      "AI编码"
+    ],
+    "usage": {
+      "completion_tokens": 621,
+      "cost_cny": 0.011804,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3405,
+      "prompt_tokens": 4045,
+      "reasoning_tokens": 523,
+      "total_tokens": 4666
+    }
+  },
+  "archived": false,
+  "contributors": 19,
+  "created_at": "2026-11-07",
+  "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
+  "details_at": "2026-11-18",
+  "first_seen": "2026-11-18",
+  "fork": false,
+  "forks": 401,
+  "full_name": "ersinkoc/phonebox",
+  "homepage": "https://ersinkoc.github.io/phonebox/",
+  "install_hint": true,
+  "language": "C#",
+  "last_seen": "2026-11-18",
+  "latest_release": "v0.9.19",
+  "license": "MIT",
+  "pushed_at": "2026-11-18",
+  "readme_chars": 13975,
+  "readme_hash": "0965a579e614",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1816,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 74.5,
+    "trending_days_30": 0,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-11-18": 2853
+  },
+  "topics": [
+    "android",
+    "claude-code",
+    "codex",
+    "dashboard",
+    "desk-panel",
+    "dotnet",
+    "linux",
+    "macos",
+    "old-phone",
+    "smart-stack",
+    "stream-deck",
+    "system-monitor",
+    "tailscale",
+    "webhooks",
+    "widgets",
+    "windows"
+  ],
+  "trending": {},
+  "url": "https://github.com/ersinkoc/phonebox"
+}

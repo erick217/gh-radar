@@ -23,12 +23,12 @@
   "details_at": "2026-11-12",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 28417,
+  "forks": 28492,
   "full_name": "obra/superpowers",
   "homepage": null,
   "install_hint": false,
   "language": "Shell",
-  "last_seen": "2026-11-08",
+  "last_seen": "2026-11-18",
   "latest_release": "v7.0.2",
   "license": "MIT",
   "pushed_at": "2026-11-03",
@@ -37,15 +37,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3534,
+    "gain7": 3695,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 0.8,
-    "total": 89.9,
-    "trending_days_30": 11,
+    "total": 90.0,
+    "trending_days_30": 12,
     "velocity": 0.83
   },
   "stars": {
@@ -68,7 +68,8 @@
     "2026-11-14": 317536,
     "2026-11-15": 317741,
     "2026-11-16": 318199,
-    "2026-11-17": 318866
+    "2026-11-17": 318866,
+    "2026-11-18": 319591
   },
   "topics": [
     "ai",
@@ -117,6 +118,9 @@
     },
     "2026-11-08": {
       "weekly": 4466
+    },
+    "2026-11-18": {
+      "daily": 1917
     }
   },
   "url": "https://github.com/obra/superpowers"

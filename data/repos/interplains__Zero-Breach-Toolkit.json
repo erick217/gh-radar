@@ -23,12 +23,12 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 537,
+  "forks": 538,
   "full_name": "interplains/Zero-Breach-Toolkit",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "latest_release": "v2.0.7",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-17",
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 549,
+    "gain7": 546,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -68,7 +68,8 @@
     "2026-11-15": 4870,
     "2026-11-16": 5107,
     "2026-11-17": 5159,
-    "2026-11-18": 5202
+    "2026-11-18": 5202,
+    "2026-11-19": 5231
   },
   "topics": [],
   "trending": {},

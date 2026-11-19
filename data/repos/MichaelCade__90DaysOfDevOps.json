@@ -20,7 +20,7 @@
   "contributors": 146,
   "created_at": "2021-12-26",
   "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-11-05",
   "fork": false,
   "forks": 6812,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 33,
+    "gain7": 36,
     "gain7_source": "snapshot",
     "health": 0.6,
-    "included": false,
+    "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 54.9,
+    "total": 55.2,
     "trending_days_30": 1,
     "velocity": 0.36
   },
@@ -62,7 +62,8 @@
     "2026-11-15": 30899,
     "2026-11-16": 30907,
     "2026-11-17": 30913,
-    "2026-11-18": 30920
+    "2026-11-18": 30920,
+    "2026-11-19": 30926
   },
   "topics": [
     "ansible",

@@ -17,36 +17,36 @@
     ]
   },
   "archived": false,
-  "contributors": 87,
+  "contributors": 93,
   "created_at": "2026-07-13",
   "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 1096,
+  "forks": 1104,
   "full_name": "openai/codex-security",
   "homepage": "https://developers.openai.com/codex/security",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-18",
-  "latest_release": "npm-v0.10.0",
+  "last_seen": "2026-11-19",
+  "latest_release": "action-v0.10.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-18",
-  "readme_chars": 9871,
-  "readme_hash": "9f5d3f058684",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 10274,
+  "readme_hash": "539d8823cf36",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2401,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2195,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.65,
+    "persistence": 0.72,
     "practical": 1.0,
-    "total": 85.5,
-    "trending_days_30": 5,
-    "velocity": 0.79
+    "total": 86.6,
+    "trending_days_30": 6,
+    "velocity": 0.78
   },
   "stars": {
     "2026-11-12": 11958,
@@ -55,7 +55,8 @@
     "2026-11-15": 13567,
     "2026-11-16": 13654,
     "2026-11-17": 13849,
-    "2026-11-18": 14016
+    "2026-11-18": 14016,
+    "2026-11-19": 14153
   },
   "topics": [
     "ai-security",
@@ -89,6 +90,9 @@
     },
     "2026-11-18": {
       "weekly": 2531
+    },
+    "2026-11-19": {
+      "weekly": 2630
     }
   },
   "url": "https://github.com/openai/codex-security"

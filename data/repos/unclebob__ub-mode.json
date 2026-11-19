@@ -20,7 +20,7 @@
   "contributors": 1,
   "created_at": "2026-10-25",
   "description": "",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
   "forks": 462,
@@ -28,7 +28,7 @@
   "homepage": null,
   "install_hint": false,
   "language": null,
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-02",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 474,
+    "gain7": 407,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 53.8,
+    "total": 53.2,
     "trending_days_30": 0,
-    "velocity": 0.62
+    "velocity": 0.61
   },
   "stars": {
     "2026-10-29": 4324,
@@ -69,7 +69,8 @@
     "2026-11-15": 7976,
     "2026-11-16": 8021,
     "2026-11-17": 8080,
-    "2026-11-18": 8130
+    "2026-11-18": 8130,
+    "2026-11-19": 8199
   },
   "topics": [],
   "trending": {},

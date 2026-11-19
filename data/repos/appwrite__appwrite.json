@@ -1,0 +1,91 @@
+{
+  "ai": {
+    "at": "2026-11-19",
+    "category": "效率与自托管/自托管服务",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已有 2.7.3 正式版本、Docker 一键安装方式和完整文档/SDK，可直接部署使用。",
+    "summary": "开源 BaaS 平台，集成认证、数据库、存储、函数与 MCP，支持自托管",
+    "tags": [
+      "BaaS",
+      "自托管",
+      "认证",
+      "数据库",
+      "Serverless"
+    ],
+    "usage": {
+      "completion_tokens": 445,
+      "cost_cny": 0.010416,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3415,
+      "prompt_tokens": 4055,
+      "reasoning_tokens": 350,
+      "total_tokens": 4500
+    }
+  },
+  "archived": false,
+  "contributors": 556,
+  "created_at": "2019-04-08",
+  "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+  "details_at": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "fork": false,
+  "forks": 5893,
+  "full_name": "appwrite/appwrite",
+  "homepage": "https://appwrite.io",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-19",
+  "latest_release": "2.7.3",
+  "license": "BSD-3-Clause",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 17797,
+  "readme_hash": "4fc121059612",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 696,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.5,
+    "trending_days_30": 1,
+    "velocity": 0.66
+  },
+  "stars": {
+    "2026-11-19": 58346
+  },
+  "topics": [
+    "android",
+    "appwrite",
+    "backend",
+    "backend-as-a-service",
+    "docker",
+    "firebase",
+    "firewall",
+    "flutter",
+    "hosting",
+    "ios",
+    "javascript",
+    "nextjs",
+    "react",
+    "react-native",
+    "reactnative",
+    "self-hosted",
+    "selfhosted",
+    "supabase",
+    "swift",
+    "web"
+  ],
+  "trending": {
+    "2026-11-19": {
+      "daily": 232
+    }
+  },
+  "url": "https://github.com/appwrite/appwrite"
+}

@@ -23,7 +23,7 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 25730,
+  "forks": 25765,
   "full_name": "ggml-org/llama.cpp",
   "homepage": "https://llama.app",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-13",
   "latest_release": "b12345",
   "license": "MIT",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-19",
   "readme_chars": 7689,
   "readme_hash": "7cde7040eb6a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1204,
+    "gain7": 1077,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 77.5,
+    "total": 77.1,
     "trending_days_30": 1,
-    "velocity": 0.72
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-13": 134739,
@@ -54,7 +54,8 @@
     "2026-11-15": 135113,
     "2026-11-16": 135261,
     "2026-11-17": 135411,
-    "2026-11-18": 135599
+    "2026-11-18": 135599,
+    "2026-11-19": 135662
   },
   "topics": [
     "ggml"

@@ -23,7 +23,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 1879,
+  "forks": 1899,
   "full_name": "vercel-labs/agent-desktop",
   "homepage": "https://agent-browser.dev/desktop",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3505,
+    "gain7": 3072,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.93,
     "practical": 1.0,
-    "total": 92.4,
+    "total": 92.0,
     "trending_days_30": 9,
-    "velocity": 0.82
+    "velocity": 0.81
   },
   "stars": {
     "2026-11-03": 10946,
@@ -64,7 +64,8 @@
     "2026-11-15": 23872,
     "2026-11-16": 24364,
     "2026-11-17": 24773,
-    "2026-11-18": 25126
+    "2026-11-18": 25126,
+    "2026-11-19": 25419
   },
   "topics": [
     "accessibility",

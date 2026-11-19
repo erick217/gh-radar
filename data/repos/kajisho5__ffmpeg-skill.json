@@ -32,7 +32,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 732,
+  "forks": 762,
   "full_name": "kajisho5/ffmpeg-skill",
   "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
   "install_hint": true,
@@ -40,7 +40,7 @@
   "last_seen": "2026-11-17",
   "latest_release": "v3.10.1",
   "license": "MIT",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-19",
   "readme_chars": 118347,
   "readme_hash": "f7da9962c116",
   "score": {
@@ -59,7 +59,8 @@
   },
   "stars": {
     "2026-11-17": 7346,
-    "2026-11-18": 7863
+    "2026-11-18": 7863,
+    "2026-11-19": 8097
   },
   "topics": [
     "agent-skills",

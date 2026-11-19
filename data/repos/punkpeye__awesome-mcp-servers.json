@@ -1,0 +1,73 @@
+{
+  "ai": {
+    "at": "2026-11-19",
+    "category": "学习资源/资源合集",
+    "form": "资源列表",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "清单按领域分类并标注语言、部署范围与官方实现，还提供同步的在线目录，可直接用于检索和选用 MCP 服务器。",
+    "summary": "收录各类 MCP 服务器实现的精选清单，便于为 AI 客户端寻找可用服务。",
+    "tags": [
+      "MCP",
+      "Awesome",
+      "资源合集",
+      "AI Agent",
+      "服务器列表"
+    ],
+    "usage": {
+      "completion_tokens": 191,
+      "cost_cny": 0.009512,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3979,
+      "prompt_tokens": 4619,
+      "reasoning_tokens": 96,
+      "total_tokens": 4810
+    }
+  },
+  "archived": false,
+  "contributors": 5066,
+  "created_at": "2024-11-30",
+  "description": "A collection of MCP servers.",
+  "details_at": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "fork": false,
+  "forks": 20386,
+  "full_name": "punkpeye/awesome-mcp-servers",
+  "homepage": "https://glama.ai/mcp/servers",
+  "install_hint": true,
+  "language": null,
+  "last_seen": "2026-11-19",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-17",
+  "readme_chars": 495455,
+  "readme_hash": "b6971e337a61",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 159,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": true,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 59.8,
+    "trending_days_30": 1,
+    "velocity": 0.51
+  },
+  "stars": {
+    "2026-11-19": 98166
+  },
+  "topics": [
+    "ai",
+    "mcp"
+  ],
+  "trending": {
+    "2026-11-19": {
+      "daily": 53
+    }
+  },
+  "url": "https://github.com/punkpeye/awesome-mcp-servers"
+}

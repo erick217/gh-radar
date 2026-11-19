@@ -1,0 +1,90 @@
+{
+  "ai": {
+    "at": "2026-11-19",
+    "category": "AI/模型推理与部署",
+    "form": "库",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 pip 安装、正式发布版本、多语言 API 和完整文档，可直接用于模型转换与推理部署。",
+    "summary": "开源工具包，用于优化和部署深度学习模型推理。",
+    "tags": [
+      "推理部署",
+      "模型优化",
+      "Intel",
+      "深度学习",
+      "C++"
+    ],
+    "usage": {
+      "completion_tokens": 199,
+      "cost_cny": 0.008588,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3485,
+      "prompt_tokens": 4125,
+      "reasoning_tokens": 118,
+      "total_tokens": 4324
+    }
+  },
+  "archived": false,
+  "contributors": 942,
+  "created_at": "2018-10-15",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "details_at": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "fork": false,
+  "forks": 3609,
+  "full_name": "openvinotoolkit/openvino",
+  "homepage": "https://docs.openvino.ai",
+  "install_hint": true,
+  "language": "C++",
+  "last_seen": "2026-11-19",
+  "latest_release": "2026.4.1",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 12252,
+  "readme_hash": "384b0fd7ed84",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 72,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 64.6,
+    "trending_days_30": 1,
+    "velocity": 0.43
+  },
+  "stars": {
+    "2026-11-19": 11421
+  },
+  "topics": [
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "deploy-ai",
+    "diffusion-models",
+    "generative-ai",
+    "good-first-issue",
+    "inference",
+    "llm-inference",
+    "natural-language-processing",
+    "nlp",
+    "openvino",
+    "optimize-ai",
+    "performance-boost",
+    "recommendation-system",
+    "speech-recognition",
+    "stable-diffusion",
+    "transformers",
+    "yolo"
+  ],
+  "trending": {
+    "2026-11-19": {
+      "daily": 24
+    }
+  },
+  "url": "https://github.com/openvinotoolkit/openvino"
+}

@@ -23,7 +23,7 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 1802,
+  "forks": 1819,
   "full_name": "vorssaint/vorssaint-utils",
   "homepage": "https://vorssaint.com",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-01",
   "latest_release": "v3.4.4",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-13",
+  "pushed_at": "2026-11-18",
   "readme_chars": 17617,
   "readme_hash": "07e45cd61b13",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1076,
+    "gain7": 914,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 77.1,
+    "total": 76.5,
     "trending_days_30": 1,
-    "velocity": 0.7
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-01": 32046,
@@ -66,7 +66,8 @@
     "2026-11-15": 34758,
     "2026-11-16": 34884,
     "2026-11-17": 35026,
-    "2026-11-18": 35141
+    "2026-11-18": 35141,
+    "2026-11-19": 35273
   },
   "topics": [
     "alt-tab",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 7987,
+  "forks": 8056,
   "full_name": "heygen-com/hyperframes",
   "homepage": "https://hyperframes.heygen.com",
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-03",
   "latest_release": "v0.9.59",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-19",
   "readme_chars": 27166,
   "readme_hash": "ff1ca8c6ba30",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3731,
+    "gain7": 3613,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 81.5,
+    "total": 81.4,
     "trending_days_30": 1,
     "velocity": 0.83
   },
@@ -64,7 +64,8 @@
     "2026-11-15": 84436,
     "2026-11-16": 84886,
     "2026-11-17": 85487,
-    "2026-11-18": 86188
+    "2026-11-18": 86188,
+    "2026-11-19": 86709
   },
   "topics": [
     "ai",

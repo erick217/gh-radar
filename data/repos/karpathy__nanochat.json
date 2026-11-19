@@ -23,7 +23,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 8517,
+  "forks": 8523,
   "full_name": "karpathy/nanochat",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 205,
+    "gain7": 201,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": false,
@@ -64,7 +64,8 @@
     "2026-11-15": 60558,
     "2026-11-16": 60592,
     "2026-11-17": 60619,
-    "2026-11-18": 60649
+    "2026-11-18": 60649,
+    "2026-11-19": 60690
   },
   "topics": [],
   "trending": {

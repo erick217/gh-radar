@@ -1,0 +1,70 @@
+{
+  "ai": {
+    "at": "2026-11-19",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.4.0，提供 pip 安装的 CLI-Hub、生成/安装 harness 的流程和较完整文档，可直接上手使用。",
+    "summary": "把各类软件封装成 CLI，供 AI Agent 直接调用与编排",
+    "tags": [
+      "AI Agent",
+      "CLI",
+      "工具集成",
+      "自动化",
+      "Python"
+    ],
+    "usage": {
+      "completion_tokens": 359,
+      "cost_cny": 0.010224,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3663,
+      "prompt_tokens": 4303,
+      "reasoning_tokens": 267,
+      "total_tokens": 4662
+    }
+  },
+  "archived": false,
+  "contributors": 144,
+  "created_at": "2026-03-08",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "details_at": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "fork": false,
+  "forks": 5456,
+  "full_name": "HKUDS/CLI-Anything",
+  "homepage": "https://clianything.cc/",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-19",
+  "latest_release": "v0.4.0",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-09-22",
+  "readme_chars": 80335,
+  "readme_hash": "fe69db896617",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1167,
+    "gain7_source": "trending-daily",
+    "health": 0.8,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 69.4,
+    "trending_days_30": 1,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-19": 60085
+  },
+  "topics": [],
+  "trending": {
+    "2026-11-19": {
+      "daily": 389
+    }
+  },
+  "url": "https://github.com/HKUDS/CLI-Anything"
+}

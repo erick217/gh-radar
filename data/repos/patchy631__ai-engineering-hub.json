@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 6710,
+  "forks": 6720,
   "full_name": "patchy631/ai-engineering-hub",
   "homepage": "https://join.dailydoseofds.com",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 246,
+    "gain7": 236,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": true,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 64.4,
+    "total": 64.2,
     "trending_days_30": 1,
-    "velocity": 0.56
+    "velocity": 0.55
   },
   "stars": {
     "2026-11-02": 40623,
@@ -65,7 +65,8 @@
     "2026-11-15": 41870,
     "2026-11-16": 41918,
     "2026-11-17": 41949,
-    "2026-11-18": 41978
+    "2026-11-18": 41978,
+    "2026-11-19": 42021
   },
   "topics": [
     "agents",

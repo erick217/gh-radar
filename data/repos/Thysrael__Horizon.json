@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 46,
+  "contributors": 47,
   "created_at": "2026-02-20",
   "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 2104,
+  "forks": 2140,
   "full_name": "Thysrael/Horizon",
   "homepage": "https://www.horizon1123.top",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-18",
-  "readme_chars": 25708,
-  "readme_hash": "3a2f675c2085",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 25730,
+  "readme_hash": "70a14271db5c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1005,
+    "gain7": 917,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 69.3,
+    "total": 69.0,
     "trending_days_30": 1,
-    "velocity": 0.7
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-05": 12736,
@@ -62,7 +62,8 @@
     "2026-11-15": 14341,
     "2026-11-16": 14462,
     "2026-11-17": 14519,
-    "2026-11-18": 14581
+    "2026-11-18": 14581,
+    "2026-11-19": 14770
   },
   "topics": [
     "aggregator",

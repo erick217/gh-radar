@@ -20,10 +20,10 @@
   "contributors": 3,
   "created_at": "2026-10-13",
   "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 938,
+  "forks": 944,
   "full_name": "HeyPuter/everything",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-11",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-19",
   "readme_chars": 27068,
   "readme_hash": "e1f904d10cb4",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 600,
+    "gain7": 570,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 66.1,
+    "total": 65.9,
     "trending_days_30": 0,
-    "velocity": 0.65
+    "velocity": 0.64
   },
   "stars": {
     "2026-10-29": 5159,
@@ -69,7 +69,8 @@
     "2026-11-15": 8401,
     "2026-11-16": 8484,
     "2026-11-17": 8592,
-    "2026-11-18": 8665
+    "2026-11-18": 8665,
+    "2026-11-19": 8739
   },
   "topics": [
     "adobe",

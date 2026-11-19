@@ -20,7 +20,7 @@
   "contributors": 13,
   "created_at": "2026-10-05",
   "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
   "forks": 146,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 166,
+    "gain7": 152,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.1,
+    "total": 68.8,
     "trending_days_30": 0,
-    "velocity": 0.52
+    "velocity": 0.51
   },
   "stars": {
     "2026-10-29": 3853,
@@ -69,7 +69,8 @@
     "2026-11-15": 4546,
     "2026-11-16": 4576,
     "2026-11-17": 4594,
-    "2026-11-18": 4622
+    "2026-11-18": 4622,
+    "2026-11-19": 4636
   },
   "topics": [
     "charts",

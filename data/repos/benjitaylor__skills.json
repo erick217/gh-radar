@@ -20,15 +20,15 @@
   "contributors": 1,
   "created_at": "2026-10-26",
   "description": "Skills for AI coding agents.",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 246,
+  "forks": 249,
   "full_name": "benjitaylor/skills",
   "homepage": null,
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "latest_release": "stageshow-v1.1.1",
   "license": null,
   "pushed_at": "2026-11-05",
@@ -37,8 +37,8 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 657,
-    "gain7_source": "snapshot-partial",
+    "gain7": 653,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
@@ -46,7 +46,7 @@
     "practical": 0.6,
     "total": 58.4,
     "trending_days_30": 0,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-11-12": 3135,
@@ -55,7 +55,8 @@
     "2026-11-15": 3323,
     "2026-11-16": 3387,
     "2026-11-17": 3494,
-    "2026-11-18": 3698
+    "2026-11-18": 3698,
+    "2026-11-19": 3788
   },
   "topics": [],
   "trending": {},

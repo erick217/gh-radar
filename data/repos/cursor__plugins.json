@@ -32,38 +32,42 @@
   "details_at": "2026-11-18",
   "first_seen": "2026-11-18",
   "fork": false,
-  "forks": 1844,
+  "forks": 1914,
   "full_name": "cursor/plugins",
   "homepage": null,
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "latest_release": null,
   "license": null,
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-19",
   "readme_chars": 24231,
   "readme_hash": "b3d181b7f301",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 603,
+    "gain7": 942,
     "gain7_source": "trending-daily",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 0.6,
-    "total": 56.5,
-    "trending_days_30": 1,
-    "velocity": 0.65
+    "total": 59.5,
+    "trending_days_30": 2,
+    "velocity": 0.69
   },
   "stars": {
-    "2026-11-18": 17010
+    "2026-11-18": 17010,
+    "2026-11-19": 17361
   },
   "topics": [],
   "trending": {
     "2026-11-18": {
       "daily": 201
+    },
+    "2026-11-19": {
+      "daily": 314
     }
   },
   "url": "https://github.com/cursor/plugins"

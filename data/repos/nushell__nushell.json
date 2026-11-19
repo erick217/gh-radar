@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 2359,
+  "forks": 2360,
   "full_name": "nushell/nushell",
   "homepage": "https://www.nushell.sh/",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 0,
+    "gain7": 36,
     "gain7_source": "snapshot",
     "health": 1.0,
-    "included": false,
+    "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 52.4,
+    "total": 65.2,
     "trending_days_30": 1,
-    "velocity": 0.0
+    "velocity": 0.36
   },
   "stars": {
     "2026-11-07": 41023,
@@ -60,7 +60,8 @@
     "2026-11-15": 41017,
     "2026-11-16": 41022,
     "2026-11-17": 41023,
-    "2026-11-18": 41030
+    "2026-11-18": 41030,
+    "2026-11-19": 41036
   },
   "topics": [
     "nushell",

@@ -16,13 +16,13 @@
     ]
   },
   "archived": false,
-  "contributors": 587,
+  "contributors": 607,
   "created_at": "2026-09-30",
   "description": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 14152,
+  "forks": 14177,
   "full_name": "storytold/photocraft",
   "homepage": "https://getartcraft.com/apps/photocraft",
   "install_hint": false,
@@ -30,22 +30,22 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.23.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-18",
-  "readme_chars": 36552,
-  "readme_hash": "a9cd20960948",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 36597,
+  "readme_hash": "affd8cd21b1e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1608,
+    "gain7": 1569,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 77.1,
+    "total": 77.0,
     "trending_days_30": 0,
-    "velocity": 0.75
+    "velocity": 0.74
   },
   "stars": {
     "2026-10-29": 74681,
@@ -68,7 +68,8 @@
     "2026-11-15": 79451,
     "2026-11-16": 79681,
     "2026-11-17": 79937,
-    "2026-11-18": 80185
+    "2026-11-18": 80185,
+    "2026-11-19": 80395
   },
   "topics": [
     "art",

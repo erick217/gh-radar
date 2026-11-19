@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 240,
+  "forks": 267,
   "full_name": "Likely7/Veyra-NRVideo",
   "homepage": null,
   "install_hint": false,
@@ -31,29 +31,30 @@
   "last_seen": "2026-11-15",
   "latest_release": "v2.1.6-sources",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-16",
+  "pushed_at": "2026-11-19",
   "readme_chars": 23829,
   "readme_hash": "0c6f22957a78",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2347,
+    "gain7": 2572,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 0.8,
-    "total": 77.2,
+    "total": 77.6,
     "trending_days_30": 2,
-    "velocity": 0.78
+    "velocity": 0.79
   },
   "stars": {
     "2026-11-14": 1964,
     "2026-11-15": 2416,
     "2026-11-16": 2880,
     "2026-11-17": 3126,
-    "2026-11-18": 3305
+    "2026-11-18": 3305,
+    "2026-11-19": 3801
   },
   "topics": [],
   "trending": {

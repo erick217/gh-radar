@@ -20,10 +20,10 @@
   "contributors": 5,
   "created_at": "2026-06-10",
   "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 490,
+  "forks": 491,
   "full_name": "shadcn/improve",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 952,
-    "gain7_source": "snapshot-partial",
+    "gain7": 837,
+    "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 64.1,
+    "total": 63.7,
     "trending_days_30": 1,
-    "velocity": 0.69
+    "velocity": 0.68
   },
   "stars": {
     "2026-11-12": 11220,
@@ -55,7 +55,8 @@
     "2026-11-15": 11911,
     "2026-11-16": 11977,
     "2026-11-17": 12007,
-    "2026-11-18": 12036
+    "2026-11-18": 12036,
+    "2026-11-19": 12057
   },
   "topics": [],
   "trending": {

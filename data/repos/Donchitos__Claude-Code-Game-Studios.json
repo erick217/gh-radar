@@ -20,10 +20,10 @@
   "contributors": 1,
   "created_at": "2026-02-12",
   "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5223,
+  "forks": 5240,
   "full_name": "Donchitos/Claude-Code-Game-Studios",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1793,
+    "gain7": 1518,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 84.0,
+    "total": 83.4,
     "trending_days_30": 11,
-    "velocity": 0.76
+    "velocity": 0.74
   },
   "stars": {
     "2026-10-29": 28732,
@@ -69,7 +69,8 @@
     "2026-11-15": 39377,
     "2026-11-16": 39651,
     "2026-11-17": 39843,
-    "2026-11-18": 39988
+    "2026-11-18": 39988,
+    "2026-11-19": 40112
   },
   "topics": [
     "ai-agents",

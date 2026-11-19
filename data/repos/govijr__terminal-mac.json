@@ -1,0 +1,74 @@
+{
+  "ai": {
+    "at": "2026-11-19",
+    "category": "AI/Agent",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供预编译安装脚本和可用 CLI，普通开发者在 Apple silicon Mac 上可安装运行；但属早期候选版本且需手动完成客户机初始化。",
+    "summary": "在终端中运行并控制独立 macOS 虚拟机，供 AI 代理执行计算机操作。",
+    "tags": [
+      "macOS",
+      "虚拟机",
+      "终端",
+      "AI代理",
+      "MCP"
+    ],
+    "usage": {
+      "completion_tokens": 493,
+      "cost_cny": 0.010012,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3021,
+      "prompt_tokens": 3661,
+      "reasoning_tokens": 397,
+      "total_tokens": 4154
+    }
+  },
+  "archived": false,
+  "contributors": 7,
+  "created_at": "2026-11-03",
+  "description": "Entire MacOS running in your terminal.",
+  "details_at": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "fork": false,
+  "forks": 206,
+  "full_name": "govijr/terminal-mac",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Swift",
+  "last_seen": "2026-11-19",
+  "latest_release": "v0.2.0-6",
+  "license": "MIT",
+  "pushed_at": "2026-11-10",
+  "readme_chars": 16894,
+  "readme_hash": "9268bd686972",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1256,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 73.2,
+    "trending_days_30": 0,
+    "velocity": 0.72
+  },
+  "stars": {
+    "2026-11-19": 2870
+  },
+  "topics": [
+    "cli",
+    "gui",
+    "macos",
+    "shell",
+    "swift",
+    "terminal",
+    "tui"
+  ],
+  "trending": {},
+  "url": "https://github.com/govijr/terminal-mac"
+}

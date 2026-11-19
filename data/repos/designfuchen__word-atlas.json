@@ -23,12 +23,12 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 1069,
+  "forks": 1080,
   "full_name": "designfuchen/word-atlas",
   "homepage": "https://0xlei.tech/words/",
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "latest_release": null,
   "license": "NOASSERTION",
   "pushed_at": "2026-11-13",
@@ -68,7 +68,8 @@
     "2026-11-15": 4861,
     "2026-11-16": 4895,
     "2026-11-17": 4958,
-    "2026-11-18": 5007
+    "2026-11-18": 5007,
+    "2026-11-19": 5071
   },
   "topics": [
     "chinese",

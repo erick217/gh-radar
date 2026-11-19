@@ -23,30 +23,30 @@
   "details_at": "2026-11-13",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 10803,
+  "forks": 10795,
   "full_name": "nvm-sh/nvm",
   "homepage": null,
   "install_hint": true,
   "language": "Shell",
-  "last_seen": "2026-11-13",
+  "last_seen": "2026-11-19",
   "latest_release": "v0.41.0",
   "license": "MIT",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-19",
   "readme_chars": 62582,
   "readme_hash": "492e201d7219",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 64,
+    "gain7": 169,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.37,
+    "persistence": 0.44,
     "practical": 1.0,
-    "total": 67.2,
-    "trending_days_30": 1,
-    "velocity": 0.42
+    "total": 72.0,
+    "trending_days_30": 2,
+    "velocity": 0.52
   },
   "stars": {
     "2026-11-13": 96067,
@@ -54,7 +54,8 @@
     "2026-11-15": 96123,
     "2026-11-16": 96120,
     "2026-11-17": 96083,
-    "2026-11-18": 96113
+    "2026-11-18": 96113,
+    "2026-11-19": 96212
   },
   "topics": [
     "bash",
@@ -74,6 +75,9 @@
   "trending": {
     "2026-11-13": {
       "daily": 63
+    },
+    "2026-11-19": {
+      "daily": 237
     }
   },
   "url": "https://github.com/nvm-sh/nvm"

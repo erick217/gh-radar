@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 170,
+  "contributors": 173,
   "created_at": "2026-10-01",
   "description": "EffectCraft: An open-source motion graphics and compositing tool written from scratch in pure Rust",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4658,
+  "forks": 4665,
   "full_name": "storytold/effectcraft",
   "homepage": "https://getartcraft.com/apps/effectcraft",
   "install_hint": false,
@@ -31,13 +31,13 @@
   "last_seen": "2026-10-30",
   "latest_release": "v0.24.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-18",
-  "readme_chars": 27066,
-  "readme_hash": "fae21655435b",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 27465,
+  "readme_hash": "de652e39ee40",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 298,
+    "gain7": 292,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 71.1,
     "trending_days_30": 0,
-    "velocity": 0.58
+    "velocity": 0.57
   },
   "stars": {
     "2026-10-29": 8134,
@@ -69,7 +69,8 @@
     "2026-11-15": 8791,
     "2026-11-16": 8848,
     "2026-11-17": 8900,
-    "2026-11-18": 8932
+    "2026-11-18": 8932,
+    "2026-11-19": 8959
   },
   "topics": [
     "art",

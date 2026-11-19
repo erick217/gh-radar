@@ -20,10 +20,10 @@
   "contributors": 24,
   "created_at": "2024-12-28",
   "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-  "details_at": "2026-11-12",
+  "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 23586,
+  "forks": 23603,
   "full_name": "TauricResearch/TradingAgents",
   "homepage": "https://tauric.ai",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1098,
+    "gain7": 939,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.79,
     "practical": 1.0,
-    "total": 85.5,
+    "total": 85.0,
     "trending_days_30": 7,
-    "velocity": 0.71
+    "velocity": 0.69
   },
   "stars": {
     "2026-10-29": 118157,
@@ -69,7 +69,8 @@
     "2026-11-15": 122627,
     "2026-11-16": 122771,
     "2026-11-17": 122892,
-    "2026-11-18": 123018
+    "2026-11-18": 123018,
+    "2026-11-19": 123118
   },
   "topics": [
     "agent",

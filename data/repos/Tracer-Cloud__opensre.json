@@ -1,0 +1,86 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "运维与云原生/CI/CD",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供一键安装脚本、CLI 和文档，核心工作流可用，但项目处于公开 alpha 阶段。",
+    "summary": "开源 CI/CD 可靠性智能体，自动分析失败原因并推送修复。",
+    "tags": [
+      "CI/CD",
+      "故障排查",
+      "Agent",
+      "可观测性",
+      "自托管"
+    ],
+    "usage": {
+      "completion_tokens": 372,
+      "cost_cny": 0.009532,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3265,
+      "prompt_tokens": 3905,
+      "reasoning_tokens": 283,
+      "total_tokens": 4277
+    }
+  },
+  "archived": false,
+  "contributors": 370,
+  "created_at": "2026-01-13",
+  "description": "The open-source agent for CI/CD reliability.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 1911,
+  "full_name": "Tracer-Cloud/opensre",
+  "homepage": "https://opensre.com",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-20",
+  "latest_release": "v0.1.2026.11.20",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-20",
+  "readme_chars": 21973,
+  "readme_hash": "da8c87456728",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 114,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 66.2,
+    "trending_days_30": 1,
+    "velocity": 0.48
+  },
+  "stars": {
+    "2026-11-20": 13282
+  },
+  "topics": [
+    "alerting",
+    "ci-cd",
+    "cli",
+    "datadog",
+    "devops",
+    "gitlab-ci",
+    "grafana",
+    "incident-management",
+    "llm",
+    "observability",
+    "ollama",
+    "remediation",
+    "root-cause-analysis",
+    "site-reliability-engineering",
+    "slack"
+  ],
+  "trending": {
+    "2026-11-20": {
+      "daily": 38
+    }
+  },
+  "url": "https://github.com/Tracer-Cloud/opensre"
+}

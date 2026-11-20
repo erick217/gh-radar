@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "README 提供安装和快速开始流程，可在 Claude Code/Cursor 等代理中运行并产出 MP4；但无正式 Release，需按源码配置。",
+    "summary": "让 AI 编码代理写剧本、用代码渲染画面与声音并输出 MP4 的电影生成工具",
+    "tags": [
+      "AI视频",
+      "代码生成",
+      "电影制作",
+      "渲染",
+      "Agent"
+    ],
+    "usage": {
+      "completion_tokens": 642,
+      "cost_cny": 0.015156,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 4997,
+      "prompt_tokens": 5637,
+      "reasoning_tokens": 533,
+      "total_tokens": 6279
+    }
+  },
+  "archived": false,
+  "contributors": 3,
+  "created_at": "2026-11-03",
+  "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 472,
+  "full_name": "sarpstar/cinecode",
+  "homepage": "https://x.com/sarpstar",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-20",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-12",
+  "readme_chars": 41980,
+  "readme_hash": "e5888a116ef0",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1149,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 65.4,
+    "trending_days_30": 0,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-20": 2791
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/sarpstar/cinecode"
+}

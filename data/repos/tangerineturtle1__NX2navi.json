@@ -23,12 +23,12 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 350,
+  "forks": 348,
   "full_name": "tangerineturtle1/NX2navi",
   "homepage": null,
   "install_hint": false,
   "language": "C",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "latest_release": "v0.12.0",
   "license": "MIT",
   "pushed_at": "2026-11-16",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 978,
+    "gain7": 683,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 71.3,
+    "total": 70.1,
     "trending_days_30": 0,
-    "velocity": 0.7
+    "velocity": 0.66
   },
   "stars": {
     "2026-11-12": 3347,
@@ -56,7 +56,8 @@
     "2026-11-16": 4252,
     "2026-11-17": 4293,
     "2026-11-18": 4310,
-    "2026-11-19": 4325
+    "2026-11-19": 4325,
+    "2026-11-20": 4338
   },
   "topics": [],
   "trending": {},

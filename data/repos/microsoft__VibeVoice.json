@@ -20,10 +20,10 @@
   "contributors": 23,
   "created_at": "2025-08-25",
   "description": "Open-Source Frontier Voice AI",
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-20",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 6469,
+  "forks": 6472,
   "full_name": "microsoft/VibeVoice",
   "homepage": "https://microsoft.github.io/VibeVoice/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 232,
+    "gain7": 194,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 59.2,
+    "total": 58.5,
     "trending_days_30": 1,
-    "velocity": 0.55
+    "velocity": 0.53
   },
   "stars": {
     "2026-11-06": 56256,
@@ -62,7 +62,8 @@
     "2026-11-16": 57199,
     "2026-11-17": 57223,
     "2026-11-18": 57246,
-    "2026-11-19": 57295
+    "2026-11-19": 57295,
+    "2026-11-20": 57319
   },
   "topics": [],
   "trending": {

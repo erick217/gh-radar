@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 23100,
+  "forks": 23097,
   "full_name": "rails/rails",
   "homepage": "https://rubyonrails.org",
   "install_hint": false,
@@ -61,7 +61,8 @@
     "2026-11-16": 59093,
     "2026-11-17": 59051,
     "2026-11-18": 59073,
-    "2026-11-19": 59052
+    "2026-11-19": 59052,
+    "2026-11-20": 59080
   },
   "topics": [
     "activejob",

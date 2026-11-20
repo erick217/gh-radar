@@ -23,12 +23,12 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 346,
+  "forks": 347,
   "full_name": "BryceYuuu/RUN",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "latest_release": null,
   "license": "CC-BY-SA-4.0",
   "pushed_at": "2026-11-07",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 301,
+    "gain7": 228,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 52.2,
+    "total": 51.2,
     "trending_days_30": 0,
-    "velocity": 0.58
+    "velocity": 0.55
   },
   "stars": {
     "2026-11-05": 3815,
@@ -63,7 +63,8 @@
     "2026-11-16": 4839,
     "2026-11-17": 4918,
     "2026-11-18": 4938,
-    "2026-11-19": 4969
+    "2026-11-19": 4969,
+    "2026-11-20": 4985
   },
   "topics": [
     "china",

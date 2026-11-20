@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 45164,
+  "forks": 45250,
   "full_name": "affaan-m/ECC",
   "homepage": "https://ecc.tools",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-19",
   "latest_release": "v2.2.3",
   "license": "MIT",
-  "pushed_at": "2026-11-17",
+  "pushed_at": "2026-11-20",
   "readme_chars": 116553,
   "readme_hash": "cadefd328831",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5238,
+    "gain7": 5293,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 91.1,
     "trending_days_30": 7,
-    "velocity": 0.86
+    "velocity": 0.87
   },
   "stars": {
     "2026-10-31": 293540,
@@ -68,7 +68,8 @@
     "2026-11-16": 304009,
     "2026-11-17": 304874,
     "2026-11-18": 305892,
-    "2026-11-19": 306815
+    "2026-11-19": 306815,
+    "2026-11-20": 307431
   },
   "topics": [
     "ai-agents",

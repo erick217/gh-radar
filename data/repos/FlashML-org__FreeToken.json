@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1719,
+  "forks": 1721,
   "full_name": "FlashML-org/FreeToken",
   "homepage": "flashml.ai",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 252,
+    "gain7": 204,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 73.4,
+    "total": 72.6,
     "trending_days_30": 2,
-    "velocity": 0.56
+    "velocity": 0.54
   },
   "stars": {
     "2026-11-02": 15615,
@@ -66,7 +66,8 @@
     "2026-11-16": 17236,
     "2026-11-17": 17257,
     "2026-11-18": 17280,
-    "2026-11-19": 17302
+    "2026-11-19": 17302,
+    "2026-11-20": 17329
   },
   "topics": [
     "deepseek-v4",

@@ -1,0 +1,91 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "开发工具/代码质量与构建",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可克隆运行的 Shell 扫描脚本、安装脚本和预提交检查清单，能直接扫描 Xcode/Android 项目并输出可操作的阻断项。",
+    "summary": "扫描 iOS/Android 项目，提前发现上架审核拒绝风险并给出修复建议。",
+    "tags": [
+      "App Store",
+      "Google Play",
+      "合规检查",
+      "上架审核",
+      "移动开发"
+    ],
+    "usage": {
+      "completion_tokens": 755,
+      "cost_cny": 0.012916,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3425,
+      "prompt_tokens": 4065,
+      "reasoning_tokens": 653,
+      "total_tokens": 4820
+    }
+  },
+  "archived": false,
+  "contributors": 2,
+  "created_at": "2026-06-06",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 145,
+  "full_name": "mjmirza/app-store-compliance",
+  "homepage": "https://mjmirza.github.io/app-store-compliance/",
+  "install_hint": true,
+  "language": "Shell",
+  "last_seen": "2026-11-20",
+  "latest_release": "v2.4.0",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 44973,
+  "readme_hash": "97d00aee6e02",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1131,
+    "gain7_source": "trending-daily",
+    "health": 0.85,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 70.5,
+    "trending_days_30": 1,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-20": 2218
+  },
+  "topics": [
+    "accessibility",
+    "ai-agents",
+    "android",
+    "app-review-guidelines",
+    "app-store",
+    "app-store-connect",
+    "app-store-rejection",
+    "app-store-review",
+    "claude-code",
+    "coppa",
+    "data-safety",
+    "eu-ai-act",
+    "gdpr",
+    "google-play",
+    "google-play-policy",
+    "ios",
+    "mobile-compliance",
+    "play-console",
+    "pre-submission-checklist",
+    "privacy-manifest"
+  ],
+  "trending": {
+    "2026-11-20": {
+      "daily": 377
+    }
+  },
+  "url": "https://github.com/mjmirza/app-store-compliance"
+}

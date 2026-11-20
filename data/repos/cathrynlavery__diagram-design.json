@@ -1,0 +1,79 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 npx 及多平台插件安装方式，附类型图库和使用文档，可直接生成并打开图表文件。",
+    "summary": "面向编码 Agent 的自然语言图表生成技能，输出自包含 HTML+SVG",
+    "tags": [
+      "图表生成",
+      "AI Agent",
+      "SVG",
+      "Claude Code",
+      "可视化"
+    ],
+    "usage": {
+      "completion_tokens": 425,
+      "cost_cny": 0.009944,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3259,
+      "prompt_tokens": 3899,
+      "reasoning_tokens": 340,
+      "total_tokens": 4324
+    }
+  },
+  "archived": false,
+  "contributors": 75,
+  "created_at": "2026-04-16",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 4629,
+  "full_name": "cathrynlavery/diagram-design",
+  "homepage": "https://diagramdesign.dev",
+  "install_hint": true,
+  "language": "HTML",
+  "last_seen": "2026-11-20",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 56142,
+  "readme_hash": "56d3e0cab940",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 813,
+    "gain7_source": "trending-daily",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 65.6,
+    "trending_days_30": 1,
+    "velocity": 0.68
+  },
+  "stars": {
+    "2026-11-20": 68883
+  },
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "trending": {
+    "2026-11-20": {
+      "daily": 271
+    }
+  },
+  "url": "https://github.com/cathrynlavery/diagram-design"
+}

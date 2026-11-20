@@ -28,25 +28,25 @@
   "homepage": "https://anymodel.bot/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "latest_release": "v0.1.42",
   "license": "MIT",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-20",
   "readme_chars": 23776,
   "readme_hash": "e36b0171461d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1387,
+    "gain7": 1254,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.6,
+    "total": 76.2,
     "trending_days_30": 0,
-    "velocity": 0.73
+    "velocity": 0.72
   },
   "stars": {
     "2026-11-12": 3311,
@@ -56,7 +56,8 @@
     "2026-11-16": 4156,
     "2026-11-17": 4352,
     "2026-11-18": 4510,
-    "2026-11-19": 4698
+    "2026-11-19": 4698,
+    "2026-11-20": 4748
   },
   "topics": [
     "ai-agent",

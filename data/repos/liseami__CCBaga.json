@@ -20,10 +20,10 @@
   "contributors": 11,
   "created_at": "2026-10-11",
   "description": "",
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-20",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 377,
+  "forks": 380,
   "full_name": "liseami/CCBaga",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 154,
+    "gain7": 145,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.8,
+    "total": 68.6,
     "trending_days_30": 0,
-    "velocity": 0.51
+    "velocity": 0.5
   },
   "stars": {
     "2026-10-30": 3288,
@@ -69,7 +69,8 @@
     "2026-11-16": 3613,
     "2026-11-17": 3641,
     "2026-11-18": 3655,
-    "2026-11-19": 3692
+    "2026-11-19": 3692,
+    "2026-11-20": 3707
   },
   "topics": [],
   "trending": {},

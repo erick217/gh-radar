@@ -20,10 +20,10 @@
   "contributors": 9,
   "created_at": "2026-03-31",
   "description": "Agent Skills for Google products and technologies",
-  "details_at": "2026-11-13",
+  "details_at": "2026-11-20",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 2024,
+  "forks": 2026,
   "full_name": "google/skills",
   "homepage": null,
   "install_hint": true,
@@ -32,21 +32,21 @@
   "latest_release": null,
   "license": "Apache-2.0",
   "pushed_at": "2026-11-19",
-  "readme_chars": 21399,
-  "readme_hash": "8f6bc350847b",
+  "readme_chars": 23593,
+  "readme_hash": "7a7babb046f3",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 455,
+    "gain7": 359,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 72.1,
+    "total": 71.3,
     "trending_days_30": 5,
-    "velocity": 0.62
+    "velocity": 0.59
   },
   "stars": {
     "2026-11-06": 22534,
@@ -62,7 +62,8 @@
     "2026-11-16": 24349,
     "2026-11-17": 24377,
     "2026-11-18": 24411,
-    "2026-11-19": 24438
+    "2026-11-19": 24438,
+    "2026-11-20": 24462
   },
   "topics": [
     "google",

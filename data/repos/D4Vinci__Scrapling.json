@@ -23,7 +23,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 10889,
+  "forks": 10929,
   "full_name": "D4Vinci/Scrapling",
   "homepage": "https://scrapling.readthedocs.io/en/latest/",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2459,
+    "gain7": 2217,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 92.6,
+    "total": 92.2,
     "trending_days_30": 10,
-    "velocity": 0.79
+    "velocity": 0.78
   },
   "stars": {
     "2026-11-03": 93440,
@@ -65,7 +65,8 @@
     "2026-11-16": 103445,
     "2026-11-17": 103768,
     "2026-11-18": 104038,
-    "2026-11-19": 104282
+    "2026-11-19": 104282,
+    "2026-11-20": 104518
   },
   "topics": [
     "ai",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1540,
+  "forks": 1543,
   "full_name": "kornia/kornia",
   "homepage": "https://kornia.readthedocs.io",
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-03",
   "latest_release": "v0.9.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-19",
   "readme_chars": 21937,
   "readme_hash": "e7ae8726a582",
   "score": {
@@ -66,7 +66,8 @@
     "2026-11-16": 12388,
     "2026-11-17": 12392,
     "2026-11-18": 12394,
-    "2026-11-19": 12395
+    "2026-11-19": 12395,
+    "2026-11-20": 12397
   },
   "topics": [
     "artificial-intelligence",

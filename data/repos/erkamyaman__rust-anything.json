@@ -32,33 +32,34 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 327,
+  "forks": 458,
   "full_name": "erkamyaman/rust-anything",
   "homepage": "https://www.npmjs.com/package/rust-anything",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "latest_release": "v1.5.1",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 15338,
   "readme_hash": "0373a8262deb",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3958,
+    "gain7": 5701,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 77.3,
+    "total": 78.6,
     "trending_days_30": 0,
-    "velocity": 0.84
+    "velocity": 0.87
   },
   "stars": {
-    "2026-11-19": 3958
+    "2026-11-19": 3958,
+    "2026-11-20": 5701
   },
   "topics": [
     "agent-skills",

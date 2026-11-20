@@ -1,0 +1,89 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "效率与自托管/笔记与知识管理",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供多平台桌面客户端、在线 Demo 和自托管文档，可直接下载安装并使用。",
+    "summary": "融合文档、白板与数据库的本地优先开源知识库，可替代 Notion/Miro。",
+    "tags": [
+      "知识库",
+      "白板",
+      "笔记",
+      "本地优先",
+      "Notion替代"
+    ],
+    "usage": {
+      "completion_tokens": 1149,
+      "cost_cny": 0.015434,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3108,
+      "prompt_tokens": 3748,
+      "reasoning_tokens": 1059,
+      "total_tokens": 4897
+    }
+  },
+  "archived": false,
+  "contributors": 276,
+  "created_at": "2022-07-31",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 5574,
+  "full_name": "toeverything/AFFiNE",
+  "homepage": "https://affine.pro",
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-11-20",
+  "latest_release": "v2026.11.18-canary.905",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-19",
+  "readme_chars": 16251,
+  "readme_hash": "8855ea80f529",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 546,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 71.7,
+    "trending_days_30": 1,
+    "velocity": 0.64
+  },
+  "stars": {
+    "2026-11-20": 75371
+  },
+  "topics": [
+    "app",
+    "crdt",
+    "editor",
+    "electron",
+    "knowledge-base",
+    "markdown",
+    "miro",
+    "notes",
+    "notion",
+    "notion-alternative",
+    "rust",
+    "rust-lang",
+    "rust-language",
+    "table",
+    "tableview",
+    "whiteboard",
+    "wiki",
+    "workspace"
+  ],
+  "trending": {
+    "2026-11-20": {
+      "daily": 182
+    }
+  },
+  "url": "https://github.com/toeverything/AFFiNE"
+}

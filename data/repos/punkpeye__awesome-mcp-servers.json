@@ -32,7 +32,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 20386,
+  "forks": 20466,
   "full_name": "punkpeye/awesome-mcp-servers",
   "homepage": "https://glama.ai/mcp/servers",
   "install_hint": true,
@@ -58,7 +58,8 @@
     "velocity": 0.51
   },
   "stars": {
-    "2026-11-19": 98166
+    "2026-11-19": 98166,
+    "2026-11-20": 98289
   },
   "topics": [
     "ai",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1099,
+  "forks": 1105,
   "full_name": "rehan-remade/universal-modder",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-29",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 24216,
   "readme_hash": "b0a488607a8e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 153,
+    "gain7": 146,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 61.3,
+    "total": 61.1,
     "trending_days_30": 0,
-    "velocity": 0.51
+    "velocity": 0.5
   },
   "stars": {
     "2026-10-29": 9177,
@@ -70,7 +70,8 @@
     "2026-11-16": 9721,
     "2026-11-17": 9736,
     "2026-11-18": 9756,
-    "2026-11-19": 9787
+    "2026-11-19": 9787,
+    "2026-11-20": 9804
   },
   "topics": [
     "age-of-empires",

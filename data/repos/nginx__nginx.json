@@ -1,0 +1,86 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "后端/API与网关",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "有官方各平台二进制包与稳定 release，文档齐全，可直接安装部署使用。",
+    "summary": "官方 NGINX 源码仓库，高性能 Web 服务器、反向代理与负载均衡器。",
+    "tags": [
+      "Web服务器",
+      "反向代理",
+      "负载均衡",
+      "内容缓存",
+      "HTTP/3"
+    ],
+    "usage": {
+      "completion_tokens": 225,
+      "cost_cny": 0.007818,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 2996,
+      "prompt_tokens": 3636,
+      "reasoning_tokens": 127,
+      "total_tokens": 3861
+    }
+  },
+  "archived": false,
+  "contributors": 145,
+  "created_at": "2015-06-23",
+  "description": "The official NGINX Open Source repository.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 8422,
+  "full_name": "nginx/nginx",
+  "homepage": "https://nginx.org/",
+  "install_hint": true,
+  "language": "C",
+  "last_seen": "2026-11-20",
+  "latest_release": "release-1.31.9",
+  "license": "BSD-2-Clause",
+  "pushed_at": "2026-11-18",
+  "readme_chars": 14567,
+  "readme_hash": "57321023b551",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 219,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 68.5,
+    "trending_days_30": 1,
+    "velocity": 0.54
+  },
+  "stars": {
+    "2026-11-20": 32425
+  },
+  "topics": [
+    "content-cache",
+    "http",
+    "http2",
+    "http3",
+    "https",
+    "load-balancer",
+    "mail-proxy-server",
+    "nginx",
+    "quic",
+    "reverse-proxy",
+    "security",
+    "tcp-proxy-server",
+    "tls",
+    "udp-proxy-server",
+    "web-server"
+  ],
+  "trending": {
+    "2026-11-20": {
+      "daily": 73
+    }
+  },
+  "url": "https://github.com/nginx/nginx"
+}

@@ -23,7 +23,7 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 11491,
+  "forks": 11627,
   "full_name": "pingdotgg/t3code",
   "homepage": "https://t3.codes",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-11",
   "latest_release": "v0.1.10-nightly.20261114.4669",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 5357,
   "readme_hash": "44cfed83b927",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 8195,
+    "gain7": 8091,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -68,7 +68,8 @@
     "2026-11-16": 61919,
     "2026-11-17": 63299,
     "2026-11-18": 64542,
-    "2026-11-19": 65657
+    "2026-11-19": 65657,
+    "2026-11-20": 66858
   },
   "topics": [
     "agent-orchestration",

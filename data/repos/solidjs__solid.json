@@ -32,7 +32,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 1191,
+  "forks": 1201,
   "full_name": "solidjs/solid",
   "homepage": "https://solidjs.com",
   "install_hint": true,
@@ -40,7 +40,7 @@
   "last_seen": "2026-11-19",
   "latest_release": "solid-js@2.0.2",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 14021,
   "readme_hash": "173d1d0f8469",
   "score": {
@@ -58,7 +58,8 @@
     "velocity": 0.48
   },
   "stars": {
-    "2026-11-19": 36711
+    "2026-11-19": 36711,
+    "2026-11-20": 36842
   },
   "topics": [
     "declarative",

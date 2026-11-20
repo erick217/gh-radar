@@ -23,7 +23,7 @@
   "details_at": "2026-11-18",
   "first_seen": "2026-11-04",
   "fork": false,
-  "forks": 259,
+  "forks": 260,
   "full_name": "spotify/portal-ai-plugins",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 85,
+    "gain7": 83,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -64,7 +64,8 @@
     "2026-11-16": 3281,
     "2026-11-17": 3292,
     "2026-11-18": 3295,
-    "2026-11-19": 3297
+    "2026-11-19": 3297,
+    "2026-11-20": 3301
   },
   "topics": [],
   "trending": {

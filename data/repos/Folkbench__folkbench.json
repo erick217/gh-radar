@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 218,
+    "gain7": 0,
     "gain7_source": "snapshot",
     "health": 1.0,
-    "included": true,
+    "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.0,
+    "total": 51.0,
     "trending_days_30": 0,
-    "velocity": 0.54
+    "velocity": 0.0
   },
   "stars": {
     "2026-10-29": 3908,
@@ -70,7 +70,8 @@
     "2026-11-16": 3888,
     "2026-11-17": 3930,
     "2026-11-18": 3963,
-    "2026-11-19": 3981
+    "2026-11-19": 3981,
+    "2026-11-20": 3009
   },
   "topics": [
     "ai-coding",

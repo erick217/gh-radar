@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1092,
+  "forks": 1102,
   "full_name": "pengchujin/aerial-tv",
   "homepage": "https://aerial.qust.me",
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1184,
+    "gain7": 1114,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.0,
+    "total": 75.8,
     "trending_days_30": 0,
     "velocity": 0.71
   },
@@ -70,7 +70,8 @@
     "2026-11-16": 12108,
     "2026-11-17": 12261,
     "2026-11-18": 12392,
-    "2026-11-19": 12537
+    "2026-11-19": 12537,
+    "2026-11-20": 12672
   },
   "topics": [],
   "trending": {},

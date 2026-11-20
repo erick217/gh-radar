@@ -32,30 +32,30 @@
   "details_at": "2026-11-14",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 2721,
+  "forks": 2770,
   "full_name": "dream-num/univer",
   "homepage": "https://univer.ai",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "latest_release": "v1.5.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 51111,
   "readme_hash": "b34cd046fe34",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 8183,
+    "gain7": 7329,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 91.2,
-    "trending_days_30": 6,
-    "velocity": 0.91
+    "total": 92.3,
+    "trending_days_30": 7,
+    "velocity": 0.9
   },
   "stars": {
     "2026-11-14": 24350,
@@ -63,7 +63,8 @@
     "2026-11-16": 26654,
     "2026-11-17": 28568,
     "2026-11-18": 29610,
-    "2026-11-19": 30195
+    "2026-11-19": 30195,
+    "2026-11-20": 30632
   },
   "topics": [
     "board",
@@ -105,6 +106,9 @@
     },
     "2026-11-19": {
       "weekly": 6840
+    },
+    "2026-11-20": {
+      "weekly": 7248
     }
   },
   "url": "https://github.com/dream-num/univer"

@@ -32,35 +32,36 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 6267,
+  "forks": 6326,
   "full_name": "mvanhorn/last30days-skill",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-19",
+  "last_seen": "2026-11-20",
   "latest_release": "v4.3.0",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 34883,
   "readme_hash": "793a3f1af39b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2423,
-    "gain7_source": "trending-weekly",
+    "gain7": 6104,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 79.7,
-    "trending_days_30": 3,
-    "velocity": 0.79
+    "total": 87.4,
+    "trending_days_30": 4,
+    "velocity": 0.88
   },
   "stars": {
     "2026-11-17": 68437,
     "2026-11-18": 69444,
-    "2026-11-19": 70368
+    "2026-11-19": 70368,
+    "2026-11-20": 71053
   },
   "topics": [
     "ai-prompts",
@@ -94,6 +95,10 @@
     "2026-11-19": {
       "daily": 1059,
       "weekly": 2423
+    },
+    "2026-11-20": {
+      "daily": 954,
+      "weekly": 3179
     }
   },
   "url": "https://github.com/mvanhorn/last30days-skill"

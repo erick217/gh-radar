@@ -1,0 +1,90 @@
+{
+  "ai": {
+    "at": "2026-11-20",
+    "category": "AI/RAG与知识库",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 Local CLI、自托管服务端和多种 SDK，发布版本且文档完整，普通开发者可直接部署使用。",
+    "summary": "为 AI Agent 提供网页抓取、爬虫和搜索的开源 API",
+    "tags": [
+      "网页抓取",
+      "爬虫",
+      "Markdown",
+      "LLM",
+      "MCP"
+    ],
+    "usage": {
+      "completion_tokens": 421,
+      "cost_cny": 0.010698,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3652,
+      "prompt_tokens": 4292,
+      "reasoning_tokens": 329,
+      "total_tokens": 4713
+    }
+  },
+  "archived": false,
+  "contributors": 181,
+  "created_at": "2024-04-15",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+  "details_at": "2026-11-20",
+  "first_seen": "2026-11-20",
+  "fork": false,
+  "forks": 10725,
+  "full_name": "firecrawl/firecrawl",
+  "homepage": "https://firecrawl.dev",
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-20",
+  "latest_release": "v2.11.0",
+  "license": "AGPL-3.0",
+  "pushed_at": "2026-11-20",
+  "readme_chars": 20868,
+  "readme_hash": "43417199e6a1",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2475,
+    "gain7_source": "trending-daily",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 77.0,
+    "trending_days_30": 1,
+    "velocity": 0.79
+  },
+  "stars": {
+    "2026-11-20": 204596
+  },
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-crawler",
+    "ai-scraping",
+    "ai-search",
+    "crawler",
+    "data-extraction",
+    "html-to-markdown",
+    "llm",
+    "markdown",
+    "scraper",
+    "scraping",
+    "web-crawler",
+    "web-data",
+    "web-data-extraction",
+    "web-scraper",
+    "web-scraping",
+    "web-search",
+    "webscraping"
+  ],
+  "trending": {
+    "2026-11-20": {
+      "daily": 825
+    }
+  },
+  "url": "https://github.com/firecrawl/firecrawl"
+}

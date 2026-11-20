@@ -32,7 +32,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 3932,
+  "forks": 3942,
   "full_name": "astral-sh/uv",
   "homepage": "https://docs.astral.sh/uv",
   "install_hint": true,
@@ -40,7 +40,7 @@
   "last_seen": "2026-11-19",
   "latest_release": "0.13.9",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 9853,
   "readme_hash": "7bf27e021f00",
   "score": {
@@ -58,7 +58,8 @@
     "velocity": 0.67
   },
   "stars": {
-    "2026-11-19": 92347
+    "2026-11-19": 92347,
+    "2026-11-20": 92437
   },
   "topics": [
     "packaging",

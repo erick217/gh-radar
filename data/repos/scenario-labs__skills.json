@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 346,
+  "forks": 350,
   "full_name": "scenario-labs/skills",
   "homepage": "https://www.skills.sh/scenario-labs/skills",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 178,
+    "gain7": 172,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 72.1,
+    "total": 72.0,
     "trending_days_30": 2,
     "velocity": 0.52
   },
@@ -64,7 +64,8 @@
     "2026-11-17": 3847,
     "2026-11-18": 3876,
     "2026-11-19": 3898,
-    "2026-11-20": 3924
+    "2026-11-20": 3924,
+    "2026-11-21": 3953
   },
   "topics": [
     "3d-models",

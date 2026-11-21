@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 7142,
+  "contributors": 7147,
   "created_at": "2008-04-11",
   "description": "Ruby on Rails",
-  "details_at": "2026-11-14",
+  "details_at": "2026-11-21",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 23097,
+  "forks": 23081,
   "full_name": "rails/rails",
   "homepage": "https://rubyonrails.org",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-07",
   "latest_release": "v8.1.4.1",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-21",
   "readme_chars": 4786,
   "readme_hash": "1ab23e173449",
   "score": {
@@ -62,7 +62,8 @@
     "2026-11-17": 59051,
     "2026-11-18": 59073,
     "2026-11-19": 59052,
-    "2026-11-20": 59080
+    "2026-11-20": 59080,
+    "2026-11-21": 59079
   },
   "topics": [
     "activejob",

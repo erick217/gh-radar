@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3495,
+  "forks": 3502,
   "full_name": "storytold/cadcraft",
   "homepage": null,
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": "v0.20.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-21",
   "readme_chars": 32782,
   "readme_hash": "e4ad9720b3fe",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 287,
+    "gain7": 259,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 67.0,
+    "total": 66.7,
     "trending_days_30": 0,
-    "velocity": 0.57
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-29": 7159,
@@ -71,7 +71,8 @@
     "2026-11-17": 8194,
     "2026-11-18": 8231,
     "2026-11-19": 8272,
-    "2026-11-20": 8313
+    "2026-11-20": 8313,
+    "2026-11-21": 8343
   },
   "topics": [],
   "trending": {},

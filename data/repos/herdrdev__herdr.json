@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 4206,
+  "forks": 4217,
   "full_name": "herdrdev/herdr",
   "homepage": "https://herdr.dev",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1283,
+    "gain7": 1165,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 77.7,
+    "total": 77.4,
     "trending_days_30": 1,
-    "velocity": 0.72
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-12": 50444,
@@ -57,7 +57,8 @@
     "2026-11-17": 51483,
     "2026-11-18": 51654,
     "2026-11-19": 51808,
-    "2026-11-20": 51963
+    "2026-11-20": 51963,
+    "2026-11-21": 52111
   },
   "topics": [
     "agent",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 972,
+  "forks": 988,
   "full_name": "HeyPuter/everything",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 784,
+    "gain7": 799,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -71,7 +71,8 @@
     "2026-11-17": 8592,
     "2026-11-18": 8665,
     "2026-11-19": 8739,
-    "2026-11-20": 9051
+    "2026-11-20": 9051,
+    "2026-11-21": 9178
   },
   "topics": [
     "adobe",

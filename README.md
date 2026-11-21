@@ -12,30 +12,30 @@
 
 | 日期 | 总 Tokens | 花费 (¥) |
 |---|---|---|
+| 2026-11-21 | 8,760 | ¥0.0179 |
 | 2026-11-20 | 49,528 | ¥0.1170 |
 | 2026-11-19 | 46,004 | ¥0.0985 |
 | 2026-11-18 | 28,073 | ¥0.0634 |
 | 2026-11-17 | 25,933 | ¥0.0562 |
 | 2026-11-16 | 23,740 | ¥0.0575 |
 | 2026-11-15 | 17,276 | ¥0.0367 |
-| 2026-11-14 | 24,914 | ¥0.0614 |
 
-> 累计已记录 51 次 DeepSeek 分类，共消耗 215,468 tokens，合计费用 ¥0.4907（另有 221 个早期分类未记录接口 usage）。
+> 累计已记录 53 次 DeepSeek 分类，共消耗 224,228 tokens，合计费用 ¥0.5086（另有 221 个早期分类未记录接口 usage）。
 
-**本周增速 Top 10**（2026-11-20 更新，共收录 250 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-21 更新，共收录 250 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 13.1k | +11.0k | 90 |  |
-| [libracoder/kiri](https://github.com/libracoder/kiri) | 轻量快速的容器运行时，兼容 Docker CLI，可替代 Docker Desktop。 | 运维与云原生/容器与编排 | 桌面应用 | Rust | 11.4k | +9.4k | 83 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 38.9k | +8.4k | 75 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 66.9k | +8.1k | 97 |  |
-| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | 多智能体框架，将研究思路与实验日志自动写成 LaTeX 论文。 | AI/Agent | 框架 | Python | 5.2k | +7.5k | 76 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 28.6k | +7.4k | 71 |  |
-| [dream-num/univer](https://github.com/dream-num/univer) | 开源 Office SDK，帮助开发者在应用中嵌入表格和文档编辑与计算能力。 | 前端/UI组件 | 库 | TypeScript | 30.6k | +7.3k | 92 |  |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent 技能，并行搜索社媒与网页，合成近30天主题简报 | AI/Agent | 其他 | Python | 71.1k | +6.1k | 87 |  |
-| [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | 在 Windows 上双击安装并运行安卓 APK 的桌面工具 | 移动与桌面/桌面应用 | 桌面应用 | JavaScript | 8.5k | +6.0k | 74 |  |
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 14.0k | +5.7k | 82 |  |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 14.8k | +11.2k | 91 |  |
+| [libracoder/kiri](https://github.com/libracoder/kiri) | 轻量快速的容器运行时，兼容 Docker CLI，可替代 Docker Desktop。 | 运维与云原生/容器与编排 | 桌面应用 | Rust | 11.8k | +8.4k | 83 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 68.4k | +8.0k | 97 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 39.7k | +7.2k | 74 |  |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 记录现有代码行为，逐步将应用重写为 Rust 并校验一致性。 | 开发工具/CLI工具 | CLI工具 | Rust | 6.9k | +6.9k | 79 |  |
+| [dream-num/univer](https://github.com/dream-num/univer) | 开源 Office SDK，帮助开发者在应用中嵌入表格和文档编辑与计算能力。 | 前端/UI组件 | 库 | TypeScript | 31.0k | +6.6k | 93 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 29.2k | +6.6k | 71 |  |
+| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | 多智能体框架，将研究思路与实验日志自动写成 LaTeX 论文。 | AI/Agent | 框架 | Python | 5.5k | +6.2k | 75 |  |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent 技能，并行搜索社媒与网页，合成近30天主题简报 | AI/Agent | 其他 | Python | 71.6k | +5.6k | 88 |  |
+| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 323.0k | +5.5k | 91 |  |
 
 <!-- radar:end -->
 

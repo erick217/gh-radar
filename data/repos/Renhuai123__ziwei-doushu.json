@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 14,
+  "contributors": 17,
   "created_at": "2026-05-01",
   "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-  "details_at": "2026-11-14",
+  "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 3667,
+  "forks": 3689,
   "full_name": "Renhuai123/ziwei-doushu",
   "homepage": "https://ouranic.cn/?from=gh-about",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-08",
   "latest_release": "v4.0-13d",
   "license": "MIT",
-  "pushed_at": "2026-11-20",
-  "readme_chars": 20144,
-  "readme_hash": "920a1d0ec3e0",
+  "pushed_at": "2026-11-21",
+  "readme_chars": 20336,
+  "readme_hash": "5c235aae5c47",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1061,
+    "gain7": 858,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.58,
     "practical": 1.0,
-    "total": 81.2,
+    "total": 80.5,
     "trending_days_30": 4,
-    "velocity": 0.7
+    "velocity": 0.68
   },
   "stars": {
     "2026-10-31": 11577,
@@ -69,7 +69,8 @@
     "2026-11-17": 18532,
     "2026-11-18": 18630,
     "2026-11-19": 18795,
-    "2026-11-20": 18952
+    "2026-11-20": 18952,
+    "2026-11-21": 19031
   },
   "topics": [
     "bazi",

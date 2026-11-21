@@ -32,7 +32,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 61604,
+  "forks": 61594,
   "full_name": "n8n-io/n8n",
   "homepage": "https://n8n.io",
   "install_hint": true,
@@ -40,7 +40,7 @@
   "last_seen": "2026-11-19",
   "latest_release": "stable",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-21",
   "readme_chars": 3971,
   "readme_hash": "57e6c976bc1e",
   "score": {
@@ -59,7 +59,8 @@
   },
   "stars": {
     "2026-11-19": 211300,
-    "2026-11-20": 211478
+    "2026-11-20": 211478,
+    "2026-11-21": 211570
   },
   "topics": [
     "ai",

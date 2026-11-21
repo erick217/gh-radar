@@ -1,9 +1,14 @@
 {
- "billed_count": 51,
+ "billed_count": 53,
  "unbilled_count": 221,
- "total_tokens": 215468,
- "cost_cny": 0.490708,
+ "total_tokens": 224228,
+ "cost_cny": 0.50857,
  "daily": [
+  {
+   "date": "2026-11-21",
+   "total_tokens": 8760,
+   "cost_cny": 0.017862
+  },
   {
    "date": "2026-11-20",
    "total_tokens": 49528,

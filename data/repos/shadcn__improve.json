@@ -36,19 +36,17 @@
   "readme_hash": "5de0827e5cc4",
   "score": {
     "excluded": null,
-    "flags": [
-      "单日暴涨"
-    ],
-    "gain7": 433,
+    "flags": [],
+    "gain7": 259,
     "gain7_source": "snapshot",
     "health": 0.5,
-    "included": false,
+    "included": true,
     "is_resource": false,
-    "persistence": 0.07,
+    "persistence": 0.37,
     "practical": 1.0,
-    "total": 45.4,
+    "total": 59.6,
     "trending_days_30": 1,
-    "velocity": 0.61
+    "velocity": 0.56
   },
   "stars": {
     "2026-11-12": 11220,
@@ -59,7 +57,8 @@
     "2026-11-17": 12007,
     "2026-11-18": 12036,
     "2026-11-19": 12057,
-    "2026-11-20": 12075
+    "2026-11-20": 12075,
+    "2026-11-21": 12100
   },
   "topics": [],
   "trending": {

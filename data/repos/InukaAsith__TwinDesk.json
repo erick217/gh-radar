@@ -23,7 +23,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 343,
+  "forks": 348,
   "full_name": "InukaAsith/TwinDesk",
   "homepage": "https://twin-desk.vercel.app",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 283,
+    "gain7": 289,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-17": 4178,
     "2026-11-18": 4202,
     "2026-11-19": 4239,
-    "2026-11-20": 4289
+    "2026-11-20": 4289,
+    "2026-11-21": 4338
   },
   "topics": [
     "android",

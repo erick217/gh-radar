@@ -32,7 +32,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 20715,
+  "forks": 20639,
   "full_name": "jquery/jquery",
   "homepage": "https://jquery.com",
   "install_hint": true,
@@ -59,7 +59,8 @@
   },
   "stars": {
     "2026-11-19": 60078,
-    "2026-11-20": 60103
+    "2026-11-20": 60103,
+    "2026-11-21": 60108
   },
   "topics": [
     "jquery"

@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 19,
+  "forks": 20,
   "full_name": "Folkbench/folkbench",
   "homepage": "https://folkbench.com",
   "install_hint": false,
@@ -31,7 +31,7 @@
   "last_seen": "2026-10-31",
   "latest_release": "switch-v0.1.0-beta.10",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 21166,
   "readme_hash": "a26dcb3ef93c",
   "score": {
@@ -71,7 +71,8 @@
     "2026-11-17": 3930,
     "2026-11-18": 3963,
     "2026-11-19": 3981,
-    "2026-11-20": 3009
+    "2026-11-20": 3009,
+    "2026-11-21": 3249
   },
   "topics": [
     "ai-coding",

@@ -17,36 +17,36 @@
     ]
   },
   "archived": false,
-  "contributors": 191,
+  "contributors": 198,
   "created_at": "2025-12-28",
   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-  "details_at": "2026-11-14",
+  "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1391,
+  "forks": 1396,
   "full_name": "backnotprop/plannotator",
   "homepage": "https://plannotator.ai",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-20",
-  "latest_release": "v0.28.64",
+  "last_seen": "2026-11-21",
+  "latest_release": "v0.29.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-20",
-  "readme_chars": 31339,
-  "readme_hash": "81b368e973e2",
+  "pushed_at": "2026-11-21",
+  "readme_chars": 29374,
+  "readme_hash": "2080452aaa8a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3332,
-    "gain7_source": "snapshot-partial",
+    "gain7": 3091,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 89.5,
-    "trending_days_30": 7,
-    "velocity": 0.82
+    "total": 90.6,
+    "trending_days_30": 8,
+    "velocity": 0.81
   },
   "stars": {
     "2026-11-14": 10889,
@@ -55,7 +55,8 @@
     "2026-11-17": 12833,
     "2026-11-18": 13210,
     "2026-11-19": 13549,
-    "2026-11-20": 13745
+    "2026-11-20": 13745,
+    "2026-11-21": 13980
   },
   "topics": [
     "agents",
@@ -94,6 +95,9 @@
     },
     "2026-11-20": {
       "weekly": 3468
+    },
+    "2026-11-21": {
+      "weekly": 3555
     }
   },
   "url": "https://github.com/backnotprop/plannotator"

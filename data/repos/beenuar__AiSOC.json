@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 802,
+  "forks": 808,
   "full_name": "beenuar/AiSOC",
   "homepage": "https://beenuar.github.io/AiSOC/",
   "install_hint": true,
@@ -67,7 +67,8 @@
     "2026-11-17": 8017,
     "2026-11-18": 8094,
     "2026-11-19": 8318,
-    "2026-11-20": 6976
+    "2026-11-20": 6976,
+    "2026-11-21": 7142
   },
   "topics": [
     "agentic-ai",

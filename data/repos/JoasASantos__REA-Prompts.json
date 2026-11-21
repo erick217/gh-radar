@@ -19,7 +19,7 @@
   "contributors": 3,
   "created_at": "2026-10-19",
   "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-  "details_at": "2026-11-14",
+  "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
   "forks": 746,
@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 256,
+    "gain7": 239,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 63.1,
+    "total": 62.9,
     "trending_days_30": 0,
-    "velocity": 0.56
+    "velocity": 0.55
   },
   "stars": {
     "2026-10-31": 3314,
@@ -68,7 +68,8 @@
     "2026-11-17": 4156,
     "2026-11-18": 4193,
     "2026-11-19": 4234,
-    "2026-11-20": 4267
+    "2026-11-20": 4267,
+    "2026-11-21": 4300
   },
   "topics": [
     "prompt-engineering",

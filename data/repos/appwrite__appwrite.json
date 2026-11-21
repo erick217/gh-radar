@@ -32,7 +32,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 5905,
+  "forks": 5911,
   "full_name": "appwrite/appwrite",
   "homepage": "https://appwrite.io",
   "install_hint": true,
@@ -40,7 +40,7 @@
   "last_seen": "2026-11-19",
   "latest_release": "2.7.3",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-21",
   "readme_chars": 17797,
   "readme_hash": "4fc121059612",
   "score": {
@@ -59,7 +59,8 @@
   },
   "stars": {
     "2026-11-19": 58346,
-    "2026-11-20": 58419
+    "2026-11-20": 58419,
+    "2026-11-21": 58461
   },
   "topics": [
     "android",

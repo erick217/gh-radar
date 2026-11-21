@@ -16,10 +16,10 @@
     ]
   },
   "archived": false,
-  "contributors": 4993,
+  "contributors": 5002,
   "created_at": "2010-01-04",
   "description": "The Symfony PHP framework",
-  "details_at": "2026-11-14",
+  "details_at": "2026-11-21",
   "first_seen": "2026-11-07",
   "fork": false,
   "forks": 9960,
@@ -30,22 +30,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v8.2.0-BETA2",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 3182,
   "readme_hash": "4d9fba60fca2",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 23,
+    "gain7": 20,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 63.6,
+    "total": 63.2,
     "trending_days_30": 1,
-    "velocity": 0.32
+    "velocity": 0.31
   },
   "stars": {
     "2026-11-07": 31479,
@@ -61,7 +61,8 @@
     "2026-11-17": 31444,
     "2026-11-18": 31445,
     "2026-11-19": 31446,
-    "2026-11-20": 31460
+    "2026-11-20": 31460,
+    "2026-11-21": 31457
   },
   "topics": [
     "bundle",

@@ -23,12 +23,12 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 763,
+  "forks": 771,
   "full_name": "GoogleChrome/modern-web-guidance-src",
   "homepage": "https://goo.gle/modern-web-guidance",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-20",
+  "last_seen": "2026-11-21",
   "latest_release": "audit-data",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-20",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5598,
+    "gain7": 3947,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.93,
+    "persistence": 1.0,
     "practical": 1.0,
-    "total": 94.1,
-    "trending_days_30": 9,
-    "velocity": 0.87
+    "total": 94.3,
+    "trending_days_30": 10,
+    "velocity": 0.84
   },
   "stars": {
     "2026-11-12": 2053,
@@ -57,7 +57,8 @@
     "2026-11-17": 8199,
     "2026-11-18": 8587,
     "2026-11-19": 8949,
-    "2026-11-20": 9313
+    "2026-11-20": 9313,
+    "2026-11-21": 9618
   },
   "topics": [],
   "trending": {
@@ -87,6 +88,9 @@
     },
     "2026-11-20": {
       "weekly": 6858
+    },
+    "2026-11-21": {
+      "weekly": 5224
     }
   },
   "url": "https://github.com/GoogleChrome/modern-web-guidance-src"

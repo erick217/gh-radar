@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5083,
+  "forks": 5092,
   "full_name": "storytold/wordcraft",
   "homepage": "https://getartcraft.com/apps/wordcraft",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": "v0.18.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-21",
   "readme_chars": 35695,
   "readme_hash": "6c9cb1a8a50a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 381,
+    "gain7": 340,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.0,
+    "total": 71.6,
     "trending_days_30": 0,
-    "velocity": 0.6
+    "velocity": 0.59
   },
   "stars": {
     "2026-10-29": 16534,
@@ -71,7 +71,8 @@
     "2026-11-17": 18167,
     "2026-11-18": 18216,
     "2026-11-19": 18253,
-    "2026-11-20": 18309
+    "2026-11-20": 18309,
+    "2026-11-21": 18353
   },
   "topics": [],
   "trending": {},

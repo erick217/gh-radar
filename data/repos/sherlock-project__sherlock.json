@@ -23,7 +23,7 @@
   "details_at": "2026-11-15",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 13170,
+  "forks": 13194,
   "full_name": "sherlock-project/sherlock",
   "homepage": "https://sherlockproject.xyz",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-17",
   "latest_release": "v0.16.2",
   "license": "MIT",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-21",
   "readme_chars": 5596,
   "readme_hash": "8ee844f6b440",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4063,
+    "gain7": 3545,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.79,
     "practical": 1.0,
-    "total": 90.2,
+    "total": 89.7,
     "trending_days_30": 7,
-    "velocity": 0.84
+    "velocity": 0.83
   },
   "stars": {
     "2026-11-08": 101154,
@@ -61,7 +61,8 @@
     "2026-11-17": 113441,
     "2026-11-18": 113943,
     "2026-11-19": 114335,
-    "2026-11-20": 114785
+    "2026-11-20": 114785,
+    "2026-11-21": 115201
   },
   "topics": [
     "cli",

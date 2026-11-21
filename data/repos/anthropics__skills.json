@@ -20,10 +20,10 @@
   "contributors": 17,
   "created_at": "2025-09-22",
   "description": "Public repository for Agent Skills",
-  "details_at": "2026-11-14",
+  "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 23173,
+  "forks": 23196,
   "full_name": "anthropics/skills",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3993,
+    "gain7": 3701,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 0.6,
-    "total": 78.8,
+    "total": 78.5,
     "trending_days_30": 19,
-    "velocity": 0.84
+    "velocity": 0.83
   },
   "stars": {
     "2026-10-31": 185521,
@@ -69,7 +69,8 @@
     "2026-11-17": 196311,
     "2026-11-18": 196924,
     "2026-11-19": 197411,
-    "2026-11-20": 197835
+    "2026-11-20": 197835,
+    "2026-11-21": 198185
   },
   "topics": [
     "agent-skills"

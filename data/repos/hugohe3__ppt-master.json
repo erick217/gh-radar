@@ -31,22 +31,22 @@
   "last_seen": "2026-10-30",
   "latest_release": "v6.10.0",
   "license": "MIT",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-20",
   "readme_chars": 33390,
   "readme_hash": "a169826549bc",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2294,
+    "gain7": 2123,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 79.7,
+    "total": 79.5,
     "trending_days_30": 1,
-    "velocity": 0.78
+    "velocity": 0.77
   },
   "stars": {
     "2026-10-30": 71033,
@@ -70,7 +70,8 @@
     "2026-11-17": 77715,
     "2026-11-18": 78096,
     "2026-11-19": 78441,
-    "2026-11-20": 78737
+    "2026-11-20": 78737,
+    "2026-11-21": 78952
   },
   "topics": [
     "ai-agent",

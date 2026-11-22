@@ -20,10 +20,10 @@
   "contributors": 220,
   "created_at": "2019-10-03",
   "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-  "details_at": "2026-11-15",
+  "details_at": "2026-11-22",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 20656,
+  "forks": 20658,
   "full_name": "bregman-arie/devops-exercises",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 101,
+    "gain7": 99,
     "gain7_source": "snapshot",
     "health": 0.3,
     "included": false,
@@ -69,7 +69,8 @@
     "2026-11-18": 86891,
     "2026-11-19": 86895,
     "2026-11-20": 86902,
-    "2026-11-21": 86904
+    "2026-11-21": 86904,
+    "2026-11-22": 86910
   },
   "topics": [
     "ansible",

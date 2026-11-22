@@ -28,7 +28,7 @@
   "homepage": null,
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "stageshow-v1.1.1",
   "license": null,
   "pushed_at": "2026-11-05",
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 603,
+    "gain7": 653,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.6,
-    "total": 58.1,
+    "total": 58.4,
     "trending_days_30": 0,
     "velocity": 0.65
   },
@@ -58,7 +58,8 @@
     "2026-11-18": 3698,
     "2026-11-19": 3788,
     "2026-11-20": 3838,
-    "2026-11-21": 3905
+    "2026-11-21": 3905,
+    "2026-11-22": 3976
   },
   "topics": [],
   "trending": {},

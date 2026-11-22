@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5292,
+  "forks": 5313,
   "full_name": "Donchitos/Claude-Code-Game-Studios",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1230,
+    "gain7": 1160,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 82.6,
+    "total": 82.4,
     "trending_days_30": 11,
-    "velocity": 0.72
+    "velocity": 0.71
   },
   "stars": {
     "2026-10-29": 28732,
@@ -72,7 +72,8 @@
     "2026-11-18": 39988,
     "2026-11-19": 40112,
     "2026-11-20": 40280,
-    "2026-11-21": 40437
+    "2026-11-21": 40437,
+    "2026-11-22": 40537
   },
   "topics": [
     "ai-agents",

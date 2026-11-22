@@ -23,12 +23,12 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 195,
+  "forks": 199,
   "full_name": "pookjw/HermesEnabler",
   "homepage": null,
   "install_hint": false,
   "language": "Objective-C",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "1.6.3",
   "license": "MIT",
   "pushed_at": "2026-11-19",
@@ -37,15 +37,15 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 465,
+    "gain7": 467,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.58,
     "practical": 0.8,
-    "total": 72.9,
-    "trending_days_30": 3,
+    "total": 74.3,
+    "trending_days_30": 4,
     "velocity": 0.62
   },
   "stars": {
@@ -57,7 +57,8 @@
     "2026-11-18": 2194,
     "2026-11-19": 2209,
     "2026-11-20": 2269,
-    "2026-11-21": 2317
+    "2026-11-21": 2317,
+    "2026-11-22": 2365
   },
   "topics": [],
   "trending": {
@@ -69,6 +70,9 @@
     },
     "2026-11-21": {
       "weekly": 582
+    },
+    "2026-11-22": {
+      "weekly": 524
     }
   },
   "url": "https://github.com/pookjw/HermesEnabler"

@@ -46,23 +46,24 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1208,
+    "gain7": 984,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 0.8,
-    "total": 76.3,
+    "total": 75.6,
     "trending_days_30": 3,
-    "velocity": 0.72
+    "velocity": 0.7
   },
   "stars": {
     "2026-11-17": 89150,
     "2026-11-18": 89586,
     "2026-11-19": 89720,
     "2026-11-20": 89823,
-    "2026-11-21": 89840
+    "2026-11-21": 89840,
+    "2026-11-22": 89853
   },
   "topics": [
     "compiler",

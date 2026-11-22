@@ -37,7 +37,7 @@
   "homepage": "https://paipiange.github.io/nvzhuang/",
   "install_hint": true,
   "language": "Go",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "v1.0.0",
   "license": "MIT",
   "pushed_at": "2026-11-10",
@@ -46,7 +46,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 105,
+    "gain7": 107,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
@@ -61,7 +61,8 @@
     "2026-11-18": 2895,
     "2026-11-19": 2911,
     "2026-11-20": 2932,
-    "2026-11-21": 2940
+    "2026-11-21": 2940,
+    "2026-11-22": 2956
   },
   "topics": [],
   "trending": {},

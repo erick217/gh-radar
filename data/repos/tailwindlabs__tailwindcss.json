@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 392,
+  "contributors": 402,
   "created_at": "2017-10-06",
   "description": "A utility-first CSS framework for rapid UI development.",
-  "details_at": "2026-11-15",
+  "details_at": "2026-11-22",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 6396,
+  "forks": 6397,
   "full_name": "tailwindlabs/tailwindcss",
   "homepage": "https://tailwindcss.com/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 116,
+    "gain7": 97,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.8,
-    "total": 65.2,
+    "total": 64.6,
     "trending_days_30": 1,
-    "velocity": 0.48
+    "velocity": 0.46
   },
   "stars": {
     "2026-11-08": 98581,
@@ -62,7 +62,8 @@
     "2026-11-18": 98773,
     "2026-11-19": 98649,
     "2026-11-20": 98698,
-    "2026-11-21": 98717
+    "2026-11-21": 98717,
+    "2026-11-22": 98702
   },
   "topics": [
     "css",

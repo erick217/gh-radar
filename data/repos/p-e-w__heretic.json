@@ -23,7 +23,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-03",
   "fork": false,
-  "forks": 5264,
+  "forks": 5291,
   "full_name": "p-e-w/heretic",
   "homepage": "https://heretic-project.org",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1815,
+    "gain7": 1906,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 80.3,
+    "total": 80.5,
     "trending_days_30": 2,
     "velocity": 0.76
   },
@@ -67,7 +67,8 @@
     "2026-11-18": 41727,
     "2026-11-19": 42075,
     "2026-11-20": 42262,
-    "2026-11-21": 42407
+    "2026-11-21": 42407,
+    "2026-11-22": 42529
   },
   "topics": [
     "abliteration",

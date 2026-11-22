@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-22",
+    "category": "AI/RAG与知识库",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 macOS、Windows、Linux 可安装版本，首次运行可下载资料库并直接使用。",
+    "summary": "离线生存知识库桌面应用，含手册视频地图和本地AI问答",
+    "tags": [
+      "离线知识库",
+      "生存手册",
+      "本地AI",
+      "离线地图",
+      "RAG"
+    ],
+    "usage": {
+      "completion_tokens": 394,
+      "cost_cny": 0.01003,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3426,
+      "prompt_tokens": 4066,
+      "reasoning_tokens": 310,
+      "total_tokens": 4460
+    }
+  },
+  "archived": false,
+  "contributors": 75,
+  "created_at": "2026-11-12",
+  "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+  "details_at": "2026-11-22",
+  "first_seen": "2026-11-22",
+  "fork": false,
+  "forks": 357,
+  "full_name": "Immortal-Protocols/lastbook",
+  "homepage": "lastbook.org",
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-22",
+  "latest_release": "v1.1.15",
+  "license": "MIT",
+  "pushed_at": "2026-11-22",
+  "readme_chars": 21164,
+  "readme_hash": "1852a68e1036",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2033,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 74.9,
+    "trending_days_30": 0,
+    "velocity": 0.77
+  },
+  "stars": {
+    "2026-11-22": 2904
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Immortal-Protocols/lastbook"
+}

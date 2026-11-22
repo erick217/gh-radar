@@ -32,33 +32,34 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-21",
   "fork": false,
-  "forks": 230,
+  "forks": 245,
   "full_name": "FrigadeHQ/yogurt",
   "homepage": "https://yogurt.so",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "v0.3.62",
   "license": "MIT",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-22",
   "readme_chars": 11434,
   "readme_hash": "46c01f14efa4",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1784,
+    "gain7": 1689,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 74.5,
+    "total": 74.3,
     "trending_days_30": 0,
-    "velocity": 0.76
+    "velocity": 0.75
   },
   "stars": {
-    "2026-11-21": 2803
+    "2026-11-21": 2803,
+    "2026-11-22": 2896
   },
   "topics": [
     "ai-meeting-assistant",

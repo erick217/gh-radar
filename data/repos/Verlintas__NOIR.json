@@ -20,7 +20,7 @@
   "contributors": 4,
   "created_at": "2026-10-31",
   "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-  "details_at": "2026-11-15",
+  "details_at": "2026-11-22",
   "first_seen": "2026-11-08",
   "fork": false,
   "forks": 323,
@@ -28,25 +28,25 @@
   "homepage": "https://verlintas.dev/noir/",
   "install_hint": true,
   "language": "Kotlin",
-  "last_seen": "2026-11-21",
-  "latest_release": "v0.4.3",
+  "last_seen": "2026-11-22",
+  "latest_release": "v0.4.5",
   "license": "MIT",
-  "pushed_at": "2026-11-16",
-  "readme_chars": 14512,
-  "readme_hash": "1837b7d3802e",
+  "pushed_at": "2026-11-21",
+  "readme_chars": 16482,
+  "readme_hash": "caad135d0565",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 219,
+    "gain7": 185,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.1,
+    "total": 69.5,
     "trending_days_30": 0,
-    "velocity": 0.54
+    "velocity": 0.53
   },
   "stars": {
     "2026-11-08": 3012,
@@ -62,7 +62,8 @@
     "2026-11-18": 3626,
     "2026-11-19": 3642,
     "2026-11-20": 3660,
-    "2026-11-21": 3670
+    "2026-11-21": 3670,
+    "2026-11-22": 3680
   },
   "topics": [
     "adb",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2640,
+  "forks": 2647,
   "full_name": "storytold/soundcraft",
   "homepage": "https://getartcraft.com/apps/soundcraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": "v0.20.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-22",
   "readme_chars": 29763,
   "readme_hash": "e0bb792f28da",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 143,
+    "gain7": 155,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.6,
+    "total": 68.8,
     "trending_days_30": 0,
-    "velocity": 0.5
+    "velocity": 0.51
   },
   "stars": {
     "2026-10-29": 3882,
@@ -72,7 +72,8 @@
     "2026-11-18": 4436,
     "2026-11-19": 4457,
     "2026-11-20": 4472,
-    "2026-11-21": 4492
+    "2026-11-21": 4492,
+    "2026-11-22": 4510
   },
   "topics": [],
   "trending": {},

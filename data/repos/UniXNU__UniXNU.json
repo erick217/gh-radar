@@ -32,7 +32,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 477,
+  "forks": 484,
   "full_name": "UniXNU/UniXNU",
   "homepage": "https://unixnu.com",
   "install_hint": false,
@@ -46,14 +46,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 147,
+    "gain7": 139,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.6,
-    "total": 53.2,
+    "total": 53.0,
     "trending_days_30": 0,
     "velocity": 0.5
   },
@@ -62,7 +62,8 @@
     "2026-11-18": 2983,
     "2026-11-19": 3013,
     "2026-11-20": 3032,
-    "2026-11-21": 3042
+    "2026-11-21": 3042,
+    "2026-11-22": 3057
   },
   "topics": [
     "unixnu"

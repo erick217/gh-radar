@@ -32,15 +32,15 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 1932,
+  "forks": 1947,
   "full_name": "Tracer-Cloud/opensre",
   "homepage": "https://opensre.com",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "v0.1.2026.11.20",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-22",
   "readme_chars": 21973,
   "readme_hash": "da8c87456728",
   "score": {
@@ -51,15 +51,16 @@
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.29,
+    "persistence": 0.36,
     "practical": 1.0,
-    "total": 76.4,
-    "trending_days_30": 2,
+    "total": 77.8,
+    "trending_days_30": 3,
     "velocity": 0.73
   },
   "stars": {
     "2026-11-20": 13282,
-    "2026-11-21": 13732
+    "2026-11-21": 13732,
+    "2026-11-22": 14102
   },
   "topics": [
     "alerting",
@@ -84,6 +85,9 @@
     },
     "2026-11-21": {
       "daily": 466
+    },
+    "2026-11-22": {
+      "daily": 450
     }
   },
   "url": "https://github.com/Tracer-Cloud/opensre"

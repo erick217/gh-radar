@@ -32,12 +32,12 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 208,
+  "forks": 209,
   "full_name": "govijr/terminal-mac",
   "homepage": null,
   "install_hint": true,
   "language": "Swift",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "v0.2.0-6",
   "license": "MIT",
   "pushed_at": "2026-11-10",
@@ -46,21 +46,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1130,
-    "gain7_source": "age",
+    "gain7": 119,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 1.0,
-    "total": 72.8,
+    "total": 67.9,
     "trending_days_30": 0,
-    "velocity": 0.71
+    "velocity": 0.48
   },
   "stars": {
     "2026-11-19": 2870,
     "2026-11-20": 2898,
-    "2026-11-21": 2907
+    "2026-11-21": 2907,
+    "2026-11-22": 2921
   },
   "topics": [
     "cli",

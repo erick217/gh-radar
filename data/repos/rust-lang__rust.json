@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 16654,
+  "forks": 16658,
   "full_name": "rust-lang/rust",
   "homepage": "https://www.rust-lang.org",
   "install_hint": false,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-07",
   "latest_release": "1.100.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-22",
   "readme_chars": 3304,
   "readme_hash": "ca1b4af10977",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 407,
+    "gain7": 401,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-18": 122217,
     "2026-11-19": 122219,
     "2026-11-20": 122301,
-    "2026-11-21": 122316
+    "2026-11-21": 122316,
+    "2026-11-22": 122344
   },
   "topics": [
     "compiler",

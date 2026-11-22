@@ -23,7 +23,7 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1544,
+  "forks": 1543,
   "full_name": "kornia/kornia",
   "homepage": "https://kornia.readthedocs.io",
   "install_hint": true,
@@ -68,7 +68,8 @@
     "2026-11-18": 12394,
     "2026-11-19": 12395,
     "2026-11-20": 12397,
-    "2026-11-21": 12402
+    "2026-11-21": 12402,
+    "2026-11-22": 12404
   },
   "topics": [
     "artificial-intelligence",

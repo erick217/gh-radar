@@ -23,30 +23,30 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 1269,
+  "forks": 1377,
   "full_name": "anefzaoui/misterdownloadmanager",
   "homepage": "https://misterdownloadmanager.com",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "v0.5.2",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-22",
   "readme_chars": 42600,
   "readme_hash": "28822b76fc1a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5023,
+    "gain7": 6329,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 81.1,
+    "total": 81.9,
     "trending_days_30": 0,
-    "velocity": 0.86
+    "velocity": 0.88
   },
   "stars": {
     "2026-11-10": 4683,
@@ -60,7 +60,8 @@
     "2026-11-18": 12485,
     "2026-11-19": 13357,
     "2026-11-20": 13987,
-    "2026-11-21": 14467
+    "2026-11-21": 14467,
+    "2026-11-22": 16057
   },
   "topics": [
     "bittorrent-client",

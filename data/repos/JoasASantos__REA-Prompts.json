@@ -22,7 +22,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 746,
+  "forks": 751,
   "full_name": "JoasASantos/REA-Prompts",
   "homepage": null,
   "install_hint": true,
@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 239,
+    "gain7": 257,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 62.9,
+    "total": 63.1,
     "trending_days_30": 0,
-    "velocity": 0.55
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-31": 3314,
@@ -69,7 +69,8 @@
     "2026-11-18": 4193,
     "2026-11-19": 4234,
     "2026-11-20": 4267,
-    "2026-11-21": 4300
+    "2026-11-21": 4300,
+    "2026-11-22": 4335
   },
   "topics": [
     "prompt-engineering",

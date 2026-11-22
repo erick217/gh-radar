@@ -31,12 +31,12 @@
   "details_at": "2026-11-16",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 1189,
+  "forks": 1232,
   "full_name": "deepseek-ai/chat-demo",
   "homepage": "https://deepseek-ai.github.io/chat-demo/",
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
   "latest_release": "v0.1.1",
   "license": "MIT",
   "pushed_at": "2026-11-20",
@@ -45,16 +45,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2159,
+    "gain7": 1892,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.6,
+    "total": 70.2,
     "trending_days_30": 0,
-    "velocity": 0.78
+    "velocity": 0.76
   },
   "stars": {
     "2026-11-16": 3625,
@@ -62,7 +62,8 @@
     "2026-11-18": 4653,
     "2026-11-19": 4939,
     "2026-11-20": 5073,
-    "2026-11-21": 5167
+    "2026-11-21": 5167,
+    "2026-11-22": 5247
   },
   "topics": [],
   "trending": {},

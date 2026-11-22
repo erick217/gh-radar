@@ -23,7 +23,7 @@
   "details_at": "2026-11-18",
   "first_seen": "2026-11-11",
   "fork": false,
-  "forks": 12412,
+  "forks": 12437,
   "full_name": "addyosmani/agent-skills",
   "homepage": "https://skills.addy.ie",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1980,
+    "gain7": 1977,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -59,7 +59,8 @@
     "2026-11-18": 118754,
     "2026-11-19": 119037,
     "2026-11-20": 119258,
-    "2026-11-21": 119450
+    "2026-11-21": 119450,
+    "2026-11-22": 119637
   },
   "topics": [
     "agent-skills",

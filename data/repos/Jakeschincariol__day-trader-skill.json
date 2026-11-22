@@ -23,7 +23,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 2127,
+  "forks": 2164,
   "full_name": "Jakeschincariol/day-trader-skill",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1204,
+    "gain7": 1230,
     "gain7_source": "snapshot",
     "health": 0.2,
     "included": true,
@@ -71,7 +71,8 @@
     "2026-11-18": 8464,
     "2026-11-19": 8670,
     "2026-11-20": 8832,
-    "2026-11-21": 8958
+    "2026-11-21": 8958,
+    "2026-11-22": 9089
   },
   "topics": [
     "backtesting",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 647,
+  "forks": 650,
   "full_name": "JustAResearcher/gpu-unlock-ada",
   "homepage": null,
   "install_hint": true,
@@ -73,7 +73,8 @@
     "2026-11-19": 4943,
     "2026-11-20": 4949,
     "2026-11-21": 4953,
-    "2026-11-22": 4957
+    "2026-11-22": 4957,
+    "2026-11-23": 4965
   },
   "topics": [],
   "trending": {},

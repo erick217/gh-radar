@@ -29,10 +29,10 @@
   "contributors": 920,
   "created_at": "2022-09-18",
   "description": "Tensor library for machine learning",
-  "details_at": "2026-11-16",
+  "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 2087,
+  "forks": 2089,
   "full_name": "ggml-org/ggml",
   "homepage": "https://github.com/ggml-org",
   "install_hint": false,
@@ -46,14 +46,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 161,
-    "gain7_source": "snapshot-partial",
+    "gain7": 153,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.8,
-    "total": 66.4,
+    "total": 66.2,
     "trending_days_30": 1,
     "velocity": 0.51
   },
@@ -64,7 +64,8 @@
     "2026-11-19": 16118,
     "2026-11-20": 16126,
     "2026-11-21": 16139,
-    "2026-11-22": 16151
+    "2026-11-22": 16151,
+    "2026-11-23": 16166
   },
   "topics": [
     "machine-learning"

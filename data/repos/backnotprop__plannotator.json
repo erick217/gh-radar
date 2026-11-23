@@ -23,30 +23,30 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1417,
+  "forks": 1435,
   "full_name": "backnotprop/plannotator",
   "homepage": "https://plannotator.ai",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "latest_release": "v0.29.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 29374,
   "readme_hash": "2080452aaa8a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2883,
+    "gain7": 2451,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.93,
+    "persistence": 1.0,
     "practical": 1.0,
-    "total": 91.8,
-    "trending_days_30": 9,
-    "velocity": 0.8
+    "total": 92.6,
+    "trending_days_30": 10,
+    "velocity": 0.79
   },
   "stars": {
     "2026-11-14": 10889,
@@ -57,7 +57,8 @@
     "2026-11-19": 13549,
     "2026-11-20": 13745,
     "2026-11-21": 13980,
-    "2026-11-22": 14236
+    "2026-11-22": 14236,
+    "2026-11-23": 14535
   },
   "topics": [
     "agents",
@@ -102,6 +103,9 @@
     },
     "2026-11-22": {
       "weekly": 3396
+    },
+    "2026-11-23": {
+      "weekly": 2815
     }
   },
   "url": "https://github.com/backnotprop/plannotator"

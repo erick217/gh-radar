@@ -23,7 +23,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 2038,
+  "forks": 2040,
   "full_name": "google/skills",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-13",
   "latest_release": null,
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-23",
   "readme_chars": 23593,
   "readme_hash": "7a7babb046f3",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 233,
+    "gain7": 213,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 69.8,
+    "total": 69.5,
     "trending_days_30": 5,
-    "velocity": 0.55
+    "velocity": 0.54
   },
   "stars": {
     "2026-11-06": 22534,
@@ -65,7 +65,8 @@
     "2026-11-19": 24438,
     "2026-11-20": 24462,
     "2026-11-21": 24489,
-    "2026-11-22": 24531
+    "2026-11-22": 24531,
+    "2026-11-23": 24562
   },
   "topics": [
     "google",

@@ -1,0 +1,72 @@
+{
+  "ai": {
+    "at": "2026-11-23",
+    "category": "安全/安全工具",
+    "form": "浏览器插件",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Release 压缩包和加载已解压扩展的完整步骤，可直接在 Chrome/Edge 中安装使用。",
+    "summary": "将 Google 强制扫码验证降级回短信验证码的 Chrome 扩展。",
+    "tags": [
+      "Chrome扩展",
+      "Google验证",
+      "短信验证",
+      "二维码降级",
+      "UA伪装"
+    ],
+    "usage": {
+      "completion_tokens": 555,
+      "cost_cny": 0.009202,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 2368,
+      "prompt_tokens": 3008,
+      "reasoning_tokens": 466,
+      "total_tokens": 3563
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-10-26",
+  "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+  "details_at": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "fork": false,
+  "forks": 715,
+  "full_name": "havenicec/google-qr-sms-helper",
+  "homepage": null,
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-23",
+  "latest_release": "v1.1.0",
+  "license": "MIT",
+  "pushed_at": "2026-10-28",
+  "readme_chars": 5358,
+  "readme_hash": "484f1d6f178d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 930,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 60.7,
+    "trending_days_30": 0,
+    "velocity": 0.69
+  },
+  "stars": {
+    "2026-11-23": 3722
+  },
+  "topics": [
+    "browser-automation",
+    "chrome-extension",
+    "google-auth",
+    "manifest-v3",
+    "sms-verification"
+  ],
+  "trending": {},
+  "url": "https://github.com/havenicec/google-qr-sms-helper"
+}

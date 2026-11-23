@@ -32,36 +32,37 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 3654,
+  "forks": 3670,
   "full_name": "openvinotoolkit/openvino",
   "homepage": "https://docs.openvino.ai",
   "install_hint": true,
   "language": "C++",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "latest_release": "2026.4.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-23",
   "readme_chars": 12252,
   "readme_hash": "384b0fd7ed84",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1323,
+    "gain7": 1312,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 82.0,
-    "trending_days_30": 4,
+    "total": 83.4,
+    "trending_days_30": 5,
     "velocity": 0.73
   },
   "stars": {
     "2026-11-19": 11421,
     "2026-11-20": 11635,
     "2026-11-21": 11843,
-    "2026-11-22": 11988
+    "2026-11-22": 11988,
+    "2026-11-23": 12171
   },
   "topics": [
     "ai",
@@ -96,6 +97,9 @@
     },
     "2026-11-22": {
       "daily": 200
+    },
+    "2026-11-23": {
+      "daily": 158
     }
   },
   "url": "https://github.com/openvinotoolkit/openvino"

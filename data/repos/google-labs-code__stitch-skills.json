@@ -26,35 +26,35 @@
     }
   },
   "archived": false,
-  "contributors": 17,
+  "contributors": 19,
   "created_at": "2026-01-16",
   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-  "details_at": "2026-11-16",
+  "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 1454,
+  "forks": 1498,
   "full_name": "google-labs-code/stitch-skills",
   "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "latest_release": "v1.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-20",
-  "readme_chars": 10831,
-  "readme_hash": "5e406ad199b2",
+  "readme_chars": 11129,
+  "readme_hash": "b68988b9a1e9",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2478,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2582,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 88.4,
-    "trending_days_30": 7,
+    "total": 90.0,
+    "trending_days_30": 8,
     "velocity": 0.79
   },
   "stars": {
@@ -64,7 +64,8 @@
     "2026-11-19": 10529,
     "2026-11-20": 10832,
     "2026-11-21": 11147,
-    "2026-11-22": 11608
+    "2026-11-22": 11608,
+    "2026-11-23": 12066
   },
   "topics": [],
   "trending": {
@@ -93,6 +94,10 @@
     "2026-11-22": {
       "daily": 326,
       "weekly": 2431
+    },
+    "2026-11-23": {
+      "daily": 494,
+      "weekly": 2683
     }
   },
   "url": "https://github.com/google-labs-code/stitch-skills"

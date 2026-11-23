@@ -28,39 +28,40 @@
   "archived": false,
   "contributors": 2,
   "created_at": "2026-06-06",
-  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
   "details_at": "2026-11-20",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 219,
+  "forks": 276,
   "full_name": "mjmirza/app-store-compliance",
   "homepage": "https://mjmirza.github.io/app-store-compliance/",
   "install_hint": true,
   "language": "Shell",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "latest_release": "v2.4.0",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 44973,
   "readme_hash": "97d00aee6e02",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2607,
-    "gain7_source": "trending-daily",
+    "gain7": 4916,
+    "gain7_source": "snapshot-partial",
     "health": 0.85,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 76.3,
-    "trending_days_30": 3,
-    "velocity": 0.79
+    "total": 82.9,
+    "trending_days_30": 4,
+    "velocity": 0.86
   },
   "stars": {
     "2026-11-20": 2218,
     "2026-11-21": 2947,
-    "2026-11-22": 3565
+    "2026-11-22": 3565,
+    "2026-11-23": 4325
   },
   "topics": [
     "accessibility",
@@ -93,6 +94,9 @@
     },
     "2026-11-22": {
       "daily": 720
+    },
+    "2026-11-23": {
+      "daily": 621
     }
   },
   "url": "https://github.com/mjmirza/app-store-compliance"

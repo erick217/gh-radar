@@ -40,22 +40,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "v0.1.10",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-22",
   "readme_chars": 33213,
   "readme_hash": "ea2d8726e54f",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 141,
+    "gain7": 168,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.5,
+    "total": 69.1,
     "trending_days_30": 0,
-    "velocity": 0.5
+    "velocity": 0.52
   },
   "stars": {
     "2026-11-17": 2950,
@@ -63,7 +63,8 @@
     "2026-11-19": 2996,
     "2026-11-20": 3010,
     "2026-11-21": 3025,
-    "2026-11-22": 3051
+    "2026-11-22": 3051,
+    "2026-11-23": 3094
   },
   "topics": [
     "7z",

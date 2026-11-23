@@ -23,7 +23,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 340,
+  "forks": 342,
   "full_name": "t3dotgg/tstack",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 495,
+    "gain7": 387,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 53.9,
+    "total": 53.1,
     "trending_days_30": 0,
-    "velocity": 0.63
+    "velocity": 0.6
   },
   "stars": {
     "2026-11-06": 3119,
@@ -65,7 +65,8 @@
     "2026-11-19": 4174,
     "2026-11-20": 4206,
     "2026-11-21": 4251,
-    "2026-11-22": 4282
+    "2026-11-22": 4282,
+    "2026-11-23": 4310
   },
   "topics": [],
   "trending": {},

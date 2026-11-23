@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-23",
+    "category": "多媒体/音视频",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 install.cmd 安装脚本、正式 Release、用户指南和导出流程，普通开发者可按文档安装并上手使用。",
+    "summary": "将视频转为可编辑人体动作捕捉数据的 Windows 桌面应用",
+    "tags": [
+      "动作捕捉",
+      "视频转动画",
+      "FBX导出",
+      "本地AI",
+      "Windows"
+    ],
+    "usage": {
+      "completion_tokens": 428,
+      "cost_cny": 0.01004,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3295,
+      "prompt_tokens": 3935,
+      "reasoning_tokens": 343,
+      "total_tokens": 4363
+    }
+  },
+  "archived": false,
+  "contributors": 5,
+  "created_at": "2026-10-26",
+  "description": "Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.",
+  "details_at": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "fork": false,
+  "forks": 412,
+  "full_name": "toyxyz/toyxyz_RGBMocap",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-23",
+  "latest_release": "unreal-rgbmocap-connect-v0.5.0",
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-22",
+  "readme_chars": 17948,
+  "readme_hash": "97ecebaa2138",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 763,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 67.5,
+    "trending_days_30": 0,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-11-23": 3052
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/toyxyz/toyxyz_RGBMocap"
+}

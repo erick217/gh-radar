@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 188,
+  "contributors": 190,
   "created_at": "2025-02-13",
   "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-  "details_at": "2026-11-16",
+  "details_at": "2026-11-23",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 3740,
+  "forks": 3755,
   "full_name": "cjpais/Handy",
   "homepage": "https://handy.computer",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 788,
+    "gain7": 869,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 76.0,
+    "total": 76.3,
     "trending_days_30": 1,
-    "velocity": 0.67
+    "velocity": 0.68
   },
   "stars": {
     "2026-11-02": 36856,
@@ -69,7 +69,8 @@
     "2026-11-19": 39252,
     "2026-11-20": 39358,
     "2026-11-21": 39463,
-    "2026-11-22": 39581
+    "2026-11-22": 39581,
+    "2026-11-23": 39784
   },
   "topics": [
     "accessibility",

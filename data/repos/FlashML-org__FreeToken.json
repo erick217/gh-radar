@@ -20,10 +20,10 @@
   "contributors": 26,
   "created_at": "2026-07-20",
   "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
-  "details_at": "2026-11-16",
+  "details_at": "2026-11-23",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 1748,
+  "forks": 1752,
   "full_name": "FlashML-org/FreeToken",
   "homepage": "flashml.ai",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 400,
+    "gain7": 441,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 75.0,
+    "total": 75.3,
     "trending_days_30": 2,
-    "velocity": 0.61
+    "velocity": 0.62
   },
   "stars": {
     "2026-11-02": 15615,
@@ -69,7 +69,8 @@
     "2026-11-19": 17302,
     "2026-11-20": 17329,
     "2026-11-21": 17486,
-    "2026-11-22": 17594
+    "2026-11-22": 17594,
+    "2026-11-23": 17677
   },
   "topics": [
     "deepseek-v4",

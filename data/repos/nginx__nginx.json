@@ -32,12 +32,12 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 8377,
+  "forks": 8393,
   "full_name": "nginx/nginx",
   "homepage": "https://nginx.org/",
   "install_hint": true,
   "language": "C",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "latest_release": "release-1.31.9",
   "license": "BSD-2-Clause",
   "pushed_at": "2026-11-18",
@@ -46,21 +46,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 738,
-    "gain7_source": "trending-daily",
+    "gain7": 1225,
+    "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 75.5,
-    "trending_days_30": 3,
-    "velocity": 0.67
+    "total": 81.7,
+    "trending_days_30": 4,
+    "velocity": 0.72
   },
   "stars": {
     "2026-11-20": 32425,
     "2026-11-21": 32630,
-    "2026-11-22": 32781
+    "2026-11-22": 32781,
+    "2026-11-23": 32950
   },
   "topics": [
     "content-cache",
@@ -88,6 +89,9 @@
     },
     "2026-11-22": {
       "daily": 189
+    },
+    "2026-11-23": {
+      "daily": 163
     }
   },
   "url": "https://github.com/nginx/nginx"

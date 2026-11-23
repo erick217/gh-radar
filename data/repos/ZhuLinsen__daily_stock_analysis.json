@@ -23,7 +23,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 58036,
+  "forks": 58118,
   "full_name": "ZhuLinsen/daily_stock_analysis",
   "homepage": "https://dsa.zhulinsen.tech",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "v3.35.0",
   "license": "MIT",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 11171,
   "readme_hash": "38c8820f3d2f",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1349,
+    "gain7": 1173,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.86,
     "practical": 1.0,
-    "total": 87.7,
+    "total": 87.2,
     "trending_days_30": 8,
-    "velocity": 0.73
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-10": 69318,
@@ -61,7 +61,8 @@
     "2026-11-19": 73425,
     "2026-11-20": 73518,
     "2026-11-21": 73587,
-    "2026-11-22": 73657
+    "2026-11-22": 73657,
+    "2026-11-23": 73796
   },
   "topics": [
     "a-stock",

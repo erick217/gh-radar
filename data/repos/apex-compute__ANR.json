@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-23",
+    "category": "AI/AI应用",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可下载的安装包与安装脚本，支持多款 GPU 和游戏，按文档即可在游戏中启用。",
+    "summary": "为游戏提供神经帧生成、超分和光追降噪，并附带对比录制工具。",
+    "tags": [
+      "神经渲染",
+      "帧生成",
+      "超分辨率",
+      "游戏图形",
+      "DLSS"
+    ],
+    "usage": {
+      "completion_tokens": 428,
+      "cost_cny": 0.007938,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 2244,
+      "prompt_tokens": 2884,
+      "reasoning_tokens": 338,
+      "total_tokens": 3312
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-11",
+  "description": "Apex Neural Rendering (ANR) by Apex Compute",
+  "details_at": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "fork": false,
+  "forks": 67,
+  "full_name": "apex-compute/ANR",
+  "homepage": "https://apexcompute.com/neural-rendering",
+  "install_hint": false,
+  "language": "C++",
+  "last_seen": "2026-11-23",
+  "latest_release": "FG-V.B20",
+  "license": null,
+  "pushed_at": "2026-11-19",
+  "readme_chars": 6921,
+  "readme_hash": "346114c9410c",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1709,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 62.8,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-23": 2930
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/apex-compute/ANR"
+}

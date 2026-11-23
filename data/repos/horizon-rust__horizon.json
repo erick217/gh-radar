@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2055,
+  "forks": 2089,
   "full_name": "horizon-rust/horizon",
   "homepage": "https://playhorizon.dev",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-01",
   "latest_release": "launcher@0.2.81",
   "license": "LGPL-3.0",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 6156,
   "readme_hash": "30ead1be1cf1",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1778,
+    "gain7": 1401,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 77.4,
+    "total": 76.6,
     "trending_days_30": 0,
-    "velocity": 0.76
+    "velocity": 0.73
   },
   "stars": {
     "2026-10-29": 4068,
@@ -73,7 +73,8 @@
     "2026-11-19": 11346,
     "2026-11-20": 11449,
     "2026-11-21": 11560,
-    "2026-11-22": 11679
+    "2026-11-22": 11679,
+    "2026-11-23": 11814
   },
   "topics": [
     "game-engine",

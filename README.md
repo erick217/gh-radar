@@ -12,30 +12,30 @@
 
 | 日期 | 总 Tokens | 花费 (¥) |
 |---|---|---|
+| 2026-11-23 | 11,238 | ¥0.0272 |
 | 2026-11-22 | 9,010 | ¥0.0202 |
 | 2026-11-21 | 8,760 | ¥0.0179 |
 | 2026-11-20 | 49,528 | ¥0.1170 |
 | 2026-11-19 | 46,004 | ¥0.0985 |
 | 2026-11-18 | 28,073 | ¥0.0634 |
 | 2026-11-17 | 25,933 | ¥0.0562 |
-| 2026-11-16 | 23,740 | ¥0.0575 |
 
-> 累计已记录 55 次 DeepSeek 分类，共消耗 233,238 tokens，合计费用 ¥0.5288（另有 221 个早期分类未记录接口 usage）。
+> 累计已记录 58 次 DeepSeek 分类，共消耗 244,476 tokens，合计费用 ¥0.5559（另有 221 个早期分类未记录接口 usage）。
 
-**本周增速 Top 10**（2026-11-22 更新，共收录 255 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-23 更新，共收录 255 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 16.5k | +11.3k | 92 |  |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 70.1k | +9.3k | 97 |  |
-| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 记录现有代码行为，逐步将应用重写为 Rust 并校验一致性。 | 开发工具/CLI工具 | CLI工具 | Rust | 7.6k | +8.5k | 83 |  |
-| [libracoder/kiri](https://github.com/libracoder/kiri) | 轻量快速的容器运行时，兼容 Docker CLI，可替代 Docker Desktop。 | 运维与云原生/容器与编排 | 桌面应用 | Rust | 12.1k | +8.0k | 83 |  |
-| [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | 将 Xbox 版 GTA6 静态重编译为 PC 原生程序，目前尚不能启动。 | 其他/其他 | 其他 | Python | 7.9k | +7.9k | 60 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 40.6k | +7.6k | 75 |  |
-| [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) | 面向团队与智能体的自托管多智能体协作与验收引擎 | AI/Agent | 自托管服务 | JavaScript | 6.5k | +7.0k | 82 |  |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 29.8k | +6.8k | 71 |  |
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 16.1k | +6.3k | 82 |  |
-| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 323.9k | +6.2k | 92 |  |
+| [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | 将 Xbox 版 GTA6 静态重编译为 PC 原生程序，目前尚不能启动。 | 其他/其他 | 其他 | Python | 17.7k | +17.7k | 63 |  |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 18.6k | +11.8k | 94 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 73.0k | +11.1k | 98 |  |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 记录现有代码行为，逐步将应用重写为 Rust 并校验一致性。 | 开发工具/CLI工具 | CLI工具 | Rust | 8.3k | +7.6k | 83 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 41.6k | +7.5k | 74 |  |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 为 AI Agent 提供网页抓取、爬虫和搜索的开源 API | AI/RAG与知识库 | 自托管服务 | TypeScript | 207.3k | +6.4k | 88 |  |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 把 DeepSeek Harness 装进 Android 手机，本机运行或遥控电脑。 | AI/Agent | 移动应用 | Dart | 30.5k | +6.3k | 70 |  |
+| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 324.5k | +6.3k | 92 |  |
+| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 纯 Rust 编写的跨平台开源下载管理器，支持多线程加速、BT 与浏览器集成 | 多媒体/下载工具 | 桌面应用 | Rust | 17.0k | +6.2k | 82 |  |
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 跨平台多协议下载器，支持 HTTP、BT、流媒体等。 | 多媒体/下载工具 | 桌面应用 | Python | 15.7k | +5.9k | 87 |  |
 
 <!-- radar:end -->
 

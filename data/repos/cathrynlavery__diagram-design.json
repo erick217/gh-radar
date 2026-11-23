@@ -28,39 +28,40 @@
   "archived": false,
   "contributors": 75,
   "created_at": "2026-04-16",
-  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
   "details_at": "2026-11-20",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 4693,
+  "forks": 4736,
   "full_name": "cathrynlavery/diagram-design",
   "homepage": "https://diagramdesign.dev",
   "install_hint": true,
   "language": "HTML",
-  "last_seen": "2026-11-22",
+  "last_seen": "2026-11-23",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 56142,
   "readme_hash": "56d3e0cab940",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1908,
-    "gain7_source": "trending-daily",
+    "gain7": 3922,
+    "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.36,
+    "persistence": 0.58,
     "practical": 1.0,
-    "total": 71.4,
-    "trending_days_30": 3,
-    "velocity": 0.76
+    "total": 78.3,
+    "trending_days_30": 4,
+    "velocity": 0.84
   },
   "stars": {
     "2026-11-20": 68883,
     "2026-11-21": 69469,
-    "2026-11-22": 69954
+    "2026-11-22": 69954,
+    "2026-11-23": 70564
   },
   "topics": [
     "agent-skills",
@@ -81,6 +82,9 @@
     },
     "2026-11-22": {
       "daily": 583
+    },
+    "2026-11-23": {
+      "daily": 518
     }
   },
   "url": "https://github.com/cathrynlavery/diagram-design"

@@ -20,10 +20,10 @@
   "contributors": 19,
   "created_at": "2025-07-01",
   "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-  "details_at": "2026-11-16",
+  "details_at": "2026-11-23",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 7958,
+  "forks": 7968,
   "full_name": "shiyu-coder/Kronos",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 250,
+    "gain7": 223,
     "gain7_source": "snapshot",
     "health": 0.3,
     "included": true,
     "is_resource": false,
     "persistence": 0.65,
     "practical": 1.0,
-    "total": 60.0,
+    "total": 59.6,
     "trending_days_30": 5,
-    "velocity": 0.56
+    "velocity": 0.55
   },
   "stars": {
     "2026-11-02": 45620,
@@ -69,7 +69,8 @@
     "2026-11-19": 47986,
     "2026-11-20": 48013,
     "2026-11-21": 48042,
-    "2026-11-22": 48067
+    "2026-11-22": 48067,
+    "2026-11-23": 48101
   },
   "topics": [],
   "trending": {

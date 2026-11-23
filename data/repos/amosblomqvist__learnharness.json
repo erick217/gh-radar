@@ -22,7 +22,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1434,
+  "forks": 1461,
   "full_name": "amosblomqvist/learnharness",
   "homepage": "learnharness.ai",
   "install_hint": false,
@@ -36,14 +36,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1530,
+    "gain7": 1596,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 76.9,
+    "total": 77.1,
     "trending_days_30": 0,
     "velocity": 0.74
   },
@@ -72,7 +72,8 @@
     "2026-11-19": 10341,
     "2026-11-20": 10575,
     "2026-11-21": 10784,
-    "2026-11-22": 11005
+    "2026-11-22": 11005,
+    "2026-11-23": 11230
   },
   "topics": [],
   "trending": {},

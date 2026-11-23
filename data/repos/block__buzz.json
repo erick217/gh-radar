@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 4961,
+  "forks": 4964,
   "full_name": "block/buzz",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-14",
   "latest_release": "desktop-v0.5.30",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 14836,
   "readme_hash": "88059c7231c4",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 195,
+    "gain7": 180,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 71.1,
+    "total": 70.8,
     "trending_days_30": 1,
-    "velocity": 0.53
+    "velocity": 0.52
   },
   "stars": {
     "2026-11-14": 37437,
@@ -57,7 +57,8 @@
     "2026-11-19": 37584,
     "2026-11-20": 37618,
     "2026-11-21": 37639,
-    "2026-11-22": 37649
+    "2026-11-22": 37649,
+    "2026-11-23": 37678
   },
   "topics": [],
   "trending": {

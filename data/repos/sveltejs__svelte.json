@@ -32,7 +32,7 @@
   "details_at": "2026-11-17",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 6131,
+  "forks": 6132,
   "full_name": "sveltejs/svelte",
   "homepage": "https://svelte.dev",
   "install_hint": false,
@@ -40,22 +40,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "svelte@5.57.3",
   "license": "MIT",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-22",
   "readme_chars": 1730,
   "readme_hash": "389453e15f3c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 984,
+    "gain7": 911,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 0.8,
-    "total": 75.6,
+    "total": 75.3,
     "trending_days_30": 3,
-    "velocity": 0.7
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-17": 89150,
@@ -63,7 +63,8 @@
     "2026-11-19": 89720,
     "2026-11-20": 89823,
     "2026-11-21": 89840,
-    "2026-11-22": 89853
+    "2026-11-22": 89853,
+    "2026-11-23": 89931
   },
   "topics": [
     "compiler",

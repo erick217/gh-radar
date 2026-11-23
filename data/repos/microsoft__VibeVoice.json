@@ -23,7 +23,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 6485,
+  "forks": 6490,
   "full_name": "microsoft/VibeVoice",
   "homepage": "https://microsoft.github.io/VibeVoice/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 292,
+    "gain7": 304,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 60.0,
+    "total": 60.1,
     "trending_days_30": 1,
-    "velocity": 0.57
+    "velocity": 0.58
   },
   "stars": {
     "2026-11-06": 56256,
@@ -65,7 +65,8 @@
     "2026-11-19": 57295,
     "2026-11-20": 57319,
     "2026-11-21": 57413,
-    "2026-11-22": 57475
+    "2026-11-22": 57475,
+    "2026-11-23": 57503
   },
   "topics": [],
   "trending": {

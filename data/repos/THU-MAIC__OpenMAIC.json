@@ -22,7 +22,7 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 6789,
+  "forks": 6803,
   "full_name": "THU-MAIC/OpenMAIC",
   "homepage": null,
   "install_hint": true,
@@ -30,13 +30,13 @@
   "last_seen": "2026-11-01",
   "latest_release": "v1.5.0-rc.3",
   "license": "MIT",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-23",
   "readme_chars": 54990,
   "readme_hash": "638d352d939d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 521,
+    "gain7": 524,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -69,7 +69,8 @@
     "2026-11-19": 43934,
     "2026-11-20": 43983,
     "2026-11-21": 44046,
-    "2026-11-22": 44105
+    "2026-11-22": 44105,
+    "2026-11-23": 44214
   },
   "topics": [],
   "trending": {

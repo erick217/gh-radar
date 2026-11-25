@@ -23,30 +23,30 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 2052,
+  "forks": 2323,
   "full_name": "anhao/ai-pose-gallery-zh",
   "homepage": "https://ai-pose-gallery.anhao.app",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": null,
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-25",
   "readme_chars": 13557,
   "readme_hash": "c96fed9cee40",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 839,
+    "gain7": 1787,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 67.3,
+    "total": 70.0,
     "trending_days_30": 0,
-    "velocity": 0.68
+    "velocity": 0.76
   },
   "stars": {
     "2026-10-30": 3483,
@@ -73,7 +73,8 @@
     "2026-11-20": 7403,
     "2026-11-21": 7636,
     "2026-11-22": 7786,
-    "2026-11-23": 7898
+    "2026-11-23": 7898,
+    "2026-11-25": 9007
   },
   "topics": [
     "ai-art",

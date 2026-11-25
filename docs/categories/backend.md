@@ -18,14 +18,14 @@ description: "后端分类下的热门开源项目，共收录 6 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 框架 | JavaScript | 124.0k | +204 | 71 |  |
-| [php/php-src](https://github.com/php/php-src) | PHP 语言官方解释器源码，提供运行 PHP 代码的运行时与扩展 | 其他 | C | 41.9k | +68 | 69 |  |
-| [rails/rails](https://github.com/rails/rails) | 基于 MVC 的 Ruby 全栈 Web 应用框架，内置数据库、路由与模板等组件。 | 框架 | Ruby | 59.2k | +100 | 69 |  |
-| [symfony/symfony](https://github.com/symfony/symfony) | Symfony 是用于 Web 与控制台应用的 PHP 框架，并提供可复用组件集。 | 框架 | PHP | 31.5k | +20 | 63 |  |
-| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust 全栈 Web 框架，内置路由、模板、组件与资源打包 | 框架 | Rust | 7.3k | +65 | 63 |  |
+| [nodejs/node](https://github.com/nodejs/node) | 跨平台 JavaScript 运行时，让 JS 脱离浏览器在服务端运行 | 框架 | JavaScript | 124.0k | +186 | 71 |  |
+| [php/php-src](https://github.com/php/php-src) | PHP 语言官方解释器源码，提供运行 PHP 代码的运行时与扩展 | 其他 | C | 41.9k | +75 | 69 |  |
+| [rails/rails](https://github.com/rails/rails) | 基于 MVC 的 Ruby 全栈 Web 应用框架，内置数据库、路由与模板等组件。 | 框架 | Ruby | 59.1k | +34 | 65 |  |
+| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust 全栈 Web 框架，内置路由、模板、组件与资源打包 | 框架 | Rust | 7.3k | +61 | 63 |  |
+| [symfony/symfony](https://github.com/symfony/symfony) | Symfony 是用于 Web 与控制台应用的 PHP 框架，并提供可复用组件集。 | 框架 | PHP | 31.5k | +13 | 62 |  |
 
 <h2 class="radar-sub-heading">API与网关（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [nginx/nginx](https://github.com/nginx/nginx) | 官方 NGINX 源码仓库，高性能 Web 服务器、反向代理与负载均衡器。 | 自托管服务 | C | 33.0k | +1.2k | 82 |  |
+| [nginx/nginx](https://github.com/nginx/nginx) | 官方 NGINX 源码仓库，高性能 Web 服务器、反向代理与负载均衡器。 | 自托管服务 | C | 33.3k | +1.2k | 83 |  |

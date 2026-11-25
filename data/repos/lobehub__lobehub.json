@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 16352,
+  "forks": 16362,
   "full_name": "lobehub/lobehub",
   "homepage": "https://lobehub.com",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-14",
   "latest_release": "v2.3.5-canary.2",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-23",
+  "pushed_at": "2026-11-25",
   "readme_chars": 31676,
   "readme_hash": "1786922f13aa",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 418,
+    "gain7": 387,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 73.7,
+    "total": 73.5,
     "trending_days_30": 1,
-    "velocity": 0.61
+    "velocity": 0.6
   },
   "stars": {
     "2026-11-14": 85526,
@@ -58,7 +58,8 @@
     "2026-11-20": 85908,
     "2026-11-21": 85938,
     "2026-11-22": 85967,
-    "2026-11-23": 86024
+    "2026-11-23": 86024,
+    "2026-11-25": 86131
   },
   "topics": [
     "agent",

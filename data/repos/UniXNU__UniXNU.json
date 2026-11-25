@@ -26,13 +26,13 @@
     }
   },
   "archived": false,
-  "contributors": 19,
+  "contributors": 20,
   "created_at": "2026-10-19",
   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-  "details_at": "2026-11-17",
+  "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 490,
+  "forks": 500,
   "full_name": "UniXNU/UniXNU",
   "homepage": "https://unixnu.com",
   "install_hint": false,
@@ -46,8 +46,8 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 138,
-    "gain7_source": "snapshot-partial",
+    "gain7": 137,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": false,
     "is_resource": false,
@@ -64,7 +64,8 @@
     "2026-11-20": 3032,
     "2026-11-21": 3042,
     "2026-11-22": 3057,
-    "2026-11-23": 3076
+    "2026-11-23": 3076,
+    "2026-11-25": 3120
   },
   "topics": [
     "unixnu"

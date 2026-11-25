@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-25",
+    "category": "安全/安全工具",
+    "form": "移动应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v1.5.1 安装包，支持通过 Shizuku 或 Root 直接扫描、卸载和恢复系统组件，并有明确的上手说明与实测清单。",
+    "summary": "基于 Shizuku 免 Root 检测并卸载安卓预装运营商遥测组件的工具",
+    "tags": [
+      "Android",
+      "Shizuku",
+      "隐私清理",
+      "系统组件",
+      "免Root"
+    ],
+    "usage": {
+      "completion_tokens": 269,
+      "cost_cny": 0.006066,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 1944,
+      "prompt_tokens": 2584,
+      "reasoning_tokens": 165,
+      "total_tokens": 2853
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-11",
+  "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+  "details_at": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "fork": false,
+  "forks": 204,
+  "full_name": "Eynnzerr/TelemetryCleaner",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Kotlin",
+  "last_seen": "2026-11-25",
+  "latest_release": "v1.5.1",
+  "license": "MIT",
+  "pushed_at": "2026-11-24",
+  "readme_chars": 3858,
+  "readme_hash": "e277cd8fd544",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1484,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 62.3,
+    "trending_days_30": 0,
+    "velocity": 0.74
+  },
+  "stars": {
+    "2026-11-25": 2968
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+}

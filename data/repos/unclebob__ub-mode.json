@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 473,
+  "forks": 497,
   "full_name": "unclebob/ub-mode",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 361,
+    "gain7": 585,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 52.8,
+    "total": 54.5,
     "trending_days_30": 0,
-    "velocity": 0.59
+    "velocity": 0.64
   },
   "stars": {
     "2026-10-29": 4324,
@@ -74,7 +74,8 @@
     "2026-11-20": 8259,
     "2026-11-21": 8298,
     "2026-11-22": 8310,
-    "2026-11-23": 8382
+    "2026-11-23": 8382,
+    "2026-11-25": 8715
   },
   "topics": [],
   "trending": {},

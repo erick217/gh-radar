@@ -29,10 +29,10 @@
   "contributors": 2,
   "created_at": "2026-05-01",
   "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-  "details_at": "2026-11-17",
+  "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 780,
+  "forks": 822,
   "full_name": "google-research/paper-orchestra",
   "homepage": "https://yiwen-song.github.io/paper_orchestra/",
   "install_hint": true,
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4758,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2885,
+    "gain7_source": "snapshot",
     "health": 0.55,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 73.9,
+    "total": 72.1,
     "trending_days_30": 3,
-    "velocity": 0.86
+    "velocity": 0.8
   },
   "stars": {
     "2026-11-17": 1963,
@@ -64,7 +64,8 @@
     "2026-11-20": 5195,
     "2026-11-21": 5513,
     "2026-11-22": 5798,
-    "2026-11-23": 6041
+    "2026-11-23": 6041,
+    "2026-11-25": 6351
   },
   "topics": [
     "ai-research-assistant",

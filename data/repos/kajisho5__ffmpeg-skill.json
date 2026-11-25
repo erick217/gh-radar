@@ -26,35 +26,35 @@
     }
   },
   "archived": false,
-  "contributors": 11,
+  "contributors": 17,
   "created_at": "2026-09-03",
   "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-  "details_at": "2026-11-17",
+  "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 876,
+  "forks": 928,
   "full_name": "kajisho5/ffmpeg-skill",
   "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-23",
-  "latest_release": "v3.10.1",
+  "last_seen": "2026-11-25",
+  "latest_release": "v4.7.1",
   "license": "MIT",
-  "pushed_at": "2026-11-23",
-  "readme_chars": 118347,
-  "readme_hash": "f7da9962c116",
+  "pushed_at": "2026-11-24",
+  "readme_chars": 133644,
+  "readme_hash": "108dc29557df",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3018,
-    "gain7_source": "snapshot-partial",
+    "gain7": 3015,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.65,
+    "persistence": 0.72,
     "practical": 1.0,
-    "total": 86.3,
-    "trending_days_30": 5,
+    "total": 87.7,
+    "trending_days_30": 6,
     "velocity": 0.81
   },
   "stars": {
@@ -64,7 +64,8 @@
     "2026-11-20": 8531,
     "2026-11-21": 9013,
     "2026-11-22": 9399,
-    "2026-11-23": 9933
+    "2026-11-23": 9933,
+    "2026-11-25": 10878
   },
   "topics": [
     "agent-skills",
@@ -103,6 +104,9 @@
     },
     "2026-11-23": {
       "weekly": 3748
+    },
+    "2026-11-25": {
+      "weekly": 2993
     }
   },
   "url": "https://github.com/kajisho5/ffmpeg-skill"

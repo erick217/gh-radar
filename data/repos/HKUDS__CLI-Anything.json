@@ -32,12 +32,12 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 5736,
+  "forks": 5935,
   "full_name": "HKUDS/CLI-Anything",
   "homepage": "https://clianything.cc/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": "v0.4.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-20",
@@ -46,23 +46,24 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5254,
+    "gain7": 6005,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.65,
+    "persistence": 0.72,
     "practical": 1.0,
-    "total": 88.3,
-    "trending_days_30": 5,
-    "velocity": 0.87
+    "total": 90.1,
+    "trending_days_30": 6,
+    "velocity": 0.88
   },
   "stars": {
     "2026-11-19": 60085,
     "2026-11-20": 60835,
     "2026-11-21": 61610,
     "2026-11-22": 62271,
-    "2026-11-23": 63087
+    "2026-11-23": 63087,
+    "2026-11-25": 65232
   },
   "topics": [],
   "trending": {
@@ -80,6 +81,9 @@
     },
     "2026-11-23": {
       "daily": 699
+    },
+    "2026-11-25": {
+      "daily": 1074
     }
   },
   "url": "https://github.com/HKUDS/CLI-Anything"

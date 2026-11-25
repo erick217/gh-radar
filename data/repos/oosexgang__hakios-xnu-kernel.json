@@ -32,7 +32,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 495,
+  "forks": 507,
   "full_name": "oosexgang/hakios-xnu-kernel",
   "homepage": "hakios-developers.com",
   "install_hint": false,
@@ -46,22 +46,23 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 40,
+    "gain7": 41,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.4,
-    "total": 52.1,
+    "total": 52.2,
     "trending_days_30": 0,
-    "velocity": 0.37
+    "velocity": 0.38
   },
   "stars": {
     "2026-11-20": 2831,
     "2026-11-21": 2835,
     "2026-11-22": 2840,
-    "2026-11-23": 2848
+    "2026-11-23": 2848,
+    "2026-11-25": 2860
   },
   "topics": [],
   "trending": {},

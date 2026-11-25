@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-25",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "项目明确标注尚不可玩，无发布版本，需自行编译并准备游戏文件，仅在单台机器测试。",
+    "summary": "用 Rust 在 PC 上运行 GTA VI 的兼容层实验，尚不可玩。",
+    "tags": [
+      "GTA VI",
+      "兼容层",
+      "Rust",
+      "Windows",
+      "游戏运行"
+    ],
+    "usage": {
+      "completion_tokens": 298,
+      "cost_cny": 0.00933,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3460,
+      "prompt_tokens": 4100,
+      "reasoning_tokens": 209,
+      "total_tokens": 4398
+    }
+  },
+  "archived": false,
+  "contributors": 105,
+  "created_at": "2026-11-23",
+  "description": "An attempt at running GTA VI on PC",
+  "details_at": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "fork": false,
+  "forks": 1768,
+  "full_name": "Marvisak/VIctory",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-25",
+  "latest_release": null,
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-25",
+  "readme_chars": 13210,
+  "readme_hash": "3a8217e9413c",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 11872,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 65.7,
+    "trending_days_30": 0,
+    "velocity": 0.95
+  },
+  "stars": {
+    "2026-11-25": 11872
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Marvisak/VIctory"
+}

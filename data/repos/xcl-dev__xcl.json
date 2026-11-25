@@ -1,0 +1,71 @@
+{
+  "ai": {
+    "at": "2026-11-25",
+    "category": "其他/其他",
+    "form": "CLI工具",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "项目无预编译发布包，需自行用 Rust 和 Windows SDK 构建，且游戏兼容性仍处实验阶段，普通用户无法直接安装使用。",
+    "summary": "将 Xbox Series 游戏代码原生运行于 Windows 的兼容层",
+    "tags": [
+      "Xbox兼容层",
+      "RDNA2",
+      "DXIL",
+      "Direct3D 12",
+      "Rust"
+    ],
+    "usage": {
+      "completion_tokens": 498,
+      "cost_cny": 0.011528,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3759,
+      "prompt_tokens": 4399,
+      "reasoning_tokens": 399,
+      "total_tokens": 4897
+    }
+  },
+  "archived": false,
+  "contributors": 110,
+  "created_at": "2026-11-20",
+  "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+  "details_at": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "fork": false,
+  "forks": 1088,
+  "full_name": "xcl-dev/xcl",
+  "homepage": "https://discord.gg/xcl",
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-25",
+  "latest_release": null,
+  "license": "GPL-2.0",
+  "pushed_at": "2026-11-25",
+  "readme_chars": 23430,
+  "readme_hash": "a194580eefe1",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 8058,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 64.3,
+    "trending_days_30": 0,
+    "velocity": 0.91
+  },
+  "stars": {
+    "2026-11-25": 8058
+  },
+  "topics": [
+    "d3d12",
+    "gdk",
+    "rdna2",
+    "xbox"
+  ],
+  "trending": {},
+  "url": "https://github.com/xcl-dev/xcl"
+}

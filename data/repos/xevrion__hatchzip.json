@@ -26,13 +26,13 @@
     }
   },
   "archived": false,
-  "contributors": 10,
+  "contributors": 11,
   "created_at": "2026-10-21",
   "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
-  "details_at": "2026-11-17",
+  "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 108,
+  "forks": 109,
   "full_name": "xevrion/hatchzip",
   "homepage": "https://hatchzip.dev",
   "install_hint": true,
@@ -40,22 +40,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "v0.1.10",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-22",
-  "readme_chars": 33213,
-  "readme_hash": "ea2d8726e54f",
+  "pushed_at": "2026-11-23",
+  "readme_chars": 38370,
+  "readme_hash": "8a74981a6094",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 168,
-    "gain7_source": "snapshot-partial",
+    "gain7": 155,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.1,
+    "total": 68.8,
     "trending_days_30": 0,
-    "velocity": 0.52
+    "velocity": 0.51
   },
   "stars": {
     "2026-11-17": 2950,
@@ -64,7 +64,8 @@
     "2026-11-20": 3010,
     "2026-11-21": 3025,
     "2026-11-22": 3051,
-    "2026-11-23": 3094
+    "2026-11-23": 3094,
+    "2026-11-25": 3127
   },
   "topics": [
     "7z",

@@ -32,36 +32,37 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 10838,
+  "forks": 10946,
   "full_name": "firecrawl/firecrawl",
   "homepage": "https://firecrawl.dev",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": "v2.11.0",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-23",
+  "pushed_at": "2026-11-25",
   "readme_chars": 20868,
   "readme_hash": "43417199e6a1",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 6414,
+    "gain7": 6693,
     "gain7_source": "snapshot-partial",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.65,
     "practical": 1.0,
-    "total": 87.6,
-    "trending_days_30": 4,
+    "total": 89.1,
+    "trending_days_30": 5,
     "velocity": 0.89
   },
   "stars": {
     "2026-11-20": 204596,
     "2026-11-21": 205561,
     "2026-11-22": 206443,
-    "2026-11-23": 207345
+    "2026-11-23": 207345,
+    "2026-11-25": 209377
   },
   "topics": [
     "ai",
@@ -96,6 +97,9 @@
     },
     "2026-11-23": {
       "daily": 915
+    },
+    "2026-11-25": {
+      "daily": 991
     }
   },
   "url": "https://github.com/firecrawl/firecrawl"

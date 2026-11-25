@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 10353,
+  "forks": 10397,
   "full_name": "thedotmack/claude-mem",
   "homepage": "https://claude-mem.ai",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-11",
   "latest_release": "v16.0.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-23",
+  "pushed_at": "2026-11-25",
   "readme_chars": 25291,
   "readme_hash": "82b2f7fec3ad",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1694,
+    "gain7": 1557,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 91.3,
+    "total": 91.0,
     "trending_days_30": 13,
-    "velocity": 0.75
+    "velocity": 0.74
   },
   "stars": {
     "2026-10-29": 104302,
@@ -74,7 +74,8 @@
     "2026-11-20": 118515,
     "2026-11-21": 118719,
     "2026-11-22": 118905,
-    "2026-11-23": 119162
+    "2026-11-23": 119162,
+    "2026-11-25": 119638
   },
   "topics": [
     "ai",

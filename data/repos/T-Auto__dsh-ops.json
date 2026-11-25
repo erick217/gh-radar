@@ -22,7 +22,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 215,
+  "forks": 219,
   "full_name": "T-Auto/dsh-ops",
   "homepage": null,
   "install_hint": true,
@@ -36,16 +36,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 125,
+    "gain7": 102,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.1,
+    "total": 67.4,
     "trending_days_30": 0,
-    "velocity": 0.49
+    "velocity": 0.47
   },
   "stars": {
     "2026-10-29": 4753,
@@ -73,7 +73,8 @@
     "2026-11-20": 5958,
     "2026-11-21": 5968,
     "2026-11-22": 5972,
-    "2026-11-23": 5982
+    "2026-11-23": 5982,
+    "2026-11-25": 6013
   },
   "topics": [
     "dsh",

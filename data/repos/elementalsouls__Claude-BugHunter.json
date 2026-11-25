@@ -28,33 +28,33 @@
   "archived": false,
   "contributors": 19,
   "created_at": "2026-05-05",
-  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 2030,
+  "forks": 2283,
   "full_name": "elementalsouls/Claude-BugHunter",
   "homepage": "https://elementalsouls.github.io/Claude-BugHunter",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": "v2.1",
   "license": "MIT",
-  "pushed_at": "2026-11-23",
+  "pushed_at": "2026-11-25",
   "readme_chars": 23047,
   "readme_hash": "f527ffb3ee02",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 11766,
+    "gain7": 12045,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 93.9,
-    "trending_days_30": 7,
+    "total": 95.4,
+    "trending_days_30": 8,
     "velocity": 0.95
   },
   "stars": {
@@ -65,7 +65,8 @@
     "2026-11-20": 13079,
     "2026-11-21": 14808,
     "2026-11-22": 16502,
-    "2026-11-23": 18566
+    "2026-11-23": 18566,
+    "2026-11-25": 22100
   },
   "topics": [
     "ai-security",
@@ -107,6 +108,9 @@
     },
     "2026-11-23": {
       "daily": 1716
+    },
+    "2026-11-25": {
+      "daily": 1826
     }
   },
   "url": "https://github.com/elementalsouls/Claude-BugHunter"

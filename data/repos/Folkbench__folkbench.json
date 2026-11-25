@@ -31,7 +31,7 @@
   "last_seen": "2026-10-31",
   "latest_release": "switch-v0.1.0-beta.10",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-23",
+  "pushed_at": "2026-11-24",
   "readme_chars": 21166,
   "readme_hash": "a26dcb3ef93c",
   "score": {
@@ -74,7 +74,8 @@
     "2026-11-20": 3009,
     "2026-11-21": 3249,
     "2026-11-22": 3349,
-    "2026-11-23": 3439
+    "2026-11-23": 3439,
+    "2026-11-25": 3636
   },
   "topics": [
     "ai-coding",

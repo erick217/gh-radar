@@ -32,12 +32,12 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-15",
   "fork": false,
-  "forks": 1841,
+  "forks": 1893,
   "full_name": "JenkinWoo/sheeridVerify",
   "homepage": null,
   "install_hint": false,
   "language": "JavaScript",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": null,
   "license": "ISC",
   "pushed_at": "2026-11-06",
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 900,
+    "gain7": 976,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 56.0,
+    "total": 56.3,
     "trending_days_30": 0,
-    "velocity": 0.69
+    "velocity": 0.7
   },
   "stars": {
     "2026-11-15": 3187,
@@ -66,7 +66,8 @@
     "2026-11-20": 3817,
     "2026-11-21": 3987,
     "2026-11-22": 4117,
-    "2026-11-23": 4198
+    "2026-11-23": 4198,
+    "2026-11-25": 4429
   },
   "topics": [],
   "trending": {},

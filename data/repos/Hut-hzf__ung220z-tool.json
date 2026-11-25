@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-25",
+    "category": "安全/安全工具",
+    "form": "CLI工具",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可直接运行的 Python 脚本，仅依赖标准库，README 含完整用法、参数说明和退出码语义，普通用户可在自己的设备上直接使用。",
+    "summary": "光猫管理员凭据自查工具，通过 Telnet 解密配置提取账号密码，含多厂商适配",
+    "tags": [
+      "光猫",
+      "凭据提取",
+      "Telnet",
+      "固件指纹",
+      "Python"
+    ],
+    "usage": {
+      "completion_tokens": 222,
+      "cost_cny": 0.010168,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 4183,
+      "prompt_tokens": 4823,
+      "reasoning_tokens": 107,
+      "total_tokens": 5045
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-15",
+  "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+  "details_at": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "fork": false,
+  "forks": 1030,
+  "full_name": "Hut-hzf/ung220z-tool",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-25",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-22",
+  "readme_chars": 7862,
+  "readme_hash": "389edef00f8d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3269,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 57.6,
+    "trending_days_30": 0,
+    "velocity": 0.82
+  },
+  "stars": {
+    "2026-11-25": 4670
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Hut-hzf/ung220z-tool"
+}

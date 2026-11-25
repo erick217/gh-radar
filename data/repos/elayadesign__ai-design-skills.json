@@ -23,7 +23,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1265,
+  "forks": 1300,
   "full_name": "elayadesign/ai-design-skills",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 667,
+    "gain7": 677,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -74,7 +74,8 @@
     "2026-11-20": 16165,
     "2026-11-21": 16223,
     "2026-11-22": 16274,
-    "2026-11-23": 16320
+    "2026-11-23": 16320,
+    "2026-11-25": 16637
   },
   "topics": [],
   "trending": {

@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 1128,
+  "forks": 1144,
   "full_name": "AienTech/dossier",
   "homepage": "https://dossier.aien.me",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-01",
   "latest_release": "v1.15.1",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-19",
+  "pushed_at": "2026-11-23",
   "readme_chars": 16127,
   "readme_hash": "b4925de5d04a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 179,
+    "gain7": 216,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.4,
+    "total": 70.0,
     "trending_days_30": 0,
-    "velocity": 0.52
+    "velocity": 0.54
   },
   "stars": {
     "2026-10-31": 3429,
@@ -72,7 +72,8 @@
     "2026-11-20": 5320,
     "2026-11-21": 5344,
     "2026-11-22": 5355,
-    "2026-11-23": 5383
+    "2026-11-23": 5383,
+    "2026-11-25": 5494
   },
   "topics": [
     "caprover",

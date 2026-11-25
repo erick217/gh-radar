@@ -22,7 +22,7 @@
   "details_at": "2026-11-19",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 21518,
+  "forks": 21526,
   "full_name": "TheAlgorithms/Java",
   "homepage": null,
   "install_hint": false,
@@ -30,20 +30,20 @@
   "last_seen": "2026-11-12",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-20",
+  "pushed_at": "2026-11-24",
   "readme_chars": 1315,
   "readme_hash": "29c5f8c4a028",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 56,
+    "gain7": 58,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": false,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.2,
-    "total": 43.2,
+    "total": 43.3,
     "trending_days_30": 1,
     "velocity": 0.41
   },
@@ -59,7 +59,8 @@
     "2026-11-20": 67283,
     "2026-11-21": 67286,
     "2026-11-22": 67299,
-    "2026-11-23": 67310
+    "2026-11-23": 67310,
+    "2026-11-25": 67334
   },
   "topics": [
     "algorithm",

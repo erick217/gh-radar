@@ -23,30 +23,30 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 4614,
+  "forks": 4636,
   "full_name": "alibaba/open-code-review",
   "homepage": "https://open-codereview.ai",
   "install_hint": true,
   "language": "Go",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": "v1.14.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-23",
+  "pushed_at": "2026-11-24",
   "readme_chars": 16353,
   "readme_hash": "a52f117cc782",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3072,
+    "gain7": 2190,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 93.4,
-    "trending_days_30": 10,
-    "velocity": 0.81
+    "total": 92.2,
+    "trending_days_30": 11,
+    "velocity": 0.78
   },
   "stars": {
     "2026-11-14": 51248,
@@ -58,7 +58,8 @@
     "2026-11-20": 54486,
     "2026-11-21": 54890,
     "2026-11-22": 55198,
-    "2026-11-23": 55528
+    "2026-11-23": 55528,
+    "2026-11-25": 56192
   },
   "topics": [
     "agent",
@@ -100,6 +101,9 @@
     },
     "2026-11-23": {
       "weekly": 3700
+    },
+    "2026-11-25": {
+      "weekly": 2638
     }
   },
   "url": "https://github.com/alibaba/open-code-review"

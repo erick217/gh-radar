@@ -32,7 +32,7 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 473,
+  "forks": 474,
   "full_name": "wesbos/3d-model-anything",
   "homepage": "https://wesbos.github.io/3d-model-anything/",
   "install_hint": false,
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 99,
+    "gain7": 88,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 52.3,
+    "total": 51.9,
     "trending_days_30": 0,
-    "velocity": 0.47
+    "velocity": 0.45
   },
   "stars": {
     "2026-11-16": 3028,
@@ -65,7 +65,8 @@
     "2026-11-20": 3097,
     "2026-11-21": 3108,
     "2026-11-22": 3116,
-    "2026-11-23": 3127
+    "2026-11-23": 3127,
+    "2026-11-25": 3139
   },
   "topics": [],
   "trending": {},

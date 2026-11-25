@@ -26,35 +26,35 @@
     }
   },
   "archived": false,
-  "contributors": 34,
+  "contributors": 37,
   "created_at": "2026-01-23",
   "description": "Cursor plugin specification and official plugins",
-  "details_at": "2026-11-18",
+  "details_at": "2026-11-25",
   "first_seen": "2026-11-18",
   "fork": false,
-  "forks": 2024,
+  "forks": 2091,
   "full_name": "cursor/plugins",
   "homepage": null,
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-23",
+  "last_seen": "2026-11-25",
   "latest_release": null,
   "license": null,
-  "pushed_at": "2026-11-22",
-  "readme_chars": 24231,
-  "readme_hash": "b3d181b7f301",
+  "pushed_at": "2026-11-24",
+  "readme_chars": 26293,
+  "readme_hash": "fae4d3a0a4f0",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2222,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2369,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 0.6,
-    "total": 71.1,
-    "trending_days_30": 6,
+    "total": 72.8,
+    "trending_days_30": 7,
     "velocity": 0.78
   },
   "stars": {
@@ -63,7 +63,8 @@
     "2026-11-20": 17656,
     "2026-11-21": 17929,
     "2026-11-22": 18192,
-    "2026-11-23": 18597
+    "2026-11-23": 18597,
+    "2026-11-25": 19379
   },
   "topics": [],
   "trending": {
@@ -84,6 +85,9 @@
     },
     "2026-11-23": {
       "daily": 294
+    },
+    "2026-11-25": {
+      "daily": 360
     }
   },
   "url": "https://github.com/cursor/plugins"

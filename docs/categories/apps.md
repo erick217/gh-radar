@@ -18,23 +18,23 @@ description: "移动与桌面分类下的热门开源项目，共收录 20 个�
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | 在 Windows 上双击安装并运行安卓 APK 的桌面工具 | 桌面应用 | JavaScript | 9.3k | +3.6k | 80 |  |
-| [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) | 为 Claude 打造的隔离虚拟机桌面应用，防止网络泄露并管理多账号。 | 桌面应用 | Go | 7.9k | +2.0k | 78 |  |
-| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 跨平台、GPU 加速的原生终端模拟器，兼顾速度、功能与原生界面 | 桌面应用 | Zig | 64.4k | +205 | 77 |  |
-| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 免费开源的 macOS 菜单栏工具箱，集成窗口管理、系统监控、剪贴板等实用功能。 | 桌面应用 | Swift | 35.8k | +935 | 77 |  |
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 高度可定制、带动态平铺与炫丽特效的独立 Wayland 合成器。 | 其他 | C++ | 40.8k | +85 | 76 |  |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 纯 Rust 开源参数化 3D CAD，支持桌面、浏览器和 MCP 自动化。 | 桌面应用 | Rust | 17.8k | +1.3k | 76 |  |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 参照 tvOS 设计的无广告 Android TV 桌面，可接管国产电视主页。 | 桌面应用 | Kotlin | 13.0k | +928 | 75 |  |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 纯 Rust 编写的开源跨平台 PDF 阅读与编辑器 | 桌面应用 | Rust | 21.5k | +667 | 74 |  |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 用 Rust 编写的开源文字处理器，支持读写 .docx，可跨平台使用 | 桌面应用 | Rust | 18.5k | +367 | 72 |  |
-| [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) | 跨平台键鼠与屏幕共享工具，让多台电脑和手机像同一台桌面协作。 | 桌面应用 | JavaScript | 4.4k | +334 | 72 |  |
-| [storytold/figcraft](https://github.com/storytold/figcraft) | 纯 Rust 开源界面设计与原型工具，支持离线与协作 | 桌面应用 | Rust | 5.3k | +292 | 71 |  |
-| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 为 Google TV、LG 和三星电视提供无广告的快速主屏幕启动器。 | 桌面应用 | Java | 6.6k | +195 | 70 |  |
-| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Craft 应用套件的跨平台安装与更新启动器 | 桌面应用 | Rust | 5.6k | +200 | 70 |  |
-| [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) | 实验性开源 Nintendo Switch 2 模拟器，支持多平台运行 | 桌面应用 | C++ | 6.2k | +183 | 69 |  |
-| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 跨平台原地解压 ZIP/7z/RAR 等压缩包的桌面与命令行工具 | 桌面应用 | Rust | 3.1k | +168 | 69 |  |
-| [liseami/CCBaga](https://github.com/liseami/CCBaga) | 跨平台桌面工具，管理 Claude 身份、浏览器指纹与系统区域环境。 | 桌面应用 | Rust | 3.8k | +152 | 69 |  |
-| [storytold/deckcraft](https://github.com/storytold/deckcraft) | 用 Rust 重写的开源演示文稿软件，可编辑并保存 pptx 文件。 | 桌面应用 | Rust | 4.9k | +121 | 68 |  |
-| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 纯 Rust 编写的开源 2D/3D CAD 桌面应用，兼容 DXF/DWG。 | 桌面应用 | Rust | 8.4k | +265 | 67 |  |
-| [storytold/gridcraft](https://github.com/storytold/gridcraft) | 纯 Rust 实现的开源电子表格应用，支持 XLSX 与桌面/网页运行。 | 桌面应用 | Rust | 7.8k | +186 | 66 |  |
-| [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 将《塞尔达传说：时之笛》静态重编译为 Windows 原生 Vulkan 游戏 | 桌面应用 | C | 4.3k | +93 | 63 |  |
+| [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | 在 Windows 上双击安装并运行安卓 APK 的桌面工具 | 桌面应用 | JavaScript | 9.8k | +2.1k | 78 |  |
+| [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) | 为 Claude 打造的隔离虚拟机桌面应用，防止网络泄露并管理多账号。 | 桌面应用 | Go | 8.5k | +2.0k | 78 |  |
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 跨平台、GPU 加速的原生终端模拟器，兼顾速度、功能与原生界面 | 桌面应用 | Zig | 64.4k | +231 | 77 |  |
+| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 免费开源的 macOS 菜单栏工具箱，集成窗口管理、系统监控、剪贴板等实用功能。 | 桌面应用 | Swift | 36.2k | +1.0k | 77 |  |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 高度可定制、带动态平铺与炫丽特效的独立 Wayland 合成器。 | 其他 | C++ | 40.8k | +79 | 76 |  |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 纯 Rust 开源参数化 3D CAD，支持桌面、浏览器和 MCP 自动化。 | 桌面应用 | Rust | 18.2k | +1.2k | 76 |  |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 参照 tvOS 设计的无广告 Android TV 桌面，可接管国产电视主页。 | 桌面应用 | Kotlin | 13.3k | +875 | 75 |  |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 纯 Rust 编写的开源跨平台 PDF 阅读与编辑器 | 桌面应用 | Rust | 21.7k | +667 | 74 |  |
+| [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) | 跨平台键鼠与屏幕共享工具，让多台电脑和手机像同一台桌面协作。 | 桌面应用 | JavaScript | 4.5k | +327 | 72 |  |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 用 Rust 编写的开源文字处理器，支持读写 .docx，可跨平台使用 | 桌面应用 | Rust | 18.5k | +331 | 72 |  |
+| [storytold/figcraft](https://github.com/storytold/figcraft) | 纯 Rust 开源界面设计与原型工具，支持离线与协作 | 桌面应用 | Rust | 5.4k | +280 | 71 |  |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Craft 应用套件的跨平台安装与更新启动器 | 桌面应用 | Rust | 5.7k | +206 | 70 |  |
+| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 为 Google TV、LG 和三星电视提供无广告的快速主屏幕启动器。 | 桌面应用 | Java | 6.7k | +173 | 69 |  |
+| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 跨平台原地解压 ZIP/7z/RAR 等压缩包的桌面与命令行工具 | 桌面应用 | Rust | 3.1k | +155 | 69 |  |
+| [liseami/CCBaga](https://github.com/liseami/CCBaga) | 跨平台桌面工具，管理 Claude 身份、浏览器指纹与系统区域环境。 | 桌面应用 | Rust | 3.8k | +144 | 69 |  |
+| [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) | 实验性开源 Nintendo Switch 2 模拟器，支持多平台运行 | 桌面应用 | C++ | 6.2k | +140 | 68 |  |
+| [storytold/deckcraft](https://github.com/storytold/deckcraft) | 用 Rust 重写的开源演示文稿软件，可编辑并保存 pptx 文件。 | 桌面应用 | Rust | 5.0k | +106 | 68 |  |
+| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 纯 Rust 编写的开源 2D/3D CAD 桌面应用，兼容 DXF/DWG。 | 桌面应用 | Rust | 8.5k | +243 | 66 |  |
+| [storytold/gridcraft](https://github.com/storytold/gridcraft) | 纯 Rust 实现的开源电子表格应用，支持 XLSX 与桌面/网页运行。 | 桌面应用 | Rust | 7.8k | +172 | 65 |  |
+| [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 将《塞尔达传说：时之笛》静态重编译为 Windows 原生 Vulkan 游戏 | 桌面应用 | C | 4.4k | +48 | 61 |  |

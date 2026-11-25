@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 186,
+  "contributors": 196,
   "created_at": "2021-08-27",
   "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-  "details_at": "2026-11-17",
+  "details_at": "2026-11-25",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 2228,
+  "forks": 2235,
   "full_name": "google-deepmind/mujoco",
   "homepage": "https://mujoco.org",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-17",
   "latest_release": "4.0.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-22",
-  "readme_chars": 10205,
-  "readme_hash": "9e286fb82d7d",
+  "pushed_at": "2026-11-25",
+  "readme_chars": 11013,
+  "readme_hash": "2587c7dff469",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 307,
+    "gain7": 210,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.86,
     "practical": 1.0,
-    "total": 82.5,
+    "total": 81.1,
     "trending_days_30": 8,
-    "velocity": 0.58
+    "velocity": 0.54
   },
   "stars": {
     "2026-11-10": 17095,
@@ -62,7 +62,8 @@
     "2026-11-20": 18340,
     "2026-11-21": 18361,
     "2026-11-22": 18382,
-    "2026-11-23": 18420
+    "2026-11-23": 18420,
+    "2026-11-25": 18478
   },
   "topics": [
     "mujoco",

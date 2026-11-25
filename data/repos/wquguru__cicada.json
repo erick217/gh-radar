@@ -1,0 +1,80 @@
+{
+  "ai": {
+    "at": "2026-11-25",
+    "category": "AI/AI应用",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布多平台安装包和版本，README 提供完整功能与使用说明，普通用户可直接下载使用。",
+    "summary": "跨平台实时字幕、同声传译与 AI 会议纪要工具",
+    "tags": [
+      "实时字幕",
+      "同声传译",
+      "会议纪要",
+      "语音识别",
+      "跨平台"
+    ],
+    "usage": {
+      "completion_tokens": 268,
+      "cost_cny": 0.008556,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3193,
+      "prompt_tokens": 3833,
+      "reasoning_tokens": 182,
+      "total_tokens": 4101
+    }
+  },
+  "archived": false,
+  "contributors": 7,
+  "created_at": "2026-11-01",
+  "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+  "details_at": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "fork": false,
+  "forks": 510,
+  "full_name": "wquguru/cicada",
+  "homepage": "https://cicada.indaloop.app",
+  "install_hint": false,
+  "language": "Swift",
+  "last_seen": "2026-11-25",
+  "latest_release": "v1.10.1",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-25",
+  "readme_chars": 19339,
+  "readme_hash": "9825b24073d0",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 939,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 72.2,
+    "trending_days_30": 0,
+    "velocity": 0.69
+  },
+  "stars": {
+    "2026-11-25": 3218
+  },
+  "topics": [
+    "android",
+    "linux",
+    "live-captions",
+    "macos",
+    "meeting-notes",
+    "menubar-app",
+    "simultaneous-interpretation",
+    "speech-recognition",
+    "subtitles",
+    "swift",
+    "swiftui",
+    "translation",
+    "windows"
+  ],
+  "trending": {},
+  "url": "https://github.com/wquguru/cicada"
+}

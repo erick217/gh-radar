@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-25",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "需自备 macOS 27 安装盘与 Xcode，并在特定 arm64 Linux 内核上手动编译加载，项目仍属实验性且无正式发布版本。",
+    "summary": "在 arm64 Linux 中以内核模块运行 XNU，让 macOS 用户态与 Linux 并存。",
+    "tags": [
+      "macOS",
+      "XNU",
+      "Linux内核模块",
+      "arm64",
+      "虚拟化"
+    ],
+    "usage": {
+      "completion_tokens": 340,
+      "cost_cny": 0.00961,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3432,
+      "prompt_tokens": 4072,
+      "reasoning_tokens": 238,
+      "total_tokens": 4412
+    }
+  },
+  "archived": false,
+  "contributors": 5,
+  "created_at": "2026-11-20",
+  "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+  "details_at": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "fork": false,
+  "forks": 172,
+  "full_name": "AFK-surf/xnulinux",
+  "homepage": null,
+  "install_hint": false,
+  "language": "C",
+  "last_seen": "2026-11-25",
+  "latest_release": null,
+  "license": "NOASSERTION",
+  "pushed_at": "2026-11-25",
+  "readme_chars": 10911,
+  "readme_hash": "df37f1b99461",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3669,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 57.5,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-25": 3669
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/AFK-surf/xnulinux"
+}

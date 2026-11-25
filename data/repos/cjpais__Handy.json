@@ -23,7 +23,7 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 3755,
+  "forks": 3789,
   "full_name": "cjpais/Handy",
   "homepage": "https://handy.computer",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-02",
   "latest_release": "v0.10.1",
   "license": "MIT",
-  "pushed_at": "2026-11-21",
+  "pushed_at": "2026-11-25",
   "readme_chars": 28786,
   "readme_hash": "e9217f68d604",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 869,
+    "gain7": 1002,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 76.3,
+    "total": 76.8,
     "trending_days_30": 1,
-    "velocity": 0.68
+    "velocity": 0.7
   },
   "stars": {
     "2026-11-02": 36856,
@@ -70,7 +70,8 @@
     "2026-11-20": 39358,
     "2026-11-21": 39463,
     "2026-11-22": 39581,
-    "2026-11-23": 39784
+    "2026-11-23": 39784,
+    "2026-11-25": 40142
   },
   "topics": [
     "accessibility",

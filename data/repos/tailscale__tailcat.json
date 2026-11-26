@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 478,
+  "forks": 481,
   "full_name": "tailscale/tailcat",
   "homepage": "https://tailscale.com/tailcat",
   "install_hint": false,
@@ -59,7 +59,8 @@
     "2026-11-21": 10127,
     "2026-11-22": 10138,
     "2026-11-23": 10157,
-    "2026-11-25": 10187
+    "2026-11-25": 10187,
+    "2026-11-26": 10210
   },
   "topics": [],
   "trending": {

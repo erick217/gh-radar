@@ -19,10 +19,10 @@
   "contributors": 4,
   "created_at": "2026-06-18",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5280,
+  "forks": 5312,
   "full_name": "cloudflare/security-audit-skill",
   "homepage": null,
   "install_hint": true,
@@ -36,14 +36,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3116,
+    "gain7": 2985,
     "gain7_source": "snapshot",
     "health": 0.5,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 80.9,
+    "total": 80.8,
     "trending_days_30": 14,
     "velocity": 0.81
   },
@@ -74,7 +74,8 @@
     "2026-11-21": 76411,
     "2026-11-22": 76806,
     "2026-11-23": 77253,
-    "2026-11-25": 78133
+    "2026-11-25": 78133,
+    "2026-11-26": 78511
   },
   "topics": [],
   "trending": {

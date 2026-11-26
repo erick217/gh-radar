@@ -20,15 +20,15 @@
   "contributors": 1,
   "created_at": "2026-10-29",
   "description": "RUN · 润：中国护照持有人的海外移居手册。欧洲 36 国 110 条移民路线 + 13 个主要移民地区：数字游民签证、欧盟蓝卡、技术移民、留学转工作、创业自雇、投资居留，每条附官方来源，持续更新。",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 350,
+  "forks": 351,
   "full_name": "BryceYuuu/RUN",
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "latest_release": null,
   "license": "CC-BY-SA-4.0",
   "pushed_at": "2026-11-07",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 119,
+    "gain7": 103,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 48.9,
+    "total": 48.4,
     "trending_days_30": 0,
-    "velocity": 0.48
+    "velocity": 0.47
   },
   "stars": {
     "2026-11-05": 3815,
@@ -68,7 +68,8 @@
     "2026-11-21": 4994,
     "2026-11-22": 5008,
     "2026-11-23": 5021,
-    "2026-11-25": 5057
+    "2026-11-25": 5057,
+    "2026-11-26": 5072
   },
   "topics": [
     "china",

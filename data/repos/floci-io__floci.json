@@ -23,7 +23,7 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-04",
   "fork": false,
-  "forks": 3559,
+  "forks": 3570,
   "full_name": "floci-io/floci",
   "homepage": "https://floci.io/floci/",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-06",
   "latest_release": "2.5.0",
   "license": "MIT",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-26",
   "readme_chars": 48090,
   "readme_hash": "48ec5ed8999c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 207,
+    "gain7": 197,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 74.1,
+    "total": 73.9,
     "trending_days_30": 3,
-    "velocity": 0.54
+    "velocity": 0.53
   },
   "stars": {
     "2026-11-04": 29068,
@@ -69,7 +69,8 @@
     "2026-11-21": 32009,
     "2026-11-22": 32029,
     "2026-11-23": 32052,
-    "2026-11-25": 32104
+    "2026-11-25": 32104,
+    "2026-11-26": 32133
   },
   "topics": [
     "aws",

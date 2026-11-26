@@ -12,30 +12,30 @@
 
 | 日期 | 总 Tokens | 花费 (¥) |
 |---|---|---|
+| 2026-11-26 | 9,381 | ¥0.0197 |
 | 2026-11-25 | 43,590 | ¥0.0984 |
 | 2026-11-23 | 11,238 | ¥0.0272 |
 | 2026-11-22 | 9,010 | ¥0.0202 |
 | 2026-11-21 | 8,760 | ¥0.0179 |
 | 2026-11-20 | 49,528 | ¥0.1170 |
 | 2026-11-19 | 46,004 | ¥0.0985 |
-| 2026-11-18 | 28,073 | ¥0.0634 |
 
-> 累计已记录 69 次 DeepSeek 分类，共消耗 288,066 tokens，合计费用 ¥0.6543（另有 221 个早期分类未记录接口 usage）。
+> 累计已记录 71 次 DeepSeek 分类，共消耗 297,447 tokens，合计费用 ¥0.6740（另有 221 个早期分类未记录接口 usage）。
 
-**本周增速 Top 10**（2026-11-25 更新，共收录 262 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-26 更新，共收录 265 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 78.5k | +14.0k | 99 |  |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 22.1k | +12.0k | 95 |  |
-| [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | 用 Rust 在 PC 上运行 GTA VI 的兼容层实验，尚不可玩。 | 其他/其他 | 其他 | Rust | 11.9k | +11.9k | 66 |  |
-| [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | 将 Xbox Series 游戏代码原生运行于 Windows 的兼容层 | 其他/其他 | CLI工具 | Rust | 8.1k | +8.1k | 64 |  |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 43.1k | +7.0k | 74 |  |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 为 AI Agent 提供网页抓取、爬虫和搜索的开源 API | AI/RAG与知识库 | 自托管服务 | TypeScript | 209.4k | +6.7k | 89 |  |
-| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 326.2k | +6.6k | 92 |  |
-| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 跨平台多协议下载器，支持 HTTP、BT、流媒体等。 | 多媒体/下载工具 | 桌面应用 | Python | 17.8k | +6.5k | 89 |  |
-| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 记录现有代码行为，逐步将应用重写为 Rust 并校验一致性。 | 开发工具/CLI工具 | CLI工具 | Rust | 9.4k | +6.3k | 82 |  |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 把各类软件封装成 CLI，供 AI Agent 直接调用与编排 | AI/Agent | CLI工具 | Python | 65.2k | +6.0k | 90 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 80.1k | +14.4k | 99 |  |
+| [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | 用 Rust 在 PC 上运行 GTA VI 的兼容层实验，尚不可玩。 | 其他/其他 | 其他 | Rust | 12.9k | +12.9k | 66 |  |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 23.6k | +12.0k | 97 |  |
+| [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | 将 Xbox Series 游戏代码原生运行于 Windows 的兼容层 | 其他/其他 | CLI工具 | Rust | 8.4k | +8.4k | 64 |  |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 为 AI Agent 提供网页抓取、爬虫和搜索的开源 API | AI/RAG与知识库 | 自托管服务 | TypeScript | 210.4k | +6.8k | 91 |  |
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 跨平台多协议下载器，支持 HTTP、BT、流媒体等。 | 多媒体/下载工具 | 桌面应用 | Python | 18.7k | +6.4k | 90 |  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 纯 Rust 逆向引擎，用 AI 代理分析网站、应用或游戏并重建类似项目 | AI/Agent | 桌面应用 | Rust | 43.8k | +6.2k | 74 |  |
+| [havenicec/google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper) | 将 Google 强制扫码验证降级回短信验证码的 Chrome 扩展。 | 安全/安全工具 | 浏览器插件 | JavaScript | 6.3k | +5.9k | 67 |  |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 把各类软件封装成 CLI，供 AI Agent 直接调用与编排 | AI/Agent | CLI工具 | Python | 66.0k | +5.9k | 92 |  |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 记录现有代码行为，逐步将应用重写为 Rust 并校验一致性。 | 开发工具/CLI工具 | CLI工具 | Rust | 9.8k | +5.8k | 82 |  |
 
 <!-- radar:end -->
 

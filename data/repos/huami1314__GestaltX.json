@@ -23,12 +23,12 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 2764,
+  "forks": 2772,
   "full_name": "huami1314/GestaltX",
   "homepage": null,
   "install_hint": false,
   "language": "Swift",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "latest_release": "v1.1.1",
   "license": "GPL-3.0",
   "pushed_at": "2026-11-17",
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 715,
+    "gain7": 540,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 70.2,
+    "total": 69.2,
     "trending_days_30": 0,
-    "velocity": 0.66
+    "velocity": 0.64
   },
   "stars": {
     "2026-11-10": 3372,
@@ -63,7 +63,8 @@
     "2026-11-21": 8672,
     "2026-11-22": 8763,
     "2026-11-23": 8829,
-    "2026-11-25": 8929
+    "2026-11-25": 8929,
+    "2026-11-26": 8985
   },
   "topics": [],
   "trending": {},

@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 45,
+  "contributors": 46,
   "created_at": "2026-10-24",
   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 785,
+  "forks": 787,
   "full_name": "rddmwmddr/android-ad-cleaner",
   "homepage": null,
   "install_hint": false,
@@ -32,21 +32,21 @@
   "latest_release": "v0.4.5",
   "license": "MIT",
   "pushed_at": "2026-11-24",
-  "readme_chars": 19370,
-  "readme_hash": "2d3e2a082b0d",
+  "readme_chars": 19519,
+  "readme_hash": "7a14a8cb0cc5",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 661,
+    "gain7": 633,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 70.0,
+    "total": 69.8,
     "trending_days_30": 0,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-10-29": 4643,
@@ -75,7 +75,8 @@
     "2026-11-21": 8573,
     "2026-11-22": 8704,
     "2026-11-23": 8810,
-    "2026-11-25": 8972
+    "2026-11-25": 8972,
+    "2026-11-26": 9026
   },
   "topics": [
     "adb",

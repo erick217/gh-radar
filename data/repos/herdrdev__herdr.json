@@ -20,10 +20,10 @@
   "contributors": 91,
   "created_at": "2026-03-27",
   "description": "the runtime your coding agents live on",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 4256,
+  "forks": 4278,
   "full_name": "herdrdev/herdr",
   "homepage": "https://herdr.dev",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1092,
+    "gain7": 1155,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 77.1,
+    "total": 77.3,
     "trending_days_30": 1,
     "velocity": 0.71
   },
@@ -61,7 +61,8 @@
     "2026-11-21": 52111,
     "2026-11-22": 52244,
     "2026-11-23": 52418,
-    "2026-11-25": 52746
+    "2026-11-25": 52746,
+    "2026-11-26": 52963
   },
   "topics": [
     "agent",

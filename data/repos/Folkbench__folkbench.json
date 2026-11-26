@@ -20,7 +20,7 @@
   "contributors": 8,
   "created_at": "2026-10-02",
   "description": "AI API 中转站推荐与评测：中转站排行榜、中转站检测、Claude / GPT / Gemini 中转站对比 · AI API relay rankings · Folkbench Switch for Claude Code, Codex & Gemini CLI",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
   "forks": 21,
@@ -31,9 +31,9 @@
   "last_seen": "2026-10-31",
   "latest_release": "switch-v0.1.0-beta.10",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-24",
-  "readme_chars": 21166,
-  "readme_hash": "a26dcb3ef93c",
+  "pushed_at": "2026-11-25",
+  "readme_chars": 27853,
+  "readme_hash": "02305fcb9548",
   "score": {
     "excluded": null,
     "flags": [],
@@ -75,7 +75,8 @@
     "2026-11-21": 3249,
     "2026-11-22": 3349,
     "2026-11-23": 3439,
-    "2026-11-25": 3636
+    "2026-11-25": 3636,
+    "2026-11-26": 3740
   },
   "topics": [
     "ai-coding",

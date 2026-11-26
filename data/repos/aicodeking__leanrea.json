@@ -20,10 +20,10 @@
   "contributors": 1,
   "created_at": "2026-10-17",
   "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 685,
+  "forks": 687,
   "full_name": "aicodeking/leanrea",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 115,
+    "gain7": 102,
     "gain7_source": "snapshot",
     "health": 0.2,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 47.8,
+    "total": 47.4,
     "trending_days_30": 0,
-    "velocity": 0.48
+    "velocity": 0.47
   },
   "stars": {
     "2026-10-29": 3535,
@@ -75,7 +75,8 @@
     "2026-11-21": 4397,
     "2026-11-22": 4421,
     "2026-11-23": 4440,
-    "2026-11-25": 4467
+    "2026-11-25": 4467,
+    "2026-11-26": 4475
   },
   "topics": [],
   "trending": {},

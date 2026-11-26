@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 159,
+  "contributors": 160,
   "created_at": "2026-10-09",
   "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1972,
+  "forks": 1979,
   "full_name": "storytold/figcraft",
   "homepage": "https://getartcraft.com/apps/figcraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v0.18.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-26",
   "readme_chars": 34313,
   "readme_hash": "90730a70d681",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 280,
+    "gain7": 266,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.9,
+    "total": 70.7,
     "trending_days_30": 0,
-    "velocity": 0.57
+    "velocity": 0.56
   },
   "stars": {
     "2026-10-29": 3784,
@@ -75,7 +75,8 @@
     "2026-11-21": 5236,
     "2026-11-22": 5279,
     "2026-11-23": 5311,
-    "2026-11-25": 5397
+    "2026-11-25": 5397,
+    "2026-11-26": 5432
   },
   "topics": [
     "design",

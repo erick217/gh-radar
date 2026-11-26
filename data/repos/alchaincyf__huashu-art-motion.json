@@ -20,10 +20,10 @@
   "contributors": 1,
   "created_at": "2026-10-06",
   "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 746,
+  "forks": 752,
   "full_name": "alchaincyf/huashu-art-motion",
   "homepage": null,
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 463,
+    "gain7": 483,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 65.2,
+    "total": 65.3,
     "trending_days_30": 0,
     "velocity": 0.62
   },
@@ -75,7 +75,8 @@
     "2026-11-21": 7368,
     "2026-11-22": 7427,
     "2026-11-23": 7501,
-    "2026-11-25": 7636
+    "2026-11-25": 7636,
+    "2026-11-26": 7716
   },
   "topics": [
     "agent-skills",

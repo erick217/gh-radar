@@ -26,13 +26,13 @@
     }
   },
   "archived": false,
-  "contributors": 5066,
+  "contributors": 5072,
   "created_at": "2024-11-30",
   "description": "A collection of MCP servers.",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 20872,
+  "forks": 20955,
   "full_name": "punkpeye/awesome-mcp-servers",
   "homepage": "https://glama.ai/mcp/servers",
   "install_hint": true,
@@ -41,21 +41,21 @@
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-25",
-  "readme_chars": 495455,
-  "readme_hash": "b6971e337a61",
+  "readme_chars": 495454,
+  "readme_hash": "2da75c8a8c09",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 369,
-    "gain7_source": "snapshot-partial",
+    "gain7": 357,
+    "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": true,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 65.8,
+    "total": 65.7,
     "trending_days_30": 1,
-    "velocity": 0.6
+    "velocity": 0.59
   },
   "stars": {
     "2026-11-19": 98166,
@@ -63,7 +63,8 @@
     "2026-11-21": 98337,
     "2026-11-22": 98372,
     "2026-11-23": 98401,
-    "2026-11-25": 98482
+    "2026-11-25": 98482,
+    "2026-11-26": 98523
   },
   "topics": [
     "ai",

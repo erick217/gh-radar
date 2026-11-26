@@ -18,16 +18,16 @@ description: "学习资源分类下的热门开源项目，共收录 8 个。"
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 社区维护的免费公开 API 汇总清单，方便开发者按领域查找可用接口。 | 资源列表 | Python | 501.3k | +1.4k | 70 |  |
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 资源列表 |  | 20.6k | +2.4k | 69 |  |
-| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学数学英语物理知识图谱与自适应前置诊断题库 | 模型或数据集 | Python | 9.2k | +720 | 67 |  |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 收录各类 MCP 服务器实现的精选清单，便于为 AI 客户端寻找可用服务。 | 资源列表 |  | 98.5k | +369 | 66 |  |
-| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.4k | +216 | 62 |  |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 42.1k | +144 | 62 |  |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 资源列表 | Python | 21.2k | +98 | 61 |  |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 社区维护的免费公开 API 汇总清单，方便开发者按领域查找可用接口。 | 资源列表 | Python | 501.5k | +1.4k | 70 |  |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 收集面向多种大模型的越狱与系统提示词，可直接粘贴使用。 | 资源列表 |  | 20.8k | +2.4k | 69 |  |
+| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 中小学数学英语物理知识图谱与自适应前置诊断题库 | 模型或数据集 | Python | 9.2k | +646 | 66 |  |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 收录各类 MCP 服务器实现的精选清单，便于为 AI 客户端寻找可用服务。 | 资源列表 |  | 98.5k | +357 | 66 |  |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Claude API 官方示例项目集，涵盖客服、数据分析、浏览器与电脑操作等可运行应用 | 资源列表 | Python | 21.3k | +160 | 63 |  |
+| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 面向 AI 编码代理的逆向工程提示词合集，可安装为技能包直接使用。 | 资源列表 | Batchfile | 4.4k | +196 | 62 |  |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 汇集 90+ 个 LLM、RAG 与 AI Agent 实战 Notebook 教程的合集 | 资源列表 | Jupyter Notebook | 42.1k | +123 | 62 |  |
 
 <h2 class="radar-sub-heading">教程与课程（1）</h2>
 
 | 项目 | 简介 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|
-| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 带插画、英美发音和 FSRS 复习的开源雅思背词 Web 应用与词库。 | Web应用 | TypeScript | 5.3k | +300 | 56 |  |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 带插画、英美发音和 FSRS 复习的开源雅思背词 Web 应用与词库。 | Web应用 | TypeScript | 5.4k | +281 | 56 |  |

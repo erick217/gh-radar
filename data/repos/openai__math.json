@@ -20,10 +20,10 @@
   "contributors": 4,
   "created_at": "2026-10-06",
   "description": "",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 2015,
+  "forks": 2036,
   "full_name": "openai/math",
   "homepage": null,
   "install_hint": false,
@@ -33,22 +33,20 @@
   "license": "Apache-2.0",
   "pushed_at": "2026-11-25",
   "readme_chars": 4411,
-  "readme_hash": "2d5ad51eba63",
+  "readme_hash": "927a4d7e55da",
   "score": {
     "excluded": null,
-    "flags": [
-      "单日暴涨"
-    ],
-    "gain7": 501,
+    "flags": [],
+    "gain7": 839,
     "gain7_source": "snapshot",
     "health": 0.7,
-    "included": false,
+    "included": true,
     "is_resource": false,
-    "persistence": 0.0,
+    "persistence": 0.3,
     "practical": 0.4,
-    "total": 37.5,
+    "total": 55.3,
     "trending_days_30": 0,
-    "velocity": 0.63
+    "velocity": 0.68
   },
   "stars": {
     "2026-10-29": 17026,
@@ -77,7 +75,8 @@
     "2026-11-21": 17620,
     "2026-11-22": 17649,
     "2026-11-23": 17679,
-    "2026-11-25": 18084
+    "2026-11-25": 18084,
+    "2026-11-26": 18427
   },
   "topics": [],
   "trending": {},

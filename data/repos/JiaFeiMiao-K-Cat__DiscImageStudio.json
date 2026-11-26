@@ -16,10 +16,10 @@
     ]
   },
   "archived": false,
-  "contributors": 13,
+  "contributors": 15,
   "created_at": "2026-08-23",
   "description": "",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-11-05",
   "fork": false,
   "forks": 423,
@@ -31,12 +31,12 @@
   "latest_release": "v1.6.0",
   "license": "GPL-3.0",
   "pushed_at": "2026-11-23",
-  "readme_chars": 10512,
-  "readme_hash": "a3e2cc91751c",
+  "readme_chars": 10551,
+  "readme_hash": "80799e54cc34",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 568,
+    "gain7": 566,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -67,7 +67,8 @@
     "2026-11-21": 10414,
     "2026-11-22": 10529,
     "2026-11-23": 10621,
-    "2026-11-25": 10813
+    "2026-11-25": 10813,
+    "2026-11-26": 10858
   },
   "topics": [],
   "trending": {

@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 258,
+  "contributors": 263,
   "created_at": "2026-09-30",
   "description": "VectorCraft: An open-source vector art tool written from scratch in pure Rust",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 5731,
+  "forks": 5742,
   "full_name": "storytold/vectorcraft",
   "homepage": "https://getartcraft.com/apps/vectorcraft",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-29",
   "latest_release": "v0.24.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-25",
-  "readme_chars": 28507,
-  "readme_hash": "0fd9f4a5acec",
+  "pushed_at": "2026-11-26",
+  "readme_chars": 28983,
+  "readme_hash": "2de6155849a8",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 229,
+    "gain7": 219,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.2,
+    "total": 70.1,
     "trending_days_30": 0,
-    "velocity": 0.55
+    "velocity": 0.54
   },
   "stars": {
     "2026-10-29": 10975,
@@ -75,7 +75,8 @@
     "2026-11-21": 11970,
     "2026-11-22": 12005,
     "2026-11-23": 12029,
-    "2026-11-25": 12090
+    "2026-11-25": 12090,
+    "2026-11-26": 12118
   },
   "topics": [
     "art",

@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-26",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "仅为进行中的实验性分支，无发布版本，需自备游戏文件，仅在一台机器上低帧率运行且存在崩溃问题，普通用户无法直接使用。",
+    "summary": "实验性分支，尝试在 Windows PC 上运行并渲染一款 Xbox Series 游戏。",
+    "tags": [
+      "Xbox兼容层",
+      "游戏移植",
+      "Rust",
+      "Direct3D 12",
+      "实验性"
+    ],
+    "usage": {
+      "completion_tokens": 351,
+      "cost_cny": 0.010094,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3630,
+      "prompt_tokens": 4270,
+      "reasoning_tokens": 247,
+      "total_tokens": 4621
+    }
+  },
+  "archived": false,
+  "contributors": 59,
+  "created_at": "2026-11-24",
+  "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+  "details_at": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "fork": false,
+  "forks": 937,
+  "full_name": "fxceless/victory-fork",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-26",
+  "latest_release": null,
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-26",
+  "readme_chars": 55938,
+  "readme_hash": "f824d539a259",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3171,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 57.0,
+    "trending_days_30": 0,
+    "velocity": 0.81
+  },
+  "stars": {
+    "2026-11-26": 3171
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/fxceless/victory-fork"
+}

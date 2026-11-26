@@ -1,0 +1,91 @@
+{
+  "ai": {
+    "at": "2026-11-26",
+    "category": "AI/Agent",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已提供 macOS/Windows/Linux 安装包、文档和 v0.9.7 发布版本，普通用户可下载安装并配置模型使用。",
+    "summary": "n8n 开源的本地个人 AI 代理，可操控浏览器和应用代你处理事务",
+    "tags": [
+      "AI代理",
+      "浏览器自动化",
+      "本地优先",
+      "Electron",
+      "个人助理"
+    ],
+    "usage": {
+      "completion_tokens": 217,
+      "cost_cny": 0.009568,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3903,
+      "prompt_tokens": 4543,
+      "reasoning_tokens": 120,
+      "total_tokens": 4760
+    }
+  },
+  "archived": false,
+  "contributors": 46,
+  "created_at": "2026-09-25",
+  "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
+  "details_at": "2026-11-26",
+  "first_seen": "2026-11-26",
+  "fork": false,
+  "forks": 587,
+  "full_name": "n8n-io/nod",
+  "homepage": "https://nod.n8n.io/",
+  "install_hint": false,
+  "language": "TypeScript",
+  "last_seen": "2026-11-26",
+  "latest_release": "nod-v0.9.7",
+  "license": "Apache-2.0",
+  "pushed_at": "2026-11-26",
+  "readme_chars": 19275,
+  "readme_hash": "a6a9cd6abbe0",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1008,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 73.8,
+    "trending_days_30": 1,
+    "velocity": 0.7
+  },
+  "stars": {
+    "2026-11-26": 3690
+  },
+  "topics": [
+    "agents",
+    "ai-agent",
+    "ai-assistant",
+    "anthropic",
+    "automation",
+    "browser-automation",
+    "computer-use",
+    "electron",
+    "llm",
+    "local-first",
+    "mcp",
+    "n8n",
+    "openai",
+    "personal-agent",
+    "personal-assistant",
+    "privacy",
+    "self-hosted",
+    "telegram-bot",
+    "typescript",
+    "whatsapp-bot"
+  ],
+  "trending": {
+    "2026-11-26": {
+      "weekly": 1008
+    }
+  },
+  "url": "https://github.com/n8n-io/nod"
+}

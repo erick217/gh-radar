@@ -32,7 +32,7 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 569,
+  "forks": 572,
   "full_name": "NVIDIA/SkillEvaluator",
   "homepage": "https://docs.nvidia.com/skills/skillevaluator/",
   "install_hint": true,
@@ -40,22 +40,24 @@
   "last_seen": "2026-11-19",
   "latest_release": "v1.0.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-26",
   "readme_chars": 15472,
   "readme_hash": "3b30fe7a4ace",
   "score": {
     "excluded": null,
-    "flags": [],
-    "gain7": 1095,
+    "flags": [
+      "单日暴涨"
+    ],
+    "gain7": 630,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.51,
+    "persistence": 0.21,
     "practical": 1.0,
-    "total": 79.9,
+    "total": 62.0,
     "trending_days_30": 3,
-    "velocity": 0.71
+    "velocity": 0.65
   },
   "stars": {
     "2026-11-16": 2020,
@@ -66,7 +68,8 @@
     "2026-11-21": 4290,
     "2026-11-22": 4347,
     "2026-11-23": 4424,
-    "2026-11-25": 4516
+    "2026-11-25": 4516,
+    "2026-11-26": 4567
   },
   "topics": [
     "agent-evaluation",

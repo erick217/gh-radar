@@ -23,12 +23,12 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-09",
   "fork": false,
-  "forks": 9181,
+  "forks": 9217,
   "full_name": "Minireel/HGhub",
   "homepage": "https://minireel.github.io/HGhub/",
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-11-25",
+  "last_seen": "2026-11-26",
   "latest_release": "v0.0.4",
   "license": "NOASSERTION",
   "pushed_at": "2026-11-24",
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1909,
+    "gain7": 1776,
     "gain7_source": "snapshot",
     "health": 0.85,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 73.9,
+    "total": 73.7,
     "trending_days_30": 0,
     "velocity": 0.76
   },
@@ -64,7 +64,8 @@
     "2026-11-21": 10518,
     "2026-11-22": 11263,
     "2026-11-23": 11584,
-    "2026-11-25": 11862
+    "2026-11-25": 11862,
+    "2026-11-26": 11975
   },
   "topics": [
     "android",

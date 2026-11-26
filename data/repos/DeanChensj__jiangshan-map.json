@@ -28,11 +28,11 @@
   "archived": false,
   "contributors": 18,
   "created_at": "2026-07-23",
-  "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+  "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 200+ territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 1145,
+  "forks": 1162,
   "full_name": "DeanChensj/jiangshan-map",
   "homepage": "https://deanchen.me/jiangshan-map/",
   "install_hint": true,
@@ -40,22 +40,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "v1.4.0",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-26",
   "readme_chars": 35213,
   "readme_hash": "8c9d3d4a06f2",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1463,
+    "gain7": 1026,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 79.6,
+    "total": 78.3,
     "trending_days_30": 2,
-    "velocity": 0.74
+    "velocity": 0.7
   },
   "stars": {
     "2026-11-17": 7449,
@@ -65,7 +65,8 @@
     "2026-11-21": 8610,
     "2026-11-22": 8696,
     "2026-11-23": 8897,
-    "2026-11-25": 9192
+    "2026-11-25": 9192,
+    "2026-11-26": 9324
   },
   "topics": [
     "ancient-china",

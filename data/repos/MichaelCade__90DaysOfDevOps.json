@@ -20,10 +20,10 @@
   "contributors": 146,
   "created_at": "2021-12-26",
   "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 6809,
+  "forks": 6810,
   "full_name": "MichaelCade/90DaysOfDevOps",
   "homepage": "https://www.90daysofdevops.com/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 27,
+    "gain7": 24,
     "gain7_source": "snapshot",
     "health": 0.6,
     "included": false,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 54.2,
+    "total": 53.8,
     "trending_days_30": 1,
-    "velocity": 0.34
+    "velocity": 0.33
   },
   "stars": {
     "2026-11-05": 30641,
@@ -68,7 +68,8 @@
     "2026-11-21": 30932,
     "2026-11-22": 30929,
     "2026-11-23": 30930,
-    "2026-11-25": 30947
+    "2026-11-25": 30947,
+    "2026-11-26": 30950
   },
   "topics": [
     "ansible",

@@ -20,10 +20,10 @@
   "contributors": 7,
   "created_at": "2026-01-27",
   "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 23368,
+  "forks": 23380,
   "full_name": "multica-ai/andrej-karpathy-skills",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1496,
+    "gain7": 1444,
     "gain7_source": "snapshot",
     "health": 0.3,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 0.6,
-    "total": 65.3,
+    "total": 65.2,
     "trending_days_30": 10,
-    "velocity": 0.74
+    "velocity": 0.73
   },
   "stars": {
     "2026-10-29": 226249,
@@ -75,7 +75,8 @@
     "2026-11-21": 234804,
     "2026-11-22": 234970,
     "2026-11-23": 235184,
-    "2026-11-25": 235598
+    "2026-11-25": 235598,
+    "2026-11-26": 235802
   },
   "topics": [],
   "trending": {

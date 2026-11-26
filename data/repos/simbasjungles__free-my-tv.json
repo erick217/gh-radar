@@ -20,10 +20,10 @@
   "contributors": 124,
   "created_at": "2026-10-19",
   "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1207,
+  "forks": 1209,
   "full_name": "simbasjungles/free-my-tv",
   "homepage": "https://freemytv.io",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 173,
+    "gain7": 166,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.2,
+    "total": 69.1,
     "trending_days_30": 0,
     "velocity": 0.52
   },
@@ -75,7 +75,8 @@
     "2026-11-21": 6571,
     "2026-11-22": 6600,
     "2026-11-23": 6628,
-    "2026-11-25": 6684
+    "2026-11-25": 6684,
+    "2026-11-26": 6702
   },
   "topics": [
     "android-tv",

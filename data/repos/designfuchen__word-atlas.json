@@ -23,7 +23,7 @@
   "details_at": "2026-11-20",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 1140,
+  "forks": 1150,
   "full_name": "designfuchen/word-atlas",
   "homepage": "https://0xlei.tech/words/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 300,
+    "gain7": 281,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 56.2,
+    "total": 55.9,
     "trending_days_30": 0,
-    "velocity": 0.58
+    "velocity": 0.57
   },
   "stars": {
     "2026-10-30": 3282,
@@ -74,7 +74,8 @@
     "2026-11-21": 5144,
     "2026-11-22": 5181,
     "2026-11-23": 5226,
-    "2026-11-25": 5307
+    "2026-11-25": 5307,
+    "2026-11-26": 5352
   },
   "topics": [
     "chinese",

@@ -20,10 +20,10 @@
   "contributors": 38,
   "created_at": "2026-10-16",
   "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
-  "details_at": "2026-11-19",
+  "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4758,
+  "forks": 4818,
   "full_name": "kingcharleslzy-ai/dsh-purge",
   "homepage": "https://github.com/kingcharleslzy-ai/dsh-purge/releases",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2552,
+    "gain7": 2361,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 78.7,
+    "total": 78.5,
     "trending_days_30": 0,
-    "velocity": 0.79
+    "velocity": 0.78
   },
   "stars": {
     "2026-10-29": 3346,
@@ -75,7 +75,8 @@
     "2026-11-21": 11092,
     "2026-11-22": 11419,
     "2026-11-23": 11798,
-    "2026-11-25": 12497
+    "2026-11-25": 12497,
+    "2026-11-26": 12767
   },
   "topics": [
     "agent-tools",

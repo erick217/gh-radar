@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3262,
+  "forks": 3265,
   "full_name": "deepseek-ai/DeepInfer",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 168,
+    "gain7": 165,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": false,
@@ -76,7 +76,8 @@
     "2026-11-22": 26305,
     "2026-11-23": 26329,
     "2026-11-25": 26370,
-    "2026-11-26": 26388
+    "2026-11-26": 26388,
+    "2026-11-27": 26407
   },
   "topics": [],
   "trending": {},

@@ -32,30 +32,30 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 789,
+  "forks": 835,
   "full_name": "mdiri-ai/SoduWork",
   "homepage": "https://www.soduwork.ai",
   "install_hint": false,
   "language": "JavaScript",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v1.13.20",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 25535,
   "readme_hash": "5686d6d9f6d3",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4686,
+    "gain7": 3580,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 80.9,
+    "total": 79.9,
     "trending_days_30": 0,
-    "velocity": 0.85
+    "velocity": 0.83
   },
   "stars": {
     "2026-11-19": 3547,
@@ -64,7 +64,8 @@
     "2026-11-22": 6545,
     "2026-11-23": 6896,
     "2026-11-25": 7920,
-    "2026-11-26": 8233
+    "2026-11-26": 8233,
+    "2026-11-27": 8448
   },
   "topics": [
     "agent-harness",

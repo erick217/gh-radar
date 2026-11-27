@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 2206,
+  "forks": 2212,
   "full_name": "Thysrael/Horizon",
   "homepage": "https://www.horizon1123.top",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 25262,
   "readme_hash": "c0ce66446827",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 379,
+    "gain7": 338,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 65.9,
+    "total": 65.5,
     "trending_days_30": 1,
-    "velocity": 0.6
+    "velocity": 0.59
   },
   "stars": {
     "2026-11-05": 12736,
@@ -69,7 +69,8 @@
     "2026-11-22": 14893,
     "2026-11-23": 14983,
     "2026-11-25": 15126,
-    "2026-11-26": 15149
+    "2026-11-26": 15149,
+    "2026-11-27": 15167
   },
   "topics": [
     "aggregator",

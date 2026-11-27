@@ -17,27 +17,27 @@
     ]
   },
   "archived": false,
-  "contributors": 5,
+  "contributors": 8,
   "created_at": "2026-10-15",
   "description": "Sound effects for coding agents: ask in plain words and earshot renders the sound in code. CPU-only, no audio model, open source.",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 418,
+  "forks": 426,
   "full_name": "Leonxlnx/earshot",
   "homepage": "https://leonxlnx.github.io/earshot-site/",
   "install_hint": true,
   "language": "Python",
   "last_seen": "2026-11-13",
-  "latest_release": "v0.4.1",
+  "latest_release": "v1.0.0",
   "license": "MIT",
   "pushed_at": "2026-11-22",
-  "readme_chars": 32598,
-  "readme_hash": "5711df097459",
+  "readme_chars": 40209,
+  "readme_hash": "ef48b0a01e01",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 660,
+    "gain7": 650,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 73.9,
     "trending_days_30": 0,
-    "velocity": 0.66
+    "velocity": 0.65
   },
   "stars": {
     "2026-10-30": 3265,
@@ -75,7 +75,8 @@
     "2026-11-22": 5499,
     "2026-11-23": 5582,
     "2026-11-25": 5748,
-    "2026-11-26": 5845
+    "2026-11-26": 5845,
+    "2026-11-27": 5923
   },
   "topics": [
     "ai-agents",

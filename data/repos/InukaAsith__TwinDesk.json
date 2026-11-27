@@ -20,10 +20,10 @@
   "contributors": 28,
   "created_at": "2026-10-14",
   "description": "All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux , Android, Web and ios / ipados . Free and open source. No account, no cloud, and no shared network needed.",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 379,
+  "forks": 385,
   "full_name": "InukaAsith/TwinDesk",
   "homepage": "https://twin-desk.vercel.app",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 502,
+    "gain7": 506,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -68,7 +68,8 @@
     "2026-11-22": 4387,
     "2026-11-23": 4449,
     "2026-11-25": 4529,
-    "2026-11-26": 4741
+    "2026-11-26": 4741,
+    "2026-11-27": 4795
   },
   "topics": [
     "android",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 45680,
+  "forks": 45759,
   "full_name": "affaan-m/ECC",
   "homepage": "https://ecc.tools",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4120,
+    "gain7": 4043,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -74,7 +74,8 @@
     "2026-11-22": 308532,
     "2026-11-23": 309198,
     "2026-11-25": 310417,
-    "2026-11-26": 310935
+    "2026-11-26": 310935,
+    "2026-11-27": 311474
   },
   "topics": [
     "ai-agents",

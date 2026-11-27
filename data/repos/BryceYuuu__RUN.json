@@ -28,10 +28,10 @@
   "homepage": null,
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": null,
   "license": "CC-BY-SA-4.0",
-  "pushed_at": "2026-11-07",
+  "pushed_at": "2026-11-26",
   "readme_chars": 17237,
   "readme_hash": "ae8cc963ac42",
   "score": {
@@ -69,7 +69,8 @@
     "2026-11-22": 5008,
     "2026-11-23": 5021,
     "2026-11-25": 5057,
-    "2026-11-26": 5072
+    "2026-11-26": 5072,
+    "2026-11-27": 5088
   },
   "topics": [
     "china",

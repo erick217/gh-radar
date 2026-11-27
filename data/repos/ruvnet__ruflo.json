@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 9712,
+  "forks": 9714,
   "full_name": "ruvnet/ruflo",
   "homepage": "https://cognitum.one/ruPro",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-31",
   "latest_release": "v3.80.8",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 35089,
   "readme_hash": "21e38d8f7675",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 370,
+    "gain7": 402,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 76.1,
+    "total": 76.4,
     "trending_days_30": 3,
-    "velocity": 0.6
+    "velocity": 0.61
   },
   "stars": {
     "2026-10-29": 80076,
@@ -76,7 +76,8 @@
     "2026-11-22": 82245,
     "2026-11-23": 82301,
     "2026-11-25": 82393,
-    "2026-11-26": 82440
+    "2026-11-26": 82440,
+    "2026-11-27": 82529
   },
   "topics": [
     "agent-memory",

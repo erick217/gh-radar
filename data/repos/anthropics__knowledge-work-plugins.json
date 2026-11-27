@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 4099,
+  "forks": 4120,
   "full_name": "anthropics/knowledge-work-plugins",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 454,
+    "gain7": 542,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 0.8,
-    "total": 65.3,
+    "total": 66.0,
     "trending_days_30": 3,
-    "velocity": 0.62
+    "velocity": 0.64
   },
   "stars": {
     "2026-10-29": 33774,
@@ -76,7 +76,8 @@
     "2026-11-22": 36659,
     "2026-11-23": 36724,
     "2026-11-25": 36843,
-    "2026-11-26": 36996
+    "2026-11-26": 36996,
+    "2026-11-27": 37136
   },
   "topics": [],
   "trending": {

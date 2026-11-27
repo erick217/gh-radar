@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3107,
+  "forks": 3117,
   "full_name": "seedds/nxnative",
   "homepage": null,
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-11",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 12133,
   "readme_hash": "e0788884c7e8",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 568,
+    "gain7": 534,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 65.9,
+    "total": 65.7,
     "trending_days_30": 0,
-    "velocity": 0.64
+    "velocity": 0.63
   },
   "stars": {
     "2026-10-29": 9397,
@@ -76,7 +76,8 @@
     "2026-11-22": 16435,
     "2026-11-23": 16531,
     "2026-11-25": 16688,
-    "2026-11-26": 16763
+    "2026-11-26": 16763,
+    "2026-11-27": 16812
   },
   "topics": [],
   "trending": {},

@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 1209,
+  "forks": 1212,
   "full_name": "simbasjungles/free-my-tv",
   "homepage": "https://freemytv.io",
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 166,
+    "gain7": 162,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 69.1,
+    "total": 69.0,
     "trending_days_30": 0,
-    "velocity": 0.52
+    "velocity": 0.51
   },
   "stars": {
     "2026-10-29": 5326,
@@ -76,7 +76,8 @@
     "2026-11-22": 6600,
     "2026-11-23": 6628,
     "2026-11-25": 6684,
-    "2026-11-26": 6702
+    "2026-11-26": 6702,
+    "2026-11-27": 6718
   },
   "topics": [
     "android-tv",

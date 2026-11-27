@@ -1,0 +1,91 @@
+{
+  "ai": {
+    "at": "2026-11-27",
+    "category": "AI/Agent",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的 Agent Skills 插件，兼容多种代理，并有明确安装命令和发布版本。",
+    "summary": "让 AI 代理通过 Agent Skills 读写 Obsidian 笔记与开放格式。",
+    "tags": [
+      "Obsidian",
+      "Agent Skills",
+      "Markdown",
+      "JSON Canvas",
+      "AI代理"
+    ],
+    "usage": {
+      "completion_tokens": 520,
+      "cost_cny": 0.007262,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 1538,
+      "prompt_tokens": 2178,
+      "reasoning_tokens": 439,
+      "total_tokens": 2698
+    }
+  },
+  "archived": false,
+  "contributors": 28,
+  "created_at": "2026-01-02",
+  "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
+  "details_at": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "fork": false,
+  "forks": 3852,
+  "full_name": "obsidianmd/obsidian-skills",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Shell",
+  "last_seen": "2026-11-27",
+  "latest_release": "1.2.3",
+  "license": "MIT",
+  "pushed_at": "2026-11-26",
+  "readme_chars": 5614,
+  "readme_hash": "ba2bde41be3b",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 704,
+    "gain7_source": "trending-weekly",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.22,
+    "practical": 1.0,
+    "total": 72.6,
+    "trending_days_30": 1,
+    "velocity": 0.66
+  },
+  "stars": {
+    "2026-11-27": 54151
+  },
+  "topics": [
+    "agents",
+    "agentskills",
+    "bases",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "cli",
+    "codex",
+    "defuddle",
+    "grok-bot",
+    "hermes",
+    "jsoncanvas",
+    "knap",
+    "markdown",
+    "md",
+    "obsidian",
+    "openclaw",
+    "opencode",
+    "skills"
+  ],
+  "trending": {
+    "2026-11-27": {
+      "weekly": 704
+    }
+  },
+  "url": "https://github.com/obsidianmd/obsidian-skills"
+}

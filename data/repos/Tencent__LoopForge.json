@@ -32,7 +32,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 875,
+  "forks": 867,
   "full_name": "Tencent/LoopForge",
   "homepage": "https://loopforge.cn",
   "install_hint": false,
@@ -40,22 +40,24 @@
   "last_seen": "2026-11-18",
   "latest_release": "v0.4.1-rc.1",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 23032,
   "readme_hash": "1b48ff33b72a",
   "score": {
     "excluded": null,
-    "flags": [],
-    "gain7": 2197,
+    "flags": [
+      "单日暴涨"
+    ],
+    "gain7": 912,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.58,
+    "persistence": 0.28,
     "practical": 1.0,
-    "total": 83.8,
+    "total": 64.7,
     "trending_days_30": 4,
-    "velocity": 0.78
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-14": 792,
@@ -69,7 +71,8 @@
     "2026-11-22": 5562,
     "2026-11-23": 5789,
     "2026-11-25": 6063,
-    "2026-11-26": 6146
+    "2026-11-26": 6146,
+    "2026-11-27": 6062
   },
   "topics": [
     "agent-orchestration",

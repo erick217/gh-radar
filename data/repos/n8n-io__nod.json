@@ -32,33 +32,34 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-26",
   "fork": false,
-  "forks": 587,
+  "forks": 624,
   "full_name": "n8n-io/nod",
   "homepage": "https://nod.n8n.io/",
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "nod-v0.9.7",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 19275,
   "readme_hash": "a6a9cd6abbe0",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1008,
+    "gain7": 1165,
     "gain7_source": "trending-weekly",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 73.8,
-    "trending_days_30": 1,
-    "velocity": 0.7
+    "total": 75.8,
+    "trending_days_30": 2,
+    "velocity": 0.71
   },
   "stars": {
-    "2026-11-26": 3690
+    "2026-11-26": 3690,
+    "2026-11-27": 4127
   },
   "topics": [
     "agents",
@@ -85,6 +86,9 @@
   "trending": {
     "2026-11-26": {
       "weekly": 1008
+    },
+    "2026-11-27": {
+      "weekly": 1165
     }
   },
   "url": "https://github.com/n8n-io/nod"

@@ -26,35 +26,35 @@
     }
   },
   "archived": false,
-  "contributors": 276,
+  "contributors": 294,
   "created_at": "2022-07-31",
   "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 5730,
+  "forks": 5777,
   "full_name": "toeverything/AFFiNE",
   "homepage": "https://affine.pro",
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-26",
-  "latest_release": "v2026.11.18-canary.905",
+  "last_seen": "2026-11-27",
+  "latest_release": "v2026.11.26-canary.905",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-26",
-  "readme_chars": 16251,
-  "readme_hash": "8855ea80f529",
+  "pushed_at": "2026-11-27",
+  "readme_chars": 16189,
+  "readme_hash": "fbcfeb120992",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3874,
-    "gain7_source": "snapshot-partial",
+    "gain7": 3778,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 88.6,
-    "trending_days_30": 6,
+    "total": 89.9,
+    "trending_days_30": 7,
     "velocity": 0.83
   },
   "stars": {
@@ -63,7 +63,8 @@
     "2026-11-22": 76444,
     "2026-11-23": 77038,
     "2026-11-25": 78186,
-    "2026-11-26": 78692
+    "2026-11-26": 78692,
+    "2026-11-27": 79149
   },
   "topics": [
     "app",
@@ -103,6 +104,9 @@
     },
     "2026-11-26": {
       "daily": 574
+    },
+    "2026-11-27": {
+      "daily": 525
     }
   },
   "url": "https://github.com/toeverything/AFFiNE"

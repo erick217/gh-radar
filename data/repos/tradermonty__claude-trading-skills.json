@@ -23,29 +23,29 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1559,
+  "forks": 1565,
   "full_name": "tradermonty/claude-trading-skills",
   "homepage": "https://tradermonty.github.io/claude-trading-skills/",
   "install_hint": false,
   "language": "Python",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 44078,
   "readme_hash": "aabe8bae8bfb",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1382,
+    "gain7": 1342,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 83.1,
-    "trending_days_30": 12,
+    "total": 83.0,
+    "trending_days_30": 13,
     "velocity": 0.73
   },
   "stars": {
@@ -60,7 +60,8 @@
     "2026-11-22": 7676,
     "2026-11-23": 7855,
     "2026-11-25": 8379,
-    "2026-11-26": 8512
+    "2026-11-26": 8512,
+    "2026-11-27": 8656
   },
   "topics": [],
   "trending": {
@@ -99,6 +100,9 @@
     },
     "2026-11-26": {
       "weekly": 1422
+    },
+    "2026-11-27": {
+      "weekly": 1381
     }
   },
   "url": "https://github.com/tradermonty/claude-trading-skills"

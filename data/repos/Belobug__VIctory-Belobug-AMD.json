@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-27",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "需自备游戏文件、特定 Windows/D3D12 硬件并从源码构建，当前仍处实验阶段且帧率未达标，普通用户难以直接使用。",
+    "summary": "用移植方式让某 Xbox Series 游戏在 Windows 原生运行的 Rust 兼容层",
+    "tags": [
+      "Xbox兼容层",
+      "Rust",
+      "Direct3D 12",
+      "游戏移植",
+      "AMD"
+    ],
+    "usage": {
+      "completion_tokens": 605,
+      "cost_cny": 0.012152,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3643,
+      "prompt_tokens": 4283,
+      "reasoning_tokens": 505,
+      "total_tokens": 4888
+    }
+  },
+  "archived": false,
+  "contributors": 131,
+  "created_at": "2026-11-25",
+  "description": "",
+  "details_at": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "fork": false,
+  "forks": 1063,
+  "full_name": "Belobug/VIctory-Belobug-AMD",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Rust",
+  "last_seen": "2026-11-27",
+  "latest_release": null,
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-26",
+  "readme_chars": 11769,
+  "readme_hash": "dbca8f355fd4",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3671,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.4,
+    "total": 57.5,
+    "trending_days_30": 0,
+    "velocity": 0.83
+  },
+  "stars": {
+    "2026-11-27": 3671
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/Belobug/VIctory-Belobug-AMD"
+}

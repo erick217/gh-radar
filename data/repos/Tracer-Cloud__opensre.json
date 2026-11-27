@@ -26,35 +26,35 @@
     }
   },
   "archived": false,
-  "contributors": 370,
+  "contributors": 371,
   "created_at": "2026-01-13",
   "description": "The open-source agent for CI/CD reliability.",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 2039,
+  "forks": 2085,
   "full_name": "Tracer-Cloud/opensre",
   "homepage": "https://opensre.com",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-26",
-  "latest_release": "v0.1.2026.11.20",
+  "last_seen": "2026-11-27",
+  "latest_release": "v0.1.2026.11.27",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-26",
-  "readme_chars": 21973,
-  "readme_hash": "da8c87456728",
+  "pushed_at": "2026-11-27",
+  "readme_chars": 22398,
+  "readme_hash": "e44c7688b79d",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2750,
-    "gain7_source": "snapshot-partial",
+    "gain7": 2681,
+    "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.72,
+    "persistence": 0.79,
     "practical": 1.0,
-    "total": 87.4,
-    "trending_days_30": 6,
+    "total": 88.7,
+    "trending_days_30": 7,
     "velocity": 0.8
   },
   "stars": {
@@ -63,7 +63,8 @@
     "2026-11-22": 14102,
     "2026-11-23": 14560,
     "2026-11-25": 15324,
-    "2026-11-26": 15639
+    "2026-11-26": 15639,
+    "2026-11-27": 15963
   },
   "topics": [
     "alerting",
@@ -100,6 +101,9 @@
     },
     "2026-11-26": {
       "daily": 348
+    },
+    "2026-11-27": {
+      "daily": 327
     }
   },
   "url": "https://github.com/Tracer-Cloud/opensre"

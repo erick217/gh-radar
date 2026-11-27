@@ -32,34 +32,35 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-25",
   "fork": false,
-  "forks": 293,
+  "forks": 313,
   "full_name": "EL4CTEO/fast-anything",
   "homepage": "https://www.npmjs.com/package/@el4cteo/fast-anything",
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v0.8.7",
   "license": "MIT",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-26",
   "readme_chars": 8806,
   "readme_hash": "236dd3fb3faf",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4088,
+    "gain7": 4350,
     "gain7_source": "age",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.15,
     "practical": 1.0,
-    "total": 77.4,
+    "total": 77.6,
     "trending_days_30": 0,
-    "velocity": 0.84
+    "velocity": 0.85
   },
   "stars": {
     "2026-11-25": 3767,
-    "2026-11-26": 4088
+    "2026-11-26": 4088,
+    "2026-11-27": 4350
   },
   "topics": [
     "agent-skills",

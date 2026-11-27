@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 262,
+  "forks": 265,
   "full_name": "benjitaylor/skills",
   "homepage": null,
   "install_hint": true,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 412,
+    "gain7": 391,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.6,
-    "total": 56.8,
+    "total": 56.6,
     "trending_days_30": 0,
-    "velocity": 0.61
+    "velocity": 0.6
   },
   "stars": {
     "2026-11-12": 3135,
@@ -62,7 +62,8 @@
     "2026-11-22": 3976,
     "2026-11-23": 4023,
     "2026-11-25": 4155,
-    "2026-11-26": 4200
+    "2026-11-26": 4200,
+    "2026-11-27": 4229
   },
   "topics": [],
   "trending": {},

@@ -20,10 +20,10 @@
   "contributors": 1,
   "created_at": "2026-10-25",
   "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-10-30",
   "fork": false,
-  "forks": 1150,
+  "forks": 1158,
   "full_name": "designfuchen/word-atlas",
   "homepage": "https://0xlei.tech/words/",
   "install_hint": false,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 281,
+    "gain7": 285,
     "gain7_source": "snapshot",
     "health": 0.4,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 55.9,
+    "total": 56.0,
     "trending_days_30": 0,
     "velocity": 0.57
   },
@@ -75,7 +75,8 @@
     "2026-11-22": 5181,
     "2026-11-23": 5226,
     "2026-11-25": 5307,
-    "2026-11-26": 5352
+    "2026-11-26": 5352,
+    "2026-11-27": 5396
   },
   "topics": [
     "chinese",

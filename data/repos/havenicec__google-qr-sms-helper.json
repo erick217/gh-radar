@@ -32,7 +32,7 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-23",
   "fork": false,
-  "forks": 1020,
+  "forks": 1093,
   "full_name": "havenicec/google-qr-sms-helper",
   "homepage": null,
   "install_hint": false,
@@ -46,21 +46,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5903,
+    "gain7": 5688,
     "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 0.8,
-    "total": 67.2,
+    "total": 70.1,
     "trending_days_30": 0,
-    "velocity": 0.88
+    "velocity": 0.87
   },
   "stars": {
     "2026-11-23": 3722,
     "2026-11-25": 5532,
-    "2026-11-26": 6252
+    "2026-11-26": 6252,
+    "2026-11-27": 6972
   },
   "topics": [
     "browser-automation",

@@ -17,10 +17,10 @@
     ]
   },
   "archived": false,
-  "contributors": 235,
+  "contributors": 236,
   "created_at": "2014-03-25",
   "description": "Extremely Fast Compression algorithm",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-11-06",
   "fork": false,
   "forks": 1674,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-07",
   "latest_release": "v1.11.1",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-26",
-  "readme_chars": 5343,
-  "readme_hash": "940ce0df6cd4",
+  "pushed_at": "2026-11-27",
+  "readme_chars": 5466,
+  "readme_hash": "d93400420f16",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 66,
+    "gain7": 67,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -46,7 +46,7 @@
     "practical": 1.0,
     "total": 68.7,
     "trending_days_30": 2,
-    "velocity": 0.42
+    "velocity": 0.43
   },
   "stars": {
     "2026-11-06": 12479,
@@ -68,7 +68,8 @@
     "2026-11-22": 12829,
     "2026-11-23": 12834,
     "2026-11-25": 12850,
-    "2026-11-26": 12866
+    "2026-11-26": 12866,
+    "2026-11-27": 12876
   },
   "topics": [
     "c",

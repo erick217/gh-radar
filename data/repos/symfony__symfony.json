@@ -22,7 +22,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 9963,
+  "forks": 9965,
   "full_name": "symfony/symfony",
   "homepage": "https://symfony.com",
   "install_hint": false,
@@ -30,22 +30,22 @@
   "last_seen": "2026-11-07",
   "latest_release": "v8.2.0-BETA2",
   "license": "MIT",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-27",
   "readme_chars": 3182,
   "readme_hash": "4d9fba60fca2",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 13,
+    "gain7": 8,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 61.7,
+    "total": 60.2,
     "trending_days_30": 1,
-    "velocity": 0.27
+    "velocity": 0.22
   },
   "stars": {
     "2026-11-07": 31479,
@@ -66,7 +66,8 @@
     "2026-11-22": 31457,
     "2026-11-23": 31459,
     "2026-11-25": 31458,
-    "2026-11-26": 31459
+    "2026-11-26": 31459,
+    "2026-11-27": 31468
   },
   "topics": [
     "bundle",

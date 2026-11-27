@@ -23,7 +23,7 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-02",
   "fork": false,
-  "forks": 602,
+  "forks": 613,
   "full_name": "anomalyco/hex",
   "homepage": "https://anoma.ly/hex",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-11",
   "latest_release": "ios-beta-fd4e98bb8b82",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 5489,
   "readme_hash": "6272403cde3c",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1234,
+    "gain7": 1237,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -72,7 +72,8 @@
     "2026-11-22": 8018,
     "2026-11-23": 8191,
     "2026-11-25": 8612,
-    "2026-11-26": 8739
+    "2026-11-26": 8739,
+    "2026-11-27": 8862
   },
   "topics": [
     "dictation",

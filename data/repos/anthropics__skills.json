@@ -23,7 +23,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 23472,
+  "forks": 23549,
   "full_name": "anthropics/skills",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3327,
+    "gain7": 3405,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -74,7 +74,8 @@
     "2026-11-22": 198649,
     "2026-11-23": 199177,
     "2026-11-25": 200193,
-    "2026-11-26": 200738
+    "2026-11-26": 200738,
+    "2026-11-27": 201240
   },
   "topics": [
     "agent-skills"

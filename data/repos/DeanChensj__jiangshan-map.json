@@ -32,7 +32,7 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 1162,
+  "forks": 1177,
   "full_name": "DeanChensj/jiangshan-map",
   "homepage": "https://deanchen.me/jiangshan-map/",
   "install_hint": true,
@@ -40,22 +40,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "v1.4.0",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 35213,
   "readme_hash": "8c9d3d4a06f2",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1026,
+    "gain7": 901,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 78.3,
+    "total": 77.8,
     "trending_days_30": 2,
-    "velocity": 0.7
+    "velocity": 0.69
   },
   "stars": {
     "2026-11-17": 7449,
@@ -66,7 +66,8 @@
     "2026-11-22": 8696,
     "2026-11-23": 8897,
     "2026-11-25": 9192,
-    "2026-11-26": 9324
+    "2026-11-26": 9324,
+    "2026-11-27": 9429
   },
   "topics": [
     "ancient-china",

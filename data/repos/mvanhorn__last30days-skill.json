@@ -32,29 +32,29 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 6650,
+  "forks": 6717,
   "full_name": "mvanhorn/last30days-skill",
   "homepage": null,
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v4.6.0",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 35478,
   "readme_hash": "3d53852bd93b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5015,
+    "gain7": 4978,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.93,
+    "persistence": 1.0,
     "practical": 1.0,
-    "total": 93.7,
-    "trending_days_30": 9,
+    "total": 95.1,
+    "trending_days_30": 10,
     "velocity": 0.86
   },
   "stars": {
@@ -66,7 +66,8 @@
     "2026-11-22": 72215,
     "2026-11-23": 73027,
     "2026-11-25": 74643,
-    "2026-11-26": 75383
+    "2026-11-26": 75383,
+    "2026-11-27": 76031
   },
   "topics": [
     "agent-skills",
@@ -124,6 +125,10 @@
     "2026-11-26": {
       "daily": 945,
       "weekly": 5302
+    },
+    "2026-11-27": {
+      "daily": 759,
+      "weekly": 5090
     }
   },
   "url": "https://github.com/mvanhorn/last30days-skill"

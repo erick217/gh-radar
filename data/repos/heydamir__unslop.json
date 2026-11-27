@@ -23,12 +23,12 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 1359,
+  "forks": 1399,
   "full_name": "heydamir/unslop",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": null,
   "license": "CC-BY-4.0",
   "pushed_at": "2026-11-15",
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3469,
+    "gain7": 3508,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
@@ -73,7 +73,8 @@
     "2026-11-22": 19886,
     "2026-11-23": 20489,
     "2026-11-25": 21439,
-    "2026-11-26": 21895
+    "2026-11-26": 21895,
+    "2026-11-27": 22358
   },
   "topics": [],
   "trending": {},

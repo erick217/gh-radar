@@ -32,30 +32,30 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-15",
   "fork": false,
-  "forks": 962,
+  "forks": 979,
   "full_name": "RoutineMiku/apkstart",
   "homepage": null,
   "install_hint": true,
   "language": "JavaScript",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v0.6.2",
   "license": "MIT",
-  "pushed_at": "2026-11-22",
+  "pushed_at": "2026-11-26",
   "readme_chars": 14399,
   "readme_hash": "2c26ccc22f43",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1849,
+    "gain7": 1547,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 77.6,
+    "total": 77.0,
     "trending_days_30": 0,
-    "velocity": 0.76
+    "velocity": 0.74
   },
   "stars": {
     "2026-11-15": 4177,
@@ -68,7 +68,8 @@
     "2026-11-22": 9089,
     "2026-11-23": 9339,
     "2026-11-25": 9779,
-    "2026-11-26": 9908
+    "2026-11-26": 9908,
+    "2026-11-27": 10033
   },
   "topics": [
     "android",

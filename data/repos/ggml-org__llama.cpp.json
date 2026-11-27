@@ -17,27 +17,27 @@
     ]
   },
   "archived": false,
-  "contributors": 2281,
+  "contributors": 2321,
   "created_at": "2023-03-10",
   "description": "LLM inference in C/C++",
-  "details_at": "2026-11-20",
+  "details_at": "2026-11-27",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 26105,
+  "forks": 26161,
   "full_name": "ggml-org/llama.cpp",
   "homepage": "https://llama.app",
   "install_hint": true,
   "language": "C++",
   "last_seen": "2026-11-13",
-  "latest_release": "b12559",
+  "latest_release": "b12810",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 6240,
   "readme_hash": "5ba43d3d2cba",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 669,
+    "gain7": 667,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -61,7 +61,8 @@
     "2026-11-22": 135983,
     "2026-11-23": 136165,
     "2026-11-25": 136202,
-    "2026-11-26": 136331
+    "2026-11-26": 136331,
+    "2026-11-27": 136468
   },
   "topics": [
     "ggml"

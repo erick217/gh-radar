@@ -23,7 +23,7 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-01",
   "fork": false,
-  "forks": 1561,
+  "forks": 1593,
   "full_name": "ccch1mneyyy/dsh-Go",
   "homepage": null,
   "install_hint": false,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-23",
   "latest_release": "v1.3.0",
   "license": "AGPL-3.0",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 14742,
   "readme_hash": "8fb07f542249",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4692,
+    "gain7": 4432,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 69.4,
+    "total": 69.2,
     "trending_days_30": 0,
     "velocity": 0.85
   },
@@ -73,7 +73,8 @@
     "2026-11-22": 29824,
     "2026-11-23": 30460,
     "2026-11-25": 31622,
-    "2026-11-26": 32319
+    "2026-11-26": 32319,
+    "2026-11-27": 32992
   },
   "topics": [
     "ai-agent",

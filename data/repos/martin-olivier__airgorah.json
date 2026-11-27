@@ -32,7 +32,7 @@
   "details_at": "2026-11-21",
   "first_seen": "2026-11-14",
   "fork": false,
-  "forks": 1132,
+  "forks": 1134,
   "full_name": "martin-olivier/airgorah",
   "homepage": "https://crates.io/crates/airgorah",
   "install_hint": false,
@@ -46,14 +46,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 411,
+    "gain7": 400,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 75.1,
+    "total": 75.0,
     "trending_days_30": 2,
     "velocity": 0.61
   },
@@ -69,7 +69,8 @@
     "2026-11-22": 6814,
     "2026-11-23": 6919,
     "2026-11-25": 7034,
-    "2026-11-26": 7074
+    "2026-11-26": 7074,
+    "2026-11-27": 7100
   },
   "topics": [
     "gui",

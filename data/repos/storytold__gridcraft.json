@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 3617,
+  "forks": 3621,
   "full_name": "storytold/gridcraft",
   "homepage": null,
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-05",
   "latest_release": "v0.19.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 26152,
   "readme_hash": "f8fedfa38ba6",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 172,
+    "gain7": 156,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.8,
-    "total": 65.2,
+    "total": 64.9,
     "trending_days_30": 0,
-    "velocity": 0.52
+    "velocity": 0.51
   },
   "stars": {
     "2026-10-29": 6771,
@@ -76,7 +76,8 @@
     "2026-11-22": 7740,
     "2026-11-23": 7765,
     "2026-11-25": 7805,
-    "2026-11-26": 7831
+    "2026-11-26": 7831,
+    "2026-11-27": 7853
   },
   "topics": [],
   "trending": {},

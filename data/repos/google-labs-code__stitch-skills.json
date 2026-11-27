@@ -32,12 +32,12 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 1547,
+  "forks": 1580,
   "full_name": "google-labs-code/stitch-skills",
   "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
   "install_hint": true,
   "language": "TypeScript",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v1.0",
   "license": "Apache-2.0",
   "pushed_at": "2026-11-24",
@@ -46,7 +46,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 2580,
+    "gain7": 2588,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -54,7 +54,7 @@
     "persistence": 1.0,
     "practical": 1.0,
     "total": 92.8,
-    "trending_days_30": 10,
+    "trending_days_30": 11,
     "velocity": 0.79
   },
   "stars": {
@@ -67,7 +67,8 @@
     "2026-11-22": 11608,
     "2026-11-23": 12066,
     "2026-11-25": 12808,
-    "2026-11-26": 13109
+    "2026-11-26": 13109,
+    "2026-11-27": 13420
   },
   "topics": [],
   "trending": {
@@ -108,6 +109,10 @@
     "2026-11-26": {
       "daily": 355,
       "weekly": 2616
+    },
+    "2026-11-27": {
+      "daily": 309,
+      "weekly": 2619
     }
   },
   "url": "https://github.com/google-labs-code/stitch-skills"

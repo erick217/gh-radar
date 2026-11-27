@@ -40,22 +40,22 @@
   "last_seen": "2026-11-26",
   "latest_release": "v0.2.0-6",
   "license": "MIT",
-  "pushed_at": "2026-11-10",
+  "pushed_at": "2026-11-27",
   "readme_chars": 16894,
   "readme_hash": "9268bd686972",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 87,
+    "gain7": 73,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 66.8,
+    "total": 66.2,
     "trending_days_30": 0,
-    "velocity": 0.45
+    "velocity": 0.43
   },
   "stars": {
     "2026-11-19": 2870,
@@ -64,7 +64,8 @@
     "2026-11-22": 2921,
     "2026-11-23": 2930,
     "2026-11-25": 2949,
-    "2026-11-26": 2957
+    "2026-11-26": 2957,
+    "2026-11-27": 2971
   },
   "topics": [
     "cli",

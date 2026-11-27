@@ -32,29 +32,29 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 948,
+  "forks": 974,
   "full_name": "kajisho5/ffmpeg-skill",
   "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v4.7.1",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 133644,
   "readme_hash": "108dc29557df",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3185,
+    "gain7": 3165,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 89.3,
-    "trending_days_30": 7,
+    "total": 90.7,
+    "trending_days_30": 8,
     "velocity": 0.81
   },
   "stars": {
@@ -66,7 +66,8 @@
     "2026-11-22": 9399,
     "2026-11-23": 9933,
     "2026-11-25": 10878,
-    "2026-11-26": 11282
+    "2026-11-26": 11282,
+    "2026-11-27": 11696
   },
   "topics": [
     "agent-skills",
@@ -111,6 +112,9 @@
     },
     "2026-11-26": {
       "weekly": 3048
+    },
+    "2026-11-27": {
+      "weekly": 3229
     }
   },
   "url": "https://github.com/kajisho5/ffmpeg-skill"

@@ -32,7 +32,7 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 2095,
+  "forks": 2098,
   "full_name": "ggml-org/ggml",
   "homepage": "https://github.com/ggml-org",
   "install_hint": false,
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 94,
+    "gain7": 105,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.8,
-    "total": 64.5,
+    "total": 64.9,
     "trending_days_30": 1,
-    "velocity": 0.46
+    "velocity": 0.47
   },
   "stars": {
     "2026-11-16": 16013,
@@ -67,7 +67,8 @@
     "2026-11-22": 16151,
     "2026-11-23": 16166,
     "2026-11-25": 16198,
-    "2026-11-26": 16212
+    "2026-11-26": 16212,
+    "2026-11-27": 16231
   },
   "topics": [
     "machine-learning"

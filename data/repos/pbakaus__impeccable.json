@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 7011,
+  "forks": 7057,
   "full_name": "pbakaus/impeccable",
   "homepage": "https://impeccable.style",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-08",
   "latest_release": "skill-v4.11.1",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 19686,
   "readme_hash": "9f6291a1f92e",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4054,
+    "gain7": 4058,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -76,7 +76,8 @@
     "2026-11-22": 114664,
     "2026-11-23": 115254,
     "2026-11-25": 116530,
-    "2026-11-26": 117157
+    "2026-11-26": 117157,
+    "2026-11-27": 117741
   },
   "topics": [
     "agent-skills",

@@ -32,29 +32,29 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 2405,
+  "forks": 2563,
   "full_name": "elementalsouls/Claude-BugHunter",
   "homepage": "https://elementalsouls.github.io/Claude-BugHunter/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-26",
+  "last_seen": "2026-11-27",
   "latest_release": "v2.1",
   "license": "MIT",
-  "pushed_at": "2026-11-26",
+  "pushed_at": "2026-11-27",
   "readme_chars": 23047,
   "readme_hash": "f527ffb3ee02",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 11975,
+    "gain7": 12125,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.93,
+    "persistence": 1.0,
     "practical": 1.0,
-    "total": 96.8,
-    "trending_days_30": 9,
+    "total": 98.2,
+    "trending_days_30": 10,
     "velocity": 0.95
   },
   "stars": {
@@ -67,7 +67,8 @@
     "2026-11-22": 16502,
     "2026-11-23": 18566,
     "2026-11-25": 22100,
-    "2026-11-26": 23602
+    "2026-11-26": 23602,
+    "2026-11-27": 25204
   },
   "topics": [
     "ai-security",
@@ -115,6 +116,9 @@
     },
     "2026-11-26": {
       "daily": 1652
+    },
+    "2026-11-27": {
+      "daily": 1597
     }
   },
   "url": "https://github.com/elementalsouls/Claude-BugHunter"

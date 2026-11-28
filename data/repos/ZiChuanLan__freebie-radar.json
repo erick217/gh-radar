@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "效率与自托管/自托管服务",
+    "form": "自托管服务",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供Docker镜像、docker compose和源码运行方式，有在线演示、文档与正式Release，可直接部署使用。",
+    "summary": "自托管福利资讯聚合雷达，多源采集并AI过滤后推送Telegram",
+    "tags": [
+      "信息聚合",
+      "自托管",
+      "AI过滤",
+      "Telegram推送",
+      "福利雷达"
+    ],
+    "usage": {
+      "completion_tokens": 287,
+      "cost_cny": 0.014198,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 5938,
+      "prompt_tokens": 6578,
+      "reasoning_tokens": 194,
+      "total_tokens": 6865
+    }
+  },
+  "archived": false,
+  "contributors": 4,
+  "created_at": "2026-11-12",
+  "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 496,
+  "full_name": "ZiChuanLan/freebie-radar",
+  "homepage": null,
+  "install_hint": true,
+  "language": "TypeScript",
+  "last_seen": "2026-11-28",
+  "latest_release": "v1.1.5",
+  "license": "MIT",
+  "pushed_at": "2026-11-27",
+  "readme_chars": 15997,
+  "readme_hash": "66cd60a9764c",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1348,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 73.5,
+    "trending_days_30": 0,
+    "velocity": 0.73
+  },
+  "stars": {
+    "2026-11-28": 3081
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/ZiChuanLan/freebie-radar"
+}

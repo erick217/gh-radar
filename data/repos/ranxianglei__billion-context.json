@@ -23,7 +23,7 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 695,
+  "forks": 702,
   "full_name": "ranxianglei/billion-context",
   "homepage": null,
   "install_hint": true,
@@ -31,7 +31,7 @@
   "last_seen": "2026-11-11",
   "latest_release": "v0.1.216",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 82448,
   "readme_hash": "da4da55ad9c2",
   "score": {
@@ -67,7 +67,8 @@
     "2026-11-23": 8219,
     "2026-11-25": 8385,
     "2026-11-26": 8474,
-    "2026-11-27": 8568
+    "2026-11-27": 8568,
+    "2026-11-28": 8635
   },
   "topics": [],
   "trending": {

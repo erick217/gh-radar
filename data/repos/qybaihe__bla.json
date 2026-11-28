@@ -23,7 +23,7 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 875,
+  "forks": 883,
   "full_name": "qybaihe/bla",
   "homepage": "https://bla.tools",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 793,
+    "gain7": 752,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 74.6,
+    "total": 74.4,
     "trending_days_30": 0,
     "velocity": 0.67
   },
@@ -67,7 +67,8 @@
     "2026-11-23": 6444,
     "2026-11-25": 6790,
     "2026-11-26": 6929,
-    "2026-11-27": 7035
+    "2026-11-27": 7035,
+    "2026-11-28": 7096
   },
   "topics": [
     "adversarial-ai",

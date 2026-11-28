@@ -23,7 +23,7 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-10",
   "fork": false,
-  "forks": 13675,
+  "forks": 13681,
   "full_name": "ruvnet/RuView",
   "homepage": "https://cognitum.one",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-10",
   "latest_release": "v3815",
   "license": "MIT",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 76349,
   "readme_hash": "ec1ea289b342",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 663,
+    "gain7": 672,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -65,7 +65,8 @@
     "2026-11-23": 104887,
     "2026-11-25": 105103,
     "2026-11-26": 105237,
-    "2026-11-27": 105326
+    "2026-11-27": 105326,
+    "2026-11-28": 105384
   },
   "topics": [
     "claude",

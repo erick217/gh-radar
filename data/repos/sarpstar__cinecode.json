@@ -32,12 +32,12 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 519,
+  "forks": 521,
   "full_name": "sarpstar/cinecode",
   "homepage": "https://x.com/sarpstar",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-12",
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 305,
+    "gain7": 331,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 63.7,
+    "total": 64.0,
     "trending_days_30": 0,
-    "velocity": 0.58
+    "velocity": 0.59
   },
   "stars": {
     "2026-11-20": 2791,
@@ -64,7 +64,8 @@
     "2026-11-23": 2895,
     "2026-11-25": 2943,
     "2026-11-26": 3001,
-    "2026-11-27": 3096
+    "2026-11-27": 3096,
+    "2026-11-28": 3153
   },
   "topics": [],
   "trending": {},

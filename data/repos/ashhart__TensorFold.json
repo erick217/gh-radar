@@ -23,7 +23,7 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 565,
+  "forks": 569,
   "full_name": "ashhart/TensorFold",
   "homepage": "https://tensorfold.dev",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-15",
   "latest_release": "v1.3.6",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 13125,
   "readme_hash": "ff8d4eab2057",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 145,
+    "gain7": 146,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -62,7 +62,8 @@
     "2026-11-23": 2380,
     "2026-11-25": 2414,
     "2026-11-26": 2449,
-    "2026-11-27": 2495
+    "2026-11-27": 2495,
+    "2026-11-28": 2509
   },
   "topics": [
     "ai",

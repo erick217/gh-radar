@@ -1,0 +1,83 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "多媒体/音视频",
+    "form": "Web应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供Windows一键安装包、Mac/Linux安装脚本及v1.1.0发布，README含完整安装与使用说明，普通开发者可直接部署使用。",
+    "summary": "本地运行的AI视频切片工具，粘贴链接自动生成带字幕的9:16短视频。",
+    "tags": [
+      "视频剪辑",
+      "短视频",
+      "本地AI",
+      "字幕生成",
+      "开源"
+    ],
+    "usage": {
+      "completion_tokens": 381,
+      "cost_cny": 0.009676,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3301,
+      "prompt_tokens": 3941,
+      "reasoning_tokens": 285,
+      "total_tokens": 4322
+    }
+  },
+  "archived": false,
+  "contributors": 2,
+  "created_at": "2026-11-19",
+  "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 197,
+  "full_name": "iamajmeena/neonclipping",
+  "homepage": null,
+  "install_hint": true,
+  "language": "Python",
+  "last_seen": "2026-11-28",
+  "latest_release": "v1.1.0",
+  "license": "AGPL-3.0",
+  "pushed_at": "2026-11-24",
+  "readme_chars": 34654,
+  "readme_hash": "c05fd3bebb62",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 2302,
+    "gain7_source": "age",
+    "health": 0.85,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 71.6,
+    "trending_days_30": 0,
+    "velocity": 0.78
+  },
+  "stars": {
+    "2026-11-28": 2960
+  },
+  "topics": [
+    "ai-video-clipper",
+    "clipping",
+    "faster-whisper",
+    "ffmpeg",
+    "gameplay-clipper",
+    "local-llm",
+    "ollama",
+    "open-source-video-editor",
+    "opusclip-alternative",
+    "shorts",
+    "twitch-clips",
+    "vertical-video",
+    "video",
+    "whisper",
+    "youtube-shorts-generator",
+    "yt-dlp"
+  ],
+  "trending": {},
+  "url": "https://github.com/iamajmeena/neonclipping"
+}

@@ -32,12 +32,12 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 4969,
+  "forks": 5042,
   "full_name": "cathrynlavery/diagram-design",
   "homepage": "https://diagramdesign.dev",
   "install_hint": true,
   "language": "HTML",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": null,
   "license": "MIT",
   "pushed_at": "2026-11-26",
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5270,
+    "gain7": 5141,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 83.6,
-    "trending_days_30": 7,
-    "velocity": 0.87
+    "total": 84.9,
+    "trending_days_30": 8,
+    "velocity": 0.86
   },
   "stars": {
     "2026-11-20": 68883,
@@ -64,7 +64,8 @@
     "2026-11-23": 70564,
     "2026-11-25": 72473,
     "2026-11-26": 73417,
-    "2026-11-27": 74153
+    "2026-11-27": 74153,
+    "2026-11-28": 74610
   },
   "topics": [
     "agent-skills",
@@ -97,6 +98,9 @@
     },
     "2026-11-27": {
       "daily": 955
+    },
+    "2026-11-28": {
+      "daily": 725
     }
   },
   "url": "https://github.com/cathrynlavery/diagram-design"

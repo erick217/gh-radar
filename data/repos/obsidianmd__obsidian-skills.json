@@ -32,12 +32,12 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-27",
   "fork": false,
-  "forks": 3852,
+  "forks": 3873,
   "full_name": "obsidianmd/obsidian-skills",
   "homepage": null,
   "install_hint": true,
   "language": "Shell",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": "1.2.3",
   "license": "MIT",
   "pushed_at": "2026-11-26",
@@ -46,19 +46,20 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 704,
+    "gain7": 950,
     "gain7_source": "trending-weekly",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.22,
+    "persistence": 0.29,
     "practical": 1.0,
-    "total": 72.6,
-    "trending_days_30": 1,
-    "velocity": 0.66
+    "total": 75.0,
+    "trending_days_30": 2,
+    "velocity": 0.69
   },
   "stars": {
-    "2026-11-27": 54151
+    "2026-11-27": 54151,
+    "2026-11-28": 54439
   },
   "topics": [
     "agents",
@@ -85,6 +86,9 @@
   "trending": {
     "2026-11-27": {
       "weekly": 704
+    },
+    "2026-11-28": {
+      "weekly": 950
     }
   },
   "url": "https://github.com/obsidianmd/obsidian-skills"

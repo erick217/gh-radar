@@ -32,7 +32,7 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 847,
+  "forks": 856,
   "full_name": "google-research/paper-orchestra",
   "homepage": "https://yiwen-song.github.io/paper_orchestra/",
   "install_hint": true,
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1361,
+    "gain7": 1185,
     "gain7_source": "snapshot",
     "health": 0.55,
     "included": true,
     "is_resource": false,
     "persistence": 0.51,
     "practical": 1.0,
-    "total": 69.5,
+    "total": 69.0,
     "trending_days_30": 3,
-    "velocity": 0.73
+    "velocity": 0.71
   },
   "stars": {
     "2026-11-17": 1963,
@@ -67,7 +67,8 @@
     "2026-11-23": 6041,
     "2026-11-25": 6351,
     "2026-11-26": 6463,
-    "2026-11-27": 6556
+    "2026-11-27": 6556,
+    "2026-11-28": 6698
   },
   "topics": [
     "ai-research-assistant",

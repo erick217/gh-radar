@@ -12,30 +12,30 @@
 
 | 日期 | 总 Tokens | 花费 (¥) |
 |---|---|---|
+| 2026-11-28 | 51,155 | ¥0.1103 |
 | 2026-11-27 | 7,586 | ¥0.0194 |
 | 2026-11-26 | 9,381 | ¥0.0197 |
 | 2026-11-25 | 43,590 | ¥0.0984 |
 | 2026-11-23 | 11,238 | ¥0.0272 |
 | 2026-11-22 | 9,010 | ¥0.0202 |
 | 2026-11-21 | 8,760 | ¥0.0179 |
-| 2026-11-20 | 49,528 | ¥0.1170 |
 
-> 累计已记录 73 次 DeepSeek 分类，共消耗 305,033 tokens，合计费用 ¥0.6934（另有 221 个早期分类未记录接口 usage）。
+> 累计已记录 83 次 DeepSeek 分类，共消耗 356,188 tokens，合计费用 ¥0.8037（另有 221 个早期分类未记录接口 usage）。
 
-**本周增速 Top 10**（2026-11-27 更新，共收录 269 个，[查看全部分类](docs/index.md)）
+**本周增速 Top 10**（2026-11-28 更新，共收录 275 个，[查看全部分类](docs/index.md)）
 
 | 项目 | 简介 | 分类 | 形态 | 语言 | ⭐ | 7日 | 分数 | 状态 |
 |---|---|---|---|---|---|---|---|---|
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 81.5k | +14.7k | 99 |  |
-| [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | 用 Rust 在 PC 上运行 GTA VI 的兼容层实验，尚不可玩。 | 其他/其他 | 其他 | Rust | 13.6k | +13.6k | 66 |  |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 25.2k | +12.1k | 98 |  |
-| [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | 将 Xbox Series 游戏代码原生运行于 Windows 的兼容层 | 其他/其他 | CLI工具 | Rust | 8.6k | +8.6k | 64 |  |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 为 AI Agent 提供网页抓取、爬虫和搜索的开源 API | AI/RAG与知识库 | 自托管服务 | TypeScript | 211.2k | +6.6k | 92 |  |
-| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 跨平台多协议下载器，支持 HTTP、BT、流媒体等。 | 多媒体/下载工具 | 桌面应用 | Python | 19.5k | +6.3k | 92 |  |
-| [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | 追踪GTA VI社区重编译与模拟器移植进展的静态网站 | 其他/其他 | Web应用 | JavaScript | 6.2k | +6.2k | 67 |  |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 把各类软件封装成 CLI，供 AI Agent 直接调用与编排 | AI/Agent | CLI工具 | Python | 66.6k | +5.8k | 93 |  |
-| [havenicec/google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper) | 将 Google 强制扫码验证降级回短信验证码的 Chrome 扩展。 | 安全/安全工具 | 浏览器插件 | JavaScript | 7.0k | +5.7k | 70 |  |
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 开源 AI 视频剪辑桌面工具，把长视频自动剪成多平台短视频。 | 多媒体/音视频 | 桌面应用 | Python | 17.3k | +5.6k | 91 |  |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 远程控制本机 Claude Code、Codex 等编程代理的桌面与移动端工具 | AI/Agent | 桌面应用 | TypeScript | 82.5k | +14.1k | 99 |  |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 面向漏洞赏金与外部红队测试的 Claude Code 技能包，含 83 个技能与命令。 | 安全/安全工具 | 其他 | Python | 26.5k | +11.7k | 98 |  |
+| [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | 追踪GTA VI社区重编译与模拟器移植进展的静态网站 | 其他/其他 | Web应用 | JavaScript | 6.9k | +8.7k | 72 |  |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 为 AI Agent 提供网页抓取、爬虫和搜索的开源 API | AI/RAG与知识库 | 自托管服务 | TypeScript | 211.9k | +6.3k | 93 |  |
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | 跨平台多协议下载器，支持 HTTP、BT、流媒体等。 | 多媒体/下载工具 | 桌面应用 | Python | 20.1k | +6.1k | 93 |  |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 把各类软件封装成 CLI，供 AI Agent 直接调用与编排 | AI/Agent | CLI工具 | Python | 67.2k | +5.6k | 94 |  |
+| [obra/superpowers](https://github.com/obra/superpowers) | 为编码智能体提供可组合技能与开发流程的框架 | AI/Agent | 框架 | Shell | 328.6k | +5.5k | 92 |  |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 开源 AI 视频剪辑桌面工具，把长视频自动剪成多平台短视频。 | 多媒体/音视频 | 桌面应用 | Python | 17.8k | +5.4k | 92 |  |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 为编码智能体提供可组合的工程技能，涵盖需求对齐、TDD与架构改进。 | AI/Agent | 其他 | Shell | 334.4k | +5.2k | 95 |  |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | 扫描 iOS/Android 项目，提前发现上架审核拒绝风险并给出修复建议。 | 开发工具/代码质量与构建 | CLI工具 | Shell | 8.1k | +5.2k | 92 |  |
 
 <!-- radar:end -->
 

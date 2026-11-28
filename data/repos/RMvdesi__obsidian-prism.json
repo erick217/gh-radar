@@ -1,0 +1,76 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "开发工具/编辑器与插件",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供 Windows 与 macOS 图形安装包及源码部署方式，文档完整，可直接安装使用。",
+    "summary": "为 Antigravity 桌面端提供主题配色、动效与界面增强的开源 UI 插件套件。",
+    "tags": [
+      "Antigravity",
+      "UI主题",
+      "桌面美化",
+      "插件",
+      "动效"
+    ],
+    "usage": {
+      "completion_tokens": 398,
+      "cost_cny": 0.015542,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 6166,
+      "prompt_tokens": 6806,
+      "reasoning_tokens": 307,
+      "total_tokens": 7204
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-17",
+  "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 138,
+  "full_name": "RMvdesi/obsidian-prism",
+  "homepage": "https://github.com/RMvdesi/obsidian-prism#readme",
+  "install_hint": false,
+  "language": "JavaScript",
+  "last_seen": "2026-11-28",
+  "latest_release": "v1.0.8-beta.5",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-28",
+  "readme_chars": 18613,
+  "readme_hash": "6881647d184b",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1937,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 67.3,
+    "trending_days_30": 0,
+    "velocity": 0.76
+  },
+  "stars": {
+    "2026-11-28": 3044
+  },
+  "topics": [
+    "antigravity",
+    "desktop-customization",
+    "developer-tools",
+    "gplv3",
+    "optical-ui",
+    "spring-animation",
+    "theme",
+    "ui-theme",
+    "webgl2"
+  ],
+  "trending": {},
+  "url": "https://github.com/RMvdesi/obsidian-prism"
+}

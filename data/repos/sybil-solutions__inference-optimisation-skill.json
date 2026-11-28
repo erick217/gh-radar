@@ -1,0 +1,73 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "AI/模型推理与部署",
+    "form": "其他",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可安装的技能目录、标准库 Python 基准脚本和快速开始步骤，能直接用于兼容 OpenAI 接口的本地服务调优。",
+    "summary": "用于本地 LLM 推理性能调优与基准测试的 Agent 技能",
+    "tags": [
+      "LLM推理优化",
+      "基准测试",
+      "Agent技能",
+      "推测解码",
+      "性能调优"
+    ],
+    "usage": {
+      "completion_tokens": 318,
+      "cost_cny": 0.007896,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 2663,
+      "prompt_tokens": 3303,
+      "reasoning_tokens": 223,
+      "total_tokens": 3621
+    }
+  },
+  "archived": false,
+  "contributors": 1,
+  "created_at": "2026-11-16",
+  "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 266,
+  "full_name": "sybil-solutions/inference-optimisation-skill",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-28",
+  "latest_release": null,
+  "license": "MIT",
+  "pushed_at": "2026-11-16",
+  "readme_chars": 8856,
+  "readme_hash": "0eb574d2297d",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1688,
+    "gain7_source": "age",
+    "health": 0.4,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 55.3,
+    "trending_days_30": 0,
+    "velocity": 0.75
+  },
+  "stars": {
+    "2026-11-28": 2894
+  },
+  "topics": [
+    "agent-skill",
+    "benchmarking",
+    "claude-code",
+    "inference",
+    "llm",
+    "speculative-decoding"
+  ],
+  "trending": {},
+  "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+}

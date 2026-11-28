@@ -23,30 +23,30 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 166,
+  "forks": 169,
   "full_name": "expo/exact",
   "homepage": null,
   "install_hint": false,
   "language": "Rust",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": null,
   "license": "MIT",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 46174,
   "readme_hash": "8518981bf9d5",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 452,
+    "gain7": 401,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": false,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 0.4,
-    "total": 53.1,
+    "total": 52.7,
     "trending_days_30": 0,
-    "velocity": 0.62
+    "velocity": 0.61
   },
   "stars": {
     "2026-11-13": 3540,
@@ -62,7 +62,8 @@
     "2026-11-23": 4933,
     "2026-11-25": 5073,
     "2026-11-26": 5136,
-    "2026-11-27": 5206
+    "2026-11-27": 5206,
+    "2026-11-28": 5245
   },
   "topics": [
     "ai-agents",

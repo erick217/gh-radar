@@ -23,7 +23,7 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-13",
   "fork": false,
-  "forks": 11417,
+  "forks": 11468,
   "full_name": "Alishahryar1/free-claude-code",
   "homepage": null,
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1357,
+    "gain7": 1369,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -62,7 +62,8 @@
     "2026-11-23": 72752,
     "2026-11-25": 73101,
     "2026-11-26": 73254,
-    "2026-11-27": 73411
+    "2026-11-27": 73411,
+    "2026-11-28": 73696
   },
   "topics": [],
   "trending": {

@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "效率与自托管/笔记与知识管理",
+    "form": "桌面应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "已发布 v0.2.0，提供 macOS、Windows、Linux 安装包及较完整的使用文档，普通用户可直接下载使用。",
+    "summary": "基于 Rust 的本地优先笔记应用，支持 Markdown 富文本与白板。",
+    "tags": [
+      "笔记应用",
+      "Markdown",
+      "本地优先",
+      "Rust",
+      "白板"
+    ],
+    "usage": {
+      "completion_tokens": 250,
+      "cost_cny": 0.008934,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3454,
+      "prompt_tokens": 4094,
+      "reasoning_tokens": 151,
+      "total_tokens": 4344
+    }
+  },
+  "archived": false,
+  "contributors": 22,
+  "created_at": "2026-11-01",
+  "description": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 259,
+  "full_name": "s1dashu/quiet-md",
+  "homepage": "https://quiet.md",
+  "install_hint": true,
+  "language": "Rust",
+  "last_seen": "2026-11-28",
+  "latest_release": "v0.2.0",
+  "license": "MIT",
+  "pushed_at": "2026-11-27",
+  "readme_chars": 19459,
+  "readme_hash": "3c8edbcc5d27",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 779,
+    "gain7_source": "age",
+    "health": 1.0,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 1.0,
+    "total": 71.5,
+    "trending_days_30": 0,
+    "velocity": 0.67
+  },
+  "stars": {
+    "2026-11-28": 3003
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/s1dashu/quiet-md"
+}

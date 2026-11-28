@@ -32,7 +32,7 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 598,
+  "forks": 601,
   "full_name": "getarcaneapp/arcane",
   "homepage": "https://getarcane.app",
   "install_hint": false,
@@ -40,13 +40,13 @@
   "last_seen": "2026-11-19",
   "latest_release": "v3.1.1",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 2507,
   "readme_hash": "e381386b3f7a",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 455,
+    "gain7": 447,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -67,7 +67,8 @@
     "2026-11-23": 10320,
     "2026-11-25": 10433,
     "2026-11-26": 10519,
-    "2026-11-27": 10610
+    "2026-11-27": 10610,
+    "2026-11-28": 10655
   },
   "topics": [
     "compose",

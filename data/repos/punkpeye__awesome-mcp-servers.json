@@ -32,7 +32,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-19",
   "fork": false,
-  "forks": 21021,
+  "forks": 21107,
   "full_name": "punkpeye/awesome-mcp-servers",
   "homepage": "https://glama.ai/mcp/servers",
   "install_hint": true,
@@ -46,16 +46,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 275,
+    "gain7": 252,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": true,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 64.8,
+    "total": 64.5,
     "trending_days_30": 1,
-    "velocity": 0.57
+    "velocity": 0.56
   },
   "stars": {
     "2026-11-19": 98166,
@@ -65,7 +65,8 @@
     "2026-11-23": 98401,
     "2026-11-25": 98482,
     "2026-11-26": 98523,
-    "2026-11-27": 98564
+    "2026-11-27": 98564,
+    "2026-11-28": 98589
   },
   "topics": [
     "ai",

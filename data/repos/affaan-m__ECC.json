@@ -17,13 +17,13 @@
     ]
   },
   "archived": false,
-  "contributors": 548,
+  "contributors": 547,
   "created_at": "2026-01-18",
   "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-  "details_at": "2026-11-21",
+  "details_at": "2026-11-28",
   "first_seen": "2026-10-31",
   "fork": false,
-  "forks": 45759,
+  "forks": 45846,
   "full_name": "affaan-m/ECC",
   "homepage": "https://ecc.tools",
   "install_hint": true,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 4043,
+    "gain7": 4062,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -75,7 +75,8 @@
     "2026-11-23": 309198,
     "2026-11-25": 310417,
     "2026-11-26": 310935,
-    "2026-11-27": 311474
+    "2026-11-27": 311474,
+    "2026-11-28": 312061
   },
   "topics": [
     "ai-agents",

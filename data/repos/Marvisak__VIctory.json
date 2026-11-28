@@ -32,12 +32,12 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-25",
   "fork": false,
-  "forks": 2295,
+  "forks": 2420,
   "full_name": "Marvisak/VIctory",
   "homepage": null,
   "install_hint": true,
   "language": "Rust",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": null,
   "license": "GPL-3.0",
   "pushed_at": "2026-11-25",
@@ -46,21 +46,22 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 13556,
-    "gain7_source": "age",
+    "gain7": 4760,
+    "gain7_source": "snapshot-partial",
     "health": 0.7,
     "included": true,
     "is_resource": false,
-    "persistence": 0.15,
+    "persistence": 0.3,
     "practical": 0.6,
-    "total": 66.1,
+    "total": 65.4,
     "trending_days_30": 0,
-    "velocity": 0.96
+    "velocity": 0.86
   },
   "stars": {
     "2026-11-25": 11872,
     "2026-11-26": 12851,
-    "2026-11-27": 13556
+    "2026-11-27": 13556,
+    "2026-11-28": 13912
   },
   "topics": [],
   "trending": {},

@@ -32,29 +32,29 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 2424,
+  "forks": 2507,
   "full_name": "zhouxiaoka/autoclip",
   "homepage": "https://zhouxiaoka.github.io/autoclip_intro/",
   "install_hint": true,
   "language": "Python",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": "v1.6.2",
   "license": "MIT",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 24113,
   "readme_hash": "b4261252ee4b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 5616,
+    "gain7": 5363,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 91.3,
-    "trending_days_30": 7,
+    "total": 92.5,
+    "trending_days_30": 8,
     "velocity": 0.87
   },
   "stars": {
@@ -64,7 +64,8 @@
     "2026-11-23": 13913,
     "2026-11-25": 15808,
     "2026-11-26": 16558,
-    "2026-11-27": 17299
+    "2026-11-27": 17299,
+    "2026-11-28": 17775
   },
   "topics": [
     "ai-agent",
@@ -109,6 +110,9 @@
     },
     "2026-11-27": {
       "daily": 774
+    },
+    "2026-11-28": {
+      "daily": 718
     }
   },
   "url": "https://github.com/zhouxiaoka/autoclip"

@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 7835,
+  "forks": 7853,
   "full_name": "storytold/pdfcraft",
   "homepage": "https://getartcraft.com/apps/pdfcraft",
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 631,
+    "gain7": 626,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -77,7 +77,8 @@
     "2026-11-23": 21510,
     "2026-11-25": 21722,
     "2026-11-26": 21821,
-    "2026-11-27": 21916
+    "2026-11-27": 21916,
+    "2026-11-28": 21983
   },
   "topics": [
     "document-processing",

@@ -32,7 +32,7 @@
   "details_at": "2026-11-25",
   "first_seen": "2026-11-17",
   "fork": false,
-  "forks": 110,
+  "forks": 112,
   "full_name": "xevrion/hatchzip",
   "homepage": "https://hatchzip.dev",
   "install_hint": true,
@@ -40,22 +40,22 @@
   "last_seen": "2026-11-19",
   "latest_release": "v0.1.10",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-25",
+  "pushed_at": "2026-11-28",
   "readme_chars": 38370,
   "readme_hash": "8a74981a6094",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 159,
+    "gain7": 185,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 68.9,
+    "total": 69.5,
     "trending_days_30": 0,
-    "velocity": 0.51
+    "velocity": 0.53
   },
   "stars": {
     "2026-11-17": 2950,
@@ -67,7 +67,8 @@
     "2026-11-23": 3094,
     "2026-11-25": 3127,
     "2026-11-26": 3144,
-    "2026-11-27": 3169
+    "2026-11-27": 3169,
+    "2026-11-28": 3210
   },
   "topics": [
     "7z",

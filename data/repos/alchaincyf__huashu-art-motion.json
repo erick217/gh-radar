@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 757,
+  "forks": 758,
   "full_name": "alchaincyf/huashu-art-motion",
   "homepage": null,
   "install_hint": true,
@@ -31,20 +31,20 @@
   "last_seen": "2026-11-04",
   "latest_release": "v1.3.1",
   "license": "MIT",
-  "pushed_at": "2026-11-18",
+  "pushed_at": "2026-11-28",
   "readme_chars": 12167,
   "readme_hash": "7a57f5fe1051",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 475,
+    "gain7": 468,
     "gain7_source": "snapshot",
     "health": 0.7,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 65.3,
+    "total": 65.2,
     "trending_days_30": 0,
     "velocity": 0.62
   },
@@ -77,7 +77,8 @@
     "2026-11-23": 7501,
     "2026-11-25": 7636,
     "2026-11-26": 7716,
-    "2026-11-27": 7785
+    "2026-11-27": 7785,
+    "2026-11-28": 7836
   },
   "topics": [
     "agent-skills",

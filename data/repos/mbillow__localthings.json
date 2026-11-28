@@ -23,7 +23,7 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 158,
+  "forks": 163,
   "full_name": "mbillow/localthings",
   "homepage": null,
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 31,
+    "gain7": 27,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 0.8,
-    "total": 60.6,
+    "total": 60.2,
     "trending_days_30": 1,
-    "velocity": 0.35
+    "velocity": 0.34
   },
   "stars": {
     "2026-11-08": 1103,
@@ -67,7 +67,8 @@
     "2026-11-23": 1412,
     "2026-11-25": 1417,
     "2026-11-26": 1422,
-    "2026-11-27": 1426
+    "2026-11-27": 1426,
+    "2026-11-28": 1428
   },
   "topics": [
     "coap-protocol",

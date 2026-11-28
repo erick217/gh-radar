@@ -32,30 +32,30 @@
   "details_at": "2026-11-23",
   "first_seen": "2026-11-16",
   "fork": false,
-  "forks": 664,
+  "forks": 669,
   "full_name": "jhaizhou-ops/S2Arm",
   "homepage": "https://s2arm.com",
   "install_hint": false,
   "language": "C#",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": "v0.6.9",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 36753,
   "readme_hash": "e4a94c11affc",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 257,
+    "gain7": 233,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 70.6,
+    "total": 70.3,
     "trending_days_30": 0,
-    "velocity": 0.56
+    "velocity": 0.55
   },
   "stars": {
     "2026-11-16": 3290,
@@ -68,7 +68,8 @@
     "2026-11-23": 3840,
     "2026-11-25": 3911,
     "2026-11-26": 3947,
-    "2026-11-27": 3963
+    "2026-11-27": 3963,
+    "2026-11-28": 3984
   },
   "topics": [
     "apple-silicon",

@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-12",
   "fork": false,
-  "forks": 1148,
+  "forks": 1154,
   "full_name": "openai/codex-security",
   "homepage": "https://developers.openai.com/codex/security",
   "install_hint": true,
@@ -31,13 +31,13 @@
   "last_seen": "2026-11-19",
   "latest_release": "npm-v0.11.0",
   "license": "Apache-2.0",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 10329,
   "readme_hash": "9aa6b484701f",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 217,
+    "gain7": 215,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -63,7 +63,8 @@
     "2026-11-23": 14289,
     "2026-11-25": 14349,
     "2026-11-26": 14381,
-    "2026-11-27": 14422
+    "2026-11-27": 14422,
+    "2026-11-28": 14449
   },
   "topics": [
     "ai-security",

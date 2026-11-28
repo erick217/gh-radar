@@ -1,0 +1,79 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "其他/其他",
+    "form": "移动应用",
+    "is_practical": true,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "提供可下载的 IPA 和 SideStore/AltStore 源，文档覆盖安装、使用与恢复，普通用户签名后即可上手。",
+    "summary": "国行 iOS 系统配置工具箱，可解锁 Apple 智能、eSIM 等。",
+    "tags": [
+      "iOS",
+      "MobileGestalt",
+      "eSIM",
+      "国行解锁",
+      "SwiftUI"
+    ],
+    "usage": {
+      "completion_tokens": 349,
+      "cost_cny": 0.014578,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 5880,
+      "prompt_tokens": 6520,
+      "reasoning_tokens": 255,
+      "total_tokens": 6869
+    }
+  },
+  "archived": false,
+  "contributors": 2,
+  "created_at": "2026-11-10",
+  "description": "iOS / iPadOS 国行 Apple 智能、eSIM 与 MobileGestalt 系统配置工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-Safe iOS / iPadOS MobileGestalt, Apple Intelligence & eSIM Toolbox (EN/ZH)",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 505,
+  "full_name": "Kianuni/Erosion-CN",
+  "homepage": null,
+  "install_hint": false,
+  "language": "Swift",
+  "last_seen": "2026-11-28",
+  "latest_release": "v1.0.8",
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-28",
+  "readme_chars": 22885,
+  "readme_hash": "09aed4af0380",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 1148,
+    "gain7_source": "age",
+    "health": 0.85,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.8,
+    "total": 65.2,
+    "trending_days_30": 0,
+    "velocity": 0.71
+  },
+  "stars": {
+    "2026-11-28": 2951
+  },
+  "topics": [
+    "apple-intelligence",
+    "esim",
+    "facetime-audio",
+    "ios",
+    "ios-tweaks",
+    "ipados",
+    "mobilegestalt",
+    "sandbox-escape",
+    "sideloading",
+    "swift",
+    "swiftui",
+    "system-customization"
+  ],
+  "trending": {},
+  "url": "https://github.com/Kianuni/Erosion-CN"
+}

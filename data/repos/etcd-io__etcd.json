@@ -20,10 +20,10 @@
   "contributors": 1231,
   "created_at": "2013-07-06",
   "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-  "details_at": "2026-11-21",
+  "details_at": "2026-11-28",
   "first_seen": "2026-11-07",
   "fork": false,
-  "forks": 10635,
+  "forks": 10633,
   "full_name": "etcd-io/etcd",
   "homepage": "https://etcd.io",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 18,
+    "gain7": 17,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 62.8,
+    "total": 62.6,
     "trending_days_30": 1,
-    "velocity": 0.3
+    "velocity": 0.29
   },
   "stars": {
     "2026-11-07": 52643,
@@ -68,7 +68,8 @@
     "2026-11-23": 52650,
     "2026-11-25": 52650,
     "2026-11-26": 52654,
-    "2026-11-27": 52661
+    "2026-11-27": 52661,
+    "2026-11-28": 52662
   },
   "topics": [
     "cncf",

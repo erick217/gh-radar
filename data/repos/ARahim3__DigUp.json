@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 523,
+  "forks": 524,
   "full_name": "ARahim3/DigUp",
   "homepage": "https://digup.arahim.dev",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 82,
+    "gain7": 86,
     "gain7_source": "snapshot",
     "health": 0.8,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 61.6,
+    "total": 61.8,
     "trending_days_30": 0,
     "velocity": 0.45
   },
@@ -77,7 +77,8 @@
     "2026-11-23": 6498,
     "2026-11-25": 6540,
     "2026-11-26": 6551,
-    "2026-11-27": 6563
+    "2026-11-27": 6563,
+    "2026-11-28": 6570
   },
   "topics": [
     "embeddinggemma",

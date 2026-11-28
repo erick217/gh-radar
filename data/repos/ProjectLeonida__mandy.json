@@ -1,0 +1,66 @@
+{
+  "ai": {
+    "at": "2026-11-28",
+    "category": "其他/其他",
+    "form": "其他",
+    "is_practical": false,
+    "model": "deepseek-flash",
+    "provider": "deepseek",
+    "reason": "无发布版本，主分支尚不可玩，需自备游戏副本且构建与运行门槛高，目前仅为实验性移植工程。",
+    "summary": "将《GTA VI》Xbox 版静态重编译到 Windows 的实验项目",
+    "tags": [
+      "GTA VI",
+      "静态重编译",
+      "Xbox移植",
+      "Windows",
+      "游戏逆向"
+    ],
+    "usage": {
+      "completion_tokens": 416,
+      "cost_cny": 0.010486,
+      "prompt_cache_hit_tokens": 640,
+      "prompt_cache_miss_tokens": 3566,
+      "prompt_tokens": 4206,
+      "reasoning_tokens": 324,
+      "total_tokens": 4622
+    }
+  },
+  "archived": false,
+  "contributors": 944,
+  "created_at": "2026-11-23",
+  "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+  "details_at": "2026-11-28",
+  "first_seen": "2026-11-28",
+  "fork": false,
+  "forks": 662,
+  "full_name": "ProjectLeonida/mandy",
+  "homepage": "https://leonida.now",
+  "install_hint": false,
+  "language": "Python",
+  "last_seen": "2026-11-28",
+  "latest_release": null,
+  "license": "GPL-3.0",
+  "pushed_at": "2026-11-28",
+  "readme_chars": 33813,
+  "readme_hash": "b5ec3ea1de5e",
+  "score": {
+    "excluded": null,
+    "flags": [],
+    "gain7": 3033,
+    "gain7_source": "age",
+    "health": 0.7,
+    "included": true,
+    "is_resource": false,
+    "persistence": 0.15,
+    "practical": 0.6,
+    "total": 60.8,
+    "trending_days_30": 0,
+    "velocity": 0.81
+  },
+  "stars": {
+    "2026-11-28": 3033
+  },
+  "topics": [],
+  "trending": {},
+  "url": "https://github.com/ProjectLeonida/mandy"
+}

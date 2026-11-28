@@ -23,7 +23,7 @@
   "details_at": "2026-11-22",
   "first_seen": "2026-11-08",
   "fork": false,
-  "forks": 177,
+  "forks": 180,
   "full_name": "dsx-ai-factory/nvke",
   "homepage": "https://docs.nvidia.com/nvke/",
   "install_hint": false,
@@ -37,16 +37,16 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 18,
+    "gain7": 16,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.37,
     "practical": 1.0,
-    "total": 62.8,
+    "total": 62.4,
     "trending_days_30": 1,
-    "velocity": 0.3
+    "velocity": 0.29
   },
   "stars": {
     "2026-11-08": 622,
@@ -67,7 +67,8 @@
     "2026-11-23": 1250,
     "2026-11-25": 1255,
     "2026-11-26": 1256,
-    "2026-11-27": 1260
+    "2026-11-27": 1260,
+    "2026-11-28": 1261
   },
   "topics": [
     "bare-metal",

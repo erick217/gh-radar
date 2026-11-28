@@ -32,29 +32,29 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-20",
   "fork": false,
-  "forks": 5777,
+  "forks": 5856,
   "full_name": "toeverything/AFFiNE",
   "homepage": "https://affine.pro",
   "install_hint": false,
   "language": "TypeScript",
-  "last_seen": "2026-11-27",
+  "last_seen": "2026-11-28",
   "latest_release": "v2026.11.26-canary.905",
   "license": "NOASSERTION",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 16189,
   "readme_hash": "fbcfeb120992",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 3778,
+    "gain7": 3658,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
-    "persistence": 0.79,
+    "persistence": 0.86,
     "practical": 1.0,
-    "total": 89.9,
-    "trending_days_30": 7,
+    "total": 91.2,
+    "trending_days_30": 8,
     "velocity": 0.83
   },
   "stars": {
@@ -64,7 +64,8 @@
     "2026-11-23": 77038,
     "2026-11-25": 78186,
     "2026-11-26": 78692,
-    "2026-11-27": 79149
+    "2026-11-27": 79149,
+    "2026-11-28": 79606
   },
   "topics": [
     "app",
@@ -107,6 +108,9 @@
     },
     "2026-11-27": {
       "daily": 525
+    },
+    "2026-11-28": {
+      "daily": 474
     }
   },
   "url": "https://github.com/toeverything/AFFiNE"

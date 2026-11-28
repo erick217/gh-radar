@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-10-29",
   "fork": false,
-  "forks": 8539,
+  "forks": 8538,
   "full_name": "php/php-src",
   "homepage": "https://www.php.net",
   "install_hint": true,
@@ -31,22 +31,22 @@
   "last_seen": "2026-10-30",
   "latest_release": "php-8.6.0",
   "license": "BSD-3-Clause",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 5413,
   "readme_hash": "a8cbdf9c8d1b",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 29,
+    "gain7": 24,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.44,
     "practical": 1.0,
-    "total": 65.8,
+    "total": 65.2,
     "trending_days_30": 2,
-    "velocity": 0.34
+    "velocity": 0.33
   },
   "stars": {
     "2026-10-29": 41710,
@@ -77,7 +77,8 @@
     "2026-11-23": 41856,
     "2026-11-25": 41866,
     "2026-11-26": 41875,
-    "2026-11-27": 41874
+    "2026-11-27": 41874,
+    "2026-11-28": 41872
   },
   "topics": [],
   "trending": {

@@ -23,7 +23,7 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 307,
+  "forks": 308,
   "full_name": "Revivedx/SavageWindRecomp",
   "homepage": null,
   "install_hint": false,
@@ -37,7 +37,7 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 371,
+    "gain7": 369,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
@@ -69,7 +69,8 @@
     "2026-11-23": 5015,
     "2026-11-25": 5128,
     "2026-11-26": 5187,
-    "2026-11-27": 5230
+    "2026-11-27": 5230,
+    "2026-11-28": 5275
   },
   "topics": [],
   "trending": {},

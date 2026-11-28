@@ -23,7 +23,7 @@
   "details_at": "2026-11-26",
   "first_seen": "2026-11-05",
   "fork": false,
-  "forks": 669,
+  "forks": 670,
   "full_name": "Eglantine-Community/Eglantine",
   "homepage": "https://eglantine-emu.org/",
   "install_hint": false,
@@ -31,22 +31,22 @@
   "last_seen": "2026-11-27",
   "latest_release": "daily-20261125",
   "license": "GPL-3.0",
-  "pushed_at": "2026-11-27",
+  "pushed_at": "2026-11-28",
   "readme_chars": 3802,
   "readme_hash": "05a512594eb6",
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 110,
+    "gain7": 95,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 0.3,
     "practical": 1.0,
-    "total": 67.6,
+    "total": 67.1,
     "trending_days_30": 0,
-    "velocity": 0.48
+    "velocity": 0.46
   },
   "stars": {
     "2026-11-05": 3929,
@@ -70,7 +70,8 @@
     "2026-11-23": 6210,
     "2026-11-25": 6237,
     "2026-11-26": 6248,
-    "2026-11-27": 6262
+    "2026-11-27": 6262,
+    "2026-11-28": 6266
   },
   "topics": [
     "eden",

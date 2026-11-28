@@ -23,7 +23,7 @@
   "details_at": "2026-11-27",
   "first_seen": "2026-11-06",
   "fork": false,
-  "forks": 3781,
+  "forks": 3795,
   "full_name": "vercel-labs/agent-browser",
   "homepage": "https://agent-browser.dev",
   "install_hint": true,
@@ -37,14 +37,14 @@
   "score": {
     "excluded": null,
     "flags": [],
-    "gain7": 1289,
+    "gain7": 1259,
     "gain7_source": "snapshot",
     "health": 1.0,
     "included": true,
     "is_resource": false,
     "persistence": 1.0,
     "practical": 1.0,
-    "total": 90.3,
+    "total": 90.2,
     "trending_days_30": 12,
     "velocity": 0.72
   },
@@ -69,7 +69,8 @@
     "2026-11-23": 53497,
     "2026-11-25": 53878,
     "2026-11-26": 54048,
-    "2026-11-27": 54239
+    "2026-11-27": 54239,
+    "2026-11-28": 54384
   },
   "topics": [],
   "trending": {
